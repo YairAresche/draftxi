@@ -1,0 +1,428 @@
+{
+  "country": "Brasil",
+  "countryCode": "BRA",
+  "confederation": "CONMEBOL",
+  "year": 1938,
+  "tournamentId": "wc-1938",
+  "players": [
+    {
+      "id": "bra38walter",
+      "name": "Walter",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 82,
+        "manejo": 82,
+        "salidas": 75,
+        "penales": 75,
+        "distribucion": 75
+      },
+      "rating": 76,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "bra38batatais",
+      "name": "Batatais",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 64,
+        "penales": 64,
+        "distribucion": 64
+      },
+      "rating": 68,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "bra38da-guia",
+      "name": "Domingos da Guia",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 81
+      },
+      "rating": 77,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "bra38machado",
+      "name": "Machado",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 75,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "bra38jau",
+      "name": "Jaú",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 74,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "bra38nariz",
+      "name": "Nariz",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 73,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "bra38martim",
+      "name": "Martim",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 73,
+        "recuperacion": 74,
+        "tecnica": 81
+      },
+      "rating": 77,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "bra38zeze-procopio",
+      "name": "Zezé Procópio",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 71
+      },
+      "rating": 76,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "bra38brandao",
+      "name": "Brandão",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 81
+      },
+      "rating": 75,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "bra38britto",
+      "name": "Britto",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 70,
+        "disparo": 70
+      },
+      "rating": 74,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "bra38argemiro",
+      "name": "Argemiro",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 73
+      },
+      "rating": 70,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "bra38afonsinho",
+      "name": "Afonsinho",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 72,
+        "pases": 72,
+        "posicionamiento": 72,
+        "duelos": 72,
+        "resistencia": 64
+      },
+      "rating": 68,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "bra38leonidas",
+      "name": "Leônidas",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 85,
+        "regate": 85,
+        "centro": 77,
+        "disparo": 78,
+        "desmarque": 85
+      },
+      "rating": 80,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 8
+    },
+    {
+      "id": "bra38peracio",
+      "name": "Perácio",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 80,
+        "fisico": 81,
+        "velocidad": 71,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 81
+      },
+      "rating": 80,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 3
+    },
+    {
+      "id": "bra38romeu",
+      "name": "Romeu",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 69,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 79
+      },
+      "rating": 79,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 3
+    },
+    {
+      "id": "bra38niginho",
+      "name": "Niginho",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 79
+      },
+      "rating": 78,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "bra38roberto",
+      "name": "Roberto",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 70,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 79
+      },
+      "rating": 78,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 1
+    },
+    {
+      "id": "bra38patesko",
+      "name": "Patesko",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 75,
+        "disparo": 75,
+        "desmarque": 82
+      },
+      "rating": 76,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "bra38luisinho",
+      "name": "Luisinho",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 73,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 80
+      },
+      "rating": 75,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "bra38tim",
+      "name": "Tim",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 73,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 79
+      },
+      "rating": 73,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "bra38hercules",
+      "name": "Hércules",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 69,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 76
+      },
+      "rating": 71,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "bra38lopes",
+      "name": "Lopes",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 71,
+        "regate": 71,
+        "centro": 62,
+        "disparo": 62,
+        "desmarque": 71
+      },
+      "rating": 70,
+      "country": "Brasil",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    }
+  ]
+}

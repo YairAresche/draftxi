@@ -1,0 +1,413 @@
+{
+  "country": "Alemania Oriental",
+  "countryCode": "DDR",
+  "confederation": "UEFA",
+  "year": 1974,
+  "tournamentId": "wc-1974",
+  "players": [
+    {
+      "id": "ddr74friese",
+      "name": "Werner Friese",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 77,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74croy",
+      "name": "Jürgen Croy",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 71,
+        "salidas": 62,
+        "penales": 62,
+        "distribucion": 62
+      },
+      "rating": 70,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74blochwitz",
+      "name": "Wolfgang Blochwitz",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 70,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74kurbjuweit",
+      "name": "Lothar Kurbjuweit",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 76,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74fritsche",
+      "name": "Joachim Fritsche",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 83,
+        "velocidad": 76,
+        "pases": 76,
+        "duelos": 83
+      },
+      "rating": 76,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74weise",
+      "name": "Konrad Weise",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 75,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74watzlich",
+      "name": "Siegmar Wätzlich",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 75,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74bransch",
+      "name": "Bernd Bransch",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 73,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 73,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74kische",
+      "name": "Gerd Kische",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 75
+      },
+      "rating": 69,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74sparwasser",
+      "name": "Jürgen Sparwasser",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 70,
+        "disparo": 70
+      },
+      "rating": 76,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974",
+      "goals": 1
+    },
+    {
+      "id": "ddr74irmscher",
+      "name": "Harald Irmscher",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 79
+      },
+      "rating": 76,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74pommerenke",
+      "name": "Jürgen Pommerenke",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 73,
+        "recuperacion": 73,
+        "tecnica": 81
+      },
+      "rating": 75,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74seguin",
+      "name": "Wolfgang Seguin",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 75,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74schnuphase",
+      "name": "Rüdiger Schnuphase",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 80,
+        "pases": 80,
+        "posicionamiento": 80,
+        "duelos": 79,
+        "resistencia": 72
+      },
+      "rating": 74,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74hamann",
+      "name": "Erich Hamann",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 78,
+        "resistencia": 70
+      },
+      "rating": 74,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74lauck",
+      "name": "Reinhard Lauck",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 68,
+        "vision": 68,
+        "llegada": 59,
+        "recuperacion": 69,
+        "tecnica": 68
+      },
+      "rating": 69,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74hoffmann",
+      "name": "Martin Hoffmann",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 80,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974",
+      "goals": 1
+    },
+    {
+      "id": "ddr74kreische",
+      "name": "Hans-Jürgen Kreische",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 75,
+        "disparo": 74,
+        "desmarque": 82
+      },
+      "rating": 75,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74streich",
+      "name": "Joachim Streich",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 73,
+        "fisico": 73,
+        "velocidad": 65,
+        "cabezazo": 65,
+        "pressing": 65,
+        "desmarque": 73
+      },
+      "rating": 72,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974",
+      "goals": 2
+    },
+    {
+      "id": "ddr74lowe",
+      "name": "Wolfram Löwe",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 70,
+        "fisico": 70,
+        "velocidad": 60,
+        "cabezazo": 61,
+        "pressing": 61,
+        "desmarque": 70
+      },
+      "rating": 70,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74ducke",
+      "name": "Peter Ducke",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 71,
+        "regate": 71,
+        "centro": 62,
+        "disparo": 62,
+        "desmarque": 71
+      },
+      "rating": 70,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "ddr74vogel",
+      "name": "Eberhard Vogel",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 71,
+        "regate": 71,
+        "centro": 62,
+        "disparo": 62,
+        "desmarque": 71
+      },
+      "rating": 69,
+      "country": "Alemania Oriental",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    }
+  ]
+}

@@ -1,0 +1,319 @@
+{
+  "country": "Bélgica",
+  "countryCode": "BEL",
+  "confederation": "UEFA",
+  "year": 1930,
+  "tournamentId": "wc-1930",
+  "players": [
+    {
+      "id": "bel30badjou",
+      "name": "Arnold Badjou",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 76,
+      "country": "Bélgica",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bel30de-bie",
+      "name": "Jean De Bie",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 70
+      },
+      "rating": 75,
+      "country": "Bélgica",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bel30de-deken",
+      "name": "Henri De Deken",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 79,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 79
+      },
+      "rating": 77,
+      "country": "Bélgica",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bel30nouwens",
+      "name": "Theodore Nouwens",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 75,
+      "country": "Bélgica",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bel30hoydonckx",
+      "name": "Nic Hoydonckx",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 65,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 68,
+      "country": "Bélgica",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bel30braine",
+      "name": "Pierre Braine",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 84,
+        "resistencia": 67
+      },
+      "rating": 77,
+      "country": "Bélgica",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bel30de-clercq",
+      "name": "Jean De Clercq",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 69,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 77,
+      "country": "Bélgica",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bel30delbeke",
+      "name": "Gérard Delbeke",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 79,
+        "paseFiltrado": 79,
+        "llegada": 79,
+        "regate": 71,
+        "disparo": 71
+      },
+      "rating": 77,
+      "country": "Bélgica",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bel30chantraine",
+      "name": "Alexis Chantraine",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 70,
+      "country": "Bélgica",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bel30hellemans",
+      "name": "August Hellemans",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 73
+      },
+      "rating": 69,
+      "country": "Bélgica",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bel30voorhoof",
+      "name": "Bernard Voorhoof",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 85,
+        "regate": 85,
+        "centro": 77,
+        "disparo": 78,
+        "desmarque": 85
+      },
+      "rating": 80,
+      "country": "Bélgica",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930",
+      "goals": 2
+    },
+    {
+      "id": "bel30moeschal",
+      "name": "Jacques Moeschal",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 79,
+        "disparo": 69,
+        "desmarque": 78
+      },
+      "rating": 79,
+      "country": "Bélgica",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bel30saeys",
+      "name": "André Saeys",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 76
+      },
+      "rating": 72,
+      "country": "Bélgica",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bel30diddens",
+      "name": "Jan Diddens",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 71,
+      "country": "Bélgica",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bel30versyp",
+      "name": "Louis Versyp",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 75
+      },
+      "rating": 71,
+      "country": "Bélgica",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bel30adams",
+      "name": "Ferdinand Adams",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 69,
+        "fisico": 69,
+        "velocidad": 60,
+        "cabezazo": 60,
+        "pressing": 60,
+        "desmarque": 69
+      },
+      "rating": 70,
+      "country": "Bélgica",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    }
+  ]
+}

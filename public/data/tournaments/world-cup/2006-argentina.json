@@ -1,0 +1,445 @@
+{
+  "country": "Argentina",
+  "countryCode": "ARG",
+  "confederation": "CONMEBOL",
+  "year": 2006,
+  "tournamentId": "wc-2006",
+  "players": [
+    {
+      "id": "arg06franco",
+      "name": "Leo Franco",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 74,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "arg06abbondanzieri",
+      "name": "Roberto Abbondanzieri",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 71,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "arg06ustari",
+      "name": "Óscar Ustari",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 71,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "arg06heinze",
+      "name": "Gabriel Heinze",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 81
+      },
+      "rating": 77,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    },
+    {
+      "id": "arg06coloccini",
+      "name": "Fabricio Coloccini",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 65,
+        "pases": 76,
+        "duelos": 83
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "arg06ayala",
+      "name": "Roberto Ayala",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 75,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    },
+    {
+      "id": "arg06scaloni",
+      "name": "Lionel Scaloni",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 75,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "arg06cufre",
+      "name": "Leandro Cufré",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 74,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "arg06burdisso",
+      "name": "Nicolás Burdisso",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 74,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "arg06milito",
+      "name": "Gabriel Milito",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 70,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "arg06sorin",
+      "name": "Juan Pablo Sorín",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 69,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "arg06riquelme",
+      "name": "Juan Román Riquelme",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 93,
+        "paseFiltrado": 93,
+        "llegada": 93,
+        "regate": 84,
+        "disparo": 83
+      },
+      "rating": 93,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "arg06rodriguez",
+      "name": "Maxi Rodríguez",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 85,
+        "vision": 84,
+        "llegada": 77,
+        "recuperacion": 77,
+        "tecnica": 84
+      },
+      "rating": 79,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 3
+    },
+    {
+      "id": "arg06cambiasso",
+      "name": "Esteban Cambiasso",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 80,
+        "pases": 81,
+        "posicionamiento": 80,
+        "duelos": 81,
+        "resistencia": 73
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    },
+    {
+      "id": "arg06mascherano",
+      "name": "Javier Mascherano",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 75,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "arg06gonzalez",
+      "name": "Lucho González",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 81,
+        "resistencia": 74
+      },
+      "rating": 75,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "arg06aimar",
+      "name": "Pablo Aimar",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 69,
+        "paseFiltrado": 69,
+        "llegada": 69,
+        "regate": 61,
+        "disparo": 60
+      },
+      "rating": 69,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "arg06messi",
+      "name": "Lionel Messi",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 87,
+        "regate": 87,
+        "centro": 79,
+        "disparo": 79,
+        "desmarque": 87
+      },
+      "rating": 87,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 13
+    },
+    {
+      "id": "arg06tevez",
+      "name": "Carlos Tevez",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 82
+      },
+      "rating": 79,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 3
+    },
+    {
+      "id": "arg06saviola",
+      "name": "Javier Saviola",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 71,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 80
+      },
+      "rating": 78,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    },
+    {
+      "id": "arg06crespo",
+      "name": "Hernán Crespo",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 74,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 4
+    },
+    {
+      "id": "arg06palacio",
+      "name": "Rodrigo Palacio",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 66,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 75
+      },
+      "rating": 73,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "arg06cruz",
+      "name": "Julio Cruz",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 73
+      },
+      "rating": 73,
+      "country": "Argentina",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    }
+  ]
+}

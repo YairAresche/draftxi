@@ -1,0 +1,407 @@
+{
+  "country": "Alemania",
+  "countryCode": "DEU",
+  "confederation": "UEFA",
+  "year": 1986,
+  "tournamentId": "wc-1986",
+  "players": [
+    {
+      "id": "deu86schumacher",
+      "name": "Harald Schumacher",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "deu86immel",
+      "name": "Eike Immel",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 71,
+        "salidas": 62,
+        "penales": 62,
+        "distribucion": 62
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "deu86stein",
+      "name": "Uli Stein",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "deu86augenthaler",
+      "name": "Klaus Augenthaler",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "deu86jakobs",
+      "name": "Ditmar Jakobs",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 73,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "deu86forster",
+      "name": "Karlheinz Förster",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "deu86herget",
+      "name": "Matthias Herget",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "deu86brehme",
+      "name": "Andreas Brehme",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 4
+    },
+    {
+      "id": "deu86eder",
+      "name": "Norbert Eder",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "deu86briegel",
+      "name": "Hans-Peter Briegel",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 70,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "deu86berthold",
+      "name": "Thomas Berthold",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 70,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "deu86matthaus",
+      "name": "Lothar Matthäus",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 91,
+        "vision": 91,
+        "llegada": 82,
+        "recuperacion": 82,
+        "tecnica": 91
+      },
+      "rating": 92,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 6
+    },
+    {
+      "id": "deu86thon",
+      "name": "Olaf Thon",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 80,
+        "paseFiltrado": 80,
+        "llegada": 80,
+        "regate": 73,
+        "disparo": 73
+      },
+      "rating": 75,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "deu86rahn",
+      "name": "Uwe Rahn",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 74,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 75
+      },
+      "rating": 75,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "deu86magath",
+      "name": "Felix Magath",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 73
+      },
+      "rating": 73,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "deu86rolff",
+      "name": "Wolfgang Rolff",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 72,
+        "pases": 72,
+        "posicionamiento": 72,
+        "duelos": 72,
+        "resistencia": 64
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "deu86allgower",
+      "name": "Karl Allgöwer",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 68,
+        "vision": 68,
+        "llegada": 59,
+        "recuperacion": 59,
+        "tecnica": 68
+      },
+      "rating": 68,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "deu86rummenigge",
+      "name": "Karl-Heinz Rummenigge",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 93,
+        "fisico": 93,
+        "velocidad": 86,
+        "cabezazo": 86,
+        "pressing": 86,
+        "desmarque": 93
+      },
+      "rating": 87,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 9
+    },
+    {
+      "id": "deu86littbarski",
+      "name": "Pierre Littbarski",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 82,
+        "fisico": 82,
+        "velocidad": 74,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 82
+      },
+      "rating": 80,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 3
+    },
+    {
+      "id": "deu86voller",
+      "name": "Rudi Völler",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 79,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 8
+    },
+    {
+      "id": "deu86allofs",
+      "name": "Klaus Allofs",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 73,
+        "fisico": 73,
+        "velocidad": 64,
+        "cabezazo": 64,
+        "pressing": 64,
+        "desmarque": 73
+      },
+      "rating": 73,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 2
+    },
+    {
+      "id": "deu86hoene",
+      "name": "Dieter Hoeneß",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 72
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    }
+  ]
+}

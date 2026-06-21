@@ -1,0 +1,403 @@
+{
+  "country": "Yugoslavia",
+  "countryCode": "YUG",
+  "confederation": "UEFA",
+  "year": 1958,
+  "tournamentId": "wc-1958",
+  "players": [
+    {
+      "id": "yug58krivokuca",
+      "name": "Srboljub Krivokuća",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 76,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "yug58beara",
+      "name": "Vladimir Beara",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 75,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "yug58irovic",
+      "name": "Gordan Irović",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 67,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 70,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "yug58zebec",
+      "name": "Branko Zebec",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 77,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 1
+    },
+    {
+      "id": "yug58popovic",
+      "name": "Vladica Popović",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 74,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "yug58sijakovic",
+      "name": "Vasilije Šijaković",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 73,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "yug58radovic",
+      "name": "Nikola Radović",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 73,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "yug58tomic",
+      "name": "Novak Tomić",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 71
+      },
+      "rating": 71,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "yug58milutinovic",
+      "name": "Milorad Milutinović",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 70,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "yug58crnkovic",
+      "name": "Tomislav Crnković",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 68,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "yug58rajkov",
+      "name": "Zdravko Rajkov",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 76
+      },
+      "rating": 77,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 1
+    },
+    {
+      "id": "yug58santek",
+      "name": "Ivan Šantek",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 66,
+        "recuperacion": 65,
+        "tecnica": 74
+      },
+      "rating": 74,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "yug58krstic",
+      "name": "Dobrosav Krstić",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 78,
+        "resistencia": 71
+      },
+      "rating": 72,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "yug58boskov",
+      "name": "Vujadin Boškov",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 71,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "yug58sekularac",
+      "name": "Dragoslav Šekularac",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 73,
+        "paseFiltrado": 73,
+        "llegada": 73,
+        "regate": 65,
+        "disparo": 65
+      },
+      "rating": 70,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "yug58veselinovic",
+      "name": "Todor Veselinović",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 75,
+        "disparo": 74,
+        "desmarque": 82
+      },
+      "rating": 77,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 3
+    },
+    {
+      "id": "yug58ognjanovic",
+      "name": "Radivoje Ognjanović",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 74,
+        "disparo": 75,
+        "desmarque": 82
+      },
+      "rating": 77,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 1
+    },
+    {
+      "id": "yug58petakovic",
+      "name": "Aleksandar Petaković",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 80
+      },
+      "rating": 76,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 2
+    },
+    {
+      "id": "yug58jerkovic",
+      "name": "Dražan Jerković",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 75,
+        "cabezazo": 73,
+        "pressing": 74,
+        "desmarque": 81
+      },
+      "rating": 75,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 4
+    },
+    {
+      "id": "yug58milutinovic2",
+      "name": "Miloš Milutinović",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 74,
+        "fisico": 74,
+        "velocidad": 64,
+        "cabezazo": 65,
+        "pressing": 65,
+        "desmarque": 74
+      },
+      "rating": 74,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 1
+    },
+    {
+      "id": "yug58pasic",
+      "name": "Ilijas Pašić",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 69,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 76
+      },
+      "rating": 73,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "yug58liposinovic",
+      "name": "Luka Lipošinović",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 65,
+        "disparo": 64,
+        "desmarque": 73
+      },
+      "rating": 70,
+      "country": "Yugoslavia",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    }
+  ]
+}

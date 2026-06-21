@@ -1,0 +1,453 @@
+{
+  "country": "Argentina",
+  "countryCode": "ARG",
+  "confederation": "CONMEBOL",
+  "year": 2014,
+  "tournamentId": "wc-2014",
+  "players": [
+    {
+      "id": "arg14orion",
+      "name": "Agustín Orión",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 82,
+        "manejo": 82,
+        "salidas": 75,
+        "penales": 75,
+        "distribucion": 75
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "arg14andujar",
+      "name": "Mariano Andújar",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 72,
+        "penales": 71,
+        "distribucion": 72
+      },
+      "rating": 75,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "arg14romero",
+      "name": "Sergio Romero",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 69,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "arg14campagnaro",
+      "name": "Hugo Campagnaro",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "arg14fernandez",
+      "name": "Federico Fernández",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 75,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "arg14zabaleta",
+      "name": "Pablo Zabaleta",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 74,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "arg14rojo",
+      "name": "Marcos Rojo",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 72,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 2
+    },
+    {
+      "id": "arg14basanta",
+      "name": "José María Basanta",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 72,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "arg14demichelis",
+      "name": "Martín Demichelis",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 71,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "arg14garay",
+      "name": "Ezequiel Garay",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 71
+      },
+      "rating": 70,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "arg14gago",
+      "name": "Fernando Gago",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 80,
+        "pases": 80,
+        "posicionamiento": 80,
+        "duelos": 80,
+        "resistencia": 73
+      },
+      "rating": 77,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "arg14fernandez2",
+      "name": "Augusto Fernández",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 81,
+        "resistencia": 73
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "arg14alvarez",
+      "name": "Ricky Álvarez",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 75,
+        "llegada": 75,
+        "regate": 67,
+        "disparo": 66
+      },
+      "rating": 75,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "arg14mascherano",
+      "name": "Javier Mascherano",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 74,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "arg14biglia",
+      "name": "Lucas Biglia",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 63,
+        "recuperacion": 62,
+        "tecnica": 71
+      },
+      "rating": 71,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "arg14rodriguez",
+      "name": "Maxi Rodríguez",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 62,
+        "recuperacion": 62,
+        "tecnica": 71
+      },
+      "rating": 70,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 3
+    },
+    {
+      "id": "arg14perez",
+      "name": "Enzo Pérez",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 69,
+        "paseFiltrado": 69,
+        "llegada": 69,
+        "regate": 61,
+        "disparo": 60
+      },
+      "rating": 68,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "arg14messi",
+      "name": "Lionel Messi",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        },
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 94,
+        "regate": 95,
+        "centro": 86,
+        "disparo": 85,
+        "desmarque": 94
+      },
+      "rating": 95,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 13
+    },
+    {
+      "id": "arg14di-maria",
+      "name": "Ángel Di María",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "ED",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 96,
+        "regate": 96,
+        "centro": 89,
+        "disparo": 89,
+        "desmarque": 96
+      },
+      "rating": 90,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 3
+    },
+    {
+      "id": "arg14aguero",
+      "name": "Sergio Agüero",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 94,
+        "fisico": 94,
+        "velocidad": 88,
+        "cabezazo": 87,
+        "pressing": 87,
+        "desmarque": 94
+      },
+      "rating": 88,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 2
+    },
+    {
+      "id": "arg14higuain",
+      "name": "Gonzalo Higuaín",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 72,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 81
+      },
+      "rating": 80,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 5
+    },
+    {
+      "id": "arg14palacio",
+      "name": "Rodrigo Palacio",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 81
+      },
+      "rating": 77,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "arg14lavezzi",
+      "name": "Ezequiel Lavezzi",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 75,
+      "country": "Argentina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    }
+  ]
+}

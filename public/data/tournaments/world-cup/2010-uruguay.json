@@ -1,0 +1,435 @@
+{
+  "country": "Uruguay",
+  "countryCode": "URY",
+  "confederation": "CONMEBOL",
+  "year": 2010,
+  "tournamentId": "wc-2010",
+  "players": [
+    {
+      "id": "ury10muslera",
+      "name": "Fernando Muslera",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 68,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 77,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "ury10castillo",
+      "name": "Juan Castillo",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 76,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "ury10silva",
+      "name": "Martín Silva",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 82,
+        "manejo": 82,
+        "salidas": 75,
+        "penales": 75,
+        "distribucion": 75
+      },
+      "rating": 75,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "ury10lugano",
+      "name": "Diego Lugano",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 75,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "ury10victorino",
+      "name": "Mauricio Victorino",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 71,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "ury10scotti",
+      "name": "Andrés Scotti",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 70,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "ury10caceres",
+      "name": "Martín Cáceres",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 70,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "ury10fucile",
+      "name": "Jorge Fucile",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 68,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "ury10pereira",
+      "name": "Maxi Pereira",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 75
+      },
+      "rating": 68,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "ury10godin",
+      "name": "Diego Godín",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 67,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "ury10lodeiro",
+      "name": "Nicolás Lodeiro",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 69,
+        "disparo": 69
+      },
+      "rating": 78,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "ury10gargano",
+      "name": "Walter Gargano",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 81,
+        "resistencia": 74
+      },
+      "rating": 74,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "ury10perez",
+      "name": "Diego Pérez",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 73,
+        "recuperacion": 73,
+        "tecnica": 80
+      },
+      "rating": 74,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "ury10arevalo-rios",
+      "name": "Egidio Arévalo Ríos",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 66
+      },
+      "rating": 73,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "ury10gonzalez",
+      "name": "Ignacio González",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 76
+      },
+      "rating": 73,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "ury10pereira2",
+      "name": "Álvaro Pereira",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 70,
+        "tecnica": 77
+      },
+      "rating": 70,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "ury10eguren",
+      "name": "Sebastián Eguren",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 69,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 69,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "ury10fernandez",
+      "name": "Álvaro Fernández",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 70,
+        "paseFiltrado": 70,
+        "llegada": 70,
+        "regate": 62,
+        "disparo": 62
+      },
+      "rating": 69,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "ury10forlan",
+      "name": "Diego Forlán",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 96,
+        "fisico": 96,
+        "velocidad": 89,
+        "cabezazo": 89,
+        "pressing": 89,
+        "desmarque": 96
+      },
+      "rating": 92,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 6
+    },
+    {
+      "id": "ury10suarez",
+      "name": "Luis Suárez",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 91,
+        "fisico": 91,
+        "velocidad": 82,
+        "cabezazo": 83,
+        "pressing": 83,
+        "desmarque": 91
+      },
+      "rating": 91,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 7
+    },
+    {
+      "id": "ury10cavani",
+      "name": "Edinson Cavani",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 84,
+        "fisico": 84,
+        "velocidad": 76,
+        "cabezazo": 76,
+        "pressing": 76,
+        "desmarque": 84
+      },
+      "rating": 80,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 5
+    },
+    {
+      "id": "ury10abreu",
+      "name": "Sebastián Abreu",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 76,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 83
+      },
+      "rating": 78,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "ury10fernandez2",
+      "name": "Sebastián Fernández",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 71,
+        "regate": 71,
+        "centro": 63,
+        "disparo": 63,
+        "desmarque": 71
+      },
+      "rating": 70,
+      "country": "Uruguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    }
+  ]
+}

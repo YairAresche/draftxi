@@ -1,0 +1,455 @@
+{
+  "country": "Irán",
+  "countryCode": "IRN",
+  "confederation": "AFC",
+  "year": 2006,
+  "tournamentId": "wc-2006",
+  "players": [
+    {
+      "id": "irn06mirzapour",
+      "name": "Ebrahim Mirzapour",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 81,
+        "salidas": 73,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 77,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06talebloo",
+      "name": "Vahid Talebloo",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 72,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06roudbarian",
+      "name": "Hassan Roudbarian",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 70,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 71,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06sadeghi",
+      "name": "Amir Hossein Sadeghi",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 81
+      },
+      "rating": 77,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06golmohammadi",
+      "name": "Yahya Golmohammadi",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 68,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 76,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    },
+    {
+      "id": "irn06nosrati",
+      "name": "Mohammad Nosrati",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 75,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06bakhtiarizadeh",
+      "name": "Sohrab Bakhtiarizadeh",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 74,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    },
+    {
+      "id": "irn06kaebi",
+      "name": "Hossein Kaebi",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 72,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06rezaei",
+      "name": "Rahman Rezaei",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 70,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06zandi",
+      "name": "Ferydoon Zandi",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 84,
+        "vision": 84,
+        "llegada": 76,
+        "recuperacion": 76,
+        "tecnica": 83
+      },
+      "rating": 78,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06teymourian",
+      "name": "Andranik Teymourian",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 81
+      },
+      "rating": 78,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06navidkia",
+      "name": "Moharram Navidkia",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 71
+      },
+      "rating": 77,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06shojaei",
+      "name": "Masoud Shojaei",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 77,
+        "paseFiltrado": 77,
+        "llegada": 77,
+        "regate": 68,
+        "disparo": 67
+      },
+      "rating": 77,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06nekounam",
+      "name": "Javad Nekounam",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 83,
+        "vision": 83,
+        "llegada": 76,
+        "recuperacion": 76,
+        "tecnica": 83
+      },
+      "rating": 76,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06mahdavikia",
+      "name": "Mehdi Mahdavikia",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 67
+      },
+      "rating": 75,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    },
+    {
+      "id": "irn06madanchi",
+      "name": "Mehrzad Madanchi",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 72,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06karimi",
+      "name": "Ali Karimi",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 77,
+        "paseFiltrado": 77,
+        "llegada": 77,
+        "regate": 70,
+        "disparo": 71
+      },
+      "rating": 70,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06enayati",
+      "name": "Reza Enayati",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 77,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06kazemian",
+      "name": "Javad Kazemian",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 79,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 79
+      },
+      "rating": 77,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06daei",
+      "name": "Ali Daei",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 82,
+        "regate": 81,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 82
+      },
+      "rating": 76,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06borhani",
+      "name": "Arash Borhani",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 65,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 75
+      },
+      "rating": 74,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06hashemian",
+      "name": "Vahid Hashemian",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 71,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 77
+      },
+      "rating": 71,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "irn06khatibi",
+      "name": "Rasoul Khatibi",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 70,
+      "country": "Irán",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    }
+  ]
+}

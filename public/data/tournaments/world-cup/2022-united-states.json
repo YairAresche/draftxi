@@ -1,0 +1,498 @@
+{
+  "country": "Estados Unidos",
+  "countryCode": "USA",
+  "confederation": "CONCACAF",
+  "year": 2022,
+  "tournamentId": "wc-2022",
+  "players": [
+    {
+      "id": "usa22horvath",
+      "name": "Ethan Horvath",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 82,
+        "manejo": 82,
+        "salidas": 75,
+        "penales": 75,
+        "distribucion": 75
+      },
+      "rating": 77,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22johnson",
+      "name": "Sean Johnson",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 83,
+        "manejo": 82,
+        "salidas": 75,
+        "penales": 75,
+        "distribucion": 75
+      },
+      "rating": 77,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22turner",
+      "name": "Matt Turner",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 62,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 72,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22dest",
+      "name": "Sergiño Dest",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 76,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22robinson",
+      "name": "Antonee Robinson",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 79
+      },
+      "rating": 76,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22long",
+      "name": "Aaron Long",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 81
+      },
+      "rating": 75,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22moore",
+      "name": "Shaq Moore",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 75,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22yedlin",
+      "name": "DeAndre Yedlin",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 74,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22scally",
+      "name": "Joe Scally",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 70,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22cartervickers",
+      "name": "Cameron Carter-Vickers",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 70,
+        "pases": 59,
+        "duelos": 68
+      },
+      "rating": 69,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22zimmerman",
+      "name": "Walker Zimmerman",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 68,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22ream",
+      "name": "Tim Ream",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 68,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22mckennie",
+      "name": "Weston McKennie",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 73,
+        "recuperacion": 73,
+        "tecnica": 81
+      },
+      "rating": 77,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22de-la-torre",
+      "name": "Luca de la Torre",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 80,
+        "paseFiltrado": 80,
+        "llegada": 80,
+        "regate": 73,
+        "disparo": 73
+      },
+      "rating": 77,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22musah",
+      "name": "Yunus Musah",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 75,
+        "recuperacion": 75,
+        "tecnica": 82
+      },
+      "rating": 76,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22roldan",
+      "name": "Cristian Roldan",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 74
+      },
+      "rating": 73,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22adams",
+      "name": "Tyler Adams",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 78,
+        "resistencia": 71
+      },
+      "rating": 72,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22acosta",
+      "name": "Kellyn Acosta",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 69,
+        "pases": 69,
+        "posicionamiento": 69,
+        "duelos": 69,
+        "resistencia": 60
+      },
+      "rating": 69,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22wright",
+      "name": "Haji Wright",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 69,
+        "disparo": 79,
+        "desmarque": 86
+      },
+      "rating": 79,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "usa22ferreira",
+      "name": "Jesús Ferreira",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 77
+      },
+      "rating": 77,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22morris",
+      "name": "Jordan Morris",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 76,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22sargent",
+      "name": "Josh Sargent",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 77,
+        "cabezazo": 76,
+        "pressing": 76,
+        "desmarque": 83
+      },
+      "rating": 76,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22aaronson",
+      "name": "Brenden Aaronson",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 66,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 75
+      },
+      "rating": 75,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "usa22pulisic",
+      "name": "Christian Pulisic",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 74,
+        "centro": 65,
+        "disparo": 65,
+        "desmarque": 74
+      },
+      "rating": 73,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "usa22weah",
+      "name": "Timothy Weah",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 72,
+        "fisico": 72,
+        "velocidad": 62,
+        "cabezazo": 64,
+        "pressing": 63,
+        "desmarque": 72
+      },
+      "rating": 73,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "usa22reyna",
+      "name": "Giovanni Reyna",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 74,
+        "fisico": 74,
+        "velocidad": 67,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 74
+      },
+      "rating": 70,
+      "country": "Estados Unidos",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    }
+  ]
+}

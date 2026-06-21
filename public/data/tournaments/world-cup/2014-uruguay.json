@@ -1,0 +1,426 @@
+{
+  "country": "Uruguay",
+  "countryCode": "URY",
+  "confederation": "CONMEBOL",
+  "year": 2014,
+  "tournamentId": "wc-2014",
+  "players": [
+    {
+      "id": "ury14silva",
+      "name": "Martín Silva",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 78,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "ury14munoz",
+      "name": "Rodrigo Muñoz",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 83,
+        "manejo": 83,
+        "salidas": 66,
+        "penales": 76,
+        "distribucion": 76
+      },
+      "rating": 76,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "ury14muslera",
+      "name": "Fernando Muslera",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 74,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "ury14gimenez",
+      "name": "José Giménez",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 76,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "ury14fucile",
+      "name": "Jorge Fucile",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 73,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "ury14pereira",
+      "name": "Maxi Pereira",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 73,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "ury14godin",
+      "name": "Diego Godín",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "ury14coates",
+      "name": "Sebastián Coates",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 71,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "ury14lugano",
+      "name": "Diego Lugano",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 70,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "ury14caceres",
+      "name": "Martín Cáceres",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 72
+      },
+      "rating": 67,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "ury14pereira2",
+      "name": "Álvaro Pereira",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 74,
+        "recuperacion": 73,
+        "tecnica": 81
+      },
+      "rating": 75,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "ury14rodriguez",
+      "name": "Cristian Rodríguez",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 68,
+        "tecnica": 77
+      },
+      "rating": 75,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "ury14ramirez",
+      "name": "Gastón Ramírez",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 75,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "ury14perez",
+      "name": "Diego Pérez",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 74,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "ury14gargano",
+      "name": "Walter Gargano",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 68
+      },
+      "rating": 71,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "ury14gonzalez",
+      "name": "Álvaro González",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 71,
+        "paseFiltrado": 71,
+        "llegada": 71,
+        "regate": 63,
+        "disparo": 62
+      },
+      "rating": 70,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "ury14lodeiro",
+      "name": "Nicolás Lodeiro",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 70,
+        "paseFiltrado": 70,
+        "llegada": 70,
+        "regate": 62,
+        "disparo": 61
+      },
+      "rating": 69,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "ury14arevalo-rios",
+      "name": "Egidio Arévalo Ríos",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 73,
+        "posicionamiento": 73,
+        "duelos": 73,
+        "resistencia": 66
+      },
+      "rating": 69,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "ury14suarez",
+      "name": "Luis Suárez",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 94,
+        "fisico": 94,
+        "velocidad": 85,
+        "cabezazo": 85,
+        "pressing": 85,
+        "desmarque": 94
+      },
+      "rating": 93,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 7
+    },
+    {
+      "id": "ury14cavani",
+      "name": "Edinson Cavani",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 92,
+        "fisico": 92,
+        "velocidad": 85,
+        "cabezazo": 84,
+        "pressing": 84,
+        "desmarque": 92
+      },
+      "rating": 88,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 5
+    },
+    {
+      "id": "ury14forlan",
+      "name": "Diego Forlán",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 70,
+        "disparo": 71,
+        "desmarque": 79
+      },
+      "rating": 78,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 6
+    },
+    {
+      "id": "ury14stuani",
+      "name": "Cristhian Stuani",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 75
+      },
+      "rating": 71,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "ury14hernandez",
+      "name": "Abel Hernández",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 70,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 77
+      },
+      "rating": 70,
+      "country": "Uruguay",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "country": "Chile",
+  "countryCode": "CHL",
+  "confederation": "CONMEBOL",
+  "year": 1982,
+  "tournamentId": "wc-1982",
+  "players": [
+    {
+      "id": "chl82wirth",
+      "name": "Oscar Wirth",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 72,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82cornez",
+      "name": "Marco Cornez",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 72,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82osben",
+      "name": "Mario Osbén",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 66,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 72,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82garrido",
+      "name": "Lizardo Garrido",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 75,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82escobar",
+      "name": "Enzo Escobar",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 75,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82rojas",
+      "name": "Oscar Rojas",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 74,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82galindo",
+      "name": "Mario Galindo",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 79,
+        "velocidad": 73,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 72,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82bigorra",
+      "name": "Vladimir Bigorra",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 69,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82soto",
+      "name": "Mario Soto",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 69,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82valenzuela",
+      "name": "René Valenzuela",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 68,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82figueroa",
+      "name": "Elías Figueroa",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 68,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82rojas2",
+      "name": "Manuel Rojas",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 75
+      },
+      "rating": 75,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82ormeno",
+      "name": "Raúl Ormeño",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 75,
+        "llegada": 75,
+        "regate": 67,
+        "disparo": 66
+      },
+      "rating": 74,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82neira",
+      "name": "Miguel Ángel Neira",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 73,
+        "resistencia": 64
+      },
+      "rating": 74,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 1
+    },
+    {
+      "id": "chl82rivas",
+      "name": "Carlos Rivas",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 73,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82dubo",
+      "name": "Rodolfo Dubó",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 73,
+        "posicionamiento": 73,
+        "duelos": 73,
+        "resistencia": 64
+      },
+      "rating": 72,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82bonvallet",
+      "name": "Eduardo Bonvallet",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 62,
+        "recuperacion": 63,
+        "tecnica": 71
+      },
+      "rating": 69,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82letelier",
+      "name": "Juan Carlos Letelier",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 79,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 1
+    },
+    {
+      "id": "chl82moscoso",
+      "name": "Gustavo Moscoso",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 82,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 82
+      },
+      "rating": 78,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 1
+    },
+    {
+      "id": "chl82yanez",
+      "name": "Patricio Yáñez",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 75,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 81
+      },
+      "rating": 75,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82gamboa",
+      "name": "Miguel Ángel Gamboa",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 66,
+        "disparo": 67,
+        "desmarque": 75
+      },
+      "rating": 74,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "chl82caszely",
+      "name": "Carlos Caszely",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 72
+      },
+      "rating": 70,
+      "country": "Chile",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    }
+  ]
+}

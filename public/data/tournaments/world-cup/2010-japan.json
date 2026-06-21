@@ -1,0 +1,443 @@
+{
+  "country": "Japón",
+  "countryCode": "JPN",
+  "confederation": "AFC",
+  "year": 2010,
+  "tournamentId": "wc-2010",
+  "players": [
+    {
+      "id": "jpn10kawashima",
+      "name": "Eiji Kawashima",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 83,
+        "manejo": 83,
+        "salidas": 75,
+        "penales": 75,
+        "distribucion": 75
+      },
+      "rating": 78,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "jpn10kawaguchi",
+      "name": "Yoshikatsu Kawaguchi",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 82,
+        "manejo": 82,
+        "salidas": 75,
+        "penales": 75,
+        "distribucion": 75
+      },
+      "rating": 76,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "jpn10narazaki",
+      "name": "Seigo Narazaki",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 73,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "jpn10komano",
+      "name": "Yūichi Komano",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 70,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 77,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "jpn10konno",
+      "name": "Yasuyuki Konno",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 76,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "jpn10nagatomo",
+      "name": "Yuto Nagatomo",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 77
+      },
+      "rating": 75,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "jpn10uchida",
+      "name": "Atsuto Uchida",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 75,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "jpn10tanaka",
+      "name": "Marcus Tulio Tanaka",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 61,
+        "pases": 62,
+        "duelos": 71
+      },
+      "rating": 71,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "jpn10iwamasa",
+      "name": "Daiki Iwamasa",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "jpn10nakazawa",
+      "name": "Yuji Nakazawa",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 61,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 70,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "jpn10honda",
+      "name": "Keisuke Honda",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 90,
+        "paseFiltrado": 90,
+        "llegada": 90,
+        "regate": 83,
+        "disparo": 83
+      },
+      "rating": 84,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 4
+    },
+    {
+      "id": "jpn10inamoto",
+      "name": "Junichi Inamoto",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 84,
+        "vision": 84,
+        "llegada": 77,
+        "recuperacion": 77,
+        "tecnica": 84
+      },
+      "rating": 79,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 2
+    },
+    {
+      "id": "jpn10endo",
+      "name": "Yasuhito Endō",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 83,
+        "vision": 83,
+        "llegada": 76,
+        "recuperacion": 76,
+        "tecnica": 83
+      },
+      "rating": 76,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "jpn10hasebe",
+      "name": "Makoto Hasebe",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 75,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "jpn10abe",
+      "name": "Yuki Abe",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 77,
+        "pases": 77,
+        "posicionamiento": 77,
+        "duelos": 77,
+        "resistencia": 69
+      },
+      "rating": 73,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "jpn10nakamura",
+      "name": "Shunsuke Nakamura",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 63,
+        "recuperacion": 63,
+        "tecnica": 72
+      },
+      "rating": 73,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "jpn10nakamura2",
+      "name": "Kengo Nakamura",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 71,
+        "paseFiltrado": 71,
+        "llegada": 71,
+        "regate": 62,
+        "disparo": 61
+      },
+      "rating": 72,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "jpn10tamada",
+      "name": "Keiji Tamada",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 79,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "jpn10okazaki",
+      "name": "Shinji Okazaki",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 79,
+        "centro": 71,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 2
+    },
+    {
+      "id": "jpn10matsui",
+      "name": "Daisuke Matsui",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 68,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 77
+      },
+      "rating": 76,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "jpn10yano",
+      "name": "Kisho Yano",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 74,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 81
+      },
+      "rating": 76,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "jpn10okubo",
+      "name": "Yoshito Ōkubo",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 78
+      },
+      "rating": 74,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "jpn10morimoto",
+      "name": "Takayuki Morimoto",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 71,
+        "regate": 70,
+        "centro": 62,
+        "disparo": 62,
+        "desmarque": 71
+      },
+      "rating": 71,
+      "country": "Japón",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    }
+  ]
+}

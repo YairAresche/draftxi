@@ -1,0 +1,419 @@
+{
+  "country": "Checoslovaquia",
+  "countryCode": "CSK",
+  "confederation": "UEFA",
+  "year": 1954,
+  "tournamentId": "wc-1954",
+  "players": [
+    {
+      "id": "csk54schrojf",
+      "name": "Viliam Schrojf",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 77,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54reimann",
+      "name": "Theodor Reimann",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 76,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54stacho",
+      "name": "Imrich Stacho",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 72,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 73,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54trnka",
+      "name": "Jiří Trnka",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 75,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54safranek",
+      "name": "František Šafránek",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 77
+      },
+      "rating": 70,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54novak",
+      "name": "Ladislav Novák",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 71
+      },
+      "rating": 69,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54krasnohorsky",
+      "name": "Anton Krásnohorský",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 69,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54pluskal",
+      "name": "Svatopluk Pluskal",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 83,
+        "pases": 83,
+        "posicionamiento": 83,
+        "duelos": 84,
+        "resistencia": 76
+      },
+      "rating": 77,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54benedikovic",
+      "name": "Michal Benedikovič",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 79
+      },
+      "rating": 75,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54hledik",
+      "name": "Jiří Hledík",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 79,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 79
+      },
+      "rating": 75,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54prochazka",
+      "name": "Zdeněk Procházka",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 63,
+        "recuperacion": 63,
+        "tecnica": 72
+      },
+      "rating": 72,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54hertl",
+      "name": "Jan Hertl",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 71,
+        "paseFiltrado": 71,
+        "llegada": 71,
+        "regate": 63,
+        "disparo": 63
+      },
+      "rating": 70,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54kacani",
+      "name": "Ladislav Kačáni",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 74,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 77,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54hlavacek",
+      "name": "Ladislav Hlaváček",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 76,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 82
+      },
+      "rating": 76,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54hemele",
+      "name": "Otto Hemele",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 78
+      },
+      "rating": 76,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54pazicky",
+      "name": "Emil Pažický",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 70,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 78
+      },
+      "rating": 75,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54gajdos",
+      "name": "Kazimír Gajdoš",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 67,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 76
+      },
+      "rating": 75,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54majer",
+      "name": "Josef Majer",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 70,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 77
+      },
+      "rating": 73,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54kosnar",
+      "name": "Jaroslav Košnar",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 76,
+        "velocidad": 67,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 75
+      },
+      "rating": 73,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54pesek",
+      "name": "Jiří Pešek",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 76
+      },
+      "rating": 72,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54kraus",
+      "name": "Tadeáš Kraus",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 79
+      },
+      "rating": 72,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "csk54malatinsky",
+      "name": "Anton Malatinský",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 72
+      },
+      "rating": 71,
+      "country": "Checoslovaquia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    }
+  ]
+}

@@ -1,0 +1,435 @@
+{
+  "country": "España",
+  "countryCode": "ESP",
+  "confederation": "UEFA",
+  "year": 2006,
+  "tournamentId": "wc-2006",
+  "players": [
+    {
+      "id": "esp06casillas",
+      "name": "Iker Casillas",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 88,
+        "manejo": 88,
+        "salidas": 80,
+        "penales": 80,
+        "distribucion": 80
+      },
+      "rating": 88,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "esp06canizares",
+      "name": "Santiago Cañizares",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 73,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "esp06reina",
+      "name": "Pepe Reina",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 71,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "esp06ramos",
+      "name": "Sergio Ramos",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "natural"
+        }
+      ],
+      "stats": {
+        "defAerea": 89,
+        "intercepciones": 89,
+        "velocidad": 82,
+        "pases": 82,
+        "duelos": 89
+      },
+      "rating": 85,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "esp06marchena",
+      "name": "Carlos Marchena",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 83,
+        "velocidad": 77,
+        "pases": 76,
+        "duelos": 83
+      },
+      "rating": 76,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "esp06lopez",
+      "name": "Antonio López",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 71,
+        "duelos": 78
+      },
+      "rating": 72,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "esp06juanito",
+      "name": "Juanito",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 73,
+        "pases": 62,
+        "duelos": 71
+      },
+      "rating": 72,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    },
+    {
+      "id": "esp06pernia",
+      "name": "Mariano Pernía",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "esp06salgado",
+      "name": "Míchel Salgado",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 71
+      },
+      "rating": 69,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "esp06puyol",
+      "name": "Carles Puyol",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 69,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    },
+    {
+      "id": "esp06ibanez",
+      "name": "Pablo Ibáñez",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 68,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "esp06xavi",
+      "name": "Xavi",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 91,
+        "vision": 91,
+        "llegada": 82,
+        "recuperacion": 82,
+        "tecnica": 90
+      },
+      "rating": 89,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "esp06iniesta",
+      "name": "Andrés Iniesta",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 94,
+        "vision": 94,
+        "llegada": 86,
+        "recuperacion": 86,
+        "tecnica": 94
+      },
+      "rating": 88,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 2
+    },
+    {
+      "id": "esp06fabregas",
+      "name": "Cesc Fàbregas",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 76,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "esp06alonso",
+      "name": "Xabi Alonso",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 65
+      },
+      "rating": 73,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 2
+    },
+    {
+      "id": "esp06albelda",
+      "name": "David Albelda",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 73,
+        "posicionamiento": 73,
+        "duelos": 73,
+        "resistencia": 64
+      },
+      "rating": 72,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "esp06joaquin",
+      "name": "Joaquín",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 71,
+        "paseFiltrado": 71,
+        "llegada": 71,
+        "regate": 62,
+        "disparo": 61
+      },
+      "rating": 72,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "esp06senna",
+      "name": "Marcos Senna",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 73
+      },
+      "rating": 71,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "esp06garcia",
+      "name": "Luis García",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 68,
+        "paseFiltrado": 68,
+        "llegada": 68,
+        "regate": 60,
+        "disparo": 59
+      },
+      "rating": 69,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "esp06reyes",
+      "name": "José Antonio Reyes",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 68,
+        "vision": 68,
+        "llegada": 59,
+        "recuperacion": 59,
+        "tecnica": 68
+      },
+      "rating": 68,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "esp06torres",
+      "name": "Fernando Torres",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 93,
+        "fisico": 93,
+        "velocidad": 85,
+        "cabezazo": 85,
+        "pressing": 85,
+        "desmarque": 93
+      },
+      "rating": 89,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 4
+    },
+    {
+      "id": "esp06villa",
+      "name": "David Villa",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 91,
+        "fisico": 91,
+        "velocidad": 83,
+        "cabezazo": 83,
+        "pressing": 83,
+        "desmarque": 91
+      },
+      "rating": 89,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 9
+    },
+    {
+      "id": "esp06raul",
+      "name": "Raúl",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 87,
+        "fisico": 87,
+        "velocidad": 81,
+        "cabezazo": 80,
+        "pressing": 80,
+        "desmarque": 87
+      },
+      "rating": 80,
+      "country": "España",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 5
+    }
+  ]
+}

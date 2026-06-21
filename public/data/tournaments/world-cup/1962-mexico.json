@@ -1,0 +1,415 @@
+{
+  "country": "México",
+  "countryCode": "MEX",
+  "confederation": "CONCACAF",
+  "year": 1962,
+  "tournamentId": "wc-1962",
+  "players": [
+    {
+      "id": "mex62gomez",
+      "name": "Jaime Gómez",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 80,
+        "salidas": 73,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 74,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62mota",
+      "name": "Antonio Mota",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 72,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62carbajal",
+      "name": "Antonio Carbajal",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 66,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 71,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62cardenas",
+      "name": "Raúl Cárdenas",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 75,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62del-muro",
+      "name": "Jesús del Muro",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 74,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62jauregui",
+      "name": "Ignacio Jáuregui",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 74,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62villegas",
+      "name": "José Villegas",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 72,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62chaires",
+      "name": "Arturo Chaires",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 70,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62sepulveda",
+      "name": "Guillermo Sepúlveda",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 68,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62najera",
+      "name": "Pedro Nájera",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 78,
+        "resistencia": 70
+      },
+      "rating": 74,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62velarde",
+      "name": "Mario Velarde",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 68,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 72,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62farfan",
+      "name": "Salvador Farfán",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 70,
+        "paseFiltrado": 70,
+        "llegada": 70,
+        "regate": 62,
+        "disparo": 61
+      },
+      "rating": 71,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62reyes",
+      "name": "Salvador Reyes",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 63,
+        "recuperacion": 63,
+        "tecnica": 71
+      },
+      "rating": 70,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62romero",
+      "name": "Pedro Romero",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 72
+      },
+      "rating": 68,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62del-aguila",
+      "name": "Alfredo del Águila",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 75,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 83
+      },
+      "rating": 79,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "mex62diaz",
+      "name": "Isidoro Díaz",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 71,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 80
+      },
+      "rating": 78,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "mex62jasso",
+      "name": "Antonio Jasso",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 77,
+        "fisico": 78,
+        "velocidad": 68,
+        "cabezazo": 69,
+        "pressing": 68,
+        "desmarque": 77
+      },
+      "rating": 78,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62ortiz-camargo",
+      "name": "Guillermo Ortiz Camargo",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 74,
+        "disparo": 75,
+        "desmarque": 82
+      },
+      "rating": 77,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62baeza",
+      "name": "Alberto Baeza",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 73,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 75,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62hernandez",
+      "name": "Héctor Hernández",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 76
+      },
+      "rating": 73,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "mex62ruvalcaba",
+      "name": "Felipe Ruvalcaba",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 77
+      },
+      "rating": 71,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "mex62hernandez2",
+      "name": "Alfredo Hernández",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 65,
+        "disparo": 65,
+        "desmarque": 74
+      },
+      "rating": 71,
+      "country": "México",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "country": "Escocia",
+  "countryCode": "SCO",
+  "confederation": "UEFA",
+  "year": 1974,
+  "tournamentId": "wc-1974",
+  "players": [
+    {
+      "id": "sco74harvey",
+      "name": "David Harvey",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 84,
+        "manejo": 84,
+        "salidas": 76,
+        "penales": 76,
+        "distribucion": 76
+      },
+      "rating": 78,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74stewart",
+      "name": "Jim Stewart",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 64,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 74,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74allan",
+      "name": "Thomson Allan",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 73,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74holton",
+      "name": "Jim Holton",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 68,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 77,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74buchan",
+      "name": "Martin Buchan",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 84,
+        "intercepciones": 84,
+        "velocidad": 78,
+        "pases": 77,
+        "duelos": 84
+      },
+      "rating": 77,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74schaedler",
+      "name": "Erich Schaedler",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 68,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 76,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74mcgrain",
+      "name": "Danny McGrain",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 75,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74blackley",
+      "name": "John Blackley",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 61,
+        "pases": 62,
+        "duelos": 71
+      },
+      "rating": 72,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74mcqueen",
+      "name": "Gordon McQueen",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 72,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74donachie",
+      "name": "Willie Donachie",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 71,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74jardine",
+      "name": "Sandy Jardine",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 72
+      },
+      "rating": 68,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74johnstone",
+      "name": "Jimmy Johnstone",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 77,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74hay",
+      "name": "David Hay",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 77
+      },
+      "rating": 77,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74cormack",
+      "name": "Peter Cormack",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 80,
+        "paseFiltrado": 80,
+        "llegada": 80,
+        "regate": 72,
+        "disparo": 72
+      },
+      "rating": 77,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74hutchison",
+      "name": "Tommy Hutchison",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 71
+      },
+      "rating": 76,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74bremner",
+      "name": "Billy Bremner",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 77,
+        "pases": 77,
+        "posicionamiento": 77,
+        "duelos": 77,
+        "resistencia": 69
+      },
+      "rating": 73,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74ford",
+      "name": "Donald Ford",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 62,
+        "recuperacion": 72,
+        "tecnica": 79
+      },
+      "rating": 72,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74morgan",
+      "name": "Willie Morgan",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 76,
+        "disparo": 77,
+        "desmarque": 84
+      },
+      "rating": 77,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "sco74jordan",
+      "name": "Joe Jordan",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 76
+      },
+      "rating": 75,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974",
+      "goals": 4
+    },
+    {
+      "id": "sco74dalglish",
+      "name": "Kenny Dalglish",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 66,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 75
+      },
+      "rating": 74,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974",
+      "goals": 2
+    },
+    {
+      "id": "sco74lorimer",
+      "name": "Peter Lorimer",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 66,
+        "disparo": 67,
+        "desmarque": 75
+      },
+      "rating": 74,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974",
+      "goals": 1
+    },
+    {
+      "id": "sco74law",
+      "name": "Denis Law",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 76
+      },
+      "rating": 71,
+      "country": "Escocia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    }
+  ]
+}

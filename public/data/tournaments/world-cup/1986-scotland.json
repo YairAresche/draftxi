@@ -1,0 +1,414 @@
+{
+  "country": "Escocia",
+  "countryCode": "SCO",
+  "confederation": "UEFA",
+  "year": 1986,
+  "tournamentId": "wc-1986",
+  "players": [
+    {
+      "id": "sco86leighton",
+      "name": "Jim Leighton",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 77,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "sco86rough",
+      "name": "Alan Rough",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 73,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "sco86goram",
+      "name": "Andy Goram",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 70,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "sco86gough",
+      "name": "Richard Gough",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 76,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "sco86albiston",
+      "name": "Arthur Albiston",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 65,
+        "pases": 76,
+        "duelos": 75
+      },
+      "rating": 76,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "sco86mcleish",
+      "name": "Alex McLeish",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 63,
+        "pases": 64,
+        "duelos": 73
+      },
+      "rating": 73,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "sco86malpas",
+      "name": "Maurice Malpas",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 72,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "sco86aitken",
+      "name": "Roy Aitken",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 75
+      },
+      "rating": 70,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "sco86miller",
+      "name": "Willie Miller",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 69,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "sco86nicol",
+      "name": "Steve Nicol",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 73
+      },
+      "rating": 68,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "sco86narey",
+      "name": "David Narey",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 67,
+        "intercepciones": 67,
+        "velocidad": 57,
+        "pases": 58,
+        "duelos": 67
+      },
+      "rating": 67,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    },
+    {
+      "id": "sco86bett",
+      "name": "Jim Bett",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 81,
+        "paseFiltrado": 81,
+        "llegada": 81,
+        "regate": 74,
+        "disparo": 74
+      },
+      "rating": 77,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "sco86souness",
+      "name": "Graeme Souness",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 80,
+        "pases": 80,
+        "posicionamiento": 80,
+        "duelos": 80,
+        "resistencia": 73
+      },
+      "rating": 76,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    },
+    {
+      "id": "sco86mcstay",
+      "name": "Paul McStay",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 69,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 76,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "sco86bannon",
+      "name": "Eamonn Bannon",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 72,
+        "tecnica": 79
+      },
+      "rating": 74,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "sco86strachan",
+      "name": "Gordon Strachan",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 70,
+        "tecnica": 77
+      },
+      "rating": 71,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    },
+    {
+      "id": "sco86archibald",
+      "name": "Steve Archibald",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 85,
+        "regate": 85,
+        "centro": 78,
+        "disparo": 78,
+        "desmarque": 85
+      },
+      "rating": 79,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    },
+    {
+      "id": "sco86mcavennie",
+      "name": "Frank McAvennie",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 73,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 81
+      },
+      "rating": 76,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "sco86sturrock",
+      "name": "Paul Sturrock",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 70,
+        "desmarque": 77
+      },
+      "rating": 74,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "sco86sharp",
+      "name": "Graeme Sharp",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 77
+      },
+      "rating": 73,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "sco86cooper",
+      "name": "Davie Cooper",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 70,
+        "regate": 70,
+        "centro": 61,
+        "disparo": 61,
+        "desmarque": 70
+      },
+      "rating": 70,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "sco86nicholas",
+      "name": "Charlie Nicholas",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 69,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 75
+      },
+      "rating": 69,
+      "country": "Escocia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    }
+  ]
+}

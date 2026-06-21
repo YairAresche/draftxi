@@ -1,0 +1,451 @@
+{
+  "country": "Paraguay",
+  "countryCode": "PRY",
+  "confederation": "CONMEBOL",
+  "year": 2010,
+  "tournamentId": "wc-2010",
+  "players": [
+    {
+      "id": "pry10villar",
+      "name": "Justo Villar",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 81,
+        "salidas": 74,
+        "penales": 74,
+        "distribucion": 74
+      },
+      "rating": 75,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10bobadilla",
+      "name": "Aldo Bobadilla",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 70,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10barreto",
+      "name": "Diego Barreto",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 68,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10caceres",
+      "name": "Julio César Cáceres",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 75,
+        "velocidad": 77,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 76,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10da-silva",
+      "name": "Paulo da Silva",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 76,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10torres",
+      "name": "Aureliano Torres",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 75,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10veron",
+      "name": "Darío Verón",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 71,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10caniza",
+      "name": "Denis Caniza",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 70,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10alcaraz",
+      "name": "Antolín Alcaraz",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 70,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "pry10bonet",
+      "name": "Carlos Bonet",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 69,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10morel",
+      "name": "Claudio Morel",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 67,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10riveros",
+      "name": "Cristian Riveros",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 78,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "pry10ortigoza",
+      "name": "Néstor Ortigoza",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 84,
+        "pases": 84,
+        "posicionamiento": 84,
+        "duelos": 84,
+        "resistencia": 77
+      },
+      "rating": 78,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10santana",
+      "name": "Jonathan Santana",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 84,
+        "vision": 84,
+        "llegada": 77,
+        "recuperacion": 77,
+        "tecnica": 84
+      },
+      "rating": 77,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10caceres2",
+      "name": "Víctor Cáceres",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 84,
+        "paseFiltrado": 76,
+        "llegada": 84,
+        "regate": 67,
+        "disparo": 66
+      },
+      "rating": 77,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10vera",
+      "name": "Enrique Vera",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 73
+      },
+      "rating": 72,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "pry10barreto2",
+      "name": "Édgar Barreto",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 73,
+        "posicionamiento": 73,
+        "duelos": 73,
+        "resistencia": 65
+      },
+      "rating": 68,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10benitez",
+      "name": "Édgar Benítez",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 77,
+        "disparo": 76,
+        "desmarque": 84
+      },
+      "rating": 79,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10cardozo",
+      "name": "Óscar Cardozo",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 74,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 81
+      },
+      "rating": 77,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10santa-cruz",
+      "name": "Roque Santa Cruz",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "pry10gamarra",
+      "name": "Rodolfo Gamarra",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 78,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 70,
+        "desmarque": 78
+      },
+      "rating": 75,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10valdez",
+      "name": "Nelson Valdez",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 74,
+        "fisico": 74,
+        "velocidad": 66,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 74
+      },
+      "rating": 72,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "pry10barrios",
+      "name": "Lucas Barrios",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 70,
+      "country": "Paraguay",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    }
+  ]
+}

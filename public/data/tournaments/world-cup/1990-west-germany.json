@@ -1,0 +1,413 @@
+{
+  "country": "Alemania",
+  "countryCode": "DEU",
+  "confederation": "UEFA",
+  "year": 1990,
+  "tournamentId": "wc-1990",
+  "players": [
+    {
+      "id": "deu90illgner",
+      "name": "Bodo Illgner",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 81,
+        "salidas": 73,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "deu90kopke",
+      "name": "Andreas Köpke",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "deu90aumann",
+      "name": "Raimond Aumann",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "deu90brehme",
+      "name": "Andreas Brehme",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 82
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 4
+    },
+    {
+      "id": "deu90buchwald",
+      "name": "Guido Buchwald",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "deu90reuter",
+      "name": "Stefan Reuter",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "deu90pflugler",
+      "name": "Hans Pflügler",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "deu90kohler",
+      "name": "Jürgen Kohler",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 73,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "deu90augenthaler",
+      "name": "Klaus Augenthaler",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "deu90berthold",
+      "name": "Thomas Berthold",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 70,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "deu90steiner",
+      "name": "Paul Steiner",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 71
+      },
+      "rating": 70,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "deu90matthaus",
+      "name": "Lothar Matthäus",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 98,
+        "vision": 98,
+        "llegada": 90,
+        "recuperacion": 90,
+        "tecnica": 98
+      },
+      "rating": 96,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 6
+    },
+    {
+      "id": "deu90haler",
+      "name": "Thomas Häßler",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 75,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "deu90thon",
+      "name": "Olaf Thon",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 68
+      },
+      "rating": 75,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "deu90littbarski",
+      "name": "Pierre Littbarski",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 72,
+        "pases": 72,
+        "posicionamiento": 72,
+        "duelos": 72,
+        "resistencia": 63
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 3
+    },
+    {
+      "id": "deu90hermann",
+      "name": "Günter Hermann",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "deu90moller",
+      "name": "Andreas Möller",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 69,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 70,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 1
+    },
+    {
+      "id": "deu90bein",
+      "name": "Uwe Bein",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 71,
+        "paseFiltrado": 71,
+        "llegada": 71,
+        "regate": 63,
+        "disparo": 63
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 1
+    },
+    {
+      "id": "deu90klinsmann",
+      "name": "Jürgen Klinsmann",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 91,
+        "fisico": 91,
+        "velocidad": 82,
+        "cabezazo": 83,
+        "pressing": 83,
+        "desmarque": 91
+      },
+      "rating": 90,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 11
+    },
+    {
+      "id": "deu90voller",
+      "name": "Rudi Völler",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 82,
+        "fisico": 82,
+        "velocidad": 75,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 82
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 8
+    },
+    {
+      "id": "deu90mill",
+      "name": "Frank Mill",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 65,
+        "disparo": 64,
+        "desmarque": 73
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "deu90riedle",
+      "name": "Karl-Heinz Riedle",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 73
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 1
+    }
+  ]
+}

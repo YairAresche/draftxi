@@ -1,0 +1,418 @@
+{
+  "country": "Nigeria",
+  "countryCode": "NGA",
+  "confederation": "CAF",
+  "year": 1994,
+  "tournamentId": "wc-1994",
+  "players": [
+    {
+      "id": "nga94agu",
+      "name": "Alloysius Agu",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 76,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nga94rufai",
+      "name": "Peter Rufai",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 75,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nga94agbonavbare",
+      "name": "Wilfred Agbonavbare",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 72,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 73,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nga94eguavoen",
+      "name": "Augustine Eguavoen",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 75,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nga94iroha",
+      "name": "Benedict Iroha",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 73,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nga94okechukwu",
+      "name": "Uche Okechukwu",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 63,
+        "pases": 64,
+        "duelos": 73
+      },
+      "rating": 72,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nga94ezeugo",
+      "name": "Emeka Ezeugo",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 72,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nga94nwanu",
+      "name": "Chidi Nwanu",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 71,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nga94keshi",
+      "name": "Stephen Keshi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 72,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 69,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nga94okafor",
+      "name": "Uche Okafor",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 75
+      },
+      "rating": 69,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nga94emenalo",
+      "name": "Michael Emenalo",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 63,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 67,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nga94okocha",
+      "name": "Jay-Jay Okocha",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 87,
+        "vision": 87,
+        "llegada": 78,
+        "recuperacion": 78,
+        "tecnica": 87
+      },
+      "rating": 87,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nga94adepoju",
+      "name": "Mutiu Adepoju",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 82,
+        "posicionamiento": 82,
+        "duelos": 82,
+        "resistencia": 74
+      },
+      "rating": 79,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "nga94amunike",
+      "name": "Emmanuel Amunike",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 75,
+        "llegada": 75,
+        "regate": 66,
+        "disparo": 65
+      },
+      "rating": 76,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 2
+    },
+    {
+      "id": "nga94george",
+      "name": "Finidi George",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 78,
+        "resistencia": 70
+      },
+      "rating": 74,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "nga94oliseh",
+      "name": "Sunday Oliseh",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 79
+      },
+      "rating": 74,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "nga94oliha",
+      "name": "Thompson Oliha",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 70,
+        "vision": 70,
+        "llegada": 62,
+        "recuperacion": 62,
+        "tecnica": 70
+      },
+      "rating": 68,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nga94amokachi",
+      "name": "Daniel Amokachi",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 86,
+        "regate": 86,
+        "centro": 79,
+        "disparo": 79,
+        "desmarque": 86
+      },
+      "rating": 80,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 2
+    },
+    {
+      "id": "nga94ekoku",
+      "name": "Efan Ekoku",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 79
+      },
+      "rating": 77,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nga94yekini",
+      "name": "Rashidi Yekini",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 69,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 77
+      },
+      "rating": 75,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "nga94ikpeba",
+      "name": "Victor Ikpeba",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 76
+      },
+      "rating": 73,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "nga94siasia",
+      "name": "Samson Siasia",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 71,
+        "centro": 63,
+        "disparo": 62,
+        "desmarque": 71
+      },
+      "rating": 72,
+      "country": "Nigeria",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    }
+  ]
+}

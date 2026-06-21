@@ -1,0 +1,425 @@
+{
+  "country": "Unión Soviética",
+  "countryCode": "SUN",
+  "confederation": "UEFA",
+  "year": 1970,
+  "tournamentId": "wc-1970",
+  "players": [
+    {
+      "id": "sun70yashin",
+      "name": "Lev Yashin",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 90,
+        "manejo": 90,
+        "salidas": 82,
+        "penales": 81,
+        "distribucion": 81
+      },
+      "rating": 89,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70kavazashvili",
+      "name": "Anzor Kavazashvili",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 82,
+        "manejo": 82,
+        "salidas": 75,
+        "penales": 75,
+        "distribucion": 75
+      },
+      "rating": 77,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70shmuts",
+      "name": "Leonid Shmuts",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 72,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 73,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70afonin",
+      "name": "Valentin Afonin",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 77,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70kaplichny",
+      "name": "Vladimir Kaplichny",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 76,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70khurtsilava",
+      "name": "Murtaz Khurtsilava",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 76,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70shesternyov",
+      "name": "Albert Shesternyov",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 75,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70dzodzuashvili",
+      "name": "Revaz Dzodzuashvili",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 70,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70logofet",
+      "name": "Gennady Logofet",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 69,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70lovchev",
+      "name": "Evgeny Lovchev",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 68,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70asatiani",
+      "name": "Kakhi Asatiani",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 77,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "sun70kiselyov",
+      "name": "Nikolay Kiselyov",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 83,
+        "vision": 83,
+        "llegada": 76,
+        "recuperacion": 76,
+        "tecnica": 83
+      },
+      "rating": 76,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70zykov",
+      "name": "Valery Zykov",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 77,
+        "pases": 77,
+        "posicionamiento": 77,
+        "duelos": 77,
+        "resistencia": 69
+      },
+      "rating": 75,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70muntyan",
+      "name": "Vladimir Muntyan",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 73,
+        "paseFiltrado": 73,
+        "llegada": 73,
+        "regate": 64,
+        "disparo": 64
+      },
+      "rating": 72,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70serebryanikov",
+      "name": "Viktor Serebryanikov",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 70,
+        "vision": 70,
+        "llegada": 61,
+        "recuperacion": 61,
+        "tecnica": 70
+      },
+      "rating": 69,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70byshovets",
+      "name": "Anatoliy Byshovets",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 82,
+        "fisico": 82,
+        "velocidad": 73,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 82
+      },
+      "rating": 80,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 4
+    },
+    {
+      "id": "sun70porkujan",
+      "name": "Valeriy Porkujan",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 68,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 77
+      },
+      "rating": 75,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 4
+    },
+    {
+      "id": "sun70yevriuzhikin",
+      "name": "Gennady Yevriuzhikin",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 77
+      },
+      "rating": 74,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70metreveli",
+      "name": "Slava Metreveli",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 78
+      },
+      "rating": 73,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70nodia",
+      "name": "Givi Nodia",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 74,
+        "fisico": 74,
+        "velocidad": 65,
+        "cabezazo": 65,
+        "pressing": 65,
+        "desmarque": 74
+      },
+      "rating": 73,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70puzach",
+      "name": "Anatoliy Puzach",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 78
+      },
+      "rating": 73,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "sun70khmelnitsky",
+      "name": "Vitaly Khmelnitsky",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 77
+      },
+      "rating": 71,
+      "country": "Unión Soviética",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    }
+  ]
+}

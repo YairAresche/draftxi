@@ -1,0 +1,394 @@
+{
+  "country": "Yugoslavia",
+  "countryCode": "YUG",
+  "confederation": "UEFA",
+  "year": 1998,
+  "tournamentId": "wc-1998",
+  "players": [
+    {
+      "id": "yug98lekovic",
+      "name": "Dragoje Leković",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 75,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "yug98kralj",
+      "name": "Ivica Kralj",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 74,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "yug98saveljic",
+      "name": "Niša Saveljić",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 74,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "yug98mirkovic",
+      "name": "Zoran Mirković",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 73,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "yug98ukic",
+      "name": "Miroslav Đukić",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 69,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "yug98petrovic",
+      "name": "Željko Petrović",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 59,
+        "pases": 59,
+        "duelos": 68
+      },
+      "rating": 69,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "yug98orovic",
+      "name": "Goran Đorović",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 67,
+        "intercepciones": 67,
+        "velocidad": 57,
+        "pases": 58,
+        "duelos": 67
+      },
+      "rating": 68,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "yug98mihajlovic",
+      "name": "Siniša Mihajlović",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 67,
+        "intercepciones": 68,
+        "velocidad": 58,
+        "pases": 59,
+        "duelos": 67
+      },
+      "rating": 68,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "yug98komljenovic",
+      "name": "Slobodan Komljenović",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 68,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 2
+    },
+    {
+      "id": "yug98stevic",
+      "name": "Miroslav Stević",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 70,
+        "disparo": 69
+      },
+      "rating": 77,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "yug98stojkovic",
+      "name": "Dragan Stojković",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 75,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 3
+    },
+    {
+      "id": "yug98brnovic",
+      "name": "Branko Brnović",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 73,
+        "recuperacion": 73,
+        "tecnica": 80
+      },
+      "rating": 74,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "yug98jugovic",
+      "name": "Vladimir Jugović",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 73
+      },
+      "rating": 73,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "yug98savicevic",
+      "name": "Dejan Savićević",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 66,
+        "disparo": 66
+      },
+      "rating": 71,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "yug98jokanovic",
+      "name": "Slaviša Jokanović",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 72,
+        "pases": 72,
+        "posicionamiento": 72,
+        "duelos": 72,
+        "resistencia": 64
+      },
+      "rating": 70,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "yug98stankovic",
+      "name": "Dejan Stanković",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 62,
+        "recuperacion": 62,
+        "tecnica": 71
+      },
+      "rating": 70,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "yug98drulovic",
+      "name": "Ljubinko Drulović",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 71,
+        "pases": 71,
+        "posicionamiento": 71,
+        "duelos": 71,
+        "resistencia": 63
+      },
+      "rating": 69,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "yug98govedarica",
+      "name": "Dejan Govedarica",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 64,
+        "recuperacion": 63,
+        "tecnica": 72
+      },
+      "rating": 69,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "yug98mijatovic",
+      "name": "Predrag Mijatović",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 79
+      },
+      "rating": 74,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "yug98ognjenovic",
+      "name": "Perica Ognjenović",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 81
+      },
+      "rating": 74,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "yug98milosevic",
+      "name": "Savo Milošević",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 77
+      },
+      "rating": 73,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "yug98kovacevic",
+      "name": "Darko Kovačević",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 70,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 76
+      },
+      "rating": 69,
+      "country": "Yugoslavia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    }
+  ]
+}

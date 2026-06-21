@@ -1,0 +1,483 @@
+{
+  "country": "Bélgica",
+  "countryCode": "BEL",
+  "confederation": "UEFA",
+  "year": 2022,
+  "tournamentId": "wc-2022",
+  "players": [
+    {
+      "id": "bel22casteels",
+      "name": "Koen Casteels",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 75,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22courtois",
+      "name": "Thibaut Courtois",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 72,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 73,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22mignolet",
+      "name": "Simon Mignolet",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 70,
+        "manejo": 70,
+        "salidas": 62,
+        "penales": 61,
+        "distribucion": 61
+      },
+      "rating": 69,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22theate",
+      "name": "Arthur Theate",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 78
+      },
+      "rating": 76,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22vertonghen",
+      "name": "Jan Vertonghen",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 78
+      },
+      "rating": 76,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 2
+    },
+    {
+      "id": "bel22dendoncker",
+      "name": "Leander Dendoncker",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 74,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22alderweireld",
+      "name": "Toby Alderweireld",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 72,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22faes",
+      "name": "Wout Faes",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22debast",
+      "name": "Zeno Debast",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 69,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22de-bruyne",
+      "name": "Kevin De Bruyne",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 98,
+        "vision": 98,
+        "llegada": 90,
+        "recuperacion": 90,
+        "tecnica": 98
+      },
+      "rating": 92,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 2
+    },
+    {
+      "id": "bel22castagne",
+      "name": "Timothy Castagne",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 84,
+        "paseFiltrado": 84,
+        "llegada": 84,
+        "regate": 76,
+        "disparo": 77
+      },
+      "rating": 77,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22tielemans",
+      "name": "Youri Tielemans",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 73,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22meunier",
+      "name": "Thomas Meunier",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 75,
+        "llegada": 75,
+        "regate": 66,
+        "disparo": 66
+      },
+      "rating": 73,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "bel22onana",
+      "name": "Amadou Onana",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 78,
+        "resistencia": 70
+      },
+      "rating": 73,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22witsel",
+      "name": "Axel Witsel",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 73,
+        "resistencia": 66
+      },
+      "rating": 69,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22vanaken",
+      "name": "Hans Vanaken",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 69,
+        "vision": 69,
+        "llegada": 60,
+        "recuperacion": 60,
+        "tecnica": 69
+      },
+      "rating": 69,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22hazard",
+      "name": "Thorgan Hazard",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 92,
+        "regate": 92,
+        "centro": 84,
+        "disparo": 84,
+        "desmarque": 92
+      },
+      "rating": 87,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22lukaku",
+      "name": "Romelu Lukaku",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 92,
+        "fisico": 92,
+        "velocidad": 85,
+        "cabezazo": 85,
+        "pressing": 85,
+        "desmarque": 92
+      },
+      "rating": 87,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 5
+    },
+    {
+      "id": "bel22hazard2",
+      "name": "Eden Hazard",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 92,
+        "regate": 92,
+        "centro": 84,
+        "disparo": 84,
+        "desmarque": 92
+      },
+      "rating": 87,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 3
+    },
+    {
+      "id": "bel22batshuayi",
+      "name": "Michy Batshuayi",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 75,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 83
+      },
+      "rating": 79,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 2
+    },
+    {
+      "id": "bel22mertens",
+      "name": "Dries Mertens",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 76,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 82
+      },
+      "rating": 77,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 2
+    },
+    {
+      "id": "bel22trossard",
+      "name": "Leandro Trossard",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 78
+      },
+      "rating": 74,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22carrasco",
+      "name": "Yannick Carrasco",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 66,
+        "disparo": 67,
+        "desmarque": 75
+      },
+      "rating": 73,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22de-ketelaere",
+      "name": "Charles De Ketelaere",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 74,
+        "centro": 65,
+        "disparo": 65,
+        "desmarque": 73
+      },
+      "rating": 72,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22doku",
+      "name": "Jérémy Doku",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 72,
+        "fisico": 72,
+        "velocidad": 62,
+        "cabezazo": 63,
+        "pressing": 63,
+        "desmarque": 72
+      },
+      "rating": 72,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "bel22openda",
+      "name": "Loïs Openda",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 74,
+        "fisico": 73,
+        "velocidad": 66,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 74
+      },
+      "rating": 70,
+      "country": "Bélgica",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    }
+  ]
+}

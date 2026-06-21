@@ -1,0 +1,431 @@
+{
+  "country": "Rusia",
+  "countryCode": "RUS",
+  "confederation": "UEFA",
+  "year": 2018,
+  "tournamentId": "wc-2018",
+  "players": [
+    {
+      "id": "rus18akinfeev",
+      "name": "Igor Akinfeev",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 82,
+        "manejo": 82,
+        "salidas": 74,
+        "penales": 74,
+        "distribucion": 74
+      },
+      "rating": 76,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "rus18gabulov",
+      "name": "Vladimir Gabulov",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 83,
+        "manejo": 83,
+        "salidas": 76,
+        "penales": 75,
+        "distribucion": 75
+      },
+      "rating": 76,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "rus18lunyov",
+      "name": "Andrey Lunyov",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 64,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 70,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "rus18kudryashov",
+      "name": "Fyodor Kudryashov",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 76,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "rus18fernandes",
+      "name": "Mário Fernandes",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 75,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "rus18semyonov",
+      "name": "Andrei Semyonov",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 77
+      },
+      "rating": 74,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "rus18kutepov",
+      "name": "Ilya Kutepov",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 70,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "rus18granat",
+      "name": "Vladimir Granat",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 70,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "rus18smolnikov",
+      "name": "Igor Smolnikov",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 70,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "rus18ignashevich",
+      "name": "Sergei Ignashevich",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 72
+      },
+      "rating": 69,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "rus18cheryshev",
+      "name": "Denis Cheryshev",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 85,
+        "pases": 85,
+        "posicionamiento": 85,
+        "duelos": 85,
+        "resistencia": 77
+      },
+      "rating": 79,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 4
+    },
+    {
+      "id": "rus18zobnin",
+      "name": "Roman Zobnin",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 78,
+        "vision": 79,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 77,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "rus18gazinsky",
+      "name": "Yury Gazinsky",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 81,
+        "vision": 80,
+        "llegada": 73,
+        "recuperacion": 73,
+        "tecnica": 80
+      },
+      "rating": 75,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "rus18zhirkov",
+      "name": "Yuri Zhirkov",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 81
+      },
+      "rating": 74,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "rus18samedov",
+      "name": "Aleksandr Samedov",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 67
+      },
+      "rating": 74,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "rus18miranchuk",
+      "name": "Aleksei Miranchuk",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 67
+      },
+      "rating": 73,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "rus18miranchuk2",
+      "name": "Anton Miranchuk",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 73,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "rus18yerokhin",
+      "name": "Aleksandr Yerokhin",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 68
+      },
+      "rating": 73,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "rus18kuzyayev",
+      "name": "Daler Kuzyayev",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 71,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "rus18dzagoev",
+      "name": "Alan Dzagoev",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 66,
+        "disparo": 67
+      },
+      "rating": 71,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "rus18golovin",
+      "name": "Aleksandr Golovin",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 70,
+        "paseFiltrado": 70,
+        "llegada": 70,
+        "regate": 61,
+        "disparo": 60
+      },
+      "rating": 70,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "rus18dzyuba",
+      "name": "Artem Dzyuba",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 75,
+        "disparo": 75,
+        "desmarque": 83
+      },
+      "rating": 80,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 3
+    },
+    {
+      "id": "rus18smolov",
+      "name": "Fyodor Smolov",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 75,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 81
+      },
+      "rating": 75,
+      "country": "Rusia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    }
+  ]
+}

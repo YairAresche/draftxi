@@ -1,0 +1,435 @@
+{
+  "country": "Italia",
+  "countryCode": "ITA",
+  "confederation": "UEFA",
+  "year": 1970,
+  "tournamentId": "wc-1970",
+  "players": [
+    {
+      "id": "ita70albertosi",
+      "name": "Enrico Albertosi",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 82,
+        "manejo": 82,
+        "salidas": 75,
+        "penales": 75,
+        "distribucion": 75
+      },
+      "rating": 75,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ita70vieri",
+      "name": "Lido Vieri",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 80,
+        "salidas": 72,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 75,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ita70zoff",
+      "name": "Dino Zoff",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 70,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ita70facchetti",
+      "name": "Giacinto Facchetti",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 92,
+        "intercepciones": 92,
+        "velocidad": 83,
+        "pases": 83,
+        "duelos": 92
+      },
+      "rating": 91,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ita70furino",
+      "name": "Giuseppe Furino",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 77,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ita70burgnich",
+      "name": "Tarcisio Burgnich",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 75,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "ita70rosato",
+      "name": "Roberto Rosato",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 75,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ita70cera",
+      "name": "Pierluigi Cera",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 74,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 73
+      },
+      "rating": 74,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ita70juliano",
+      "name": "Antonio Juliano",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 70,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ita70poletti",
+      "name": "Fabrizio Poletti",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 58,
+        "pases": 59,
+        "duelos": 67
+      },
+      "rating": 68,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ita70puia",
+      "name": "Giorgio Puia",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 68,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ita70rivera",
+      "name": "Gianni Rivera",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 96,
+        "paseFiltrado": 96,
+        "llegada": 96,
+        "regate": 89,
+        "disparo": 89
+      },
+      "rating": 91,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 3
+    },
+    {
+      "id": "ita70de-sisti",
+      "name": "Giancarlo De Sisti",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 85,
+        "pases": 77,
+        "posicionamiento": 85,
+        "duelos": 85,
+        "resistencia": 78
+      },
+      "rating": 78,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ita70ferrante",
+      "name": "Ugo Ferrante",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 77,
+        "resistencia": 69
+      },
+      "rating": 76,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ita70mazzola",
+      "name": "Sandro Mazzola",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 73,
+        "recuperacion": 63,
+        "tecnica": 72
+      },
+      "rating": 73,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "ita70niccolai",
+      "name": "Comunardo Niccolai",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 69,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 72,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ita70bertini",
+      "name": "Mario Bertini",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 76
+      },
+      "rating": 70,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ita70riva",
+      "name": "Gigi Riva",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 92,
+        "regate": 92,
+        "centro": 84,
+        "disparo": 83,
+        "desmarque": 92
+      },
+      "rating": 91,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 3
+    },
+    {
+      "id": "ita70gori",
+      "name": "Sergio Gori",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 84
+      },
+      "rating": 78,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ita70prati",
+      "name": "Pierino Prati",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 76,
+        "disparo": 76,
+        "desmarque": 83
+      },
+      "rating": 77,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ita70boninsegna",
+      "name": "Roberto Boninsegna",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 70,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 77
+      },
+      "rating": 74,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 2
+    },
+    {
+      "id": "ita70domenghini",
+      "name": "Angelo Domenghini",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 77
+      },
+      "rating": 71,
+      "country": "Italia",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    }
+  ]
+}

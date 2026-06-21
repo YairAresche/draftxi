@@ -1,0 +1,505 @@
+{
+  "country": "Inglaterra",
+  "countryCode": "ENG",
+  "confederation": "UEFA",
+  "year": 2022,
+  "tournamentId": "wc-2022",
+  "players": [
+    {
+      "id": "eng22ramsdale",
+      "name": "Aaron Ramsdale",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 68,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 76,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "eng22pickford",
+      "name": "Jordan Pickford",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 80,
+        "salidas": 72,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 75,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "eng22pope",
+      "name": "Nick Pope",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 71,
+        "salidas": 63,
+        "penales": 63,
+        "distribucion": 63
+      },
+      "rating": 70,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "eng22shaw",
+      "name": "Luke Shaw",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 77,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "eng22walker",
+      "name": "Kyle Walker",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 76,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "eng22stones",
+      "name": "John Stones",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 75,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 2
+    },
+    {
+      "id": "eng22trippier",
+      "name": "Kieran Trippier",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "eng22alexanderarnold",
+      "name": "Trent Alexander-Arnold",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "eng22white",
+      "name": "Ben White",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "eng22coady",
+      "name": "Conor Coady",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 71,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "eng22maguire",
+      "name": "Harry Maguire",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 70,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "eng22dier",
+      "name": "Eric Dier",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 70,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "eng22foden",
+      "name": "Phil Foden",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 85,
+        "vision": 85,
+        "llegada": 77,
+        "recuperacion": 78,
+        "tecnica": 85
+      },
+      "rating": 79,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "eng22mount",
+      "name": "Mason Mount",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 84,
+        "paseFiltrado": 84,
+        "llegada": 84,
+        "regate": 67,
+        "disparo": 66
+      },
+      "rating": 77,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "eng22henderson",
+      "name": "Jordan Henderson",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 76
+      },
+      "rating": 73,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "eng22phillips",
+      "name": "Kalvin Phillips",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 66,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 71,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "eng22bellingham",
+      "name": "Jude Bellingham",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 67
+      },
+      "rating": 71,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "eng22maddison",
+      "name": "James Maddison",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 73
+      },
+      "rating": 71,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "eng22rice",
+      "name": "Declan Rice",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 70,
+        "pases": 70,
+        "posicionamiento": 70,
+        "duelos": 70,
+        "resistencia": 61
+      },
+      "rating": 70,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "eng22gallagher",
+      "name": "Conor Gallagher",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 66,
+        "disparo": 67
+      },
+      "rating": 69,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "eng22kane",
+      "name": "Harry Kane",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 94,
+        "fisico": 94,
+        "velocidad": 86,
+        "cabezazo": 86,
+        "pressing": 86,
+        "desmarque": 94
+      },
+      "rating": 90,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 8
+    },
+    {
+      "id": "eng22saka",
+      "name": "Bukayo Saka",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 80
+      },
+      "rating": 80,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 3
+    },
+    {
+      "id": "eng22grealish",
+      "name": "Jack Grealish",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 70,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 79
+      },
+      "rating": 79,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "eng22sterling",
+      "name": "Raheem Sterling",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 79,
+        "regate": 80,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 79
+      },
+      "rating": 79,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "eng22rashford",
+      "name": "Marcus Rashford",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 82,
+        "fisico": 81,
+        "velocidad": 74,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 82
+      },
+      "rating": 77,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 3
+    },
+    {
+      "id": "eng22wilson",
+      "name": "Callum Wilson",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 71,
+        "regate": 71,
+        "centro": 63,
+        "disparo": 63,
+        "desmarque": 71
+      },
+      "rating": 69,
+      "country": "Inglaterra",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    }
+  ]
+}

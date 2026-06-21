@@ -1,0 +1,359 @@
+{
+  "country": "Estados Unidos",
+  "countryCode": "USA",
+  "confederation": "CONCACAF",
+  "year": 1950,
+  "tournamentId": "wc-1950",
+  "players": [
+    {
+      "id": "usa50gardassanich",
+      "name": "Gino Gardassanich",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 80,
+        "salidas": 72,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 76,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "usa50borghi",
+      "name": "Frank Borghi",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 72,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "usa50annis",
+      "name": "Robert Annis",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 73,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "usa50keough",
+      "name": "Harry Keough",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 73,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "usa50maca",
+      "name": "Joe Maca",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 69,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 1
+    },
+    {
+      "id": "usa50coombes",
+      "name": "Geoff Coombes",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 73
+      },
+      "rating": 68,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "usa50bahr",
+      "name": "Walter Bahr",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 81,
+        "resistencia": 73
+      },
+      "rating": 76,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "usa50colombo",
+      "name": "Charlie Colombo",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 82
+      },
+      "rating": 76,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "usa50mcilvenny",
+      "name": "Ed McIlvenny",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 78
+      },
+      "rating": 75,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "usa50craddock",
+      "name": "Robert Craddock",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 72,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 81
+      },
+      "rating": 79,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "usa50gaetjens",
+      "name": "Joe Gaetjens",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 79,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 1
+    },
+    {
+      "id": "usa50wolanin",
+      "name": "Adam Wolanin",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 84,
+        "fisico": 84,
+        "velocidad": 77,
+        "cabezazo": 76,
+        "pressing": 76,
+        "desmarque": 84
+      },
+      "rating": 78,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "usa50souza",
+      "name": "Ed Souza",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 74,
+        "disparo": 75,
+        "desmarque": 82
+      },
+      "rating": 77,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "usa50souza2",
+      "name": "John Souza",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 82,
+        "fisico": 82,
+        "velocidad": 75,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 82
+      },
+      "rating": 77,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "usa50moniz",
+      "name": "Frank Moniz",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 67,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 76
+      },
+      "rating": 76,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "usa50pariani",
+      "name": "Gino Pariani",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 79
+      },
+      "rating": 72,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 1
+    },
+    {
+      "id": "usa50diorio",
+      "name": "Nicholas DiOrio",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 75,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 75
+      },
+      "rating": 71,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "usa50wallace",
+      "name": "Frank Wallace",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 70,
+        "fisico": 70,
+        "velocidad": 60,
+        "cabezazo": 61,
+        "pressing": 61,
+        "desmarque": 70
+      },
+      "rating": 71,
+      "country": "Estados Unidos",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 1
+    }
+  ]
+}

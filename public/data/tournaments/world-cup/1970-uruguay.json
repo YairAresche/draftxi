@@ -1,0 +1,410 @@
+{
+  "country": "Uruguay",
+  "countryCode": "URY",
+  "confederation": "CONMEBOL",
+  "year": 1970,
+  "tournamentId": "wc-1970",
+  "players": [
+    {
+      "id": "ury70mazurkiewicz",
+      "name": "Ladislao Mazurkiewicz",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 83,
+        "manejo": 83,
+        "salidas": 76,
+        "penales": 76,
+        "distribucion": 76
+      },
+      "rating": 77,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ury70corbo",
+      "name": "Walter Corbo",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 81,
+        "salidas": 74,
+        "penales": 74,
+        "distribucion": 74
+      },
+      "rating": 76,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ury70santos",
+      "name": "Héctor Santos",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 72,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 73,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ury70ancheta",
+      "name": "Atilio Ancheta",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 76,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ury70mujica",
+      "name": "Juan Mujica",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 81
+      },
+      "rating": 75,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "ury70caetano",
+      "name": "Omar Caetano",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 75,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ury70sandoval",
+      "name": "Rodolfo Sandoval",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ury70matosas",
+      "name": "Roberto Matosas",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 71,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ury70camera",
+      "name": "Francisco Cámera",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 68,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 69,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ury70ubina",
+      "name": "Luis Ubiña",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 67,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ury70esparrago",
+      "name": "Víctor Espárrago",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 77,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "ury70rocha",
+      "name": "Pedro Rocha",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 75
+      },
+      "rating": 75,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "ury70maneiro",
+      "name": "Ildo Maneiro",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 79,
+        "paseFiltrado": 79,
+        "llegada": 79,
+        "regate": 71,
+        "disparo": 72
+      },
+      "rating": 74,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "ury70montero-castillo",
+      "name": "Julio Montero Castillo",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 78,
+        "resistencia": 71
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ury70cortes",
+      "name": "Julio César Cortés",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 66
+      },
+      "rating": 71,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "ury70fontes",
+      "name": "Dagoberto Fontes",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 68,
+        "vision": 68,
+        "llegada": 59,
+        "recuperacion": 59,
+        "tecnica": 68
+      },
+      "rating": 69,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ury70cubilla",
+      "name": "Luis Cubilla",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 93,
+        "regate": 92,
+        "centro": 85,
+        "disparo": 85,
+        "desmarque": 93
+      },
+      "rating": 87,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 2
+    },
+    {
+      "id": "ury70morales",
+      "name": "Julio Morales",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 80
+      },
+      "rating": 75,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ury70zubia",
+      "name": "Oscar Zubia",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 81
+      },
+      "rating": 75,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ury70gomez",
+      "name": "Alberto Gómez",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 69,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 76
+      },
+      "rating": 73,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ury70losada",
+      "name": "Julio Losada",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "ury70bareno",
+      "name": "Rúben Bareño",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 76
+      },
+      "rating": 71,
+      "country": "Uruguay",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    }
+  ]
+}

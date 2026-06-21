@@ -1,0 +1,415 @@
+{
+  "country": "Inglaterra",
+  "countryCode": "ENG",
+  "confederation": "UEFA",
+  "year": 1990,
+  "tournamentId": "wc-1990",
+  "players": [
+    {
+      "id": "eng90shilton",
+      "name": "Peter Shilton",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 84,
+        "manejo": 84,
+        "salidas": 77,
+        "penales": 77,
+        "distribucion": 77
+      },
+      "rating": 78,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "eng90seaman",
+      "name": "David Seaman",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 81,
+        "salidas": 73,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 76,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "eng90woods",
+      "name": "Chris Woods",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 69,
+        "manejo": 69,
+        "salidas": 60,
+        "penales": 59,
+        "distribucion": 59
+      },
+      "rating": 69,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "eng90butcher",
+      "name": "Terry Butcher",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 76,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "eng90wright",
+      "name": "Mark Wright",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 76,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 1
+    },
+    {
+      "id": "eng90pearce",
+      "name": "Stuart Pearce",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "eng90stevens",
+      "name": "Gary Stevens",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 71,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "eng90walker",
+      "name": "Des Walker",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 71,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "eng90dorigo",
+      "name": "Tony Dorigo",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 70,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "eng90parker",
+      "name": "Paul Parker",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 75
+      },
+      "rating": 69,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "eng90platt",
+      "name": "David Platt",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 81,
+        "resistencia": 73
+      },
+      "rating": 78,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 3
+    },
+    {
+      "id": "eng90hodge",
+      "name": "Steve Hodge",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 80
+      },
+      "rating": 77,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "eng90gascoigne",
+      "name": "Paul Gascoigne",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 75,
+        "llegada": 75,
+        "regate": 66,
+        "disparo": 65
+      },
+      "rating": 76,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "eng90webb",
+      "name": "Neil Webb",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 72
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "eng90robson",
+      "name": "Bryan Robson",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 2
+    },
+    {
+      "id": "eng90waddle",
+      "name": "Chris Waddle",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 72,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "eng90barnes",
+      "name": "John Barnes",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 72,
+        "paseFiltrado": 72,
+        "llegada": 72,
+        "regate": 64,
+        "disparo": 64
+      },
+      "rating": 70,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "eng90steven",
+      "name": "Trevor Steven",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 70,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "eng90mcmahon",
+      "name": "Steve McMahon",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 69,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "eng90lineker",
+      "name": "Gary Lineker",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 91,
+        "fisico": 90,
+        "velocidad": 81,
+        "cabezazo": 81,
+        "pressing": 82,
+        "desmarque": 90
+      },
+      "rating": 91,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 10
+    },
+    {
+      "id": "eng90beardsley",
+      "name": "Peter Beardsley",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 76,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 83
+      },
+      "rating": 77,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 1
+    },
+    {
+      "id": "eng90bull",
+      "name": "Steve Bull",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 72
+      },
+      "rating": 70,
+      "country": "Inglaterra",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    }
+  ]
+}

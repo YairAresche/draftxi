@@ -1,0 +1,411 @@
+{
+  "country": "Italia",
+  "countryCode": "ITA",
+  "confederation": "UEFA",
+  "year": 1986,
+  "tournamentId": "wc-1986",
+  "players": [
+    {
+      "id": "ita86tancredi",
+      "name": "Franco Tancredi",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 81,
+        "salidas": 73,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 77,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ita86zenga",
+      "name": "Walter Zenga",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 77,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ita86galli",
+      "name": "Giovanni Galli",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 64,
+        "penales": 64,
+        "distribucion": 64
+      },
+      "rating": 73,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ita86baresi",
+      "name": "Giuseppe Baresi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 93,
+        "intercepciones": 93,
+        "velocidad": 84,
+        "pases": 84,
+        "duelos": 93
+      },
+      "rating": 91,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ita86scirea",
+      "name": "Gaetano Scirea",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 74,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ita86vierchowod",
+      "name": "Pietro Vierchowod",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 72,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ita86bergomi",
+      "name": "Giuseppe Bergomi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 70,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ita86collovati",
+      "name": "Fulvio Collovati",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 70,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ita86cabrini",
+      "name": "Antonio Cabrini",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 69,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    },
+    {
+      "id": "ita86tricella",
+      "name": "Roberto Tricella",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 67,
+        "intercepciones": 67,
+        "velocidad": 57,
+        "pases": 68,
+        "duelos": 75
+      },
+      "rating": 68,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ita86nela",
+      "name": "Sebastiano Nela",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 67,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ita86tardelli",
+      "name": "Marco Tardelli",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 80,
+        "pases": 80,
+        "posicionamiento": 80,
+        "duelos": 80,
+        "resistencia": 71
+      },
+      "rating": 79,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 2
+    },
+    {
+      "id": "ita86de-napoli",
+      "name": "Fernando De Napoli",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 77,
+        "paseFiltrado": 77,
+        "llegada": 77,
+        "regate": 68,
+        "disparo": 67
+      },
+      "rating": 76,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ita86ancelotti",
+      "name": "Carlo Ancelotti",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 68
+      },
+      "rating": 72,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ita86bagni",
+      "name": "Salvatore Bagni",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 75,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 75
+      },
+      "rating": 70,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ita86di-gennaro",
+      "name": "Antonio Di Gennaro",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 73
+      },
+      "rating": 70,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ita86altobelli",
+      "name": "Alessandro Altobelli",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 82
+      },
+      "rating": 80,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 5
+    },
+    {
+      "id": "ita86rossi",
+      "name": "Paolo Rossi",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 84
+      },
+      "rating": 80,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 9
+    },
+    {
+      "id": "ita86vialli",
+      "name": "Gianluca Vialli",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 84
+      },
+      "rating": 78,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ita86galderisi",
+      "name": "Giuseppe Galderisi",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 69,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 77
+      },
+      "rating": 74,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ita86conti",
+      "name": "Bruno Conti",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 74,
+        "fisico": 74,
+        "velocidad": 65,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 74
+      },
+      "rating": 73,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    },
+    {
+      "id": "ita86serena",
+      "name": "Aldo Serena",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 76
+      },
+      "rating": 72,
+      "country": "Italia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    }
+  ]
+}

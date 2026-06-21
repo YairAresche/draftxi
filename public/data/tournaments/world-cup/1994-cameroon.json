@@ -1,0 +1,408 @@
+{
+  "country": "Camerún",
+  "countryCode": "CMR",
+  "confederation": "CAF",
+  "year": 1994,
+  "tournamentId": "wc-1994",
+  "players": [
+    {
+      "id": "cmr94bell",
+      "name": "Joseph-Antoine Bell",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 67,
+        "penales": 68,
+        "distribucion": 67
+      },
+      "rating": 76,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94nkono",
+      "name": "Thomas N'Kono",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 74,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94songoo",
+      "name": "Jacques Songo'o",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 72,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94agbo",
+      "name": "Hans Agbo",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 74,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94kanabiyik",
+      "name": "André Kana-Biyik",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 72,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94tataw",
+      "name": "Stephen Tataw",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 72,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94ndip",
+      "name": "Victor N'Dip",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 71,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94kalla",
+      "name": "Raymond Kalla",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 71
+      },
+      "rating": 69,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94song",
+      "name": "Rigobert Song",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 68,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94ekeme",
+      "name": "Samuel Ekemé",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 68,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94fiala",
+      "name": "Jean-Pierre Fiala",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 82,
+        "pases": 82,
+        "posicionamiento": 82,
+        "duelos": 82,
+        "resistencia": 75
+      },
+      "rating": 77,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94libiih",
+      "name": "Thomas Libiih",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 68
+      },
+      "rating": 76,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94foe",
+      "name": "Marc-Vivien Foé",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 75,
+        "recuperacion": 75,
+        "tecnica": 82
+      },
+      "rating": 76,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94mbouh",
+      "name": "Émile Mbouh",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 74,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94loga",
+      "name": "Paul Loga",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 80,
+        "paseFiltrado": 80,
+        "llegada": 80,
+        "regate": 73,
+        "disparo": 73
+      },
+      "rating": 74,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94maboang",
+      "name": "Emmanuel Maboang",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 63,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 69,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94omambiyik",
+      "name": "François Omam-Biyik",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 85,
+        "fisico": 85,
+        "velocidad": 79,
+        "cabezazo": 78,
+        "pressing": 78,
+        "desmarque": 86
+      },
+      "rating": 80,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 2
+    },
+    {
+      "id": "cmr94milla",
+      "name": "Roger Milla",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 78,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 5
+    },
+    {
+      "id": "cmr94mfede",
+      "name": "Louis-Paul M'Fédé",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 78
+      },
+      "rating": 75,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94tchami",
+      "name": "Alphonse Tchami",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 72,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 75,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "cmr94embe",
+      "name": "David Embé",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 80
+      },
+      "rating": 74,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "cmr94mouyeme",
+      "name": "Georges Mouyémé",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 77
+      },
+      "rating": 73,
+      "country": "Camerún",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    }
+  ]
+}

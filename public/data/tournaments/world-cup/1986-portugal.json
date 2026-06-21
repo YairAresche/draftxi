@@ -1,0 +1,411 @@
+{
+  "country": "Portugal",
+  "countryCode": "PRT",
+  "confederation": "UEFA",
+  "year": 1986,
+  "tournamentId": "wc-1986",
+  "players": [
+    {
+      "id": "prt86bento",
+      "name": "Manuel Bento",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 76,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86martins",
+      "name": "Jorge Martins",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 72,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86damas",
+      "name": "Vítor Damas",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 78,
+        "salidas": 70,
+        "penales": 71,
+        "distribucion": 70
+      },
+      "rating": 71,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86pinto",
+      "name": "João Pinto",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 77
+      },
+      "rating": 77,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86alvaro",
+      "name": "Álvaro",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 76,
+        "pases": 75,
+        "duelos": 82
+      },
+      "rating": 76,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86inacio",
+      "name": "Augusto Inácio",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 81
+      },
+      "rating": 75,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86morato",
+      "name": "António Morato",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 74,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86antonio",
+      "name": "José António",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 73,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86oliveira",
+      "name": "António Oliveira",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 72,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86frederico",
+      "name": "Frederico",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 71,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86bandeirinha",
+      "name": "Fernando Bandeirinha",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 78,
+        "velocidad": 72,
+        "pases": 71,
+        "duelos": 78
+      },
+      "rating": 71,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86sobrinho",
+      "name": "Luís Sobrinho",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86manuel",
+      "name": "Carlos Manuel",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 79
+      },
+      "rating": 77,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    },
+    {
+      "id": "prt86magalhaes",
+      "name": "Jaime Magalhães",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 83,
+        "vision": 83,
+        "llegada": 75,
+        "recuperacion": 75,
+        "tecnica": 83
+      },
+      "rating": 77,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86diamantino",
+      "name": "Diamantino",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 67
+      },
+      "rating": 76,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    },
+    {
+      "id": "prt86sousa",
+      "name": "António Sousa",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 80,
+        "pases": 80,
+        "posicionamiento": 80,
+        "duelos": 80,
+        "resistencia": 73
+      },
+      "rating": 74,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86pacheco",
+      "name": "Jaime Pacheco",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 73,
+        "paseFiltrado": 73,
+        "llegada": 73,
+        "regate": 74,
+        "disparo": 75
+      },
+      "rating": 74,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86ribeiro",
+      "name": "José Ribeiro",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 62,
+        "recuperacion": 72,
+        "tecnica": 79
+      },
+      "rating": 72,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86andre",
+      "name": "António André",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 69,
+        "vision": 69,
+        "llegada": 60,
+        "recuperacion": 60,
+        "tecnica": 69
+      },
+      "rating": 68,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86gomes",
+      "name": "Fernando Gomes",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 73,
+        "cabezazo": 73,
+        "pressing": 74,
+        "desmarque": 81
+      },
+      "rating": 78,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86futre",
+      "name": "Paulo Futre",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 67,
+        "desmarque": 74
+      },
+      "rating": 71,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "prt86aguas",
+      "name": "Rui Águas",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 72
+      },
+      "rating": 69,
+      "country": "Portugal",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "country": "Brasil",
+  "countryCode": "BRA",
+  "confederation": "CONMEBOL",
+  "year": 1990,
+  "tournamentId": "wc-1990",
+  "players": [
+    {
+      "id": "bra90ze-carlos",
+      "name": "Zé Carlos",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 81,
+        "salidas": 73,
+        "penales": 74,
+        "distribucion": 74
+      },
+      "rating": 78,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "bra90taffarel",
+      "name": "Cláudio Taffarel",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 63,
+        "penales": 64,
+        "distribucion": 64
+      },
+      "rating": 73,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "bra90acacio",
+      "name": "Acácio",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 73,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "bra90gomes",
+      "name": "Ricardo Gomes",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 74,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "bra90branco",
+      "name": "Branco",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 72,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 1
+    },
+    {
+      "id": "bra90mozer",
+      "name": "Carlos Mozer",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 72,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "bra90mazinho",
+      "name": "Mazinho",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 78
+      },
+      "rating": 72,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "bra90galvao",
+      "name": "Mauro Galvão",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 72,
+        "pases": 71,
+        "duelos": 78
+      },
+      "rating": 72,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "bra90jorginho",
+      "name": "Jorginho",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 71,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "bra90rocha",
+      "name": "Ricardo Rocha",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 71,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "bra90aldair",
+      "name": "Aldair",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 70,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "bra90tita",
+      "name": "Tita",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 71
+      },
+      "rating": 76,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "bra90valdo",
+      "name": "Valdo",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 75,
+        "llegada": 75,
+        "regate": 66,
+        "disparo": 66
+      },
+      "rating": 75,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "bra90silas",
+      "name": "Paulo Silas",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 75,
+        "recuperacion": 74,
+        "tecnica": 82
+      },
+      "rating": 75,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "bra90dunga",
+      "name": "Dunga",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 80,
+        "pases": 79,
+        "posicionamiento": 80,
+        "duelos": 80,
+        "resistencia": 72
+      },
+      "rating": 74,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "bra90alemao",
+      "name": "Alemão",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 79
+      },
+      "rating": 72,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "bra90bismarck",
+      "name": "Bismarck",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 62,
+        "recuperacion": 62,
+        "tecnica": 71
+      },
+      "rating": 70,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "bra90romario",
+      "name": "Romário",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 93,
+        "fisico": 93,
+        "velocidad": 85,
+        "cabezazo": 85,
+        "pressing": 85,
+        "desmarque": 93
+      },
+      "rating": 89,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 5
+    },
+    {
+      "id": "bra90careca",
+      "name": "Careca",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 70,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 80,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 7
+    },
+    {
+      "id": "bra90muller",
+      "name": "Müller",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 75,
+        "disparo": 74,
+        "desmarque": 82
+      },
+      "rating": 80,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 2
+    },
+    {
+      "id": "bra90bebeto",
+      "name": "Bebeto",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 85,
+        "fisico": 85,
+        "velocidad": 79,
+        "cabezazo": 78,
+        "pressing": 78,
+        "desmarque": 85
+      },
+      "rating": 80,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 6
+    },
+    {
+      "id": "bra90gaucho",
+      "name": "Renato Gaúcho",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Brasil",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    }
+  ]
+}

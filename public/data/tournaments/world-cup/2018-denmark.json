@@ -1,0 +1,432 @@
+{
+  "country": "Dinamarca",
+  "countryCode": "DNK",
+  "confederation": "UEFA",
+  "year": 2018,
+  "tournamentId": "wc-2018",
+  "players": [
+    {
+      "id": "dnk18schmeichel",
+      "name": "Kasper Schmeichel",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 80,
+        "salidas": 72,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 76,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18lossl",
+      "name": "Jonas Lössl",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 74,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18rnnow",
+      "name": "Frederik Rønnow",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 81,
+        "salidas": 73,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 74,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18stryger-larsen",
+      "name": "Jens Stryger Larsen",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 78
+      },
+      "rating": 77,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18knudsen",
+      "name": "Jonas Knudsen",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 81
+      },
+      "rating": 75,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18vestergaard",
+      "name": "Jannik Vestergaard",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 72,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18kjr",
+      "name": "Simon Kjær",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 69,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18jrgensen",
+      "name": "Mathias Jørgensen",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 69,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "dnk18dalsgaard",
+      "name": "Henrik Dalsgaard",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 69,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18christensen",
+      "name": "Andreas Christensen",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 67,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "dnk18kvist",
+      "name": "William Kvist",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 75,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18schone",
+      "name": "Lasse Schöne",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 67
+      },
+      "rating": 74,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18eriksen",
+      "name": "Christian Eriksen",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 65,
+        "disparo": 64
+      },
+      "rating": 73,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "dnk18delaney",
+      "name": "Thomas Delaney",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 63,
+        "recuperacion": 63,
+        "tecnica": 72
+      },
+      "rating": 72,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18krohndehli",
+      "name": "Michael Krohn-Dehli",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 68
+      },
+      "rating": 70,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18lerager",
+      "name": "Lukas Lerager",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 70,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18dolberg",
+      "name": "Kasper Dolberg",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 77,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18fischer",
+      "name": "Viktor Fischer",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 66,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 76
+      },
+      "rating": 77,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18sisto",
+      "name": "Pione Sisto",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 71,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 77,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18cornelius",
+      "name": "Andreas Cornelius",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 68,
+        "disparo": 69,
+        "desmarque": 76
+      },
+      "rating": 73,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18poulsen",
+      "name": "Yussuf Poulsen",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 73
+      },
+      "rating": 72,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "dnk18jrgensen2",
+      "name": "Nicolai Jørgensen",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 71,
+        "fisico": 71,
+        "velocidad": 62,
+        "cabezazo": 62,
+        "pressing": 62,
+        "desmarque": 71
+      },
+      "rating": 71,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "dnk18braithwaite",
+      "name": "Martin Braithwaite",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 70,
+        "disparo": 71,
+        "desmarque": 78
+      },
+      "rating": 71,
+      "country": "Dinamarca",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    }
+  ]
+}

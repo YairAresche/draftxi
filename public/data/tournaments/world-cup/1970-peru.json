@@ -1,0 +1,419 @@
+{
+  "country": "Perú",
+  "countryCode": "PER",
+  "confederation": "CONMEBOL",
+  "year": 1970,
+  "tournamentId": "wc-1970",
+  "players": [
+    {
+      "id": "per70correa",
+      "name": "Rubén Correa",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 81,
+        "salidas": 73,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 77,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "per70rubinos",
+      "name": "Luis Rubiños",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 77,
+        "salidas": 70,
+        "penales": 69,
+        "distribucion": 70
+      },
+      "rating": 74,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "per70goyzueta",
+      "name": "Jesus Goyzueta",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 74,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "per70de-la-torre",
+      "name": "Orlando de la Torre",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 69,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 77,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "per70chumpitaz",
+      "name": "Héctor Chumpitaz",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 65,
+        "pases": 76,
+        "duelos": 83
+      },
+      "rating": 76,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "per70salinas",
+      "name": "Félix Salinas",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 76,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "per70campos",
+      "name": "Eloy Campos",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 77,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 75,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "per70fuentes",
+      "name": "Nicolás Fuentes",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 69,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "per70fernandez",
+      "name": "José Fernández",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 68,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "per70gallardo",
+      "name": "Alberto Gallardo",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 86,
+        "paseFiltrado": 86,
+        "llegada": 86,
+        "regate": 79,
+        "disparo": 80
+      },
+      "rating": 80,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 2
+    },
+    {
+      "id": "per70mifflin",
+      "name": "Ramón Mifflin",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 77,
+        "pases": 77,
+        "posicionamiento": 77,
+        "duelos": 77,
+        "resistencia": 70
+      },
+      "rating": 73,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "per70gonzalez",
+      "name": "Pedro González",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 74
+      },
+      "rating": 72,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "per70gonzalez2",
+      "name": "Javier González",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 65
+      },
+      "rating": 72,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "per70challe",
+      "name": "Roberto Challe",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 63,
+        "recuperacion": 63,
+        "tecnica": 71
+      },
+      "rating": 70,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "per70cruzado",
+      "name": "Luis Cruzado",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 69,
+        "vision": 69,
+        "llegada": 60,
+        "recuperacion": 60,
+        "tecnica": 69
+      },
+      "rating": 69,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "per70baylon",
+      "name": "Julio Baylón",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 63,
+        "recuperacion": 63,
+        "tecnica": 71
+      },
+      "rating": 68,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "per70cubillas",
+      "name": "Teófilo Cubillas",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 85,
+        "regate": 85,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 84
+      },
+      "rating": 80,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 10
+    },
+    {
+      "id": "per70leon",
+      "name": "Pedro Pablo León",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 69,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 77
+      },
+      "rating": 75,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "per70del-castillo",
+      "name": "José del Castillo",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 75,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "per70reyes",
+      "name": "Eladio Reyes",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 71,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 78
+      },
+      "rating": 74,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "per70ramirez",
+      "name": "Oswaldo Ramírez",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 71,
+        "regate": 71,
+        "centro": 62,
+        "disparo": 62,
+        "desmarque": 71
+      },
+      "rating": 71,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "per70sotil",
+      "name": "Hugo Sotil",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 67,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 69,
+      "country": "Perú",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    }
+  ]
+}

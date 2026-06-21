@@ -1,0 +1,392 @@
+{
+  "country": "Suiza",
+  "countryCode": "CHE",
+  "confederation": "UEFA",
+  "year": 1966,
+  "tournamentId": "wc-1966",
+  "players": [
+    {
+      "id": "che66prosperi",
+      "name": "Mario Prosperi",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 82,
+        "manejo": 82,
+        "salidas": 75,
+        "penales": 75,
+        "distribucion": 75
+      },
+      "rating": 77,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66eichmann",
+      "name": "Léo Eichmann",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 75,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66elsener",
+      "name": "Karl Elsener",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 70,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66allemann",
+      "name": "Willy Allemann",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 74,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66leimgruber",
+      "name": "Werner Leimgruber",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 74,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66brodmann",
+      "name": "René Brodmann",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 72,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66armbruster",
+      "name": "Kurt Armbruster",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 73
+      },
+      "rating": 70,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66tacchella",
+      "name": "Ely Tacchella",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 69,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66schneiter",
+      "name": "Heinz Schneiter",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 67,
+        "intercepciones": 67,
+        "velocidad": 57,
+        "pases": 58,
+        "duelos": 67
+      },
+      "rating": 68,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "che66durr",
+      "name": "Richard Dürr",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 76
+      },
+      "rating": 75,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66bani",
+      "name": "Heinz Bäni",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 80,
+        "pases": 80,
+        "posicionamiento": 80,
+        "duelos": 80,
+        "resistencia": 73
+      },
+      "rating": 74,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66stierli",
+      "name": "Xavier Stierli",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 74,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66grobety",
+      "name": "André Grobéty",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 73,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66gottardi",
+      "name": "Vittore Gottardi",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 65,
+        "disparo": 65
+      },
+      "rating": 72,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66vuilleumier",
+      "name": "Georges Vuilleumier",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 71,
+        "paseFiltrado": 71,
+        "llegada": 71,
+        "regate": 62,
+        "disparo": 61
+      },
+      "rating": 72,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66fuhrer",
+      "name": "Hansruedi Führer",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 70,
+        "vision": 70,
+        "llegada": 62,
+        "recuperacion": 62,
+        "tecnica": 70
+      },
+      "rating": 70,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66odermatt",
+      "name": "Karl Odermatt",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 75,
+        "resistencia": 68
+      },
+      "rating": 70,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66hosp",
+      "name": "Robert Hosp",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 73,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 80
+      },
+      "rating": 76,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66kuhn",
+      "name": "Köbi Kuhn",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 79
+      },
+      "rating": 76,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66quentin",
+      "name": "René-Pierre Quentin",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 82,
+        "fisico": 82,
+        "velocidad": 75,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 82
+      },
+      "rating": 76,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "che66kunzli",
+      "name": "Fritz Künzli",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 78
+      },
+      "rating": 75,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "che66schindelholz",
+      "name": "Jean-Claude Schindelholz",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 71,
+      "country": "Suiza",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "country": "Alemania",
+  "countryCode": "DEU",
+  "confederation": "UEFA",
+  "year": 1970,
+  "tournamentId": "wc-1970",
+  "players": [
+    {
+      "id": "deu70wolter",
+      "name": "Horst Wolter",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 75,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "deu70maier",
+      "name": "Sepp Maier",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 70,
+        "manejo": 70,
+        "salidas": 62,
+        "penales": 61,
+        "distribucion": 61
+      },
+      "rating": 70,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "deu70manglitz",
+      "name": "Manfred Manglitz",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 71,
+        "salidas": 62,
+        "penales": 62,
+        "distribucion": 62
+      },
+      "rating": 70,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "deu70beckenbauer",
+      "name": "Franz Beckenbauer",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "MCD",
+          "compatibility": "natural"
+        },
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 97,
+        "intercepciones": 98,
+        "velocidad": 90,
+        "pases": 89,
+        "duelos": 97
+      },
+      "rating": 94,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 5
+    },
+    {
+      "id": "deu70patzke",
+      "name": "Bernd Patzke",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "deu70schnellinger",
+      "name": "Karl-Heinz Schnellinger",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "deu70hottges",
+      "name": "Horst-Dieter Höttges",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "deu70fichtel",
+      "name": "Klaus Fichtel",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 61,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "deu70schulz",
+      "name": "Willi Schulz",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 73
+      },
+      "rating": 68,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "deu70vogts",
+      "name": "Berti Vogts",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 68
+      },
+      "rating": 68,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "deu70sieloff",
+      "name": "Klaus-Dieter Sieloff",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 60,
+        "duelos": 68
+      },
+      "rating": 68,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "deu70overath",
+      "name": "Wolfgang Overath",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 93,
+        "vision": 93,
+        "llegada": 85,
+        "recuperacion": 85,
+        "tecnica": 93
+      },
+      "rating": 89,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 3
+    },
+    {
+      "id": "deu70lorenz",
+      "name": "Max Lorenz",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 81,
+        "paseFiltrado": 81,
+        "llegada": 81,
+        "regate": 73,
+        "disparo": 73
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "deu70weber",
+      "name": "Wolfgang Weber",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 75,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "deu70dietrich",
+      "name": "Peter Dietrich",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 78
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "deu70muller",
+      "name": "Gerd Müller",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 98,
+        "fisico": 98,
+        "velocidad": 89,
+        "cabezazo": 89,
+        "pressing": 89,
+        "desmarque": 98
+      },
+      "rating": 96,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 14
+    },
+    {
+      "id": "deu70seeler",
+      "name": "Uwe Seeler",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 91,
+        "fisico": 91,
+        "velocidad": 83,
+        "cabezazo": 83,
+        "pressing": 83,
+        "desmarque": 91
+      },
+      "rating": 87,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 9
+    },
+    {
+      "id": "deu70haller",
+      "name": "Helmut Haller",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 72,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 81
+      },
+      "rating": 80,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 6
+    },
+    {
+      "id": "deu70libuda",
+      "name": "Reinhard Libuda",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 80
+      },
+      "rating": 80,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "deu70held",
+      "name": "Sigfried Held",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 78,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "deu70lohr",
+      "name": "Hannes Löhr",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 65,
+        "disparo": 65,
+        "desmarque": 73
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "deu70grabowski",
+      "name": "Jürgen Grabowski",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 73,
+        "fisico": 73,
+        "velocidad": 65,
+        "cabezazo": 65,
+        "pressing": 65,
+        "desmarque": 73
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    }
+  ]
+}

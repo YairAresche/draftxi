@@ -1,0 +1,427 @@
+{
+  "country": "Australia",
+  "countryCode": "AUS",
+  "confederation": "AFC",
+  "year": 2018,
+  "tournamentId": "wc-2018",
+  "players": [
+    {
+      "id": "aus18vukovic",
+      "name": "Danny Vukovic",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 73,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18jones",
+      "name": "Brad Jones",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 71,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18ryan",
+      "name": "Mathew Ryan",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 70,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18degenek",
+      "name": "Miloš Degenek",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 74,
+        "pases": 74,
+        "duelos": 82
+      },
+      "rating": 77,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18behich",
+      "name": "Aziz Behich",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 76,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18risdon",
+      "name": "Josh Risdon",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 77
+      },
+      "rating": 76,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18jurman",
+      "name": "Matthew Jurman",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 63,
+        "pases": 64,
+        "duelos": 73
+      },
+      "rating": 74,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18sainsbury",
+      "name": "Trent Sainsbury",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 71,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18meredith",
+      "name": "James Meredith",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 70,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18milligan",
+      "name": "Mark Milligan",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 71,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 70,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18irvine",
+      "name": "Jackson Irvine",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 77,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 70,
+        "disparo": 70
+      },
+      "rating": 74,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18luongo",
+      "name": "Massimo Luongo",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 77,
+        "pases": 77,
+        "posicionamiento": 77,
+        "duelos": 77,
+        "resistencia": 69
+      },
+      "rating": 73,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18mooy",
+      "name": "Aaron Mooy",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 78
+      },
+      "rating": 72,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18jedinak",
+      "name": "Mile Jedinak",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 74
+      },
+      "rating": 71,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 3
+    },
+    {
+      "id": "aus18rogic",
+      "name": "Tom Rogic",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 67,
+        "recuperacion": 66,
+        "tecnica": 74
+      },
+      "rating": 69,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18cahill",
+      "name": "Tim Cahill",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 87,
+        "fisico": 87,
+        "velocidad": 81,
+        "cabezazo": 79,
+        "pressing": 79,
+        "desmarque": 87
+      },
+      "rating": 80,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 5
+    },
+    {
+      "id": "aus18maclaren",
+      "name": "Jamie Maclaren",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 79
+      },
+      "rating": 78,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18arzani",
+      "name": "Daniel Arzani",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 71,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 76,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18leckie",
+      "name": "Mathew Leckie",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 70,
+        "disparo": 69,
+        "desmarque": 77
+      },
+      "rating": 75,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "aus18juric",
+      "name": "Tomi Juric",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 75
+      },
+      "rating": 73,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18petratos",
+      "name": "Dimitri Petratos",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 72,
+        "fisico": 72,
+        "velocidad": 63,
+        "cabezazo": 64,
+        "pressing": 64,
+        "desmarque": 73
+      },
+      "rating": 73,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18kruse",
+      "name": "Robbie Kruse",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 67,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 75
+      },
+      "rating": 72,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "aus18nabbout",
+      "name": "Andrew Nabbout",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 65,
+        "disparo": 64,
+        "desmarque": 72
+      },
+      "rating": 69,
+      "country": "Australia",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    }
+  ]
+}

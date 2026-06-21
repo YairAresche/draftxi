@@ -1,0 +1,396 @@
+{
+  "country": "Túnez",
+  "countryCode": "TUN",
+  "confederation": "CAF",
+  "year": 1998,
+  "tournamentId": "wc-1998",
+  "players": [
+    {
+      "id": "tun98boumnijel",
+      "name": "Ali Boumnijel",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 81,
+        "salidas": 73,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 76,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98el-ouaer",
+      "name": "Chokri El Ouaer",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 73,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98salhi",
+      "name": "Radhouane Salhi",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 72,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98trabelsi",
+      "name": "Sami Trabelsi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 74,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98trabelsi2",
+      "name": "Hatem Trabelsi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 74,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98badra",
+      "name": "Khaled Badra",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 78
+      },
+      "rating": 74,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98chouchane",
+      "name": "Ferid Chouchane",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 73,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98thabet",
+      "name": "Tarek Thabet",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 73,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98jaballah",
+      "name": "Sabri Jaballah",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 69,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98boukadida",
+      "name": "Mounir Boukadida",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 69
+      },
+      "rating": 68,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98ben-ahmed",
+      "name": "Faysal Ben Ahmed",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 75,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98baya",
+      "name": "Zoubeir Baya",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 68
+      },
+      "rating": 73,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98chihi",
+      "name": "Sirajeddine Chihi",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 77,
+        "paseFiltrado": 77,
+        "llegada": 77,
+        "regate": 69,
+        "disparo": 70
+      },
+      "rating": 73,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98ghodhbane",
+      "name": "Kaies Ghodhbane",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 73
+      },
+      "rating": 71,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98souayah",
+      "name": "Skander Souayah",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 74
+      },
+      "rating": 71,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "tun98bouazizi",
+      "name": "Riadh Bouazizi",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 75
+      },
+      "rating": 70,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98clayton",
+      "name": "José Clayton",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 70,
+        "pases": 70,
+        "posicionamiento": 70,
+        "duelos": 70,
+        "resistencia": 62
+      },
+      "rating": 69,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98ben-younes",
+      "name": "Imed Ben Younes",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 78,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98sellimi",
+      "name": "Adel Sellimi",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98jelassi",
+      "name": "Riadh Jelassi",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 76
+      },
+      "rating": 75,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98ben-slimane",
+      "name": "Mehdi Ben Slimane",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 74,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 74,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "tun98melki",
+      "name": "Mourad Melki",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 76
+      },
+      "rating": 71,
+      "country": "Túnez",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    }
+  ]
+}

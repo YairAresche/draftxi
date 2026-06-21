@@ -1,0 +1,440 @@
+{
+  "country": "Sudáfrica",
+  "countryCode": "ZAF",
+  "confederation": "CAF",
+  "year": 2010,
+  "tournamentId": "wc-2010",
+  "players": [
+    {
+      "id": "zaf10josephs",
+      "name": "Moeneeb Josephs",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 76,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10khune",
+      "name": "Itumeleng Khune",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 71,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10walters",
+      "name": "Shu-Aib Walters",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 70,
+        "manejo": 70,
+        "salidas": 61,
+        "penales": 61,
+        "distribucion": 61
+      },
+      "rating": 69,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10booth",
+      "name": "Matthew Booth",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 76,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10mokoena",
+      "name": "Aaron Mokoena",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 74,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10masilela",
+      "name": "Tsepo Masilela",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 71
+      },
+      "rating": 72,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10gaxa",
+      "name": "Siboniso Gaxa",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 73
+      },
+      "rating": 70,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10thwala",
+      "name": "Lucas Thwala",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 61,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 70,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10sangweni",
+      "name": "Siyabonga Sangweni",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 70,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10ngcongca",
+      "name": "Anele Ngcongca",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 68,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10khumalo",
+      "name": "Bongani Khumalo",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 58,
+        "pases": 59,
+        "duelos": 68
+      },
+      "rating": 68,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "zaf10davids",
+      "name": "Lance Davids",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 76,
+        "vision": 84,
+        "llegada": 77,
+        "recuperacion": 67,
+        "tecnica": 76
+      },
+      "rating": 77,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10dikgacoi",
+      "name": "Kagisho Dikgacoi",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 82
+      },
+      "rating": 77,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10tshabalala",
+      "name": "Siphiwe Tshabalala",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 75,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "zaf10pienaar",
+      "name": "Steven Pienaar",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 82,
+        "paseFiltrado": 82,
+        "llegada": 82,
+        "regate": 75,
+        "disparo": 76
+      },
+      "rating": 75,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10moriri",
+      "name": "Surprise Moriri",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 65,
+        "disparo": 64
+      },
+      "rating": 75,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10modise",
+      "name": "Teko Modise",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 77
+      },
+      "rating": 73,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10khuboni",
+      "name": "Thanduyise Khuboni",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 73
+      },
+      "rating": 73,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10sibaya",
+      "name": "MacBeth Sibaya",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 73,
+        "posicionamiento": 73,
+        "duelos": 73,
+        "resistencia": 65
+      },
+      "rating": 69,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10letsholonyane",
+      "name": "Reneilwe Letsholonyane",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 72,
+        "pases": 72,
+        "posicionamiento": 72,
+        "duelos": 72,
+        "resistencia": 64
+      },
+      "rating": 68,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "zaf10mphela",
+      "name": "Katlego Mphela",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 75,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 83
+      },
+      "rating": 79,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "zaf10nomvethe",
+      "name": "Siyabonga Nomvethe",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 81
+      },
+      "rating": 79,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "zaf10parker",
+      "name": "Bernard Parker",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 73
+      },
+      "rating": 73,
+      "country": "Sudáfrica",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    }
+  ]
+}

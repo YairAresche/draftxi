@@ -1,0 +1,417 @@
+{
+  "country": "Hungría",
+  "countryCode": "HUN",
+  "confederation": "UEFA",
+  "year": 1966,
+  "tournamentId": "wc-1966",
+  "players": [
+    {
+      "id": "hun66gelei",
+      "name": "József Gelei",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 76,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "hun66geczi",
+      "name": "István Géczi",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 75,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "hun66szentmihalyi",
+      "name": "Antal Szentmihályi",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 63,
+        "penales": 63,
+        "distribucion": 63
+      },
+      "rating": 73,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "hun66szepesi",
+      "name": "Gusztáv Szepesi",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 83,
+        "velocidad": 77,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 76,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "hun66ihasz",
+      "name": "Kálmán Ihász",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 72,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "hun66kaposzta",
+      "name": "Benő Káposzta",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "hun66sovari",
+      "name": "Kálmán Sóvári",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 71,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "hun66meszoly",
+      "name": "Kálmán Mészöly",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 67,
+        "intercepciones": 67,
+        "velocidad": 58,
+        "pases": 59,
+        "duelos": 67
+      },
+      "rating": 68,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 2
+    },
+    {
+      "id": "hun66matrai",
+      "name": "Sándor Mátrai",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 67,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "hun66mathesz",
+      "name": "Imre Mathesz",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 79,
+        "paseFiltrado": 79,
+        "llegada": 79,
+        "regate": 70,
+        "disparo": 69
+      },
+      "rating": 78,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "hun66sipos",
+      "name": "Ferenc Sipos",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 81,
+        "resistencia": 74
+      },
+      "rating": 75,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "hun66varga",
+      "name": "Zoltán Varga",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 74,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "hun66albert",
+      "name": "Flórián Albert",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 62,
+        "recuperacion": 62,
+        "tecnica": 71
+      },
+      "rating": 70,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 4
+    },
+    {
+      "id": "hun66nagy",
+      "name": "István Nagy",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 69,
+        "vision": 69,
+        "llegada": 61,
+        "recuperacion": 61,
+        "tecnica": 69
+      },
+      "rating": 68,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "hun66bene",
+      "name": "Ferenc Bene",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 70,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 80
+      },
+      "rating": 80,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 4
+    },
+    {
+      "id": "hun66tichy",
+      "name": "Lajos Tichy",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 85,
+        "regate": 85,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 85
+      },
+      "rating": 80,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 7
+    },
+    {
+      "id": "hun66rakosi",
+      "name": "Gyula Rákosi",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 79,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "hun66molnar",
+      "name": "Dezső Molnár",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 84
+      },
+      "rating": 78,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "hun66farkas",
+      "name": "János Farkas",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 71,
+        "regate": 71,
+        "centro": 62,
+        "disparo": 62,
+        "desmarque": 71
+      },
+      "rating": 71,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "hun66puskas",
+      "name": "Lajos Puskás",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 70,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 76
+      },
+      "rating": 71,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "hun66fenyvesi",
+      "name": "Máté Fenyvesi",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 70,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 76
+      },
+      "rating": 70,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "hun66nagy2",
+      "name": "Antal Nagy",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 70,
+        "fisico": 70,
+        "velocidad": 61,
+        "cabezazo": 62,
+        "pressing": 62,
+        "desmarque": 70
+      },
+      "rating": 69,
+      "country": "Hungría",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "country": "Arabia Saudita",
+  "countryCode": "SAU",
+  "confederation": "AFC",
+  "year": 2006,
+  "tournamentId": "wc-2006",
+  "players": [
+    {
+      "id": "sau06khouja",
+      "name": "Mohammad Khouja",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 71
+      },
+      "rating": 77,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06aldeayea",
+      "name": "Mohamed Al-Deayea",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 71,
+        "salidas": 62,
+        "penales": 62,
+        "distribucion": 62
+      },
+      "rating": 71,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06zaid",
+      "name": "Mabrouk Zaid",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 72,
+        "salidas": 64,
+        "penales": 64,
+        "distribucion": 64
+      },
+      "rating": 71,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06albishi",
+      "name": "Mohamed Al-Bishi",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 83,
+        "velocidad": 76,
+        "pases": 76,
+        "duelos": 83
+      },
+      "rating": 77,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06alkhathran",
+      "name": "Abdulaziz Al-Khathran",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 75,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06aldokhi",
+      "name": "Ahmed Al-Dokhi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 72,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06tukar",
+      "name": "Redha Tukar",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 71,
+        "velocidad": 61,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 71,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06alqadi",
+      "name": "Naif Al-Qadi",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 77
+      },
+      "rating": 70,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06massad",
+      "name": "Mohammad Massad",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 75
+      },
+      "rating": 70,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06almontashari",
+      "name": "Hamad Al-Montashari",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 69,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06abdulghani",
+      "name": "Hussein Abdulghani",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 69,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06albahri",
+      "name": "Ahmed Al-Bahri",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 69,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06alghamdi",
+      "name": "Omar Al-Ghamdi",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 82,
+        "pases": 82,
+        "posicionamiento": 82,
+        "duelos": 82,
+        "resistencia": 74
+      },
+      "rating": 77,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06ameen",
+      "name": "Mohammed Ameen",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 79
+      },
+      "rating": 76,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06aziz",
+      "name": "Khaled Aziz",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 67
+      },
+      "rating": 75,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06kariri",
+      "name": "Saud Kariri",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 76,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 76
+      },
+      "rating": 73,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06altemyat",
+      "name": "Nawaf Al-Temyat",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 63,
+        "recuperacion": 63,
+        "tecnica": 72
+      },
+      "rating": 73,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06noor",
+      "name": "Mohammed Noor",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 73
+      },
+      "rating": 70,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06alshalhoub",
+      "name": "Mohammad Al-Shalhoub",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 71,
+        "paseFiltrado": 71,
+        "llegada": 71,
+        "regate": 63,
+        "disparo": 64
+      },
+      "rating": 68,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06alharthi",
+      "name": "Saad Al-Harthi",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 75,
+        "disparo": 75,
+        "desmarque": 83
+      },
+      "rating": 78,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06mouath",
+      "name": "Malek Mouath",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 77,
+        "cabezazo": 76,
+        "pressing": 76,
+        "desmarque": 84
+      },
+      "rating": 77,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "sau06aljaber",
+      "name": "Sami Al-Jaber",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 74,
+        "fisico": 74,
+        "velocidad": 65,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 75
+      },
+      "rating": 75,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 3
+    },
+    {
+      "id": "sau06alqahtani",
+      "name": "Yasser Al-Qahtani",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 72,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    }
+  ]
+}

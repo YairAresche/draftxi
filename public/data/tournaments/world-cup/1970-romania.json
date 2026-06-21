@@ -1,0 +1,418 @@
+{
+  "country": "Rumanía",
+  "countryCode": "ROU",
+  "confederation": "UEFA",
+  "year": 1970,
+  "tournamentId": "wc-1970",
+  "players": [
+    {
+      "id": "rou70adamache",
+      "name": "Stere Adamache",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 74,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70raducanu",
+      "name": "Necula Răducanu",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 69,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70gornea",
+      "name": "Gheorghe Gornea",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 69,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70lupescu",
+      "name": "Nicolae Lupescu",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 69,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 77,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70deleanu",
+      "name": "Augustin Deleanu",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 64,
+        "duelos": 73
+      },
+      "rating": 73,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70dumitru",
+      "name": "Ion Dumitru",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 73,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70ivancescu",
+      "name": "Mihai Ivăncescu",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 72,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70satmareanu",
+      "name": "Lajos Sătmăreanu",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70mocanu",
+      "name": "Mihai Mocanu",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 71,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70gergely",
+      "name": "Vasile Gergely",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 71,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70pescaru",
+      "name": "Nicolae Pescaru",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 70,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70dembrovschi",
+      "name": "Emerich Dembrovschi",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 83,
+        "vision": 83,
+        "llegada": 76,
+        "recuperacion": 76,
+        "tecnica": 83
+      },
+      "rating": 78,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "rou70nunweiller",
+      "name": "Radu Nunweiller",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 84,
+        "paseFiltrado": 84,
+        "llegada": 84,
+        "regate": 77,
+        "disparo": 78
+      },
+      "rating": 77,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70coe",
+      "name": "Dan Coe",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 82
+      },
+      "rating": 76,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70dinu",
+      "name": "Cornel Dinu",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 71
+      },
+      "rating": 75,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70tataru",
+      "name": "Gheorghe Tătaru",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 69
+      },
+      "rating": 70,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70neagu",
+      "name": "Alexandru Neagu",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 69,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "rou70dumitrache",
+      "name": "Florea Dumitrache",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 86,
+        "regate": 86,
+        "centro": 78,
+        "disparo": 78,
+        "desmarque": 86
+      },
+      "rating": 80,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 2
+    },
+    {
+      "id": "rou70domide",
+      "name": "Flavius Domide",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70lucescu",
+      "name": "Mircea Lucescu",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 75,
+        "disparo": 76,
+        "desmarque": 83
+      },
+      "rating": 76,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70tufan",
+      "name": "Marin Tufan",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 74,
+        "velocidad": 65,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 75
+      },
+      "rating": 74,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "rou70dobrin",
+      "name": "Nicolae Dobrin",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 72,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 78
+      },
+      "rating": 71,
+      "country": "Rumanía",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    }
+  ]
+}

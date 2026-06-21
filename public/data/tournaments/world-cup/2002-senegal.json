@@ -1,0 +1,440 @@
+{
+  "country": "Senegal",
+  "countryCode": "SEN",
+  "confederation": "CAF",
+  "year": 2002,
+  "tournamentId": "wc-2002",
+  "players": [
+    {
+      "id": "sen02cissokho",
+      "name": "Kalidou Cissokho",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 67
+      },
+      "rating": 76,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02sylva",
+      "name": "Tony Sylva",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 63,
+        "penales": 64,
+        "distribucion": 64
+      },
+      "rating": 70,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02diallo",
+      "name": "Omar Diallo",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 64,
+        "penales": 64,
+        "distribucion": 64
+      },
+      "rating": 70,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02beye",
+      "name": "Habib Beye",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 79
+      },
+      "rating": 76,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02cisse",
+      "name": "Aliou Cissé",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 81,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 75,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02daf",
+      "name": "Omar Daf",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 74,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02coly",
+      "name": "Ferdinand Coly",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 73,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 72,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02diatta",
+      "name": "Lamine Diatta",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 73
+      },
+      "rating": 71,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02malick-diop",
+      "name": "Pape Malick Diop",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 69,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02ndour",
+      "name": "Alassane N'Dour",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 67,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02diao",
+      "name": "Salif Diao",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 80
+      },
+      "rating": 79,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "sen02fadiga",
+      "name": "Khalilou Fadiga",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 83,
+        "vision": 83,
+        "llegada": 75,
+        "recuperacion": 75,
+        "tecnica": 83
+      },
+      "rating": 77,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "sen02faye",
+      "name": "Amdy Faye",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 76,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02sarr",
+      "name": "Pape Sarr",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 69
+      },
+      "rating": 70,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02diop",
+      "name": "Papa Bouba Diop",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 73,
+        "posicionamiento": 73,
+        "duelos": 73,
+        "resistencia": 65
+      },
+      "rating": 70,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 3
+    },
+    {
+      "id": "sen02ndiaye",
+      "name": "Moussa N'Diaye",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 68,
+        "paseFiltrado": 68,
+        "llegada": 68,
+        "regate": 59,
+        "disparo": 59
+      },
+      "rating": 68,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02ndiaye2",
+      "name": "Sylvain N'Diaye",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 68,
+        "vision": 68,
+        "llegada": 60,
+        "recuperacion": 59,
+        "tecnica": 68
+      },
+      "rating": 68,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02ndiaye3",
+      "name": "Makhtar N'Diaye",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 68,
+        "paseFiltrado": 68,
+        "llegada": 68,
+        "regate": 59,
+        "disparo": 59
+      },
+      "rating": 68,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02diouf",
+      "name": "El Hadji Diouf",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 90,
+        "regate": 90,
+        "centro": 82,
+        "disparo": 82,
+        "desmarque": 90
+      },
+      "rating": 87,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02camara",
+      "name": "Henri Camara",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 86,
+        "fisico": 86,
+        "velocidad": 79,
+        "cabezazo": 78,
+        "pressing": 78,
+        "desmarque": 85
+      },
+      "rating": 80,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 2
+    },
+    {
+      "id": "sen02camara2",
+      "name": "Souleymane Camara",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 85,
+        "regate": 85,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 84
+      },
+      "rating": 79,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02traore",
+      "name": "Amara Traoré",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 76,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 77
+      },
+      "rating": 76,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "sen02thiaw",
+      "name": "Pape Thiaw",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 76
+      },
+      "rating": 70,
+      "country": "Senegal",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "country": "Austria",
+  "countryCode": "AUT",
+  "confederation": "UEFA",
+  "year": 1958,
+  "tournamentId": "wc-1958",
+  "players": [
+    {
+      "id": "aut58schmied",
+      "name": "Kurt Schmied",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 78,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58engelmeier",
+      "name": "Bruno Engelmeier",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 75,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58szanwald",
+      "name": "Rudolf Szanwald",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 68,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 71,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58halla",
+      "name": "Paul Halla",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 76,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58swoboda",
+      "name": "Franz Swoboda",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 81
+      },
+      "rating": 76,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58happel",
+      "name": "Ernst Happel",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 73,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58hanappi",
+      "name": "Gerhard Hanappi",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 64,
+        "duelos": 73
+      },
+      "rating": 73,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58kollmann",
+      "name": "Walter Kollmann",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 72,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58barschandt",
+      "name": "Leopold Barschandt",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 71,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58koller",
+      "name": "Karl Koller",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 82,
+        "pases": 82,
+        "posicionamiento": 82,
+        "duelos": 82,
+        "resistencia": 75
+      },
+      "rating": 76,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 1
+    },
+    {
+      "id": "aut58kozlicek",
+      "name": "Ernst Kozlicek",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 75
+      },
+      "rating": 71,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58puschnik",
+      "name": "Ignaz Puschnik",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 66,
+        "disparo": 66
+      },
+      "rating": 71,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58stotz",
+      "name": "Karl Stotz",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 70,
+        "vision": 70,
+        "llegada": 62,
+        "recuperacion": 62,
+        "tecnica": 70
+      },
+      "rating": 70,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58schleger",
+      "name": "Walter Schleger",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58hamerl",
+      "name": "Josef Hamerl",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 69,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 78
+      },
+      "rating": 77,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58ninaus",
+      "name": "Herbert Ninaus",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58korner",
+      "name": "Alfred Körner",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 67,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 76
+      },
+      "rating": 75,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 3
+    },
+    {
+      "id": "aut58buzek",
+      "name": "Hans Buzek",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 79
+      },
+      "rating": 74,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58senekowitsch",
+      "name": "Helmut Senekowitsch",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 79
+      },
+      "rating": 74,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58dienst",
+      "name": "Robert Dienst",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 74,
+        "fisico": 74,
+        "velocidad": 65,
+        "cabezazo": 65,
+        "pressing": 65,
+        "desmarque": 74
+      },
+      "rating": 74,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58horak",
+      "name": "Walter Horak",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 74,
+        "fisico": 74,
+        "velocidad": 66,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 74
+      },
+      "rating": 72,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "aut58kozlicek2",
+      "name": "Paul Kozlicek",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 76
+      },
+      "rating": 72,
+      "country": "Austria",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    }
+  ]
+}

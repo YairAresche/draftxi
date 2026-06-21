@@ -1,0 +1,456 @@
+{
+  "country": "Chile",
+  "countryCode": "CHL",
+  "confederation": "CONMEBOL",
+  "year": 2010,
+  "tournamentId": "wc-2010",
+  "players": [
+    {
+      "id": "chl10pinto",
+      "name": "Miguel Pinto",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 77,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "chl10marin",
+      "name": "Luis Marín",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 74,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 72,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "chl10bravo",
+      "name": "Claudio Bravo",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 70,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "chl10fuentes",
+      "name": "Ismael Fuentes",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 82,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 82
+      },
+      "rating": 76,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "chl10ponce",
+      "name": "Waldo Ponce",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 76,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "chl10jara",
+      "name": "Gonzalo Jara",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 76,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "chl10contreras",
+      "name": "Pablo Contreras",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 63,
+        "pases": 64,
+        "duelos": 73
+      },
+      "rating": 73,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "chl10medel",
+      "name": "Gary Medel",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 69,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "chl10vidal",
+      "name": "Arturo Vidal",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 88,
+        "vision": 88,
+        "llegada": 80,
+        "recuperacion": 79,
+        "tecnica": 88
+      },
+      "rating": 86,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "chl10estrada",
+      "name": "Marco Estrada",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 72,
+        "recuperacion": 71,
+        "tecnica": 80
+      },
+      "rating": 77,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "chl10fernandez",
+      "name": "Matías Fernández",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 67
+      },
+      "rating": 76,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "chl10isla",
+      "name": "Mauricio Isla",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 76,
+        "resistencia": 67
+      },
+      "rating": 73,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "chl10millar",
+      "name": "Rodrigo Millar",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 71,
+        "disparo": 71
+      },
+      "rating": 73,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "chl10carmona",
+      "name": "Carlos Carmona",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 78
+      },
+      "rating": 71,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "chl10valdivia",
+      "name": "Jorge Valdivia",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 69,
+        "paseFiltrado": 69,
+        "llegada": 69,
+        "regate": 60,
+        "disparo": 59
+      },
+      "rating": 70,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "chl10fierro",
+      "name": "Gonzalo Fierro",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 70,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "chl10tello",
+      "name": "Rodrigo Tello",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 75,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 70,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "chl10sanchez",
+      "name": "Alexis Sánchez",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 89,
+        "regate": 89,
+        "centro": 81,
+        "disparo": 81,
+        "desmarque": 89
+      },
+      "rating": 87,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 2
+    },
+    {
+      "id": "chl10gonzalez",
+      "name": "Mark González",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 75,
+        "disparo": 75,
+        "desmarque": 83
+      },
+      "rating": 80,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "chl10beausejour",
+      "name": "Jean Beausejour",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 72,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 81
+      },
+      "rating": 80,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 2
+    },
+    {
+      "id": "chl10paredes",
+      "name": "Esteban Paredes",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 75,
+        "disparo": 75,
+        "desmarque": 83
+      },
+      "rating": 78,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "chl10suazo",
+      "name": "Humberto Suazo",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 66,
+        "disparo": 67,
+        "desmarque": 75
+      },
+      "rating": 74,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "chl10orellana",
+      "name": "Fabián Orellana",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 76
+      },
+      "rating": 70,
+      "country": "Chile",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    }
+  ]
+}

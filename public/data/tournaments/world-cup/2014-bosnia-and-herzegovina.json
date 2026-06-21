@@ -1,0 +1,445 @@
+{
+  "country": "Bosnia y Herzegovina",
+  "countryCode": "BIH",
+  "confederation": "UEFA",
+  "year": 2014,
+  "tournamentId": "wc-2014",
+  "players": [
+    {
+      "id": "bih14avdukic",
+      "name": "Asmir Avdukić",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 74,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14begovic",
+      "name": "Asmir Begović",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 71,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14fejzic",
+      "name": "Jasmin Fejzić",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 71,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14mujdza",
+      "name": "Mensur Mujdža",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 76,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14spahic",
+      "name": "Emir Spahić",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 75,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14besic",
+      "name": "Muhamed Bešić",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 74,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14kolasinac",
+      "name": "Sead Kolašinac",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 71,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14sunjic",
+      "name": "Toni Šunjić",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 66,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 70,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14vranjes",
+      "name": "Ognjen Vranješ",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 73
+      },
+      "rating": 69,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14vrsajevic",
+      "name": "Avdija Vršajević",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 73
+      },
+      "rating": 68,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "bih14bicakcic",
+      "name": "Ermin Bičakčić",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 67,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14lulic",
+      "name": "Senad Lulić",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 80,
+        "paseFiltrado": 80,
+        "llegada": 80,
+        "regate": 71,
+        "disparo": 71
+      },
+      "rating": 77,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14ibricic",
+      "name": "Senijad Ibričić",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 69,
+        "tecnica": 78
+      },
+      "rating": 77,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14pjanic",
+      "name": "Miralem Pjanić",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 83,
+        "pases": 83,
+        "posicionamiento": 83,
+        "duelos": 83,
+        "resistencia": 76
+      },
+      "rating": 76,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "bih14misimovic",
+      "name": "Zvjezdan Misimović",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 76,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14medunjanin",
+      "name": "Haris Medunjanin",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 78,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 71
+      },
+      "rating": 76,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14hajrovic",
+      "name": "Izet Hajrović",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 73,
+        "recuperacion": 73,
+        "tecnica": 80
+      },
+      "rating": 75,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14susic",
+      "name": "Tino-Sven Sušić",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 76
+      },
+      "rating": 70,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14hadzic",
+      "name": "Anel Hadžić",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 71,
+        "paseFiltrado": 71,
+        "llegada": 71,
+        "regate": 63,
+        "disparo": 62
+      },
+      "rating": 70,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14salihovic",
+      "name": "Sejad Salihović",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 68,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "bih14dzeko",
+      "name": "Edin Džeko",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 81
+      },
+      "rating": 80,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "bih14ibisevic",
+      "name": "Vedad Ibišević",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 72,
+        "fisico": 73,
+        "velocidad": 64,
+        "cabezazo": 64,
+        "pressing": 64,
+        "desmarque": 73
+      },
+      "rating": 71,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "bih14visca",
+      "name": "Edin Višća",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 69,
+      "country": "Bosnia y Herzegovina",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    }
+  ]
+}

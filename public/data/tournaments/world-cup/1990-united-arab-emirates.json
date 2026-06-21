@@ -1,0 +1,407 @@
+{
+  "country": "Emiratos Árabes",
+  "countryCode": "ARE",
+  "confederation": "AFC",
+  "year": 1990,
+  "tournamentId": "wc-1990",
+  "players": [
+    {
+      "id": "are90hassan",
+      "name": "Abdulqadir Hassan",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 77,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90musa",
+      "name": "Abdullah Musa",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 80,
+        "salidas": 73,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 76,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90musabah",
+      "name": "Muhsin Musabah",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 67,
+        "manejo": 67,
+        "salidas": 58,
+        "penales": 58,
+        "distribucion": 58
+      },
+      "rating": 68,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90mohamed",
+      "name": "Abdulrahman Mohamed",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 73,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90meer",
+      "name": "Ibrahim Meer",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 77
+      },
+      "rating": 72,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90meer2",
+      "name": "Eissa Meer",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 77
+      },
+      "rating": 72,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90alhaddad",
+      "name": "Abdulrahman Al-Haddad",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 71,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90salim",
+      "name": "Mohamed Salim",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 69,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90ghanim",
+      "name": "Khalil Ghanim",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 68,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90ghanim2",
+      "name": "Mubarak Ghanim",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 68,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90hussain",
+      "name": "Yousuf Hussain",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 68,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90ismail",
+      "name": "Khalid Ismaïl",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 81
+      },
+      "rating": 77,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 1
+    },
+    {
+      "id": "are90khamees",
+      "name": "Nasir Khamees",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 75,
+        "recuperacion": 75,
+        "tecnica": 82
+      },
+      "rating": 76,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90jumaa",
+      "name": "Ali Thani Jumaa",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 71
+      },
+      "rating": 75,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 1
+    },
+    {
+      "id": "are90mohamed2",
+      "name": "Hassan Mohamed",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 79,
+        "paseFiltrado": 79,
+        "llegada": 79,
+        "regate": 71,
+        "disparo": 72
+      },
+      "rating": 74,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90sultan",
+      "name": "Abdualla Sultan",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 72,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 71,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90abdulrahman",
+      "name": "Fahad Abdulrahman",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 67,
+        "pases": 67,
+        "posicionamiento": 67,
+        "duelos": 67,
+        "resistencia": 58
+      },
+      "rating": 68,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90ghuloum",
+      "name": "Hussain Ghuloum",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 80
+      },
+      "rating": 79,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90khamees2",
+      "name": "Fahad Khamees",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 77,
+        "cabezazo": 76,
+        "pressing": 76,
+        "desmarque": 83
+      },
+      "rating": 77,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90mohamed3",
+      "name": "Abdulaziz Mohamed",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 75,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90altalyani",
+      "name": "Adnan Al-Talyani",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 65,
+        "disparo": 65,
+        "desmarque": 73
+      },
+      "rating": 70,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "are90bakheet",
+      "name": "Zuhair Bakheet",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 71,
+        "fisico": 71,
+        "velocidad": 62,
+        "cabezazo": 62,
+        "pressing": 62,
+        "desmarque": 71
+      },
+      "rating": 70,
+      "country": "Emiratos Árabes",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    }
+  ]
+}

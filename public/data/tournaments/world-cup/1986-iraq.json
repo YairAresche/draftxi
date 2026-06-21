@@ -1,0 +1,411 @@
+{
+  "country": "Irak",
+  "countryCode": "IRQ",
+  "confederation": "AFC",
+  "year": 1986,
+  "tournamentId": "wc-1986",
+  "players": [
+    {
+      "id": "irq86nsaief",
+      "name": "Fatah Nsaief",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 77,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86hammoudi",
+      "name": "Raad Hammoudi",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 73,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86jassim",
+      "name": "Ahmad Jassim",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 70,
+        "manejo": 70,
+        "salidas": 62,
+        "penales": 62,
+        "distribucion": 62
+      },
+      "rating": 69,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86allawi",
+      "name": "Khalil Allawi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 74,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86allawi2",
+      "name": "Karim Allawi",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 74,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86qasim",
+      "name": "Basim Qasim",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 74,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86shaker",
+      "name": "Nadhim Shaker",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 72,
+        "velocidad": 62,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 73,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86shaker2",
+      "name": "Samir Shaker",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 72,
+        "velocidad": 62,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 73,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86oraibi",
+      "name": "Ghanim Oraibi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 68,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86ibrahim",
+      "name": "Maad Ibrahim",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 66,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 67,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86hussein-shihab",
+      "name": "Ali Hussein Shihab",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 78,
+        "resistencia": 70
+      },
+      "rating": 78,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86mohammed",
+      "name": "Haris Mohammed",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 80,
+        "llegada": 71,
+        "recuperacion": 72,
+        "tecnica": 80
+      },
+      "rating": 77,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86mohammed-sharif",
+      "name": "Ismail Mohammed Sharif",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 76,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86hashim",
+      "name": "Natiq Hashim",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 75
+      },
+      "rating": 74,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86mahmoud",
+      "name": "Shaker Mahmoud",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 65
+      },
+      "rating": 74,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86ali",
+      "name": "Jamal Ali",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 73,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86gorgis",
+      "name": "Basil Gorgis",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 75,
+        "llegada": 75,
+        "regate": 67,
+        "disparo": 67
+      },
+      "rating": 72,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86saeed",
+      "name": "Hussein Saeed",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 74,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 79,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86hameed",
+      "name": "Rahim Hameed",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 82,
+        "fisico": 82,
+        "velocidad": 73,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 82
+      },
+      "rating": 79,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86saddam",
+      "name": "Karim Saddam",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 77
+      },
+      "rating": 75,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86abid",
+      "name": "Anad Abid",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 78
+      },
+      "rating": 75,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "irq86radhi",
+      "name": "Ahmed Radhi",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 74,
+        "fisico": 74,
+        "velocidad": 65,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 74
+      },
+      "rating": 73,
+      "country": "Irak",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    }
+  ]
+}

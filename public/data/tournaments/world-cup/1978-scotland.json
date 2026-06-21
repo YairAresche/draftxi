@@ -1,0 +1,420 @@
+{
+  "country": "Escocia",
+  "countryCode": "SCO",
+  "confederation": "UEFA",
+  "year": 1978,
+  "tournamentId": "wc-1978",
+  "players": [
+    {
+      "id": "sco78rough",
+      "name": "Alan Rough",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 81,
+        "salidas": 73,
+        "penales": 73,
+        "distribucion": 74
+      },
+      "rating": 77,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "sco78blyth",
+      "name": "Jim Blyth",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 73,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "sco78clark",
+      "name": "Bobby Clark",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 73,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "sco78buchan",
+      "name": "Martin Buchan",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 75,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "sco78kennedy",
+      "name": "Stuart Kennedy",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 75,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "sco78donachie",
+      "name": "Willie Donachie",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 74,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "sco78mcqueen",
+      "name": "Gordon McQueen",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 75,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 74,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "sco78burns",
+      "name": "Kenny Burns",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "sco78jardine",
+      "name": "Sandy Jardine",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 70,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "sco78forsyth",
+      "name": "Tom Forsyth",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 67,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "sco78gemmill",
+      "name": "Archie Gemmill",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 70,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 79,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 2
+    },
+    {
+      "id": "sco78johnston",
+      "name": "Willie Johnston",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 81,
+        "paseFiltrado": 81,
+        "llegada": 81,
+        "regate": 73,
+        "disparo": 73
+      },
+      "rating": 77,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "sco78souness",
+      "name": "Graeme Souness",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 71
+      },
+      "rating": 77,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    },
+    {
+      "id": "sco78rioch",
+      "name": "Bruce Rioch",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 80,
+        "resistencia": 73
+      },
+      "rating": 74,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "sco78hartford",
+      "name": "Asa Hartford",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 74
+      },
+      "rating": 73,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "sco78masson",
+      "name": "Don Masson",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 73
+      },
+      "rating": 71,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "sco78jordan",
+      "name": "Joe Jordan",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 77,
+        "disparo": 67,
+        "desmarque": 76
+      },
+      "rating": 77,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 4
+    },
+    {
+      "id": "sco78macari",
+      "name": "Lou Macari",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 69,
+        "disparo": 70,
+        "desmarque": 78
+      },
+      "rating": 77,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "sco78dalglish",
+      "name": "Kenny Dalglish",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 73,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 80
+      },
+      "rating": 75,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 2
+    },
+    {
+      "id": "sco78johnstone",
+      "name": "Derek Johnstone",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 77
+      },
+      "rating": 75,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "sco78robertson",
+      "name": "John Robertson",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 80
+      },
+      "rating": 74,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    },
+    {
+      "id": "sco78harper",
+      "name": "Joe Harper",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 71,
+      "country": "Escocia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    }
+  ]
+}

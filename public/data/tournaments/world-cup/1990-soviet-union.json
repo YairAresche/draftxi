@@ -1,0 +1,406 @@
+{
+  "country": "Unión Soviética",
+  "countryCode": "SUN",
+  "confederation": "UEFA",
+  "year": 1990,
+  "tournamentId": "wc-1990",
+  "players": [
+    {
+      "id": "sun90dasayev",
+      "name": "Rinat Dasayev",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 84,
+        "manejo": 84,
+        "salidas": 77,
+        "penales": 77,
+        "distribucion": 77
+      },
+      "rating": 77,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "sun90chanov",
+      "name": "Viktor Chanov",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 75,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "sun90uvarov",
+      "name": "Aleksandr Uvarov",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 74,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "sun90demyanenko",
+      "name": "Anatoliy Demyanenko",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 84,
+        "intercepciones": 84,
+        "velocidad": 77,
+        "pases": 77,
+        "duelos": 84
+      },
+      "rating": 77,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "sun90khidiyatullin",
+      "name": "Vagiz Khidiyatullin",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 74,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "sun90kuznetsov",
+      "name": "Oleh Kuznetsov",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 74,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "sun90bezsonov",
+      "name": "Volodymyr Bezsonov",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 73,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "sun90tsveiba",
+      "name": "Akhrik Tsveiba",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 73,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "sun90gorlukovich",
+      "name": "Sergei Gorlukovich",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "sun90fokin",
+      "name": "Sergei Fokin",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 70,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "sun90zygmantovich",
+      "name": "Andrei Zygmantovich",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 84,
+        "vision": 84,
+        "llegada": 77,
+        "recuperacion": 76,
+        "tecnica": 84
+      },
+      "rating": 77,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 1
+    },
+    {
+      "id": "sun90rats",
+      "name": "Vasyl Rats",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 80,
+        "duelos": 80,
+        "resistencia": 72
+      },
+      "rating": 74,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 1
+    },
+    {
+      "id": "sun90borodyuk",
+      "name": "Aleksandr Borodyuk",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 80
+      },
+      "rating": 74,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "sun90broshin",
+      "name": "Valeri Broshin",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 74,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "sun90zavarov",
+      "name": "Oleksandr Zavarov",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 72,
+        "paseFiltrado": 72,
+        "llegada": 72,
+        "regate": 64,
+        "disparo": 63
+      },
+      "rating": 72,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 2
+    },
+    {
+      "id": "sun90shalimov",
+      "name": "Igor Shalimov",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 73,
+        "paseFiltrado": 73,
+        "llegada": 73,
+        "regate": 64,
+        "disparo": 64
+      },
+      "rating": 72,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "sun90yaremchuk",
+      "name": "Ivan Yaremchuk",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 77,
+        "pases": 78,
+        "posicionamiento": 77,
+        "duelos": 77,
+        "resistencia": 70
+      },
+      "rating": 71,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 1
+    },
+    {
+      "id": "sun90aleinikov",
+      "name": "Sergei Aleinikov",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 70,
+        "vision": 70,
+        "llegada": 61,
+        "recuperacion": 61,
+        "tecnica": 70
+      },
+      "rating": 69,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 1
+    },
+    {
+      "id": "sun90litovchenko",
+      "name": "Gennadiy Litovchenko",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 70,
+        "vision": 70,
+        "llegada": 62,
+        "recuperacion": 62,
+        "tecnica": 70
+      },
+      "rating": 69,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "sun90lyutyi",
+      "name": "Volodymyr Lyutyi",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 70,
+        "disparo": 69,
+        "desmarque": 78
+      },
+      "rating": 77,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "sun90protasov",
+      "name": "Oleh Protasov",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 76,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 1
+    },
+    {
+      "id": "sun90dobrovolski",
+      "name": "Igor Dobrovolski",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 78
+      },
+      "rating": 76,
+      "country": "Unión Soviética",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 1
+    }
+  ]
+}

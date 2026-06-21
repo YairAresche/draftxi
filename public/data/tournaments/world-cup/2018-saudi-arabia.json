@@ -1,0 +1,418 @@
+{
+  "country": "Arabia Saudita",
+  "countryCode": "SAU",
+  "confederation": "AFC",
+  "year": 2018,
+  "tournamentId": "wc-2018",
+  "players": [
+    {
+      "id": "sau18alowais",
+      "name": "Mohammed Al-Owais",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 83,
+        "manejo": 83,
+        "salidas": 76,
+        "penales": 76,
+        "distribucion": 76
+      },
+      "rating": 77,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18almayouf",
+      "name": "Abdullah Al-Mayouf",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 74,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18almosailem",
+      "name": "Yasser Al-Mosailem",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 68,
+        "manejo": 68,
+        "salidas": 59,
+        "penales": 59,
+        "distribucion": 59
+      },
+      "rating": 69,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18alharbi",
+      "name": "Mansoor Al-Harbi",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 70,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 77,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18hawsawi",
+      "name": "Osama Hawsawi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 74,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18hawsawi2",
+      "name": "Omar Hawsawi",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 74,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18hawsawi3",
+      "name": "Motaz Hawsawi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 74,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18albreik",
+      "name": "Mohammed Al-Breik",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 72,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18albulaihi",
+      "name": "Ali Al-Bulaihi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 68
+      },
+      "rating": 69,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18alshahrani",
+      "name": "Yasser Al-Shahrani",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 72
+      },
+      "rating": 68,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18alkhaibari",
+      "name": "Abdullah Al-Khaibari",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 84,
+        "vision": 84,
+        "llegada": 77,
+        "recuperacion": 77,
+        "tecnica": 84
+      },
+      "rating": 78,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18alshehri",
+      "name": "Yahya Al-Shehri",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 72,
+        "tecnica": 80
+      },
+      "rating": 76,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18kanno",
+      "name": "Mohamed Kanno",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 79
+      },
+      "rating": 74,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18bahebri",
+      "name": "Hattan Bahebri",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 73,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18aldawsari",
+      "name": "Salem Al-Dawsari",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 73,
+        "posicionamiento": 73,
+        "duelos": 73,
+        "resistencia": 65
+      },
+      "rating": 73,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 3
+    },
+    {
+      "id": "sau18alkhaibri",
+      "name": "Abdulmalek Al-Khaibri",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 70,
+        "paseFiltrado": 70,
+        "llegada": 70,
+        "regate": 61,
+        "disparo": 60
+      },
+      "rating": 71,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18almogahwi",
+      "name": "Housain Al-Mogahwi",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 66,
+        "disparo": 66
+      },
+      "rating": 71,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18alfaraj",
+      "name": "Salman Al-Faraj",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 67
+      },
+      "rating": 70,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "sau18otayf",
+      "name": "Abdullah Otayf",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 69,
+        "pases": 69,
+        "posicionamiento": 70,
+        "duelos": 70,
+        "resistencia": 61
+      },
+      "rating": 69,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18aljassim",
+      "name": "Taisir Al-Jassim",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 63,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 69,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18alsahlawi",
+      "name": "Mohammad Al-Sahlawi",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 75
+      },
+      "rating": 72,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18almuwallad",
+      "name": "Fahad Al-Muwallad",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 65,
+        "disparo": 65,
+        "desmarque": 73
+      },
+      "rating": 70,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "sau18assiri",
+      "name": "Muhannad Assiri",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 65,
+        "disparo": 65,
+        "desmarque": 73
+      },
+      "rating": 69,
+      "country": "Arabia Saudita",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    }
+  ]
+}

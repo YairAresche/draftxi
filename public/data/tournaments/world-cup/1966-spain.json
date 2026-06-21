@@ -1,0 +1,446 @@
+{
+  "country": "España",
+  "countryCode": "ESP",
+  "confederation": "UEFA",
+  "year": 1966,
+  "tournamentId": "wc-1966",
+  "players": [
+    {
+      "id": "esp66reina",
+      "name": "Miguel Reina",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 82,
+        "manejo": 82,
+        "salidas": 74,
+        "penales": 74,
+        "distribucion": 74
+      },
+      "rating": 76,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "esp66iribar",
+      "name": "José Ángel Iribar",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 81,
+        "salidas": 74,
+        "penales": 74,
+        "distribucion": 74
+      },
+      "rating": 75,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "esp66betancort",
+      "name": "Antonio Betancort",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 68,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "esp66eladio",
+      "name": "Eladio",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 75,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "esp66olivella",
+      "name": "Ferran Olivella",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 75,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "esp66sanchis",
+      "name": "Manuel Sanchís",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 63,
+        "pases": 64,
+        "duelos": 73
+      },
+      "rating": 74,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "esp66reija",
+      "name": "Severino Reija",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 74,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "esp66rivilla",
+      "name": "Feliciano Rivilla",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 73,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "esp66gallego",
+      "name": "Gallego",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 71,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 70,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "esp66del-sol",
+      "name": "Luis del Sol",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 83,
+        "pases": 83,
+        "posicionamiento": 83,
+        "duelos": 83,
+        "resistencia": 75
+      },
+      "rating": 78,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "esp66pirri",
+      "name": "Pirri",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 75,
+        "recuperacion": 75,
+        "tecnica": 82
+      },
+      "rating": 78,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "esp66glaria",
+      "name": "Jesús Glaría",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 72,
+        "recuperacion": 73,
+        "tecnica": 80
+      },
+      "rating": 77,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "esp66peiro",
+      "name": "Joaquín Peiró",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 77,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "esp66ufarte",
+      "name": "José Ufarte",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 79,
+        "paseFiltrado": 79,
+        "llegada": 79,
+        "regate": 71,
+        "disparo": 71
+      },
+      "rating": 76,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "esp66fuste",
+      "name": "Josep Maria Fusté",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 81,
+        "resistencia": 73
+      },
+      "rating": 76,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "esp66adelardo",
+      "name": "Adelardo",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 76,
+        "paseFiltrado": 76,
+        "llegada": 76,
+        "regate": 68,
+        "disparo": 67
+      },
+      "rating": 76,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "esp66zoco",
+      "name": "Ignacio Zoco",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 77
+      },
+      "rating": 74,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "esp66suarez",
+      "name": "Luis Suárez",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 79,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "esp66lapetra",
+      "name": "Carlos Lapetra",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 77,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "esp66amancio",
+      "name": "Amancio",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 66,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 76
+      },
+      "rating": 76,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "esp66gento",
+      "name": "Francisco Gento",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 73,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 76,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "esp66marcelino",
+      "name": "Marcelino",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 71,
+        "regate": 71,
+        "centro": 62,
+        "disparo": 62,
+        "desmarque": 71
+      },
+      "rating": 72,
+      "country": "España",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    }
+  ]
+}

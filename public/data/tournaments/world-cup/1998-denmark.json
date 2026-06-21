@@ -1,0 +1,418 @@
+{
+  "country": "Dinamarca",
+  "countryCode": "DNK",
+  "confederation": "UEFA",
+  "year": 1998,
+  "tournamentId": "wc-1998",
+  "players": [
+    {
+      "id": "dnk98schmeichel",
+      "name": "Peter Schmeichel",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 97,
+        "manejo": 97,
+        "salidas": 89,
+        "penales": 89,
+        "distribucion": 89
+      },
+      "rating": 91,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "dnk98kjr",
+      "name": "Peter Kjær",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 75,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "dnk98krogh",
+      "name": "Mogens Krogh",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 71,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "dnk98hgh",
+      "name": "Jes Høgh",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 77,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "dnk98heintze",
+      "name": "Jan Heintze",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 78
+      },
+      "rating": 76,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "dnk98schjnberg",
+      "name": "Michael Schjønberg",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 68,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 74,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "dnk98henriksen",
+      "name": "René Henriksen",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 74,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "dnk98helveg",
+      "name": "Thomas Helveg",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 73,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "dnk98colding",
+      "name": "Søren Colding",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 70,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "dnk98laursen",
+      "name": "Jacob Laursen",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 70,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "dnk98rieper",
+      "name": "Marc Rieper",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 72
+      },
+      "rating": 67,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "dnk98laudrup",
+      "name": "Michael Laudrup",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "ED",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 94,
+        "paseFiltrado": 94,
+        "llegada": 94,
+        "regate": 86,
+        "disparo": 86
+      },
+      "rating": 91,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 2
+    },
+    {
+      "id": "dnk98laudrup2",
+      "name": "Brian Laudrup",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "ED",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 94,
+        "paseFiltrado": 94,
+        "llegada": 94,
+        "regate": 86,
+        "disparo": 86
+      },
+      "rating": 91,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 2
+    },
+    {
+      "id": "dnk98wieghorst",
+      "name": "Morten Wieghorst",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 69,
+        "disparo": 69
+      },
+      "rating": 77,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "dnk98nielsen",
+      "name": "Allan Nielsen",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 71,
+        "pases": 71,
+        "posicionamiento": 71,
+        "duelos": 71,
+        "resistencia": 62
+      },
+      "rating": 72,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "dnk98tfting",
+      "name": "Stig Tøfting",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 74
+      },
+      "rating": 72,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "dnk98frandsen",
+      "name": "Per Frandsen",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 62,
+        "recuperacion": 62,
+        "tecnica": 71
+      },
+      "rating": 70,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "dnk98jrgensen",
+      "name": "Martin Jørgensen",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 75,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 74
+      },
+      "rating": 70,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "dnk98goldbk",
+      "name": "Bjarne Goldbæk",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 73,
+        "posicionamiento": 73,
+        "duelos": 73,
+        "resistencia": 65
+      },
+      "rating": 69,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "dnk98molnar",
+      "name": "Miklos Molnar",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 69,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 78
+      },
+      "rating": 75,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "dnk98sand",
+      "name": "Ebbe Sand",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 66,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 75
+      },
+      "rating": 73,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "dnk98mller",
+      "name": "Peter Møller",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 72,
+      "country": "Dinamarca",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    }
+  ]
+}

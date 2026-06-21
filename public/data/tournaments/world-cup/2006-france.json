@@ -1,0 +1,449 @@
+{
+  "country": "Francia",
+  "countryCode": "FRA",
+  "confederation": "UEFA",
+  "year": 2006,
+  "tournamentId": "wc-2006",
+  "players": [
+    {
+      "id": "fra06barthez",
+      "name": "Fabien Barthez",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 82,
+        "manejo": 82,
+        "salidas": 75,
+        "penales": 74,
+        "distribucion": 74
+      },
+      "rating": 77,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "fra06landreau",
+      "name": "Mickaël Landreau",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 82,
+        "manejo": 82,
+        "salidas": 75,
+        "penales": 75,
+        "distribucion": 75
+      },
+      "rating": 76,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "fra06coupet",
+      "name": "Grégory Coupet",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 64,
+        "penales": 64,
+        "distribucion": 64
+      },
+      "rating": 70,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "fra06thuram",
+      "name": "Lilian Thuram",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 85,
+        "intercepciones": 85,
+        "velocidad": 75,
+        "pases": 76,
+        "duelos": 84
+      },
+      "rating": 85,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 2
+    },
+    {
+      "id": "fra06boumsong",
+      "name": "Jean-Alain Boumsong",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 77,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "fra06sagnol",
+      "name": "Willy Sagnol",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 83,
+        "velocidad": 77,
+        "pases": 76,
+        "duelos": 83
+      },
+      "rating": 77,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "fra06givet",
+      "name": "Gaël Givet",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 76,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "fra06gallas",
+      "name": "William Gallas",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 78
+      },
+      "rating": 74,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "fra06chimbonda",
+      "name": "Pascal Chimbonda",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 73,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "fra06abidal",
+      "name": "Eric Abidal",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 72,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "fra06silvestre",
+      "name": "Mikaël Silvestre",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 67,
+        "intercepciones": 67,
+        "velocidad": 58,
+        "pases": 58,
+        "duelos": 67
+      },
+      "rating": 67,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "fra06zidane",
+      "name": "Zinedine Zidane",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "natural"
+        }
+      ],
+      "stats": {
+        "pases": 95,
+        "vision": 95,
+        "llegada": 86,
+        "recuperacion": 87,
+        "tecnica": 95
+      },
+      "rating": 95,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 5
+    },
+    {
+      "id": "fra06vieira",
+      "name": "Patrick Vieira",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 88,
+        "pases": 88,
+        "posicionamiento": 88,
+        "duelos": 88,
+        "resistencia": 79
+      },
+      "rating": 89,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 2
+    },
+    {
+      "id": "fra06dhorasoo",
+      "name": "Vikash Dhorasoo",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 69,
+        "disparo": 69
+      },
+      "rating": 75,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "fra06makelele",
+      "name": "Claude Makélélé",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 67,
+        "recuperacion": 66,
+        "tecnica": 74
+      },
+      "rating": 71,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "fra06malouda",
+      "name": "Florent Malouda",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 63,
+        "recuperacion": 63,
+        "tecnica": 71
+      },
+      "rating": 70,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    },
+    {
+      "id": "fra06diarra",
+      "name": "Alou Diarra",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 72,
+        "pases": 72,
+        "posicionamiento": 72,
+        "duelos": 72,
+        "resistencia": 64
+      },
+      "rating": 69,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "fra06henry",
+      "name": "Thierry Henry",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 97,
+        "regate": 97,
+        "centro": 89,
+        "disparo": 89,
+        "desmarque": 97
+      },
+      "rating": 94,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 6
+    },
+    {
+      "id": "fra06ribery",
+      "name": "Franck Ribéry",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "ED",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 93,
+        "regate": 93,
+        "centro": 86,
+        "disparo": 86,
+        "desmarque": 93
+      },
+      "rating": 88,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    },
+    {
+      "id": "fra06trezeguet",
+      "name": "David Trezeguet",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 79
+      },
+      "rating": 79,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    },
+    {
+      "id": "fra06wiltord",
+      "name": "Sylvain Wiltord",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 79
+      },
+      "rating": 76,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "fra06govou",
+      "name": "Sidney Govou",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 78,
+        "fisico": 77,
+        "velocidad": 69,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 77
+      },
+      "rating": 75,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "fra06saha",
+      "name": "Louis Saha",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 76,
+        "velocidad": 66,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 76
+      },
+      "rating": 75,
+      "country": "Francia",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    }
+  ]
+}

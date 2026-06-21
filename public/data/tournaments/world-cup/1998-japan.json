@@ -1,0 +1,408 @@
+{
+  "country": "Japón",
+  "countryCode": "JPN",
+  "confederation": "AFC",
+  "year": 1998,
+  "tournamentId": "wc-1998",
+  "players": [
+    {
+      "id": "jpn98kojima",
+      "name": "Nobuyuki Kojima",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 75,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98kawaguchi",
+      "name": "Yoshikatsu Kawaguchi",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 71,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98narazaki",
+      "name": "Seigo Narazaki",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 71,
+        "salidas": 62,
+        "penales": 62,
+        "distribucion": 62
+      },
+      "rating": 70,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98nakanishi",
+      "name": "Eisuke Nakanishi",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 77
+      },
+      "rating": 77,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98soma",
+      "name": "Naoki Soma",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 77
+      },
+      "rating": 75,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98ihara",
+      "name": "Masami Ihara",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 74,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98narahashi",
+      "name": "Akira Narahashi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 75
+      },
+      "rating": 71,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98akita",
+      "name": "Yutaka Akita",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98omura",
+      "name": "Norio Omura",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 75
+      },
+      "rating": 70,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98saito",
+      "name": "Toshihide Saito",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 75
+      },
+      "rating": 69,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98nakata",
+      "name": "Hidetoshi Nakata",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 90,
+        "vision": 90,
+        "llegada": 83,
+        "recuperacion": 83,
+        "tecnica": 90
+      },
+      "rating": 85,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "jpn98morishima",
+      "name": "Hiroaki Morishima",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 75,
+        "recuperacion": 75,
+        "tecnica": 82
+      },
+      "rating": 78,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "jpn98hirano",
+      "name": "Takashi Hirano",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 70,
+        "disparo": 70
+      },
+      "rating": 75,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98ito",
+      "name": "Teruyoshi Ito",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 74
+      },
+      "rating": 73,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98nanami",
+      "name": "Hiroshi Nanami",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 66,
+        "disparo": 66
+      },
+      "rating": 72,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98hattori",
+      "name": "Toshihiro Hattori",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 77,
+        "pases": 77,
+        "posicionamiento": 77,
+        "duelos": 78,
+        "resistencia": 70
+      },
+      "rating": 71,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98yamaguchi",
+      "name": "Motohiro Yamaguchi",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 73,
+        "posicionamiento": 73,
+        "duelos": 73,
+        "resistencia": 65
+      },
+      "rating": 70,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98ono",
+      "name": "Shinji Ono",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 73
+      },
+      "rating": 69,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98okano",
+      "name": "Masayuki Okano",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 79
+      },
+      "rating": 75,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98nakayama",
+      "name": "Masashi Nakayama",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 67,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 76
+      },
+      "rating": 74,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "jpn98lopes",
+      "name": "Wagner Lopes",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 72,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "jpn98jo",
+      "name": "Shoji Jo",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 74,
+        "fisico": 74,
+        "velocidad": 65,
+        "cabezazo": 65,
+        "pressing": 65,
+        "desmarque": 74
+      },
+      "rating": 72,
+      "country": "Japón",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "country": "Brasil",
+  "countryCode": "BRA",
+  "confederation": "CONMEBOL",
+  "year": 1970,
+  "tournamentId": "wc-1970",
+  "players": [
+    {
+      "id": "bra70leao",
+      "name": "Leão",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 82,
+        "manejo": 82,
+        "salidas": 74,
+        "penales": 74,
+        "distribucion": 74
+      },
+      "rating": 78,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "bra70ado",
+      "name": "Ado",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 73,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "bra70felix",
+      "name": "Félix",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 71,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "bra70alberto",
+      "name": "Carlos Alberto",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 95,
+        "intercepciones": 95,
+        "velocidad": 88,
+        "pases": 87,
+        "duelos": 95
+      },
+      "rating": 90,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "bra70baldocchi",
+      "name": "Baldocchi",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 77,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "bra70brito",
+      "name": "Brito",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 73
+      },
+      "rating": 71,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "bra70fontana",
+      "name": "Fontana",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 71,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "bra70joel",
+      "name": "Joel",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "bra70antonio",
+      "name": "Marco Antônio",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 69
+      },
+      "rating": 69,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "bra70everaldo",
+      "name": "Everaldo",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 69,
+        "velocidad": 59,
+        "pases": 59,
+        "duelos": 68
+      },
+      "rating": 69,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "bra70ze-maria",
+      "name": "Zé Maria",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 66,
+        "pases": 65,
+        "duelos": 72
+      },
+      "rating": 67,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "bra70gerson",
+      "name": "Gérson",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 93,
+        "vision": 93,
+        "llegada": 85,
+        "recuperacion": 85,
+        "tecnica": 93
+      },
+      "rating": 91,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "bra70clodoaldo",
+      "name": "Clodoaldo",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 91,
+        "pases": 91,
+        "posicionamiento": 91,
+        "duelos": 91,
+        "resistencia": 84
+      },
+      "rating": 85,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 1
+    },
+    {
+      "id": "bra70rivellino",
+      "name": "Rivellino",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 66,
+        "disparo": 66
+      },
+      "rating": 73,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 6
+    },
+    {
+      "id": "bra70piazza",
+      "name": "Piazza",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 68
+      },
+      "rating": 70,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "bra70caju",
+      "name": "Caju",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 75
+      },
+      "rating": 69,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "bra70pele",
+      "name": "Pelé",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "natural"
+        },
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 99,
+        "fisico": 99,
+        "velocidad": 96,
+        "cabezazo": 96,
+        "pressing": 96,
+        "desmarque": 99
+      },
+      "rating": 99,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 12
+    },
+    {
+      "id": "bra70jairzinho",
+      "name": "Jairzinho",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 94,
+        "regate": 94,
+        "centro": 85,
+        "disparo": 85,
+        "desmarque": 93
+      },
+      "rating": 94,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 9
+    },
+    {
+      "id": "bra70tostao",
+      "name": "Tostão",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 92,
+        "fisico": 92,
+        "velocidad": 84,
+        "cabezazo": 84,
+        "pressing": 84,
+        "desmarque": 92
+      },
+      "rating": 90,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970",
+      "goals": 3
+    },
+    {
+      "id": "bra70dario",
+      "name": "Dario",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 75,
+        "disparo": 74,
+        "desmarque": 82
+      },
+      "rating": 77,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "bra70roberto",
+      "name": "Roberto",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 70,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 78
+      },
+      "rating": 74,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    },
+    {
+      "id": "bra70edu",
+      "name": "Edu",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 73
+      },
+      "rating": 72,
+      "country": "Brasil",
+      "tournamentYear": 1970,
+      "tournamentId": "wc-1970"
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "country": "España",
+  "countryCode": "ESP",
+  "confederation": "UEFA",
+  "year": 1998,
+  "tournamentId": "wc-1998",
+  "players": [
+    {
+      "id": "esp98canizares",
+      "name": "Santiago Cañizares",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 69,
+        "manejo": 69,
+        "salidas": 60,
+        "penales": 60,
+        "distribucion": 60
+      },
+      "rating": 69,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "esp98molina",
+      "name": "José Molina",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 69,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "esp98zubizarreta",
+      "name": "Andoni Zubizarreta",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 68,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "esp98sergi",
+      "name": "Sergi",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 76,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "esp98aguilera",
+      "name": "Carlos Aguilera",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 75,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "esp98ferrer",
+      "name": "Albert Ferrer",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 74,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "esp98abelardo",
+      "name": "Abelardo",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 73,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "esp98hierro",
+      "name": "Fernando Hierro",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 5
+    },
+    {
+      "id": "esp98nadal",
+      "name": "Miguel Ángel Nadal",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 71,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "esp98aranzabal",
+      "name": "Agustín Aranzábal",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 68,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "esp98campo",
+      "name": "Iván Campo",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 68,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "esp98alkorta",
+      "name": "Rafael Alkorta",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 68
+      },
+      "rating": 67,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "esp98amor",
+      "name": "Guillermo Amor",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 80,
+        "paseFiltrado": 80,
+        "llegada": 80,
+        "regate": 73,
+        "disparo": 74
+      },
+      "rating": 74,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "esp98guerrero",
+      "name": "Julen Guerrero",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 73,
+        "posicionamiento": 73,
+        "duelos": 73,
+        "resistencia": 64
+      },
+      "rating": 73,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "esp98enrique",
+      "name": "Luis Enrique",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 72,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 2
+    },
+    {
+      "id": "esp98celades",
+      "name": "Albert Celades",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 71,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "esp98etxeberria",
+      "name": "Joseba Etxeberria",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 67,
+        "recuperacion": 68,
+        "tecnica": 75
+      },
+      "rating": 69,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "esp98morientes",
+      "name": "Fernando Morientes",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 85,
+        "fisico": 85,
+        "velocidad": 79,
+        "cabezazo": 78,
+        "pressing": 78,
+        "desmarque": 85
+      },
+      "rating": 80,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 5
+    },
+    {
+      "id": "esp98raul",
+      "name": "Raúl",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 82
+      },
+      "rating": 80,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 5
+    },
+    {
+      "id": "esp98kiko",
+      "name": "Kiko",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 75,
+        "disparo": 75,
+        "desmarque": 83
+      },
+      "rating": 78,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "esp98alfonso",
+      "name": "Alfonso",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 73,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 79
+      },
+      "rating": 74,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "esp98pizzi",
+      "name": "Juan Antonio Pizzi",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 76
+      },
+      "rating": 72,
+      "country": "España",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "country": "Corea del Norte",
+  "countryCode": "PRK",
+  "confederation": "AFC",
+  "year": 1966,
+  "tournamentId": "wc-1966",
+  "players": [
+    {
+      "id": "prk66lee",
+      "name": "Chang-myung Lee",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 81,
+        "salidas": 74,
+        "penales": 74,
+        "distribucion": 74
+      },
+      "rating": 77,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prk66lee2",
+      "name": "Keun-hak Lee",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 81,
+        "salidas": 74,
+        "penales": 74,
+        "distribucion": 74
+      },
+      "rating": 77,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prk66lim",
+      "name": "Zoong-sun Lim",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 82
+      },
+      "rating": 76,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prk66kim",
+      "name": "Yung-kil Kim",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 73,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prk66ryoo",
+      "name": "Chang-kil Ryoo",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prk66shin",
+      "name": "Yung-kyoo Shin",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 66,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 69,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prk66pak",
+      "name": "Li-sup Pak",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 68,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prk66oh",
+      "name": "Yoon-kyung Oh",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 67,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prk66ha",
+      "name": "Jung-won Ha",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 59,
+        "pases": 59,
+        "duelos": 68
+      },
+      "rating": 67,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prk66ke",
+      "name": "Seung-woon Ke",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 81,
+        "resistencia": 73
+      },
+      "rating": 78,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prk66kang",
+      "name": "Bong-chil Kang",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 78,
+        "resistencia": 70
+      },
+      "rating": 75,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prk66kim2",
+      "name": "Bong-hwan Kim",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 74
+      },
+      "rating": 74,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prk66li",
+      "name": "Dong-woon Li",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 77,
+        "paseFiltrado": 77,
+        "llegada": 77,
+        "regate": 70,
+        "disparo": 71
+      },
+      "rating": 71,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "prk66im",
+      "name": "Seung-hwi Im",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 74
+      },
+      "rating": 70,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prk66han",
+      "name": "Bong-zin Han",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 70,
+        "vision": 70,
+        "llegada": 61,
+        "recuperacion": 61,
+        "tecnica": 70
+      },
+      "rating": 70,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prk66an",
+      "name": "Se-bok An",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 70,
+        "vision": 70,
+        "llegada": 61,
+        "recuperacion": 61,
+        "tecnica": 70
+      },
+      "rating": 68,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prk66kang2",
+      "name": "Ryong-woon Kang",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 79
+      },
+      "rating": 76,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prk66yang",
+      "name": "Seung-kook Yang",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 66,
+        "disparo": 76,
+        "desmarque": 83
+      },
+      "rating": 76,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "prk66kim3",
+      "name": "Seung-Il Kim",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 66,
+        "cabezazo": 67,
+        "pressing": 66,
+        "desmarque": 75
+      },
+      "rating": 75,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prk66pak2",
+      "name": "Seung-zin Pak",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 73,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 2
+    },
+    {
+      "id": "prk66pak3",
+      "name": "Doo-ik Pak",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 72,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 72,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "prk66li2",
+      "name": "Chi-an Li",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 77
+      },
+      "rating": 71,
+      "country": "Corea del Norte",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    }
+  ]
+}

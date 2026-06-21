@@ -1,0 +1,412 @@
+{
+  "country": "Irán",
+  "countryCode": "IRN",
+  "confederation": "AFC",
+  "year": 1998,
+  "tournamentId": "wc-1998",
+  "players": [
+    {
+      "id": "irn98boroumand",
+      "name": "Parviz Boroumand",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 64,
+        "penales": 64,
+        "distribucion": 64
+      },
+      "rating": 73,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98nakisa",
+      "name": "Nima Nakisa",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 72,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98abedzadeh",
+      "name": "Ahmad Reza Abedzadeh",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 73,
+        "salidas": 64,
+        "penales": 64,
+        "distribucion": 64
+      },
+      "rating": 71,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98saadavi",
+      "name": "Naeim Saadavi",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 76,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98ostadasadi",
+      "name": "Ali Akbar Ostad-Asadi",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 75,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98zarincheh",
+      "name": "Javad Zarincheh",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 75,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98pashazadeh",
+      "name": "Mehdi Pashazadeh",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 74,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98shahroudi",
+      "name": "Reza Shahroudi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 70,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98peyrovani",
+      "name": "Afshin Peyrovani",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 75
+      },
+      "rating": 69,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98mohammadkhani",
+      "name": "Nader Mohammadkhani",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 69,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98khakpour",
+      "name": "Mohammad Khakpour",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 68,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98mansourian",
+      "name": "Alireza Mansourian",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 84,
+        "vision": 84,
+        "llegada": 76,
+        "recuperacion": 76,
+        "tecnica": 84
+      },
+      "rating": 78,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98estili",
+      "name": "Hamid Estili",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 73,
+        "recuperacion": 73,
+        "tecnica": 81
+      },
+      "rating": 75,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "irn98minavand",
+      "name": "Mehrdad Minavand",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 77
+      },
+      "rating": 75,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98mahdavikia",
+      "name": "Mehdi Mahdavikia",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 77,
+        "pases": 77,
+        "posicionamiento": 77,
+        "duelos": 77,
+        "resistencia": 69
+      },
+      "rating": 74,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "irn98dinmohammadi",
+      "name": "Sirous Dinmohammadi",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 77,
+        "paseFiltrado": 77,
+        "llegada": 77,
+        "regate": 70,
+        "disparo": 70
+      },
+      "rating": 73,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98bagheri",
+      "name": "Karim Bagheri",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 74
+      },
+      "rating": 69,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98hamedani",
+      "name": "Sattar Hamedani",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 69,
+        "pases": 69,
+        "posicionamiento": 69,
+        "duelos": 69,
+        "resistencia": 61
+      },
+      "rating": 69,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98latifi",
+      "name": "Ali Latifi",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 78,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 78
+      },
+      "rating": 76,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98seraj",
+      "name": "Behnam Seraj",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 69,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 77
+      },
+      "rating": 75,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98daei",
+      "name": "Ali Daei",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 72,
+        "fisico": 80,
+        "velocidad": 62,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 80
+      },
+      "rating": 73,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "irn98azizi",
+      "name": "Khodadad Azizi",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 68,
+        "disparo": 69,
+        "desmarque": 76
+      },
+      "rating": 70,
+      "country": "Irán",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    }
+  ]
+}

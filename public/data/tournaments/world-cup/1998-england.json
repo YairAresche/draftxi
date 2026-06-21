@@ -1,0 +1,412 @@
+{
+  "country": "Inglaterra",
+  "countryCode": "ENG",
+  "confederation": "UEFA",
+  "year": 1998,
+  "tournamentId": "wc-1998",
+  "players": [
+    {
+      "id": "eng98martyn",
+      "name": "Nigel Martyn",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 84,
+        "manejo": 84,
+        "salidas": 77,
+        "penales": 77,
+        "distribucion": 77
+      },
+      "rating": 78,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "eng98flowers",
+      "name": "Tim Flowers",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 73,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "eng98seaman",
+      "name": "David Seaman",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 69,
+        "manejo": 69,
+        "salidas": 61,
+        "penales": 61,
+        "distribucion": 61
+      },
+      "rating": 68,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "eng98ferdinand",
+      "name": "Rio Ferdinand",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "eng98campbell",
+      "name": "Sol Campbell",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 71,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "eng98southgate",
+      "name": "Gareth Southgate",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 70,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "eng98keown",
+      "name": "Martin Keown",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 70,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "eng98le-saux",
+      "name": "Graeme Le Saux",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 68,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "eng98adams",
+      "name": "Tony Adams",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 61,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 68,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "eng98neville",
+      "name": "Gary Neville",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 67,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "eng98beckham",
+      "name": "David Beckham",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "ED",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 95,
+        "vision": 95,
+        "llegada": 88,
+        "recuperacion": 88,
+        "tecnica": 95
+      },
+      "rating": 88,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 3
+    },
+    {
+      "id": "eng98ince",
+      "name": "Paul Ince",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 80,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 81,
+        "resistencia": 72
+      },
+      "rating": 78,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "eng98batty",
+      "name": "David Batty",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 81
+      },
+      "rating": 76,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "eng98merson",
+      "name": "Paul Merson",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 80,
+        "pases": 80,
+        "posicionamiento": 80,
+        "duelos": 80,
+        "resistencia": 72
+      },
+      "rating": 75,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "eng98scholes",
+      "name": "Paul Scholes",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 74
+      },
+      "rating": 75,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "eng98anderton",
+      "name": "Darren Anderton",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "eng98lee",
+      "name": "Rob Lee",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 65,
+        "disparo": 64
+      },
+      "rating": 73,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "eng98mcmanaman",
+      "name": "Steve McManaman",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 70,
+        "paseFiltrado": 70,
+        "llegada": 70,
+        "regate": 62,
+        "disparo": 62
+      },
+      "rating": 68,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "eng98shearer",
+      "name": "Alan Shearer",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 75,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 83
+      },
+      "rating": 80,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 2
+    },
+    {
+      "id": "eng98owen",
+      "name": "Michael Owen",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 84,
+        "fisico": 84,
+        "velocidad": 76,
+        "cabezazo": 76,
+        "pressing": 76,
+        "desmarque": 84
+      },
+      "rating": 80,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 4
+    },
+    {
+      "id": "eng98sheringham",
+      "name": "Teddy Sheringham",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 74,
+        "desmarque": 81
+      },
+      "rating": 76,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "eng98ferdinand2",
+      "name": "Les Ferdinand",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 81
+      },
+      "rating": 76,
+      "country": "Inglaterra",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    }
+  ]
+}

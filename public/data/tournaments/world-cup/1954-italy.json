@@ -1,0 +1,440 @@
+{
+  "country": "Italia",
+  "countryCode": "ITA",
+  "confederation": "UEFA",
+  "year": 1954,
+  "tournamentId": "wc-1954",
+  "players": [
+    {
+      "id": "ita54viola",
+      "name": "Giovanni Viola",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 76,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "ita54ghezzi",
+      "name": "Giorgio Ghezzi",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 76,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 72,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "ita54costagliola",
+      "name": "Leonardo Costagliola",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 69,
+        "manejo": 69,
+        "salidas": 60,
+        "penales": 60,
+        "distribucion": 60
+      },
+      "rating": 69,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "ita54vincenzi",
+      "name": "Guido Vincenzi",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 76,
+        "pases": 75,
+        "duelos": 82
+      },
+      "rating": 75,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "ita54cervato",
+      "name": "Sergio Cervato",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 76,
+        "pases": 75,
+        "duelos": 82
+      },
+      "rating": 75,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "ita54magnini",
+      "name": "Ardico Magnini",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 63,
+        "pases": 64,
+        "duelos": 73
+      },
+      "rating": 73,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "ita54giacomazzi",
+      "name": "Giovanni Giacomazzi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 72,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "ita54nesti",
+      "name": "Fulvio Nesti",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 75,
+        "recuperacion": 75,
+        "tecnica": 82
+      },
+      "rating": 78,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 1
+    },
+    {
+      "id": "ita54tognon",
+      "name": "Omero Tognon",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 83,
+        "vision": 83,
+        "llegada": 75,
+        "recuperacion": 75,
+        "tecnica": 83
+      },
+      "rating": 77,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "ita54gratton",
+      "name": "Guido Gratton",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 78,
+        "resistencia": 69
+      },
+      "rating": 77,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "ita54mari",
+      "name": "Giacomo Mari",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 76,
+        "llegada": 76,
+        "regate": 67,
+        "disparo": 66
+      },
+      "rating": 75,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "ita54ferrario",
+      "name": "Rino Ferrario",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 74
+      },
+      "rating": 75,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "ita54neri",
+      "name": "Maino Neri",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 67
+      },
+      "rating": 73,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "ita54galli",
+      "name": "Carlo Galli",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 84
+      },
+      "rating": 80,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 1
+    },
+    {
+      "id": "ita54boniperti",
+      "name": "Giampiero Boniperti",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 81
+      },
+      "rating": 80,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 1
+    },
+    {
+      "id": "ita54muccinelli",
+      "name": "Ermes Muccinelli",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 68,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 78
+      },
+      "rating": 78,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 1
+    },
+    {
+      "id": "ita54segato",
+      "name": "Armando Segato",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 77,
+        "disparo": 67,
+        "desmarque": 76
+      },
+      "rating": 77,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "ita54cappello",
+      "name": "Gino Cappello",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 70,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 78
+      },
+      "rating": 76,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "ita54lorenzi",
+      "name": "Benito Lorenzi",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 81
+      },
+      "rating": 76,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 1
+    },
+    {
+      "id": "ita54frignani",
+      "name": "Amleto Frignani",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 66,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 76
+      },
+      "rating": 76,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 1
+    },
+    {
+      "id": "ita54pandolfini",
+      "name": "Egisto Pandolfini",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 80
+      },
+      "rating": 74,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 2
+    },
+    {
+      "id": "ita54pivatelli",
+      "name": "Gino Pivatelli",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 71,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 78
+      },
+      "rating": 72,
+      "country": "Italia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    }
+  ]
+}

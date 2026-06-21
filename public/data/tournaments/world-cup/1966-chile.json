@@ -1,0 +1,413 @@
+{
+  "country": "Chile",
+  "countryCode": "CHL",
+  "confederation": "CONMEBOL",
+  "year": 1966,
+  "tournamentId": "wc-1966",
+  "players": [
+    {
+      "id": "chl66godoy",
+      "name": "Adán Godoy",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 80,
+        "salidas": 73,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 76,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66olivares",
+      "name": "Juan Olivares",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 69,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66valentini",
+      "name": "Alberto Valentini",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 81
+      },
+      "rating": 77,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66figueroa",
+      "name": "Elías Figueroa",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 75,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66donoso",
+      "name": "Humberto Donoso",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 77,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 74,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66eyzaguirre",
+      "name": "Luis Eyzaguirre",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 74,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66villanueva",
+      "name": "Hugo Villanueva",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 71,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66berly",
+      "name": "Hugo Berly",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 68,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66ramirez",
+      "name": "Jaime Ramírez",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 81,
+        "resistencia": 73
+      },
+      "rating": 79,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 2
+    },
+    {
+      "id": "chl66prieto",
+      "name": "Ignacio Prieto",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 74,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66sanchez",
+      "name": "Leonel Sánchez",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 67,
+        "tecnica": 76
+      },
+      "rating": 74,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 4
+    },
+    {
+      "id": "chl66tobar",
+      "name": "Armando Tobar",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 77,
+        "paseFiltrado": 77,
+        "llegada": 77,
+        "regate": 69,
+        "disparo": 69
+      },
+      "rating": 74,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66campos",
+      "name": "Carlos Campos",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 72
+      },
+      "rating": 73,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66marcos",
+      "name": "Rubén Marcos",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 71,
+        "paseFiltrado": 71,
+        "llegada": 71,
+        "regate": 62,
+        "disparo": 62
+      },
+      "rating": 72,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 2
+    },
+    {
+      "id": "chl66cruz",
+      "name": "Humberto Cruz",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 70,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66hodge",
+      "name": "Roberto Hodge",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 62,
+        "recuperacion": 62,
+        "tecnica": 71
+      },
+      "rating": 69,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66araya",
+      "name": "Pedro Araya",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 85,
+        "fisico": 85,
+        "velocidad": 79,
+        "cabezazo": 78,
+        "pressing": 78,
+        "desmarque": 85
+      },
+      "rating": 78,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66ramirez2",
+      "name": "Orlando Ramírez",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 71,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 78,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66yavar",
+      "name": "Guillermo Yávar",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 77,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66fouilloux",
+      "name": "Alberto Fouilloux",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 81
+      },
+      "rating": 74,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66valdes",
+      "name": "Francisco Valdés",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 78
+      },
+      "rating": 74,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "chl66landa",
+      "name": "Honorino Landa",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 63,
+        "disparo": 63,
+        "desmarque": 72
+      },
+      "rating": 72,
+      "country": "Chile",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    }
+  ]
+}

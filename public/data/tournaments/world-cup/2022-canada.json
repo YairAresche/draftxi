@@ -1,0 +1,484 @@
+{
+  "country": "Canadá",
+  "countryCode": "CAN",
+  "confederation": "CONCACAF",
+  "year": 2022,
+  "tournamentId": "wc-2022",
+  "players": [
+    {
+      "id": "can22pantemis",
+      "name": "James Pantemis",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 81,
+        "salidas": 73,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 75,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22borjan",
+      "name": "Milan Borjan",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 75,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22st-clair",
+      "name": "Dayne St. Clair",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 70,
+        "manejo": 70,
+        "salidas": 61,
+        "penales": 61,
+        "distribucion": 61
+      },
+      "rating": 69,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22davies",
+      "name": "Alphonso Davies",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 92,
+        "intercepciones": 92,
+        "velocidad": 85,
+        "pases": 85,
+        "duelos": 93
+      },
+      "rating": 88,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "can22adekugbe",
+      "name": "Sam Adekugbe",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 77,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22johnston",
+      "name": "Alistair Johnston",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 75,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22cornelius",
+      "name": "Derek Cornelius",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 74,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22waterman",
+      "name": "Joel Waterman",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 73,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22miller",
+      "name": "Kamal Miller",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 72,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22laryea",
+      "name": "Richie Laryea",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 73,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 72,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22vitoria",
+      "name": "Steven Vitória",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 69,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22piette",
+      "name": "Samuel Piette",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 82,
+        "pases": 82,
+        "posicionamiento": 82,
+        "duelos": 82,
+        "resistencia": 75
+      },
+      "rating": 76,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22eustaquio",
+      "name": "Stephen Eustáquio",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 76
+      },
+      "rating": 75,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22hoilett",
+      "name": "Junior Hoilett",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 75,
+        "llegada": 75,
+        "regate": 66,
+        "disparo": 65
+      },
+      "rating": 75,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22kone",
+      "name": "Ismaël Koné",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 80
+      },
+      "rating": 75,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22wotherspoon",
+      "name": "David Wotherspoon",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 78,
+        "resistencia": 70
+      },
+      "rating": 75,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22fraser",
+      "name": "Liam Fraser",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 74,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22hutchinson",
+      "name": "Atiba Hutchinson",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 71,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 73,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22osorio",
+      "name": "Jonathan Osorio",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 66,
+        "disparo": 65
+      },
+      "rating": 73,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22kaye",
+      "name": "Mark-Anthony Kaye",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 72
+      },
+      "rating": 72,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22millar",
+      "name": "Liam Millar",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 72,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22buchanan",
+      "name": "Tajon Buchanan",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 76,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22ugbo",
+      "name": "Iké Ugbo",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 76,
+        "disparo": 76,
+        "desmarque": 83
+      },
+      "rating": 76,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22larin",
+      "name": "Cyle Larin",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 66,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 75
+      },
+      "rating": 75,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22cavallini",
+      "name": "Lucas Cavallini",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 71,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 74,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "can22david",
+      "name": "Jonathan David",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 70,
+        "regate": 70,
+        "centro": 62,
+        "disparo": 62,
+        "desmarque": 70
+      },
+      "rating": 69,
+      "country": "Canadá",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    }
+  ]
+}

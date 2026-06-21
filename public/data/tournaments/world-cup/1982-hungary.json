@@ -1,0 +1,424 @@
+{
+  "country": "Hungría",
+  "countryCode": "HUN",
+  "confederation": "UEFA",
+  "year": 1982,
+  "tournamentId": "wc-1982",
+  "players": [
+    {
+      "id": "hun82kiss",
+      "name": "Imre Kiss",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 77,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "hun82katzirz",
+      "name": "Béla Katzirz",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 80,
+        "salidas": 72,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 73,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "hun82meszaros",
+      "name": "Ferenc Mészáros",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 72,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "hun82kerekes",
+      "name": "Attila Kerekes",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 76,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "hun82varga",
+      "name": "József Varga",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 76,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 1
+    },
+    {
+      "id": "hun82csuhay",
+      "name": "József Csuhay",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 83,
+        "velocidad": 77,
+        "pases": 76,
+        "duelos": 83
+      },
+      "rating": 76,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "hun82martos",
+      "name": "Győző Martos",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 73,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "hun82toth",
+      "name": "József Tóth",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 73,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 1
+    },
+    {
+      "id": "hun82rab",
+      "name": "Tibor Rab",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 71,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "hun82sallai",
+      "name": "Sándor Sallai",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 70,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "hun82balint",
+      "name": "László Bálint",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 75,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 69,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "hun82garaba",
+      "name": "Imre Garaba",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 66,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 69,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "hun82csapo",
+      "name": "Károly Csapó",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 79
+      },
+      "rating": 76,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 1
+    },
+    {
+      "id": "hun82csongradi",
+      "name": "Ferenc Csongrádi",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 79
+      },
+      "rating": 73,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "hun82muller",
+      "name": "Sándor Müller",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 68
+      },
+      "rating": 68,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "hun82kiss2",
+      "name": "László Kiss",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 72,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 81
+      },
+      "rating": 80,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 3
+    },
+    {
+      "id": "hun82fazekas",
+      "name": "László Fazekas",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 71,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 79,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 2
+    },
+    {
+      "id": "hun82szentes",
+      "name": "Lázár Szentes",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 76,
+        "disparo": 76,
+        "desmarque": 84
+      },
+      "rating": 79,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 1
+    },
+    {
+      "id": "hun82poloskei",
+      "name": "Gábor Pölöskei",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 78
+      },
+      "rating": 77,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 2
+    },
+    {
+      "id": "hun82bodonyi",
+      "name": "Béla Bodonyi",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 67,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 77
+      },
+      "rating": 77,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "hun82nyilasi",
+      "name": "Tibor Nyilasi",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 80
+      },
+      "rating": 73,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 2
+    },
+    {
+      "id": "hun82torocsik",
+      "name": "András Törőcsik",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 70,
+      "country": "Hungría",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "country": "Portugal",
+  "countryCode": "PRT",
+  "confederation": "UEFA",
+  "year": 1966,
+  "tournamentId": "wc-1966",
+  "players": [
+    {
+      "id": "prt66pereira",
+      "name": "José Pereira",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 80,
+        "salidas": 72,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 77,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prt66carvalho",
+      "name": "Joaquim Carvalho",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 76,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prt66americo",
+      "name": "Américo",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 64,
+        "penales": 64,
+        "distribucion": 64
+      },
+      "rating": 72,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prt66carlos",
+      "name": "José Carlos",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 83,
+        "velocidad": 76,
+        "pases": 76,
+        "duelos": 83
+      },
+      "rating": 77,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prt66morais",
+      "name": "João Morais",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 75,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prt66germano",
+      "name": "Germano",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 71,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prt66baptista",
+      "name": "Alexandre Baptista",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 70,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 69
+      },
+      "rating": 69,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prt66festa",
+      "name": "Alberto Festa",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 61,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 69,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prt66vicente",
+      "name": "Vicente",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 68
+      },
+      "rating": 67,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prt66augusto",
+      "name": "José Augusto",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 82
+      },
+      "rating": 79,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 3
+    },
+    {
+      "id": "prt66simoes",
+      "name": "António Simões",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 85,
+        "paseFiltrado": 85,
+        "llegada": 85,
+        "regate": 78,
+        "disparo": 78
+      },
+      "rating": 78,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "prt66graca",
+      "name": "Jaime Graça",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 75,
+        "recuperacion": 75,
+        "tecnica": 82
+      },
+      "rating": 78,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prt66cruz",
+      "name": "Fernando Cruz",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 67
+      },
+      "rating": 75,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prt66coluna",
+      "name": "Mário Coluna",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 62,
+        "recuperacion": 62,
+        "tecnica": 71
+      },
+      "rating": 71,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prt66pinto",
+      "name": "Custódio Pinto",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 75,
+        "llegada": 75,
+        "regate": 68,
+        "disparo": 68
+      },
+      "rating": 71,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prt66hilario",
+      "name": "Hilário",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 74
+      },
+      "rating": 70,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prt66peres",
+      "name": "Fernando Peres",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 72,
+        "pases": 72,
+        "posicionamiento": 72,
+        "duelos": 72,
+        "resistencia": 65
+      },
+      "rating": 69,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prt66eusebio",
+      "name": "Eusébio",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "ED",
+          "compatibility": "puede"
+        },
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 99,
+        "fisico": 99,
+        "velocidad": 94,
+        "cabezazo": 93,
+        "pressing": 93,
+        "desmarque": 99
+      },
+      "rating": 97,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 9
+    },
+    {
+      "id": "prt66torres",
+      "name": "José Torres",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 78,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 3
+    },
+    {
+      "id": "prt66lourenco",
+      "name": "João Lourenço",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 77
+      },
+      "rating": 76,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prt66figueiredo",
+      "name": "Ernesto Figueiredo",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 72,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 78
+      },
+      "rating": 72,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "prt66duarte",
+      "name": "Manuel Duarte",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 79
+      },
+      "rating": 72,
+      "country": "Portugal",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    }
+  ]
+}

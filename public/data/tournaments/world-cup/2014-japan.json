@@ -1,0 +1,442 @@
+{
+  "country": "Japón",
+  "countryCode": "JPN",
+  "confederation": "AFC",
+  "year": 2014,
+  "tournamentId": "wc-2014",
+  "players": [
+    {
+      "id": "jpn14kawashima",
+      "name": "Eiji Kawashima",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 83,
+        "manejo": 83,
+        "salidas": 76,
+        "penales": 76,
+        "distribucion": 76
+      },
+      "rating": 77,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "jpn14nishikawa",
+      "name": "Shusaku Nishikawa",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 67,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 76,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "jpn14gonda",
+      "name": "Shūichi Gonda",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 70,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "jpn14sakai",
+      "name": "Gōtoku Sakai",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 81
+      },
+      "rating": 77,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "jpn14sakai2",
+      "name": "Hiroki Sakai",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 81
+      },
+      "rating": 77,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "jpn14morishige",
+      "name": "Masato Morishige",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 76,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "jpn14konno",
+      "name": "Yasuyuki Konno",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 75,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "jpn14uchida",
+      "name": "Atsuto Uchida",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 61,
+        "pases": 62,
+        "duelos": 71
+      },
+      "rating": 72,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "jpn14nagatomo",
+      "name": "Yuto Nagatomo",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "jpn14yoshida",
+      "name": "Maya Yoshida",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 71,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "jpn14inoha",
+      "name": "Masahiko Inoha",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 69,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "jpn14honda",
+      "name": "Keisuke Honda",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 86,
+        "paseFiltrado": 86,
+        "llegada": 86,
+        "regate": 77,
+        "disparo": 77
+      },
+      "rating": 86,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 4
+    },
+    {
+      "id": "jpn14kiyotake",
+      "name": "Hiroshi Kiyotake",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 80
+      },
+      "rating": 77,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "jpn14kagawa",
+      "name": "Shinji Kagawa",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 70,
+        "disparo": 69
+      },
+      "rating": 77,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "jpn14hasebe",
+      "name": "Makoto Hasebe",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 74
+      },
+      "rating": 73,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "jpn14yamaguchi",
+      "name": "Hotaru Yamaguchi",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 68
+      },
+      "rating": 72,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "jpn14endo",
+      "name": "Yasuhito Endō",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 73
+      },
+      "rating": 70,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "jpn14aoyama",
+      "name": "Toshihiro Aoyama",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 68,
+        "vision": 68,
+        "llegada": 59,
+        "recuperacion": 59,
+        "tecnica": 68
+      },
+      "rating": 68,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "jpn14osako",
+      "name": "Yuya Osako",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 75,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 83
+      },
+      "rating": 79,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "jpn14saito",
+      "name": "Manabu Saitō",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 76,
+        "disparo": 77,
+        "desmarque": 84
+      },
+      "rating": 79,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "jpn14okazaki",
+      "name": "Shinji Okazaki",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 82,
+        "fisico": 82,
+        "velocidad": 76,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 82
+      },
+      "rating": 76,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 2
+    },
+    {
+      "id": "jpn14okubo",
+      "name": "Yoshito Ōkubo",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 77
+      },
+      "rating": 76,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "jpn14kakitani",
+      "name": "Yoichiro Kakitani",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 65,
+        "disparo": 65,
+        "desmarque": 73
+      },
+      "rating": 73,
+      "country": "Japón",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    }
+  ]
+}

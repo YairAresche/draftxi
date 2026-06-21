@@ -1,0 +1,421 @@
+{
+  "country": "Escocia",
+  "countryCode": "SCO",
+  "confederation": "UEFA",
+  "year": 1954,
+  "tournamentId": "wc-1954",
+  "players": [
+    {
+      "id": "sco54martin",
+      "name": "Fred Martin",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 63,
+        "penales": 63,
+        "distribucion": 63
+      },
+      "rating": 73,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54anderson",
+      "name": "John Anderson",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 69,
+        "manejo": 69,
+        "salidas": 60,
+        "penales": 60,
+        "distribucion": 59
+      },
+      "rating": 69,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54evans",
+      "name": "Bobby Evans",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 73,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54cunningham",
+      "name": "Willie Cunningham",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 72,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54aird",
+      "name": "Jock Aird",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 71
+      },
+      "rating": 70,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54wilson",
+      "name": "Alex Wilson",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 70,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54docherty",
+      "name": "Tommy Docherty",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 69,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54davidson",
+      "name": "Jimmy Davidson",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 81,
+        "resistencia": 73
+      },
+      "rating": 78,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54cowie",
+      "name": "Doug Cowie",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 72,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 77,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54mathers",
+      "name": "David Mathers",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 62,
+        "recuperacion": 63,
+        "tecnica": 71
+      },
+      "rating": 69,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54mochan",
+      "name": "Neil Mochan",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 82,
+        "fisico": 82,
+        "velocidad": 74,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 82
+      },
+      "rating": 79,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54hamilton",
+      "name": "George Hamilton",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 79
+      },
+      "rating": 78,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54mcmillan",
+      "name": "Ian McMillan",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 73,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 81
+      },
+      "rating": 78,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54johnstone",
+      "name": "Bobby Johnstone",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 73,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 81
+      },
+      "rating": 77,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54mackenzie",
+      "name": "John Mackenzie",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 66,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 75
+      },
+      "rating": 76,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54henderson",
+      "name": "Jackie Henderson",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 74,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 81
+      },
+      "rating": 76,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54combe",
+      "name": "Bobby Combe",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 75,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54copland",
+      "name": "Ernie Copland",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 77
+      },
+      "rating": 75,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54ormond",
+      "name": "Willie Ormond",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 75
+      },
+      "rating": 71,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54brown",
+      "name": "Allan Brown",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 75
+      },
+      "rating": 70,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54fernie",
+      "name": "Willie Fernie",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 70,
+        "regate": 71,
+        "centro": 62,
+        "disparo": 62,
+        "desmarque": 70
+      },
+      "rating": 70,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "sco54binning",
+      "name": "Jimmy Binning",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 70,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 77
+      },
+      "rating": 70,
+      "country": "Escocia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    }
+  ]
+}

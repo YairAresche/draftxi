@@ -1,0 +1,477 @@
+{
+  "country": "Camerún",
+  "countryCode": "CMR",
+  "confederation": "CAF",
+  "year": 2022,
+  "tournamentId": "wc-2022",
+  "players": [
+    {
+      "id": "cmr22epassy",
+      "name": "Devis Epassy",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 63,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 73,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22ngapandouetnbu",
+      "name": "Simon Ngapandouetnbu",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 72,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22onana",
+      "name": "André Onana",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 71,
+        "salidas": 63,
+        "penales": 63,
+        "distribucion": 63
+      },
+      "rating": 69,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22ngom-mbekeli",
+      "name": "Jerome Ngom Mbekeli",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 77
+      },
+      "rating": 77,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22tolo",
+      "name": "Nouhou Tolo",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 71,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 77,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22fai",
+      "name": "Collins Fai",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 74,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22wooh",
+      "name": "Christopher Wooh",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 72,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22mbaizo",
+      "name": "Olivier Mbaizo",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 72,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22castelletto",
+      "name": "Jean-Charles Castelletto",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 69
+      },
+      "rating": 70,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "cmr22ebosse",
+      "name": "Enzo Ebosse",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 69,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22nkoulou",
+      "name": "Nicolas Nkoulou",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 59,
+        "pases": 59,
+        "duelos": 68
+      },
+      "rating": 68,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22gouet",
+      "name": "Samuel Gouet",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 83,
+        "paseFiltrado": 83,
+        "llegada": 83,
+        "regate": 76,
+        "disparo": 76
+      },
+      "rating": 77,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22ntcham",
+      "name": "Olivier Ntcham",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 66,
+        "recuperacion": 65,
+        "tecnica": 74
+      },
+      "rating": 75,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22nkoudou",
+      "name": "Georges-Kévin Nkoudou",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 73,
+        "recuperacion": 73,
+        "tecnica": 72
+      },
+      "rating": 73,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22hongla",
+      "name": "Martin Hongla",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 79,
+        "resistencia": 72
+      },
+      "rating": 72,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22ondoua",
+      "name": "Gaël Ondoua",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 72,
+        "pases": 72,
+        "posicionamiento": 72,
+        "duelos": 72,
+        "resistencia": 64
+      },
+      "rating": 71,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22kunde",
+      "name": "Pierre Kunde",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 73
+      },
+      "rating": 71,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22marou",
+      "name": "Souaibou Marou",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 72,
+        "paseFiltrado": 72,
+        "llegada": 72,
+        "regate": 63,
+        "disparo": 63
+      },
+      "rating": 71,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22zambo-anguissa",
+      "name": "André-Frank Zambo Anguissa",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 76
+      },
+      "rating": 70,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22nsame",
+      "name": "Jean-Pierre Nsame",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 82,
+        "regate": 83,
+        "centro": 75,
+        "disparo": 75,
+        "desmarque": 83
+      },
+      "rating": 77,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22aboubakar",
+      "name": "Vincent Aboubakar",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 73,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 75,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 2
+    },
+    {
+      "id": "cmr22bassogog",
+      "name": "Christian Bassogog",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 71,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 75,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22toko-ekambi",
+      "name": "Karl Toko Ekambi",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 79
+      },
+      "rating": 75,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22ngamaleu",
+      "name": "Moumi Ngamaleu",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 73,
+        "fisico": 73,
+        "velocidad": 64,
+        "cabezazo": 65,
+        "pressing": 65,
+        "desmarque": 73
+      },
+      "rating": 73,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "cmr22choupomoting",
+      "name": "Eric Maxim Choupo-Moting",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 79
+      },
+      "rating": 73,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "cmr22mbeumo",
+      "name": "Bryan Mbeumo",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 69,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 75
+      },
+      "rating": 70,
+      "country": "Camerún",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    }
+  ]
+}

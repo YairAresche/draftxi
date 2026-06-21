@@ -1,0 +1,426 @@
+{
+  "country": "Suecia",
+  "countryCode": "SWE",
+  "confederation": "UEFA",
+  "year": 1950,
+  "tournamentId": "wc-1950",
+  "players": [
+    {
+      "id": "swe50svensson",
+      "name": "Kalle Svensson",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 84,
+        "manejo": 84,
+        "salidas": 77,
+        "penales": 77,
+        "distribucion": 77
+      },
+      "rating": 78,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "swe50svensson2",
+      "name": "Tore Svensson",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 84,
+        "manejo": 84,
+        "salidas": 77,
+        "penales": 77,
+        "distribucion": 77
+      },
+      "rating": 78,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "swe50lindberg",
+      "name": "Torsten Lindberg",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 75,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "swe50mansson",
+      "name": "Arne Månsson",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 73,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "swe50johansson",
+      "name": "Gunnar Johansson",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 69,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "swe50nilsson",
+      "name": "Erik Nilsson",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 68,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "swe50samuelsson",
+      "name": "Lennart Samuelsson",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 65,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 68,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "swe50gard",
+      "name": "Ingvar Gärd",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 79
+      },
+      "rating": 78,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "swe50andersson",
+      "name": "Sune Andersson",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 81
+      },
+      "rating": 75,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 2
+    },
+    {
+      "id": "swe50rosen",
+      "name": "Kjell Rosén",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 78
+      },
+      "rating": 73,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "swe50ahlund",
+      "name": "Olle Åhlund",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 69,
+        "pases": 69,
+        "posicionamiento": 69,
+        "duelos": 69,
+        "resistencia": 60
+      },
+      "rating": 69,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "swe50nordahl",
+      "name": "Knut Nordahl",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 91,
+        "fisico": 91,
+        "velocidad": 81,
+        "cabezazo": 82,
+        "pressing": 82,
+        "desmarque": 91
+      },
+      "rating": 91,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "swe50mellberg",
+      "name": "Bror Mellberg",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 75,
+        "disparo": 76,
+        "desmarque": 83
+      },
+      "rating": 80,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 1
+    },
+    {
+      "id": "swe50palmer",
+      "name": "Karl-Erik Palmér",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 76,
+        "disparo": 76,
+        "desmarque": 84
+      },
+      "rating": 80,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 3
+    },
+    {
+      "id": "swe50svensson3",
+      "name": "Kurt Svensson",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 85,
+        "fisico": 85,
+        "velocidad": 78,
+        "cabezazo": 78,
+        "pressing": 78,
+        "desmarque": 85
+      },
+      "rating": 79,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "swe50rydell",
+      "name": "Ingvar Rydell",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "swe50skoglund",
+      "name": "Lennart Skoglund",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 84,
+        "fisico": 84,
+        "velocidad": 78,
+        "cabezazo": 77,
+        "pressing": 77,
+        "desmarque": 84
+      },
+      "rating": 77,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 1
+    },
+    {
+      "id": "swe50tapper",
+      "name": "Börje Tapper",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 74,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 81
+      },
+      "rating": 77,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "swe50jeppson",
+      "name": "Hasse Jeppson",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 72,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 76,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 2
+    },
+    {
+      "id": "swe50jonsson",
+      "name": "Egon Jönsson",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 73
+      },
+      "rating": 74,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "swe50sundqvist",
+      "name": "Stig Sundqvist",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 73,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 74,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 3
+    },
+    {
+      "id": "swe50nilsson2",
+      "name": "Stellan Nilsson",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 74,
+        "fisico": 74,
+        "velocidad": 66,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 74
+      },
+      "rating": 70,
+      "country": "Suecia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    }
+  ]
+}

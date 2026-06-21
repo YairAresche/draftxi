@@ -1,0 +1,400 @@
+{
+  "country": "Brasil",
+  "countryCode": "BRA",
+  "confederation": "CONMEBOL",
+  "year": 1974,
+  "tournamentId": "wc-1974",
+  "players": [
+    {
+      "id": "bra74renato",
+      "name": "Renato",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 72,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 73,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bra74peres",
+      "name": "Waldir Peres",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 71,
+        "salidas": 62,
+        "penales": 62,
+        "distribucion": 62
+      },
+      "rating": 72,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bra74leao",
+      "name": "Leão",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 69,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bra74antonio",
+      "name": "Marco Antônio",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 72,
+        "pases": 71,
+        "duelos": 78
+      },
+      "rating": 73,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bra74pereira",
+      "name": "Luís Pereira",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 72,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bra74nelinho",
+      "name": "Nelinho",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 72,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974",
+      "goals": 2
+    },
+    {
+      "id": "bra74peres2",
+      "name": "Marinho Peres",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 71,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bra74chagas",
+      "name": "Marinho Chagas",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 70,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bra74alfredo",
+      "name": "Alfredo",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 72
+      },
+      "rating": 69,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bra74ze-maria",
+      "name": "Zé Maria",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 69,
+        "pases": 58,
+        "duelos": 67
+      },
+      "rating": 68,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bra74da-guia",
+      "name": "Ademir da Guia",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 66
+      },
+      "rating": 76,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bra74caju",
+      "name": "Caju",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 80,
+        "paseFiltrado": 80,
+        "llegada": 80,
+        "regate": 73,
+        "disparo": 73
+      },
+      "rating": 75,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bra74leivinha",
+      "name": "Leivinha",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 73
+      },
+      "rating": 73,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bra74piazza",
+      "name": "Piazza",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 73,
+        "posicionamiento": 73,
+        "duelos": 73,
+        "resistencia": 64
+      },
+      "rating": 72,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bra74carpegiani",
+      "name": "Carpegiani",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 77
+      },
+      "rating": 72,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bra74rivellino",
+      "name": "Rivellino",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 75
+      },
+      "rating": 70,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974",
+      "goals": 6
+    },
+    {
+      "id": "bra74jairzinho",
+      "name": "Jairzinho",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 82,
+        "fisico": 82,
+        "velocidad": 74,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 82
+      },
+      "rating": 80,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974",
+      "goals": 9
+    },
+    {
+      "id": "bra74dirceu",
+      "name": "Dirceu",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 76,
+        "disparo": 76,
+        "desmarque": 84
+      },
+      "rating": 80,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974",
+      "goals": 3
+    },
+    {
+      "id": "bra74mirandinha",
+      "name": "Mirandinha",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 84,
+        "fisico": 84,
+        "velocidad": 77,
+        "cabezazo": 77,
+        "pressing": 77,
+        "desmarque": 84
+      },
+      "rating": 78,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bra74valdomiro",
+      "name": "Valdomiro",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 75,
+        "disparo": 75,
+        "desmarque": 82
+      },
+      "rating": 76,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974",
+      "goals": 1
+    },
+    {
+      "id": "bra74cesar",
+      "name": "César",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 63,
+        "disparo": 63,
+        "desmarque": 71
+      },
+      "rating": 70,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bra74edu",
+      "name": "Edu",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 71,
+        "regate": 71,
+        "centro": 62,
+        "disparo": 62,
+        "desmarque": 71
+      },
+      "rating": 69,
+      "country": "Brasil",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    }
+  ]
+}

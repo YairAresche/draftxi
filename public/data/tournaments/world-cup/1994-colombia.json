@@ -1,0 +1,421 @@
+{
+  "country": "Colombia",
+  "countryCode": "COL",
+  "confederation": "CONMEBOL",
+  "year": 1994,
+  "tournamentId": "wc-1994",
+  "players": [
+    {
+      "id": "col94cordoba",
+      "name": "Óscar Córdoba",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 80,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 78,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "col94mondragon",
+      "name": "Faryd Mondragón",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 77,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "col94pazo",
+      "name": "José María Pazo",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 69,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "col94ortiz",
+      "name": "Néstor Ortiz",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 78
+      },
+      "rating": 76,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "col94mendoza",
+      "name": "Alexis Mendoza",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 75,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "col94cortes",
+      "name": "Óscar Cortés",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 76,
+        "pases": 75,
+        "duelos": 82
+      },
+      "rating": 75,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "col94herrera",
+      "name": "Luis Fernando Herrera",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 70,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "col94escobar",
+      "name": "Andrés Escobar",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 68,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "col94perea",
+      "name": "Luis Carlos Perea",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 67,
+        "intercepciones": 67,
+        "velocidad": 57,
+        "pases": 58,
+        "duelos": 67
+      },
+      "rating": 67,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "col94perez",
+      "name": "Wilson Pérez",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 67,
+        "pases": 66,
+        "duelos": 73
+      },
+      "rating": 67,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "col94valderrama",
+      "name": "Carlos Valderrama",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 90,
+        "vision": 91,
+        "llegada": 82,
+        "recuperacion": 82,
+        "tecnica": 91
+      },
+      "rating": 90,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "col94alvarez",
+      "name": "Leonel Álvarez",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 73
+      },
+      "rating": 73,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "col94gomez",
+      "name": "Gabriel Gómez",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 70,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "col94rincon",
+      "name": "Freddy Rincón",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 63,
+        "recuperacion": 63,
+        "tecnica": 71
+      },
+      "rating": 70,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "col94gaviria",
+      "name": "Hermán Gaviria",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 68,
+        "pases": 68,
+        "posicionamiento": 68,
+        "duelos": 68,
+        "resistencia": 59
+      },
+      "rating": 69,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "col94lozano",
+      "name": "John Harold Lozano",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 65,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 69,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "col94serna",
+      "name": "Mauricio Serna",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 66
+      },
+      "rating": 68,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "col94asprilla",
+      "name": "Faustino Asprilla",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 93,
+        "fisico": 93,
+        "velocidad": 86,
+        "cabezazo": 85,
+        "pressing": 85,
+        "desmarque": 93
+      },
+      "rating": 88,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "col94valencia",
+      "name": "Adolfo Valencia",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 87,
+        "regate": 87,
+        "centro": 80,
+        "disparo": 70,
+        "desmarque": 87
+      },
+      "rating": 80,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 2
+    },
+    {
+      "id": "col94de-avila",
+      "name": "Antony de Ávila",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 73,
+        "fisico": 73,
+        "velocidad": 64,
+        "cabezazo": 65,
+        "pressing": 65,
+        "desmarque": 73
+      },
+      "rating": 73,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "col94valenciano",
+      "name": "Iván Valenciano",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 76
+      },
+      "rating": 73,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "col94aristizabal",
+      "name": "Víctor Aristizábal",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 79
+      },
+      "rating": 73,
+      "country": "Colombia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    }
+  ]
+}

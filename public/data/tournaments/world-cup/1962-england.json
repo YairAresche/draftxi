@@ -1,0 +1,427 @@
+{
+  "country": "Inglaterra",
+  "countryCode": "ENG",
+  "confederation": "UEFA",
+  "year": 1962,
+  "tournamentId": "wc-1962",
+  "players": [
+    {
+      "id": "eng62springett",
+      "name": "Ron Springett",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 75,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "eng62hodgkinson",
+      "name": "Alan Hodgkinson",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 71,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "eng62wilson",
+      "name": "Ray Wilson",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "eng62norman",
+      "name": "Maurice Norman",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "eng62howe",
+      "name": "Don Howe",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 73,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "eng62moore",
+      "name": "Bobby Moore",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 73
+      },
+      "rating": 70,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "eng62swan",
+      "name": "Peter Swan",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 58,
+        "pases": 59,
+        "duelos": 68
+      },
+      "rating": 69,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "eng62armfield",
+      "name": "Jimmy Armfield",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 68,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "eng62charlton",
+      "name": "Bobby Charlton",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 88,
+        "vision": 88,
+        "llegada": 79,
+        "recuperacion": 79,
+        "tecnica": 88
+      },
+      "rating": 88,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 4
+    },
+    {
+      "id": "eng62anderson",
+      "name": "Stan Anderson",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 77,
+        "llegada": 77,
+        "regate": 69,
+        "disparo": 68
+      },
+      "rating": 78,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "eng62douglas",
+      "name": "Bryan Douglas",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 79
+      },
+      "rating": 77,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "eng62connelly",
+      "name": "John Connelly",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 73,
+        "recuperacion": 73,
+        "tecnica": 81
+      },
+      "rating": 76,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "eng62robson",
+      "name": "Bobby Robson",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 65
+      },
+      "rating": 73,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "eng62eastham",
+      "name": "George Eastham",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 68
+      },
+      "rating": 71,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "eng62flowers",
+      "name": "Ron Flowers",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 69,
+        "vision": 69,
+        "llegada": 60,
+        "recuperacion": 60,
+        "tecnica": 69
+      },
+      "rating": 70,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 2
+    },
+    {
+      "id": "eng62adamson",
+      "name": "Jimmy Adamson",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 73
+      },
+      "rating": 69,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "eng62greaves",
+      "name": "Jimmy Greaves",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 75,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 83
+      },
+      "rating": 80,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "eng62kevan",
+      "name": "Derek Kevan",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 71,
+        "desmarque": 80
+      },
+      "rating": 80,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 2
+    },
+    {
+      "id": "eng62hunt",
+      "name": "Roger Hunt",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 80,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 3
+    },
+    {
+      "id": "eng62hitchens",
+      "name": "Gerry Hitchens",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 85,
+        "regate": 85,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 85
+      },
+      "rating": 79,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "eng62haynes",
+      "name": "Johnny Haynes",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "eng62peacock",
+      "name": "Alan Peacock",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 67,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 76
+      },
+      "rating": 75,
+      "country": "Inglaterra",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    }
+  ]
+}

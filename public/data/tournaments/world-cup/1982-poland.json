@@ -1,0 +1,429 @@
+{
+  "country": "Polonia",
+  "countryCode": "POL",
+  "confederation": "UEFA",
+  "year": 1982,
+  "tournamentId": "wc-1982",
+  "players": [
+    {
+      "id": "pol82kazimierski",
+      "name": "Jacek Kazimierski",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 71,
+        "salidas": 63,
+        "penales": 63,
+        "distribucion": 62
+      },
+      "rating": 70,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "pol82mynarczyk",
+      "name": "Józef Młynarczyk",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 70,
+        "manejo": 70,
+        "salidas": 62,
+        "penales": 62,
+        "distribucion": 62
+      },
+      "rating": 69,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "pol82mowlik",
+      "name": "Piotr Mowlik",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 69,
+        "manejo": 69,
+        "salidas": 61,
+        "penales": 61,
+        "distribucion": 61
+      },
+      "rating": 68,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "pol82majewski",
+      "name": "Stefan Majewski",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 76,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 1
+    },
+    {
+      "id": "pol82dziuba",
+      "name": "Marek Dziuba",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 72,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "pol82dolny",
+      "name": "Tadeusz Dolny",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "pol82janas",
+      "name": "Paweł Janas",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 72,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 71,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "pol82wojcicki",
+      "name": "Roman Wójcicki",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 71
+      },
+      "rating": 71,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "pol82zmuda",
+      "name": "Władysław Żmuda",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 61,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 69,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "pol82jaocha",
+      "name": "Jan Jałocha",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 67,
+        "intercepciones": 67,
+        "velocidad": 58,
+        "pases": 59,
+        "duelos": 68
+      },
+      "rating": 68,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "pol82skrobowski",
+      "name": "Piotr Skrobowski",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 71,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 67,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "pol82buncol",
+      "name": "Andrzej Buncol",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 82
+      },
+      "rating": 79,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 1
+    },
+    {
+      "id": "pol82matysik",
+      "name": "Waldemar Matysik",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 77
+      },
+      "rating": 77,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "pol82paasz",
+      "name": "Andrzej Pałasz",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 80,
+        "paseFiltrado": 80,
+        "llegada": 80,
+        "regate": 72,
+        "disparo": 72
+      },
+      "rating": 77,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "pol82kupcewicz",
+      "name": "Janusz Kupcewicz",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 72
+      },
+      "rating": 72,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 1
+    },
+    {
+      "id": "pol82cioek",
+      "name": "Włodzimierz Ciołek",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 76,
+        "disparo": 76,
+        "desmarque": 84
+      },
+      "rating": 80,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 1
+    },
+    {
+      "id": "pol82lato",
+      "name": "Grzegorz Lato",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 84
+      },
+      "rating": 80,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 10
+    },
+    {
+      "id": "pol82szarmach",
+      "name": "Andrzej Szarmach",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 86,
+        "fisico": 86,
+        "velocidad": 80,
+        "cabezazo": 79,
+        "pressing": 79,
+        "desmarque": 86
+      },
+      "rating": 80,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 7
+    },
+    {
+      "id": "pol82boniek",
+      "name": "Zbigniew Boniek",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 86,
+        "fisico": 86,
+        "velocidad": 80,
+        "cabezazo": 79,
+        "pressing": 79,
+        "desmarque": 86
+      },
+      "rating": 80,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 6
+    },
+    {
+      "id": "pol82smolarek",
+      "name": "Włodzimierz Smolarek",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 2
+    },
+    {
+      "id": "pol82iwan",
+      "name": "Andrzej Iwan",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 75
+      },
+      "rating": 75,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "pol82kusto",
+      "name": "Marek Kusto",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 72,
+      "country": "Polonia",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    }
+  ]
+}

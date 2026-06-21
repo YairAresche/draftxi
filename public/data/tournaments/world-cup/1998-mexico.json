@@ -1,0 +1,436 @@
+{
+  "country": "México",
+  "countryCode": "MEX",
+  "confederation": "CONCACAF",
+  "year": 1998,
+  "tournamentId": "wc-1998",
+  "players": [
+    {
+      "id": "mex98perez",
+      "name": "Óscar Pérez",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 80,
+        "salidas": 73,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 75,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "mex98campos",
+      "name": "Jorge Campos",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 70,
+        "manejo": 70,
+        "salidas": 61,
+        "penales": 61,
+        "distribucion": 61
+      },
+      "rating": 70,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "mex98sanchez",
+      "name": "Oswaldo Sánchez",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 68,
+        "penales": 67,
+        "distribucion": 68
+      },
+      "rating": 69,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "mex98terrazas",
+      "name": "Isaac Terrazas",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 76,
+        "pases": 75,
+        "duelos": 82
+      },
+      "rating": 76,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "mex98suarez",
+      "name": "Claudio Suárez",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 71,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "mex98davino",
+      "name": "Duilio Davino",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 71,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "mex98carmona",
+      "name": "Salvador Carmona",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 75
+      },
+      "rating": 71,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "mex98sanchez2",
+      "name": "Joel Sánchez",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 68,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "mex98blanco",
+      "name": "Cuauhtémoc Blanco",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 86,
+        "paseFiltrado": 86,
+        "llegada": 86,
+        "regate": 77,
+        "disparo": 76
+      },
+      "rating": 86,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 3
+    },
+    {
+      "id": "mex98luna",
+      "name": "Braulio Luna",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 78
+      },
+      "rating": 77,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "mex98ramirez",
+      "name": "Ramón Ramírez",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 75,
+        "recuperacion": 75,
+        "tecnica": 82
+      },
+      "rating": 76,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "mex98garcia-aspe",
+      "name": "Alberto García Aspe",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 79,
+        "paseFiltrado": 79,
+        "llegada": 79,
+        "regate": 71,
+        "disparo": 71
+      },
+      "rating": 76,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 2
+    },
+    {
+      "id": "mex98ordiales",
+      "name": "Jaime Ordiales",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 80,
+        "paseFiltrado": 80,
+        "llegada": 79,
+        "regate": 72,
+        "disparo": 72
+      },
+      "rating": 76,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "mex98arellano",
+      "name": "Jesús Arellano",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 81,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 82
+      },
+      "rating": 76,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "mex98bernal",
+      "name": "Marcelino Bernal",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 78
+      },
+      "rating": 73,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "mex98villa",
+      "name": "Germán Villa",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 68
+      },
+      "rating": 72,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "mex98pardo",
+      "name": "Pável Pardo",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 75,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 70,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "mex98lara",
+      "name": "Raúl Lara",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 67
+      },
+      "rating": 68,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "mex98hernandez",
+      "name": "Luis Hernández",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 81
+      },
+      "rating": 80,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 4
+    },
+    {
+      "id": "mex98pelaez",
+      "name": "Ricardo Peláez",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 82,
+        "fisico": 82,
+        "velocidad": 74,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 82
+      },
+      "rating": 79,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 2
+    },
+    {
+      "id": "mex98garcia-postigo",
+      "name": "Luis García Postigo",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 77
+      },
+      "rating": 78,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 2
+    },
+    {
+      "id": "mex98palencia",
+      "name": "Francisco Palencia",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 79
+      },
+      "rating": 77,
+      "country": "México",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    }
+  ]
+}

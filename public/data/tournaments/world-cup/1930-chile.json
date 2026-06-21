@@ -1,0 +1,358 @@
+{
+  "country": "Chile",
+  "countryCode": "CHL",
+  "confederation": "CONMEBOL",
+  "year": 1930,
+  "tournamentId": "wc-1930",
+  "players": [
+    {
+      "id": "chl30espinoza",
+      "name": "César Espinoza",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 75,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "chl30cortes",
+      "name": "Roberto Cortés",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 80,
+        "salidas": 73,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 74,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "chl30poirier",
+      "name": "Ulises Poirier",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 74,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "chl30riveros",
+      "name": "Guillermo Riveros",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 71,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "chl30morales",
+      "name": "Víctor Morales",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 70,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "chl30chaparro",
+      "name": "Ernesto Chaparro",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 61,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 68,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "chl30saavedra",
+      "name": "Guillermo Saavedra",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 67,
+        "tecnica": 76
+      },
+      "rating": 77,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "chl30torres",
+      "name": "Arturo Torres",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 71,
+        "disparo": 71
+      },
+      "rating": 73,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "chl30torres2",
+      "name": "Casimiro Torres",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 78
+      },
+      "rating": 73,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "chl30coddou",
+      "name": "Arturo Coddou",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 68
+      },
+      "rating": 72,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "chl30elgueta",
+      "name": "Humberto Elgueta",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 76
+      },
+      "rating": 70,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "chl30vidal",
+      "name": "Carlos Vidal",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 74,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 83
+      },
+      "rating": 80,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930",
+      "goals": 2
+    },
+    {
+      "id": "chl30subiabre",
+      "name": "Guillermo Subiabre",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 76,
+        "disparo": 76,
+        "desmarque": 84
+      },
+      "rating": 79,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930",
+      "goals": 2
+    },
+    {
+      "id": "chl30arellano",
+      "name": "Guillermo Arellano",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 84
+      },
+      "rating": 78,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "chl30aguilera",
+      "name": "Juan Aguilera",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 70,
+        "cabezazo": 71,
+        "pressing": 70,
+        "desmarque": 79
+      },
+      "rating": 77,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "chl30ojeda",
+      "name": "Tomás Ojeda",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 82,
+        "fisico": 82,
+        "velocidad": 75,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 82
+      },
+      "rating": 76,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "chl30schneeberger",
+      "name": "Carlos Schneeberger",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 76,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 76
+      },
+      "rating": 76,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "chl30munoz",
+      "name": "Horacio Muñoz",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 73
+      },
+      "rating": 72,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "chl30villalobos",
+      "name": "Eberardo Villalobos",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 71,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 77
+      },
+      "rating": 71,
+      "country": "Chile",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    }
+  ]
+}

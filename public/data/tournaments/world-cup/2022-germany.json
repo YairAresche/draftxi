@@ -1,0 +1,499 @@
+{
+  "country": "Alemania",
+  "countryCode": "DEU",
+  "confederation": "UEFA",
+  "year": 2022,
+  "tournamentId": "wc-2022",
+  "players": [
+    {
+      "id": "deu22neuer",
+      "name": "Manuel Neuer",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 90,
+        "manejo": 90,
+        "salidas": 82,
+        "penales": 82,
+        "distribucion": 82
+      },
+      "rating": 87,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22trapp",
+      "name": "Kevin Trapp",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 73,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22ter-stegen",
+      "name": "Marc-André ter Stegen",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 70,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22bellakotchap",
+      "name": "Armel Bella-Kotchap",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 83,
+        "velocidad": 77,
+        "pases": 76,
+        "duelos": 83
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22rudiger",
+      "name": "Antonio Rüdiger",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 75,
+        "pases": 75,
+        "duelos": 82
+      },
+      "rating": 76,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22ginter",
+      "name": "Matthias Ginter",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 76,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22raum",
+      "name": "David Raum",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 63,
+        "pases": 64,
+        "duelos": 73
+      },
+      "rating": 73,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22schlotterbeck",
+      "name": "Nico Schlotterbeck",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 78
+      },
+      "rating": 73,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22sule",
+      "name": "Niklas Süle",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22kehrer",
+      "name": "Thilo Kehrer",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 70,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22klostermann",
+      "name": "Lukas Klostermann",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22gunter",
+      "name": "Christian Günter",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22gotze",
+      "name": "Mario Götze",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 80
+      },
+      "rating": 78,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 2
+    },
+    {
+      "id": "deu22hofmann",
+      "name": "Jonas Hofmann",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 73,
+        "recuperacion": 73,
+        "tecnica": 81
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22muller",
+      "name": "Thomas Müller",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 82,
+        "paseFiltrado": 82,
+        "llegada": 82,
+        "regate": 74,
+        "disparo": 75
+      },
+      "rating": 76,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 10
+    },
+    {
+      "id": "deu22goretzka",
+      "name": "Leon Goretzka",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 80
+      },
+      "rating": 75,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22gundogan",
+      "name": "İlkay Gündoğan",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 75
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "deu22kimmich",
+      "name": "Joshua Kimmich",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 70,
+        "pases": 70,
+        "posicionamiento": 70,
+        "duelos": 70,
+        "resistencia": 61
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22brandt",
+      "name": "Julian Brandt",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 73,
+        "posicionamiento": 73,
+        "duelos": 73,
+        "resistencia": 65
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22sane",
+      "name": "Leroy Sané",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 68,
+        "paseFiltrado": 68,
+        "llegada": 68,
+        "regate": 60,
+        "disparo": 59
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22musiala",
+      "name": "Jamal Musiala",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 68,
+        "vision": 68,
+        "llegada": 59,
+        "recuperacion": 59,
+        "tecnica": 68
+      },
+      "rating": 68,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22havertz",
+      "name": "Kai Havertz",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 75,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 83
+      },
+      "rating": 80,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 2
+    },
+    {
+      "id": "deu22fullkrug",
+      "name": "Niclas Füllkrug",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 84
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 2
+    },
+    {
+      "id": "deu22adeyemi",
+      "name": "Karim Adeyemi",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 79,
+        "fisico": 80,
+        "velocidad": 71,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "deu22gnabry",
+      "name": "Serge Gnabry",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 79
+      },
+      "rating": 76,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "deu22moukoko",
+      "name": "Youssoufa Moukoko",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 75,
+        "disparo": 75,
+        "desmarque": 82
+      },
+      "rating": 75,
+      "country": "Alemania",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    }
+  ]
+}

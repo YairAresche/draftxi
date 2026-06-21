@@ -1,0 +1,419 @@
+{
+  "country": "Nigeria",
+  "countryCode": "NGA",
+  "confederation": "CAF",
+  "year": 2018,
+  "tournamentId": "wc-2018",
+  "players": [
+    {
+      "id": "nga18ezenwa",
+      "name": "Ikechukwu Ezenwa",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 75,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18uzoho",
+      "name": "Francis Uzoho",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 72,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18akpeyi",
+      "name": "Daniel Akpeyi",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 69,
+        "manejo": 69,
+        "salidas": 61,
+        "penales": 61,
+        "distribucion": 61
+      },
+      "rating": 68,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18echiejile",
+      "name": "Elderson Echiéjilé",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 74,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18balogun",
+      "name": "Leon Balogun",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 74,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18abdullahi",
+      "name": "Shehu Abdullahi",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 72,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18idowu",
+      "name": "Brian Idowu",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 71,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18awaziem",
+      "name": "Chidozie Awaziem",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 71,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18omeruo",
+      "name": "Kenneth Omeruo",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 71,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18troostekong",
+      "name": "William Troost-Ekong",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 61,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 69,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18ebuehi",
+      "name": "Tyronne Ebuehi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 68,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18onazi",
+      "name": "Ogenyi Onazi",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 84,
+        "vision": 84,
+        "llegada": 77,
+        "recuperacion": 77,
+        "tecnica": 84
+      },
+      "rating": 77,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18ndidi",
+      "name": "Wilfred Ndidi",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 67
+      },
+      "rating": 75,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18etebo",
+      "name": "Peter Etebo",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 65,
+        "recuperacion": 66,
+        "tecnica": 74
+      },
+      "rating": 73,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18obi",
+      "name": "Joel Obi",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 65,
+        "disparo": 65
+      },
+      "rating": 73,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18ogu",
+      "name": "John Ogu",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 68
+      },
+      "rating": 73,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18mikel",
+      "name": "John Obi Mikel",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 62,
+        "recuperacion": 62,
+        "tecnica": 71
+      },
+      "rating": 70,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18musa",
+      "name": "Ahmed Musa",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 67,
+        "cabezazo": 78,
+        "pressing": 68,
+        "desmarque": 85
+      },
+      "rating": 78,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 4
+    },
+    {
+      "id": "nga18nwankwo",
+      "name": "Simeon Nwankwo",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 75,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 82
+      },
+      "rating": 78,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18iwobi",
+      "name": "Alex Iwobi",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 77
+      },
+      "rating": 77,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18ighalo",
+      "name": "Odion Ighalo",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 65,
+        "disparo": 65,
+        "desmarque": 74
+      },
+      "rating": 75,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "nga18moses",
+      "name": "Victor Moses",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 70,
+        "regate": 70,
+        "centro": 61,
+        "disparo": 61,
+        "desmarque": 70
+      },
+      "rating": 71,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "nga18iheanacho",
+      "name": "Kelechi Iheanacho",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 71,
+      "country": "Nigeria",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    }
+  ]
+}

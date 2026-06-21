@@ -1,0 +1,413 @@
+{
+  "country": "Colombia",
+  "countryCode": "COL",
+  "confederation": "CONMEBOL",
+  "year": 1962,
+  "tournamentId": "wc-1962",
+  "players": [
+    {
+      "id": "col62vivas",
+      "name": "Achito Vivas",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 77,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "col62sanchez",
+      "name": "Efraín Sánchez",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 64,
+        "penales": 64,
+        "distribucion": 64
+      },
+      "rating": 71,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "col62aponte",
+      "name": "Carlos Aponte",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 74,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "col62calle",
+      "name": "Ignacio Calle",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 73,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "col62lopez",
+      "name": "Óscar López",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 73,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "col62echeverry",
+      "name": "Héctor Echeverry",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 71,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "col62zuluaga",
+      "name": "Francisco Zuluaga",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 69,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "col62gonzalez",
+      "name": "Jaime González",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 69,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "col62alzate",
+      "name": "Aníbal Alzate",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 61,
+        "pases": 61,
+        "duelos": 69
+      },
+      "rating": 68,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "col62serrano",
+      "name": "Rolando Serrano",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 76,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "col62tovar",
+      "name": "Hernando Tovar",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 69,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 76,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "col62silva",
+      "name": "Jaime Silva",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 67
+      },
+      "rating": 75,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "col62coll",
+      "name": "Marcos Coll",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 67,
+        "disparo": 67
+      },
+      "rating": 70,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "col62rada",
+      "name": "Antonio Rada",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 85,
+        "fisico": 85,
+        "velocidad": 78,
+        "cabezazo": 77,
+        "pressing": 77,
+        "desmarque": 85
+      },
+      "rating": 80,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "col62perez",
+      "name": "Ignacio Pérez",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 69,
+        "disparo": 70,
+        "desmarque": 78
+      },
+      "rating": 78,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "col62klinger",
+      "name": "Marino Klinger",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 71,
+        "cabezazo": 72,
+        "pressing": 71,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "col62paz",
+      "name": "Luis Paz",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 81
+      },
+      "rating": 75,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "col62gamboa",
+      "name": "Delio Gamboa",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 77
+      },
+      "rating": 75,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "col62escobar",
+      "name": "Eusebio Escobar",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 78,
+        "regate": 77,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 78
+      },
+      "rating": 74,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "col62aceros",
+      "name": "Germán Aceros",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 74,
+        "fisico": 74,
+        "velocidad": 66,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 74
+      },
+      "rating": 73,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "col62arias",
+      "name": "Jairo Arias",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 66,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 75
+      },
+      "rating": 73,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "col62gonzalez2",
+      "name": "Héctor González",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 69,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 76
+      },
+      "rating": 71,
+      "country": "Colombia",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    }
+  ]
+}

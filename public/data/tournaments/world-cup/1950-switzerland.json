@@ -1,0 +1,428 @@
+{
+  "country": "Suiza",
+  "countryCode": "CHE",
+  "confederation": "UEFA",
+  "year": 1950,
+  "tournamentId": "wc-1950",
+  "players": [
+    {
+      "id": "che50hug",
+      "name": "Adolphe Hug",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 77,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "che50corrodi",
+      "name": "Eugen Corrodi",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 71,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "che50stuber",
+      "name": "Georges Stuber",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 71,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "che50steffen",
+      "name": "Willi Steffen",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 68,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 77,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "che50bocquet",
+      "name": "Roger Bocquet",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 74,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "che50gyger",
+      "name": "Rudolf Gyger",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 73,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "che50neury",
+      "name": "André Neury",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 73,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "che50kernen",
+      "name": "Willy Kernen",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 73
+      },
+      "rating": 71,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "che50rey",
+      "name": "Kurt Rey",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 67,
+        "intercepciones": 67,
+        "velocidad": 57,
+        "pases": 58,
+        "duelos": 67
+      },
+      "rating": 67,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "che50quinche",
+      "name": "Roger Quinche",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 74
+      },
+      "rating": 73,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "che50soldini",
+      "name": "Felice Soldini",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 63,
+        "recuperacion": 63,
+        "tecnica": 71
+      },
+      "rating": 70,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "che50eggimann",
+      "name": "Oliver Eggimann",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 71,
+        "pases": 71,
+        "posicionamiento": 71,
+        "duelos": 71,
+        "resistencia": 63
+      },
+      "rating": 69,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "che50bader",
+      "name": "René Bader",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 75,
+        "disparo": 75,
+        "desmarque": 83
+      },
+      "rating": 80,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 1
+    },
+    {
+      "id": "che50fatton",
+      "name": "Jacques Fatton",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 80
+      },
+      "rating": 80,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 3
+    },
+    {
+      "id": "che50antenen",
+      "name": "Charles Antenen",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 70,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 79
+      },
+      "rating": 79,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 1
+    },
+    {
+      "id": "che50friedlander",
+      "name": "Hans-Peter Friedländer",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 73,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "che50schneiter",
+      "name": "Walter Schneiter",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 69,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 78
+      },
+      "rating": 77,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "che50beerli",
+      "name": "Walter Beerli",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 76,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "che50bickel",
+      "name": "Alfred Bickel",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 70,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 78
+      },
+      "rating": 76,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 1
+    },
+    {
+      "id": "che50tamini",
+      "name": "Jean Tamini",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 75,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 82
+      },
+      "rating": 76,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "che50lusenti",
+      "name": "Gerhard Lusenti",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 71,
+        "fisico": 71,
+        "velocidad": 62,
+        "cabezazo": 62,
+        "pressing": 62,
+        "desmarque": 71
+      },
+      "rating": 71,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "che50siegenthaler",
+      "name": "Hans Siegenthaler",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 69,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 76
+      },
+      "rating": 71,
+      "country": "Suiza",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    }
+  ]
+}

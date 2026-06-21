@@ -1,0 +1,421 @@
+{
+  "country": "Francia",
+  "countryCode": "FRA",
+  "confederation": "UEFA",
+  "year": 1934,
+  "tournamentId": "wc-1934",
+  "players": [
+    {
+      "id": "fra34defosse",
+      "name": "Robert Défossé",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 76,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "fra34llense",
+      "name": "René Llense",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 63,
+        "penales": 63,
+        "distribucion": 64
+      },
+      "rating": 71,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "fra34thepot",
+      "name": "Alex Thépot",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 71,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "fra34gonzales",
+      "name": "Joseph Gonzales",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 83,
+        "velocidad": 77,
+        "pases": 76,
+        "duelos": 75
+      },
+      "rating": 76,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "fra34mairesse",
+      "name": "Jacques Mairesse",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 75,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "fra34vandooren",
+      "name": "Jules Vandooren",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 75,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "fra34mattler",
+      "name": "Étienne Mattler",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 75
+      },
+      "rating": 71,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "fra34delmer",
+      "name": "Célestin Delmer",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 76,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "fra34verriest",
+      "name": "Georges Verriest",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 75,
+        "recuperacion": 74,
+        "tecnica": 82
+      },
+      "rating": 75,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934",
+      "goals": 1
+    },
+    {
+      "id": "fra34delfour",
+      "name": "Edmond Delfour",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 73,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "fra34gabrillargues",
+      "name": "Louis Gabrillargues",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 79,
+        "paseFiltrado": 79,
+        "llegada": 79,
+        "regate": 71,
+        "disparo": 72
+      },
+      "rating": 73,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "fra34lietaer",
+      "name": "Noël Liétaer",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 72,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "fra34rio",
+      "name": "Roger Rio",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 66
+      },
+      "rating": 72,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "fra34beaucourt",
+      "name": "Georges Beaucourt",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 71,
+        "pases": 71,
+        "posicionamiento": 71,
+        "duelos": 71,
+        "resistencia": 62
+      },
+      "rating": 71,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "fra34laurent",
+      "name": "Lucien Laurent",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 76,
+        "disparo": 76,
+        "desmarque": 84
+      },
+      "rating": 80,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934",
+      "goals": 1
+    },
+    {
+      "id": "fra34nicolas",
+      "name": "Jean Nicolas",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 71,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 80,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934",
+      "goals": 3
+    },
+    {
+      "id": "fra34veinante",
+      "name": "Émile Veinante",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 69,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 80,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934",
+      "goals": 1
+    },
+    {
+      "id": "fra34aston",
+      "name": "Alfred Aston",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 75,
+        "disparo": 74,
+        "desmarque": 82
+      },
+      "rating": 76,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "fra34keller",
+      "name": "Fritz Keller",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 69,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 77
+      },
+      "rating": 73,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "fra34alcazar",
+      "name": "Joseph Alcazar",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 68,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 75
+      },
+      "rating": 70,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "fra34korb",
+      "name": "Pierre Korb",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 72
+      },
+      "rating": 70,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "fra34courtois",
+      "name": "Roger Courtois",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 73
+      },
+      "rating": 69,
+      "country": "Francia",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    }
+  ]
+}

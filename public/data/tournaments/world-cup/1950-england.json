@@ -1,0 +1,385 @@
+{
+  "country": "Inglaterra",
+  "countryCode": "ENG",
+  "confederation": "UEFA",
+  "year": 1950,
+  "tournamentId": "wc-1950",
+  "players": [
+    {
+      "id": "eng50ditchburn",
+      "name": "Ted Ditchburn",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 77,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "eng50williams",
+      "name": "Bert Williams",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "eng50ramsey",
+      "name": "Alf Ramsey",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 76,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "eng50taylor",
+      "name": "Jim Taylor",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 72,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 73,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "eng50aston",
+      "name": "John Aston",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 72,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "eng50scott",
+      "name": "Laurie Scott",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 71,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "eng50hughes",
+      "name": "Laurie Hughes",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 58,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 69,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "eng50eckersley",
+      "name": "Bill Eckersley",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 67,
+        "intercepciones": 67,
+        "velocidad": 57,
+        "pases": 58,
+        "duelos": 66
+      },
+      "rating": 67,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "eng50watson",
+      "name": "Willie Watson",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 80,
+        "paseFiltrado": 80,
+        "llegada": 80,
+        "regate": 72,
+        "disparo": 72
+      },
+      "rating": 78,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "eng50wright",
+      "name": "Billy Wright",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 75,
+        "recuperacion": 75,
+        "tecnica": 82
+      },
+      "rating": 75,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "eng50dickinson",
+      "name": "Jimmy Dickinson",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 1
+    },
+    {
+      "id": "eng50nicholson",
+      "name": "Bill Nicholson",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 64,
+        "recuperacion": 63,
+        "tecnica": 72
+      },
+      "rating": 70,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "eng50cockburn",
+      "name": "Henry Cockburn",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 70,
+        "pases": 70,
+        "posicionamiento": 70,
+        "duelos": 70,
+        "resistencia": 61
+      },
+      "rating": 69,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "eng50mannion",
+      "name": "Wilf Mannion",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 76,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 83
+      },
+      "rating": 77,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 1
+    },
+    {
+      "id": "eng50finney",
+      "name": "Tom Finney",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 65,
+        "disparo": 75,
+        "desmarque": 82
+      },
+      "rating": 75,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 2
+    },
+    {
+      "id": "eng50bentley",
+      "name": "Roy Bentley",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 67,
+        "disparo": 68,
+        "desmarque": 76
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "eng50mortensen",
+      "name": "Stan Mortensen",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 67,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 76
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 1
+    },
+    {
+      "id": "eng50matthews",
+      "name": "Stanley Matthews",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 65,
+        "desmarque": 74
+      },
+      "rating": 73,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "eng50milburn",
+      "name": "Jackie Milburn",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 75
+      },
+      "rating": 72,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "eng50baily",
+      "name": "Eddie Baily",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 75
+      },
+      "rating": 71,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "eng50mullen",
+      "name": "Jimmy Mullen",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 75
+      },
+      "rating": 71,
+      "country": "Inglaterra",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 1
+    }
+  ]
+}

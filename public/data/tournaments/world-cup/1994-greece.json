@@ -1,0 +1,440 @@
+{
+  "country": "Grecia",
+  "countryCode": "GRC",
+  "confederation": "UEFA",
+  "year": 1994,
+  "tournamentId": "wc-1994",
+  "players": [
+    {
+      "id": "grc94minou",
+      "name": "Antonis Minou",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 71,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 71,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94karkamanis",
+      "name": "Christos Karkamanis",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 71,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94atmatsidis",
+      "name": "Elias Atmatsidis",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 71,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94kalitzakis",
+      "name": "Ioannis Kalitzakis",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 77,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94apostolakis",
+      "name": "Stratos Apostolakis",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 81
+      },
+      "rating": 76,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94manolas",
+      "name": "Stelios Manolas",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 83,
+        "velocidad": 77,
+        "pases": 76,
+        "duelos": 83
+      },
+      "rating": 76,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94alexiou",
+      "name": "Alexis Alexiou",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 76,
+        "pases": 75,
+        "duelos": 82
+      },
+      "rating": 76,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94karagiannis",
+      "name": "Vaios Karagiannis",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 73,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94karataidis",
+      "name": "Kyriakos Karataidis",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 70,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94kolitsidakis",
+      "name": "Thanasis Kolitsidakis",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 67,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94hantzidis",
+      "name": "Minas Hantzidis",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 78,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94nioplias",
+      "name": "Nikos Nioplias",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 77,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94tsiantakis",
+      "name": "Nikos Tsiantakis",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 83,
+        "vision": 83,
+        "llegada": 76,
+        "recuperacion": 76,
+        "tecnica": 83
+      },
+      "rating": 77,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94kofidis",
+      "name": "Savvas Kofidis",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 81,
+        "paseFiltrado": 81,
+        "llegada": 81,
+        "regate": 74,
+        "disparo": 74
+      },
+      "rating": 77,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94marangos",
+      "name": "Spiros Marangos",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 67
+      },
+      "rating": 76,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94mitropoulos",
+      "name": "Tasos Mitropoulos",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 77,
+        "paseFiltrado": 77,
+        "llegada": 77,
+        "regate": 69,
+        "disparo": 69
+      },
+      "rating": 75,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94tsalouchidis",
+      "name": "Panagiotis Tsalouchidis",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 66
+      },
+      "rating": 74,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94saravakos",
+      "name": "Dimitris Saravakos",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 69,
+        "tecnica": 76
+      },
+      "rating": 69,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94dimitriadis",
+      "name": "Vasilis Dimitriadis",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 78
+      },
+      "rating": 79,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94alexandris",
+      "name": "Alexis Alexandris",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 69,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 77
+      },
+      "rating": 75,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94machlas",
+      "name": "Nikos Machlas",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 70,
+        "cabezazo": 70,
+        "pressing": 69,
+        "desmarque": 77
+      },
+      "rating": 70,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "grc94alexoudis",
+      "name": "Alexis Alexoudis",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 75
+      },
+      "rating": 69,
+      "country": "Grecia",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    }
+  ]
+}

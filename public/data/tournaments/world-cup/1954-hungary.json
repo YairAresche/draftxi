@@ -1,0 +1,436 @@
+{
+  "country": "Hungría",
+  "countryCode": "HUN",
+  "confederation": "UEFA",
+  "year": 1954,
+  "tournamentId": "wc-1954",
+  "players": [
+    {
+      "id": "hun54geller",
+      "name": "Sándor Gellér",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 76,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "hun54grosics",
+      "name": "Gyula Grosics",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 72,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "hun54gulyas",
+      "name": "Géza Gulyás",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 68,
+        "manejo": 68,
+        "salidas": 60,
+        "penales": 60,
+        "distribucion": 60
+      },
+      "rating": 69,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "hun54karpati",
+      "name": "Béla Kárpáti",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 75,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "hun54varhidi",
+      "name": "Pál Várhidi",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 77
+      },
+      "rating": 75,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "hun54lantos",
+      "name": "Mihály Lantos",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 73
+      },
+      "rating": 74,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 2
+    },
+    {
+      "id": "hun54buzanszky",
+      "name": "Jenő Buzánszky",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 69,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "hun54lorant",
+      "name": "Gyula Lóránt",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 69,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "hun54hidegkuti",
+      "name": "Nándor Hidegkuti",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 99,
+        "paseFiltrado": 99,
+        "llegada": 99,
+        "regate": 92,
+        "disparo": 92
+      },
+      "rating": 94,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 4
+    },
+    {
+      "id": "hun54bozsik",
+      "name": "József Bozsik",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 96,
+        "vision": 96,
+        "llegada": 89,
+        "recuperacion": 89,
+        "tecnica": 96
+      },
+      "rating": 91,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 1
+    },
+    {
+      "id": "hun54kovacs",
+      "name": "Imre Kovács",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 72,
+        "recuperacion": 73,
+        "tecnica": 81
+      },
+      "rating": 77,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "hun54zakarias",
+      "name": "József Zakariás",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 77
+      },
+      "rating": 76,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "hun54szojka",
+      "name": "Ferenc Szojka",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 73,
+        "paseFiltrado": 73,
+        "llegada": 73,
+        "regate": 64,
+        "disparo": 64
+      },
+      "rating": 72,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "hun54budai",
+      "name": "László Budai",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 69,
+        "vision": 69,
+        "llegada": 60,
+        "recuperacion": 60,
+        "tecnica": 69
+      },
+      "rating": 70,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "hun54puskas",
+      "name": "Ferenc Puskás",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        },
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 99,
+        "fisico": 99,
+        "velocidad": 90,
+        "cabezazo": 91,
+        "pressing": 91,
+        "desmarque": 99
+      },
+      "rating": 98,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 4
+    },
+    {
+      "id": "hun54kocsis",
+      "name": "Sándor Kocsis",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 99,
+        "fisico": 99,
+        "velocidad": 94,
+        "cabezazo": 93,
+        "pressing": 93,
+        "desmarque": 99
+      },
+      "rating": 95,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 11
+    },
+    {
+      "id": "hun54palotas",
+      "name": "Péter Palotás",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 75,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 83
+      },
+      "rating": 80,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 2
+    },
+    {
+      "id": "hun54machos",
+      "name": "Ferenc Machos",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 77
+      },
+      "rating": 77,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "hun54toth",
+      "name": "József Tóth",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 76,
+        "cabezazo": 76,
+        "pressing": 76,
+        "desmarque": 83
+      },
+      "rating": 76,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 1
+    },
+    {
+      "id": "hun54czibor",
+      "name": "Zoltán Czibor",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 75
+      },
+      "rating": 75,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 3
+    },
+    {
+      "id": "hun54toth2",
+      "name": "Mihály Tóth",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 74,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 81
+      },
+      "rating": 74,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "hun54csordas",
+      "name": "Lajos Csordás",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 74,
+        "fisico": 74,
+        "velocidad": 65,
+        "cabezazo": 65,
+        "pressing": 65,
+        "desmarque": 74
+      },
+      "rating": 73,
+      "country": "Hungría",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    }
+  ]
+}

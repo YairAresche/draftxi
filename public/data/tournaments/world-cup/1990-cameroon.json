@@ -1,0 +1,415 @@
+{
+  "country": "Camerún",
+  "countryCode": "CMR",
+  "confederation": "CAF",
+  "year": 1990,
+  "tournamentId": "wc-1990",
+  "players": [
+    {
+      "id": "cmr90songoo",
+      "name": "Jacques Songo'o",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 77,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90nkono",
+      "name": "Thomas N'Kono",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 75,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90bell",
+      "name": "Joseph-Antoine Bell",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 70,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90kunde",
+      "name": "Emmanuel Kundé",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 71,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 77,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 1
+    },
+    {
+      "id": "cmr90ebwelle",
+      "name": "Bertin Ebwellé",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 75,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90ndip",
+      "name": "Victor N'Dip",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 74,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90tataw",
+      "name": "Stephen Tataw",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 73,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90massing",
+      "name": "Benjamin Massing",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 71,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90yombi",
+      "name": "Alphonse Yombi",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 69
+      },
+      "rating": 69,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90kanabiyik",
+      "name": "André Kana-Biyik",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 68
+      },
+      "rating": 68,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90pagal",
+      "name": "Jean-Claude Pagal",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 72
+      },
+      "rating": 68,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90onana",
+      "name": "Jules Onana",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 81,
+        "resistencia": 73
+      },
+      "rating": 78,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90mbouh",
+      "name": "Émile Mbouh",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 80
+      },
+      "rating": 77,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90makanaky",
+      "name": "Cyrille Makanaky",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 71
+      },
+      "rating": 75,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90mfede",
+      "name": "Louis-Paul M'Fédé",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 73,
+        "llegada": 66,
+        "recuperacion": 65,
+        "tecnica": 73
+      },
+      "rating": 70,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90feutmba",
+      "name": "Roger Feutmba",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 76
+      },
+      "rating": 70,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90maboang",
+      "name": "Emmanuel Maboang",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 62,
+        "recuperacion": 62,
+        "tecnica": 71
+      },
+      "rating": 70,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90libiih",
+      "name": "Thomas Libiih",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 67,
+        "disparo": 67
+      },
+      "rating": 69,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90milla",
+      "name": "Roger Milla",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 90,
+        "fisico": 90,
+        "velocidad": 81,
+        "cabezazo": 81,
+        "pressing": 81,
+        "desmarque": 90
+      },
+      "rating": 89,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 5
+    },
+    {
+      "id": "cmr90djonkep",
+      "name": "Bonaventure Djonkep",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 82,
+        "fisico": 82,
+        "velocidad": 75,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 82
+      },
+      "rating": 77,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990"
+    },
+    {
+      "id": "cmr90omambiyik",
+      "name": "François Omam-Biyik",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 70,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 77
+      },
+      "rating": 73,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 2
+    },
+    {
+      "id": "cmr90ekeke",
+      "name": "Eugène Ekéké",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 73,
+      "country": "Camerún",
+      "tournamentYear": 1990,
+      "tournamentId": "wc-1990",
+      "goals": 1
+    }
+  ]
+}

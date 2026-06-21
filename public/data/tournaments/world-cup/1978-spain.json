@@ -1,0 +1,414 @@
+{
+  "country": "España",
+  "countryCode": "ESP",
+  "confederation": "UEFA",
+  "year": 1978,
+  "tournamentId": "wc-1978",
+  "players": [
+    {
+      "id": "esp78arconada",
+      "name": "Luis Arconada",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 80,
+        "salidas": 72,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 78,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "esp78angel",
+      "name": "Miguel Ángel",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 74,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "esp78urruti",
+      "name": "Urruti",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 70,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "esp78marcelino",
+      "name": "Marcelino",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 75,
+        "pases": 75,
+        "duelos": 82
+      },
+      "rating": 76,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "esp78olmo",
+      "name": "Antonio Olmo",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 75,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "esp78pirri",
+      "name": "Pirri",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 75,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    },
+    {
+      "id": "esp78uria",
+      "name": "Francisco Javier Uría",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 74,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "esp78san-jose",
+      "name": "Isidoro San José",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 72,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "esp78biosca",
+      "name": "Antonio Biosca",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 69
+      },
+      "rating": 70,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "esp78de-la-cruz",
+      "name": "Antonio de la Cruz",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 69
+      },
+      "rating": 68,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "esp78migueli",
+      "name": "Migueli",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 67,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "esp78cardenosa",
+      "name": "Julio Cardeñosa",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 81
+      },
+      "rating": 77,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "esp78guzman",
+      "name": "Antonio Guzmán",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 77
+      },
+      "rating": 77,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "esp78rexach",
+      "name": "Carles Rexach",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 81,
+        "vision": 82,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 81
+      },
+      "rating": 75,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "esp78asensi",
+      "name": "Juan Manuel Asensi",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 68
+      },
+      "rating": 74,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    },
+    {
+      "id": "esp78leal",
+      "name": "Eugenio Leal",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 75,
+        "llegada": 75,
+        "regate": 67,
+        "disparo": 68
+      },
+      "rating": 69,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "esp78juanito",
+      "name": "Juanito",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 81
+      },
+      "rating": 77,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    },
+    {
+      "id": "esp78dani",
+      "name": "Dani",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 67,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 76
+      },
+      "rating": 74,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    },
+    {
+      "id": "esp78quini",
+      "name": "Quini",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 75
+      },
+      "rating": 72,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "esp78maranon",
+      "name": "Marañón",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 76
+      },
+      "rating": 72,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "esp78santillana",
+      "name": "Santillana",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 72,
+        "fisico": 72,
+        "velocidad": 63,
+        "cabezazo": 63,
+        "pressing": 63,
+        "desmarque": 72
+      },
+      "rating": 71,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "esp78cano",
+      "name": "Rubén Cano",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 65,
+        "disparo": 65,
+        "desmarque": 73
+      },
+      "rating": 69,
+      "country": "España",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    }
+  ]
+}

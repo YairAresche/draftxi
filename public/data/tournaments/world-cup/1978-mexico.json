@@ -1,0 +1,418 @@
+{
+  "country": "México",
+  "countryCode": "MEX",
+  "confederation": "CONCACAF",
+  "year": 1978,
+  "tournamentId": "wc-1978",
+  "players": [
+    {
+      "id": "mex78soto",
+      "name": "Pedro Soto",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 71,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78reyes",
+      "name": "José Pilar Reyes",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 70,
+        "salidas": 62,
+        "penales": 63,
+        "distribucion": 63
+      },
+      "rating": 68,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78vazquez-ayala",
+      "name": "Arturo Vázquez Ayala",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 76,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    },
+    {
+      "id": "mex78gomez",
+      "name": "Carlos Gómez",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 76,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78najera",
+      "name": "Manuel Nájera",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 77
+      },
+      "rating": 75,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78ramos",
+      "name": "Eduardo Ramos",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 77
+      },
+      "rating": 75,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78martinez",
+      "name": "Jesús Martínez",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 75,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78flores-ocaranza",
+      "name": "Ignacio Flores Ocaranza",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 75,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78cisneros",
+      "name": "Rigoberto Cisneros",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 78,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 72,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78tena",
+      "name": "Alfredo Tena",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 69,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78lugo",
+      "name": "Gerardo Lugo",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 81,
+        "resistencia": 74
+      },
+      "rating": 76,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78mendizabal",
+      "name": "Guillermo Mendizábal",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 82,
+        "pases": 82,
+        "posicionamiento": 82,
+        "duelos": 82,
+        "resistencia": 75
+      },
+      "rating": 75,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78zarza",
+      "name": "Enrique López Zarza",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 75
+      },
+      "rating": 75,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78de-la-torre",
+      "name": "Antonio de la Torre",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 74
+      },
+      "rating": 74,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78cardenas",
+      "name": "Javier Cárdenas",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 65,
+        "disparo": 65
+      },
+      "rating": 72,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78cuellar",
+      "name": "Leonardo Cuéllar",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 70,
+        "vision": 70,
+        "llegada": 61,
+        "recuperacion": 61,
+        "tecnica": 70
+      },
+      "rating": 70,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78sanchez",
+      "name": "Hugo Sánchez",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 85,
+        "regate": 85,
+        "centro": 78,
+        "disparo": 78,
+        "desmarque": 85
+      },
+      "rating": 80,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    },
+    {
+      "id": "mex78medina",
+      "name": "Mario Medina",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 75,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78rodriguez",
+      "name": "Hugo René Rodríguez",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 71,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 74,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78rangel",
+      "name": "Víctor Rangel",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 72,
+        "fisico": 72,
+        "velocidad": 62,
+        "cabezazo": 63,
+        "pressing": 63,
+        "desmarque": 72
+      },
+      "rating": 73,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    },
+    {
+      "id": "mex78ortega",
+      "name": "Cristóbal Ortega",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 79
+      },
+      "rating": 73,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "mex78isiordia",
+      "name": "Raúl Isiordia",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 65,
+        "disparo": 65,
+        "desmarque": 73
+      },
+      "rating": 73,
+      "country": "México",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    }
+  ]
+}

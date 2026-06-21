@@ -1,0 +1,436 @@
+{
+  "country": "Ghana",
+  "countryCode": "GHA",
+  "confederation": "CAF",
+  "year": 2014,
+  "tournamentId": "wc-2014",
+  "players": [
+    {
+      "id": "gha14dauda",
+      "name": "Fatau Dauda",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 84,
+        "manejo": 84,
+        "salidas": 77,
+        "penales": 76,
+        "distribucion": 76
+      },
+      "rating": 77,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14kwarasey",
+      "name": "Adam Larsen Kwarasey",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 75,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14adams",
+      "name": "Stephen Adams",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 70,
+        "manejo": 70,
+        "salidas": 61,
+        "penales": 61,
+        "distribucion": 61
+      },
+      "rating": 69,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14inkoom",
+      "name": "Samuel Inkoom",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 83,
+        "velocidad": 76,
+        "pases": 75,
+        "duelos": 82
+      },
+      "rating": 77,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14sumaila",
+      "name": "Rashid Sumaila",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 76,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14boye",
+      "name": "John Boye",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 80,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 75,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14afful",
+      "name": "Harrison Afful",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 77
+      },
+      "rating": 75,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14opare",
+      "name": "Daniel Opare",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 71,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14mensah",
+      "name": "Jonathan Mensah",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 67,
+        "intercepciones": 67,
+        "velocidad": 57,
+        "pases": 58,
+        "duelos": 67
+      },
+      "rating": 68,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14muntari",
+      "name": "Sulley Muntari",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 70
+      },
+      "rating": 78,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 2
+    },
+    {
+      "id": "gha14asamoah",
+      "name": "Kwadwo Asamoah",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 69,
+        "tecnica": 78
+      },
+      "rating": 77,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14ayew",
+      "name": "André Ayew",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 76
+      },
+      "rating": 76,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 3
+    },
+    {
+      "id": "gha14acquah",
+      "name": "Afriyie Acquah",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 74,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14adomah",
+      "name": "Albert Adomah",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 78
+      },
+      "rating": 72,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14rabiu",
+      "name": "Mohammed Rabiu",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 71,
+        "paseFiltrado": 71,
+        "llegada": 71,
+        "regate": 63,
+        "disparo": 62
+      },
+      "rating": 71,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14atsu",
+      "name": "Christian Atsu",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 70,
+        "vision": 70,
+        "llegada": 61,
+        "recuperacion": 61,
+        "tecnica": 70
+      },
+      "rating": 70,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14agyemangbadu",
+      "name": "Emmanuel Agyemang-Badu",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 66,
+        "disparo": 66
+      },
+      "rating": 70,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14wakaso",
+      "name": "Mubarak Wakaso",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 72,
+        "pases": 72,
+        "posicionamiento": 72,
+        "duelos": 72,
+        "resistencia": 64
+      },
+      "rating": 70,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14essien",
+      "name": "Michael Essien",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 71,
+        "pases": 71,
+        "posicionamiento": 71,
+        "duelos": 71,
+        "resistencia": 62
+      },
+      "rating": 69,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14gyan",
+      "name": "Asamoah Gyan",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 71,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 80,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 6
+    },
+    {
+      "id": "gha14boateng",
+      "name": "Kevin-Prince Boateng",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 81
+      },
+      "rating": 75,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "gha14ayew2",
+      "name": "Jordan Ayew",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 75
+      },
+      "rating": 75,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "gha14waris",
+      "name": "Abdul Majeed Waris",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 74,
+        "fisico": 74,
+        "velocidad": 65,
+        "cabezazo": 65,
+        "pressing": 65,
+        "desmarque": 73
+      },
+      "rating": 72,
+      "country": "Ghana",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    }
+  ]
+}

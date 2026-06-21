@@ -1,0 +1,410 @@
+{
+  "country": "Alemania",
+  "countryCode": "DEU",
+  "confederation": "UEFA",
+  "year": 1998,
+  "tournamentId": "wc-1998",
+  "players": [
+    {
+      "id": "deu98lehmann",
+      "name": "Jens Lehmann",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 83,
+        "manejo": 83,
+        "salidas": 75,
+        "penales": 76,
+        "distribucion": 76
+      },
+      "rating": 76,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "deu98kopke",
+      "name": "Andreas Köpke",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "deu98kahn",
+      "name": "Oliver Kahn",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 65,
+        "penales": 64,
+        "distribucion": 65
+      },
+      "rating": 68,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "deu98kohler",
+      "name": "Jürgen Kohler",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 77
+      },
+      "rating": 76,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "deu98helmer",
+      "name": "Thomas Helmer",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 76,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "deu98ziege",
+      "name": "Christian Ziege",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 76,
+        "pases": 75,
+        "duelos": 82
+      },
+      "rating": 76,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "deu98worns",
+      "name": "Christian Wörns",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "deu98reuter",
+      "name": "Stefan Reuter",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "deu98babbel",
+      "name": "Markus Babbel",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 73,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "deu98heinrich",
+      "name": "Jörg Heinrich",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "deu98thon",
+      "name": "Olaf Thon",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 61,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "deu98tarnat",
+      "name": "Michael Tarnat",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "deu98matthaus",
+      "name": "Lothar Matthäus",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 85,
+        "pases": 85,
+        "posicionamiento": 85,
+        "duelos": 85,
+        "resistencia": 77
+      },
+      "rating": 84,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 6
+    },
+    {
+      "id": "deu98haler",
+      "name": "Thomas Häßler",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 75,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "deu98freund",
+      "name": "Steffen Freund",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 80,
+        "paseFiltrado": 80,
+        "llegada": 80,
+        "regate": 73,
+        "disparo": 73
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "deu98hamann",
+      "name": "Dietmar Hamann",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 75
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "deu98jeremies",
+      "name": "Jens Jeremies",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "deu98moller",
+      "name": "Andreas Möller",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 68
+      },
+      "rating": 70,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "deu98klinsmann",
+      "name": "Jürgen Klinsmann",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 86,
+        "fisico": 86,
+        "velocidad": 76,
+        "cabezazo": 77,
+        "pressing": 77,
+        "desmarque": 85
+      },
+      "rating": 86,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 11
+    },
+    {
+      "id": "deu98bierhoff",
+      "name": "Oliver Bierhoff",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 86,
+        "fisico": 86,
+        "velocidad": 80,
+        "cabezazo": 69,
+        "pressing": 79,
+        "desmarque": 86
+      },
+      "rating": 79,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 4
+    },
+    {
+      "id": "deu98kirsten",
+      "name": "Ulf Kirsten",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 71,
+        "fisico": 71,
+        "velocidad": 62,
+        "cabezazo": 63,
+        "pressing": 63,
+        "desmarque": 71
+      },
+      "rating": 70,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "deu98marschall",
+      "name": "Olaf Marschall",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 70,
+        "disparo": 69,
+        "desmarque": 76
+      },
+      "rating": 70,
+      "country": "Alemania",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    }
+  ]
+}

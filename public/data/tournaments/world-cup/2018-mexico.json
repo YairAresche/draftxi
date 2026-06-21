@@ -1,0 +1,434 @@
+{
+  "country": "México",
+  "countryCode": "MEX",
+  "confederation": "CONCACAF",
+  "year": 2018,
+  "tournamentId": "wc-2018",
+  "players": [
+    {
+      "id": "mex18talavera",
+      "name": "Alfredo Talavera",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 81,
+        "salidas": 73,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 76,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "mex18ochoa",
+      "name": "Guillermo Ochoa",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 76,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "mex18de-jesus-corona",
+      "name": "José de Jesús Corona",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 71,
+        "salidas": 62,
+        "penales": 62,
+        "distribucion": 62
+      },
+      "rating": 71,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "mex18herrera",
+      "name": "Héctor Herrera",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 77
+      },
+      "rating": 77,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "mex18salcedo",
+      "name": "Carlos Salcedo",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 72,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "mex18moreno",
+      "name": "Héctor Moreno",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 72,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "mex18marquez",
+      "name": "Rafael Márquez",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 68,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 3
+    },
+    {
+      "id": "mex18alvarez",
+      "name": "Edson Álvarez",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 67,
+        "velocidad": 57,
+        "pases": 68,
+        "duelos": 75
+      },
+      "rating": 68,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "mex18ayala",
+      "name": "Hugo Ayala",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 71
+      },
+      "rating": 67,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "mex18guardado",
+      "name": "Andrés Guardado",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 86,
+        "vision": 86,
+        "llegada": 78,
+        "recuperacion": 79,
+        "tecnica": 86
+      },
+      "rating": 83,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "mex18dos-santos",
+      "name": "Giovani dos Santos",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 82,
+        "paseFiltrado": 82,
+        "llegada": 82,
+        "regate": 74,
+        "disparo": 75
+      },
+      "rating": 78,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "mex18corona",
+      "name": "Jesús Manuel Corona",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 79
+      },
+      "rating": 78,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "mex18dos-santos2",
+      "name": "Jonathan dos Santos",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 73,
+        "recuperacion": 73,
+        "tecnica": 81
+      },
+      "rating": 77,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "mex18aquino",
+      "name": "Javier Aquino",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 73,
+        "recuperacion": 63,
+        "tecnica": 72
+      },
+      "rating": 73,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "mex18gutierrez",
+      "name": "Érick Gutiérrez",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 73,
+        "posicionamiento": 73,
+        "duelos": 73,
+        "resistencia": 64
+      },
+      "rating": 70,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "mex18layun",
+      "name": "Miguel Layún",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 63,
+        "recuperacion": 63,
+        "tecnica": 71
+      },
+      "rating": 69,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "mex18gallardo",
+      "name": "Jesús Gallardo",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 71,
+        "paseFiltrado": 71,
+        "llegada": 71,
+        "regate": 63,
+        "disparo": 62
+      },
+      "rating": 69,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "mex18hernandez",
+      "name": "Javier Hernández",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 87,
+        "fisico": 87,
+        "velocidad": 79,
+        "cabezazo": 79,
+        "pressing": 79,
+        "desmarque": 87
+      },
+      "rating": 84,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 4
+    },
+    {
+      "id": "mex18jimenez",
+      "name": "Raúl Jiménez",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 76,
+        "disparo": 76,
+        "desmarque": 83
+      },
+      "rating": 79,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "mex18lozano",
+      "name": "Hirving Lozano",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 77,
+        "disparo": 67,
+        "desmarque": 76
+      },
+      "rating": 77,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "mex18vela",
+      "name": "Carlos Vela",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 79
+      },
+      "rating": 74,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "mex18fabian",
+      "name": "Marco Fabián",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 73,
+        "fisico": 73,
+        "velocidad": 64,
+        "cabezazo": 65,
+        "pressing": 65,
+        "desmarque": 73
+      },
+      "rating": 72,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "mex18peralta",
+      "name": "Oribe Peralta",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 72
+      },
+      "rating": 72,
+      "country": "México",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    }
+  ]
+}

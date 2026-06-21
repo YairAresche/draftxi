@@ -1,0 +1,426 @@
+{
+  "country": "Francia",
+  "countryCode": "FRA",
+  "confederation": "UEFA",
+  "year": 1938,
+  "tournamentId": "wc-1938",
+  "players": [
+    {
+      "id": "fra38darui",
+      "name": "Julien Darui",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 76,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38llense",
+      "name": "René Llense",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 64,
+        "penales": 64,
+        "distribucion": 64
+      },
+      "rating": 71,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38di-lorto",
+      "name": "Laurent Di Lorto",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 69,
+        "manejo": 69,
+        "salidas": 61,
+        "penales": 61,
+        "distribucion": 61
+      },
+      "rating": 69,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38mattler",
+      "name": "Étienne Mattler",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 84,
+        "intercepciones": 84,
+        "velocidad": 78,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 77,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38vandooren",
+      "name": "Jules Vandooren",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 76,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38ben-bouali",
+      "name": "Abdelkader Ben Bouali",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 74,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38cazenave",
+      "name": "Hector Cazenave",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38povolny",
+      "name": "Martin Povolny",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 68,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38bourbotte",
+      "name": "François Bourbotte",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 74,
+        "recuperacion": 75,
+        "tecnica": 82
+      },
+      "rating": 77,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38jasseron",
+      "name": "Lucien Jasseron",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 83,
+        "paseFiltrado": 83,
+        "llegada": 83,
+        "regate": 75,
+        "disparo": 76
+      },
+      "rating": 77,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38bastien",
+      "name": "Jean Bastien",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 77,
+        "pases": 77,
+        "posicionamiento": 77,
+        "duelos": 77,
+        "resistencia": 69
+      },
+      "rating": 74,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38diagne",
+      "name": "Raoul Diagne",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 65,
+        "recuperacion": 66,
+        "tecnica": 74
+      },
+      "rating": 71,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38jordan",
+      "name": "Auguste Jordan",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 72,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 73
+      },
+      "rating": 69,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38heisserer",
+      "name": "Oscar Heisserer",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 75,
+        "disparo": 75,
+        "desmarque": 83
+      },
+      "rating": 79,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 1
+    },
+    {
+      "id": "fra38veinante",
+      "name": "Émile Veinante",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 82,
+        "fisico": 82,
+        "velocidad": 74,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 82
+      },
+      "rating": 79,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 1
+    },
+    {
+      "id": "fra38aston",
+      "name": "Alfred Aston",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 69,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 79
+      },
+      "rating": 78,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38brusseaux",
+      "name": "Michel Brusseaux",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 74,
+        "desmarque": 81
+      },
+      "rating": 75,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38nicolas",
+      "name": "Jean Nicolas",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 65,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 75
+      },
+      "rating": 75,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 3
+    },
+    {
+      "id": "fra38courtois",
+      "name": "Roger Courtois",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 77
+      },
+      "rating": 72,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38delfour",
+      "name": "Edmond Delfour",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 71,
+        "fisico": 71,
+        "velocidad": 62,
+        "cabezazo": 62,
+        "pressing": 62,
+        "desmarque": 71
+      },
+      "rating": 71,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38kowalczyk",
+      "name": "Ignace Kowalczyk",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 75
+      },
+      "rating": 70,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "fra38zatelli",
+      "name": "Mario Zatelli",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 75
+      },
+      "rating": 70,
+      "country": "Francia",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    }
+  ]
+}

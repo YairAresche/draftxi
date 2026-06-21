@@ -1,0 +1,437 @@
+{
+  "country": "Países Bajos",
+  "countryCode": "NLD",
+  "confederation": "UEFA",
+  "year": 2014,
+  "tournamentId": "wc-2014",
+  "players": [
+    {
+      "id": "nld14vorm",
+      "name": "Michel Vorm",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 80,
+        "salidas": 72,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 76,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "nld14krul",
+      "name": "Tim Krul",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 71,
+        "salidas": 62,
+        "penales": 62,
+        "distribucion": 62
+      },
+      "rating": 71,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "nld14cillessen",
+      "name": "Jasper Cillessen",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 64,
+        "penales": 64,
+        "distribucion": 64
+      },
+      "rating": 69,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "nld14de-vrij",
+      "name": "Stefan de Vrij",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 82
+      },
+      "rating": 76,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "nld14kongolo",
+      "name": "Terence Kongolo",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 75,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "nld14verhaegh",
+      "name": "Paul Verhaegh",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 78
+      },
+      "rating": 73,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "nld14vlaar",
+      "name": "Ron Vlaar",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 72,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "nld14veltman",
+      "name": "Joël Veltman",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 72,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "nld14martins-indi",
+      "name": "Bruno Martins Indi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 70,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "nld14blind",
+      "name": "Daley Blind",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 66,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 68,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 2
+    },
+    {
+      "id": "nld14janmaat",
+      "name": "Daryl Janmaat",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 61,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 68,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "nld14sneijder",
+      "name": "Wesley Sneijder",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 88,
+        "paseFiltrado": 88,
+        "llegada": 88,
+        "regate": 79,
+        "disparo": 78
+      },
+      "rating": 88,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 6
+    },
+    {
+      "id": "nld14de-jong",
+      "name": "Nigel de Jong",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 81,
+        "resistencia": 74
+      },
+      "rating": 76,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "nld14clasie",
+      "name": "Jordy Clasie",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 65,
+        "disparo": 64
+      },
+      "rating": 75,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "nld14de-guzman",
+      "name": "Jonathan de Guzmán",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 72,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "nld14fer",
+      "name": "Leroy Fer",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 68,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 70,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "nld14wijnaldum",
+      "name": "Georginio Wijnaldum",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 68
+      },
+      "rating": 70,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "nld14robben",
+      "name": "Arjen Robben",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 98,
+        "regate": 98,
+        "centro": 90,
+        "disparo": 90,
+        "desmarque": 98
+      },
+      "rating": 95,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 6
+    },
+    {
+      "id": "nld14van-persie",
+      "name": "Robin van Persie",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 95,
+        "fisico": 95,
+        "velocidad": 87,
+        "cabezazo": 87,
+        "pressing": 87,
+        "desmarque": 95
+      },
+      "rating": 93,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 6
+    },
+    {
+      "id": "nld14huntelaar",
+      "name": "Klaas-Jan Huntelaar",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 75,
+        "disparo": 75,
+        "desmarque": 83
+      },
+      "rating": 79,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 2
+    },
+    {
+      "id": "nld14kuyt",
+      "name": "Dirk Kuyt",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 76,
+        "disparo": 76,
+        "desmarque": 83
+      },
+      "rating": 78,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "nld14depay",
+      "name": "Memphis Depay",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 77
+      },
+      "rating": 77,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 3
+    },
+    {
+      "id": "nld14lens",
+      "name": "Jeremain Lens",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 73,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 74,
+      "country": "Países Bajos",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    }
+  ]
+}

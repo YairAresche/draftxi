@@ -1,0 +1,447 @@
+{
+  "country": "Dinamarca",
+  "countryCode": "DNK",
+  "confederation": "UEFA",
+  "year": 2002,
+  "tournamentId": "wc-2002",
+  "players": [
+    {
+      "id": "dnk02christiansen",
+      "name": "Jesper Christiansen",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 84,
+        "manejo": 84,
+        "salidas": 77,
+        "penales": 77,
+        "distribucion": 77
+      },
+      "rating": 78,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "dnk02srensen",
+      "name": "Thomas Sørensen",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 75,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "dnk02kjr",
+      "name": "Peter Kjær",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 71,
+        "salidas": 62,
+        "penales": 62,
+        "distribucion": 62
+      },
+      "rating": 71,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "dnk02helveg",
+      "name": "Thomas Helveg",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 83,
+        "velocidad": 76,
+        "pases": 75,
+        "duelos": 83
+      },
+      "rating": 76,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "dnk02henriksen",
+      "name": "René Henriksen",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 75,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "dnk02laursen",
+      "name": "Martin Laursen",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 75
+      },
+      "rating": 72,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "dnk02heintze",
+      "name": "Jan Heintze",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 77
+      },
+      "rating": 71,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "dnk02bgelund",
+      "name": "Kasper Bøgelund",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 73
+      },
+      "rating": 70,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "dnk02jensen",
+      "name": "Niclas Jensen",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 73,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 69,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "dnk02lustu",
+      "name": "Steven Lustü",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 72,
+        "velocidad": 66,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 67,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "dnk02jrgensen",
+      "name": "Martin Jørgensen",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 83,
+        "paseFiltrado": 83,
+        "llegada": 83,
+        "regate": 76,
+        "disparo": 76
+      },
+      "rating": 78,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "dnk02poulsen",
+      "name": "Christian Poulsen",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 78
+      },
+      "rating": 77,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "dnk02gravesen",
+      "name": "Thomas Gravesen",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 75,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "dnk02steen-nielsen",
+      "name": "Brian Steen Nielsen",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 73,
+        "recuperacion": 74,
+        "tecnica": 81
+      },
+      "rating": 75,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "dnk02grnkjr",
+      "name": "Jesper Grønkjær",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 74
+      },
+      "rating": 72,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "dnk02rommedahl",
+      "name": "Dennis Rommedahl",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 72,
+        "paseFiltrado": 72,
+        "llegada": 72,
+        "regate": 63,
+        "disparo": 63
+      },
+      "rating": 71,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 2
+    },
+    {
+      "id": "dnk02tfting",
+      "name": "Stig Tøfting",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 69,
+        "pases": 69,
+        "posicionamiento": 69,
+        "duelos": 77,
+        "resistencia": 70
+      },
+      "rating": 70,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "dnk02jensen2",
+      "name": "Claus Jensen",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 74,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 70,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "dnk02michaelsen",
+      "name": "Jan Michaelsen",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 75,
+        "resistencia": 68
+      },
+      "rating": 68,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "dnk02tomasson",
+      "name": "Jon Dahl Tomasson",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 82,
+        "fisico": 81,
+        "velocidad": 73,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 81
+      },
+      "rating": 80,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 5
+    },
+    {
+      "id": "dnk02sand",
+      "name": "Ebbe Sand",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 79
+      },
+      "rating": 79,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "dnk02madsen",
+      "name": "Peter Madsen",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 84,
+        "fisico": 84,
+        "velocidad": 77,
+        "cabezazo": 76,
+        "pressing": 76,
+        "desmarque": 84
+      },
+      "rating": 79,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "dnk02lvenkrands",
+      "name": "Peter Løvenkrands",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 77,
+      "country": "Dinamarca",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    }
+  ]
+}

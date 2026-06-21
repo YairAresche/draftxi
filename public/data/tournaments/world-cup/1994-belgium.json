@@ -1,0 +1,443 @@
+{
+  "country": "Bélgica",
+  "countryCode": "BEL",
+  "confederation": "UEFA",
+  "year": 1994,
+  "tournamentId": "wc-1994",
+  "players": [
+    {
+      "id": "bel94verlinden",
+      "name": "Dany Verlinden",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 84,
+        "salidas": 77,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 77,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "bel94preudhomme",
+      "name": "Michel Preud'homme",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 70,
+        "manejo": 70,
+        "salidas": 61,
+        "penales": 61,
+        "distribucion": 61
+      },
+      "rating": 70,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "bel94de-wilde",
+      "name": "Filip De Wilde",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 68,
+        "manejo": 68,
+        "salidas": 59,
+        "penales": 59,
+        "distribucion": 59
+      },
+      "rating": 68,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "bel94van-meir",
+      "name": "Eric Van Meir",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 83,
+        "velocidad": 76,
+        "pases": 75,
+        "duelos": 82
+      },
+      "rating": 77,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "bel94borkelmans",
+      "name": "Vital Borkelmans",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 76,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "bel94albert",
+      "name": "Philippe Albert",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 78
+      },
+      "rating": 76,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 2
+    },
+    {
+      "id": "bel94renier",
+      "name": "Pascal Renier",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 75,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "bel94de-wolf",
+      "name": "Michel De Wolf",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 73,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "bel94medved",
+      "name": "Dirk Medved",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 72,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "bel94smidts",
+      "name": "Rudi Smidts",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 73
+      },
+      "rating": 72,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "bel94grun",
+      "name": "Georges Grün",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 75
+      },
+      "rating": 72,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "bel94wilmots",
+      "name": "Marc Wilmots",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 83,
+        "pases": 83,
+        "posicionamiento": 83,
+        "duelos": 83,
+        "resistencia": 76
+      },
+      "rating": 78,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 5
+    },
+    {
+      "id": "bel94van-der-elst",
+      "name": "Franky Van der Elst",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 76,
+        "vision": 84,
+        "llegada": 77,
+        "recuperacion": 77,
+        "tecnica": 84
+      },
+      "rating": 77,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "bel94staelens",
+      "name": "Lorenzo Staelens",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 68
+      },
+      "rating": 75,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "bel94scifo",
+      "name": "Enzo Scifo",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 73
+      },
+      "rating": 71,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 3
+    },
+    {
+      "id": "bel94boffin",
+      "name": "Danny Boffin",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 71,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "bel94van-der-heyden",
+      "name": "Stéphane van der Heyden",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 75
+      },
+      "rating": 69,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "bel94emmers",
+      "name": "Marc Emmers",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 68,
+        "paseFiltrado": 68,
+        "llegada": 68,
+        "regate": 60,
+        "disparo": 59
+      },
+      "rating": 68,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "bel94nilis",
+      "name": "Luc Nilis",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 70,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 80
+      },
+      "rating": 80,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "bel94degryse",
+      "name": "Marc Degryse",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 80
+      },
+      "rating": 80,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 2
+    },
+    {
+      "id": "bel94czerniatynski",
+      "name": "Alexandre Czerniatynski",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 84
+      },
+      "rating": 80,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "bel94weber",
+      "name": "Josip Weber",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 84,
+        "fisico": 84,
+        "velocidad": 78,
+        "cabezazo": 77,
+        "pressing": 77,
+        "desmarque": 84
+      },
+      "rating": 77,
+      "country": "Bélgica",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    }
+  ]
+}

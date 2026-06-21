@@ -1,0 +1,437 @@
+{
+  "country": "Alemania",
+  "countryCode": "DEU",
+  "confederation": "UEFA",
+  "year": 2002,
+  "tournamentId": "wc-2002",
+  "players": [
+    {
+      "id": "deu02butt",
+      "name": "Hans-Jörg Butt",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 75,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "deu02lehmann",
+      "name": "Jens Lehmann",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 63,
+        "penales": 63,
+        "distribucion": 63
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "deu02kahn",
+      "name": "Oliver Kahn",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 68,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "deu02kehl",
+      "name": "Sebastian Kehl",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 81
+      },
+      "rating": 76,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "deu02baumann",
+      "name": "Frank Baumann",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "deu02metzelder",
+      "name": "Christoph Metzelder",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 69,
+        "pases": 70,
+        "duelos": 77
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "deu02ziege",
+      "name": "Christian Ziege",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 62,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 73,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "deu02rehmer",
+      "name": "Marko Rehmer",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 61,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "deu02linke",
+      "name": "Thomas Linke",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 59,
+        "pases": 59,
+        "duelos": 68
+      },
+      "rating": 67,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "deu02frings",
+      "name": "Torsten Frings",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 84,
+        "vision": 84,
+        "llegada": 77,
+        "recuperacion": 76,
+        "tecnica": 84
+      },
+      "rating": 78,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "deu02bohme",
+      "name": "Jörg Böhme",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 77
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "deu02ricken",
+      "name": "Lars Ricken",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 77
+      },
+      "rating": 76,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "deu02hamann",
+      "name": "Dietmar Hamann",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "deu02ballack",
+      "name": "Michael Ballack",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 75,
+        "llegada": 75,
+        "regate": 67,
+        "disparo": 66
+      },
+      "rating": 73,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 3
+    },
+    {
+      "id": "deu02jeremies",
+      "name": "Jens Jeremies",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 73,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "deu02ramelow",
+      "name": "Carsten Ramelow",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 78,
+        "resistencia": 71
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "deu02bode",
+      "name": "Marco Bode",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 66
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "deu02schneider",
+      "name": "Bernd Schneider",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 73,
+        "paseFiltrado": 73,
+        "llegada": 73,
+        "regate": 64,
+        "disparo": 64
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "deu02klose",
+      "name": "Miroslav Klose",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 89,
+        "fisico": 89,
+        "velocidad": 81,
+        "cabezazo": 81,
+        "pressing": 81,
+        "desmarque": 89
+      },
+      "rating": 87,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 16
+    },
+    {
+      "id": "deu02asamoah",
+      "name": "Gerald Asamoah",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 81,
+        "fisico": 82,
+        "velocidad": 74,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 81
+      },
+      "rating": 78,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "deu02neuville",
+      "name": "Oliver Neuville",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 84,
+        "fisico": 84,
+        "velocidad": 77,
+        "cabezazo": 76,
+        "pressing": 76,
+        "desmarque": 83
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 2
+    },
+    {
+      "id": "deu02bierhoff",
+      "name": "Oliver Bierhoff",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 75
+      },
+      "rating": 75,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 4
+    },
+    {
+      "id": "deu02jancker",
+      "name": "Carsten Jancker",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 77
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    }
+  ]
+}

@@ -1,0 +1,427 @@
+{
+  "country": "Costa Rica",
+  "countryCode": "CRI",
+  "confederation": "CONCACAF",
+  "year": 2002,
+  "tournamentId": "wc-2002",
+  "players": [
+    {
+      "id": "cri02morgan",
+      "name": "Lester Morgan",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 83,
+        "manejo": 83,
+        "salidas": 75,
+        "penales": 75,
+        "distribucion": 75
+      },
+      "rating": 77,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "cri02mesen",
+      "name": "Álvaro Mesén",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 73,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "cri02lonnis",
+      "name": "Erick Lonnis",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 72,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "cri02vallejos",
+      "name": "Daniel Vallejos",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 76,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "cri02rodriguez",
+      "name": "Juan José Rodríguez",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 76,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "cri02drummond",
+      "name": "Jervis Drummond",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 74,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "cri02martinez",
+      "name": "Gilberto Martínez",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 74,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "cri02marin",
+      "name": "Luis Marín",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 73,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "cri02chinchilla",
+      "name": "Pablo Chinchilla",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 73,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "cri02wright",
+      "name": "Mauricio Wright",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 71,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "cri02castro",
+      "name": "Carlos Castro",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "cri02wallace",
+      "name": "Harold Wallace",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 70,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "cri02cordero",
+      "name": "Rodrigo Cordero",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 82
+      },
+      "rating": 77,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "cri02medford",
+      "name": "Hernán Medford",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 79,
+        "paseFiltrado": 79,
+        "llegada": 79,
+        "regate": 71,
+        "disparo": 71
+      },
+      "rating": 75,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "cri02centeno",
+      "name": "Walter Centeno",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 72,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "cri02solis",
+      "name": "Mauricio Solís",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 71,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "cri02lopez",
+      "name": "Wílmer López",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 73,
+        "posicionamiento": 73,
+        "duelos": 73,
+        "resistencia": 66
+      },
+      "rating": 69,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "cri02wanchope",
+      "name": "Paulo Wanchope",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 84
+      },
+      "rating": 80,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 3
+    },
+    {
+      "id": "cri02fonseca",
+      "name": "Rolando Fonseca",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 73,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 81
+      },
+      "rating": 77,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "cri02gomez",
+      "name": "Rónald Gómez",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 82
+      },
+      "rating": 75,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 3
+    },
+    {
+      "id": "cri02sunsing",
+      "name": "William Sunsing",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 65,
+        "disparo": 65,
+        "desmarque": 74
+      },
+      "rating": 75,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "cri02parks",
+      "name": "Winston Parks",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 71,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 77
+      },
+      "rating": 72,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "cri02bryce",
+      "name": "Steven Bryce",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 73
+      },
+      "rating": 72,
+      "country": "Costa Rica",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    }
+  ]
+}

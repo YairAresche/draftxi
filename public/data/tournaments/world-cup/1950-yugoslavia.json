@@ -1,0 +1,412 @@
+{
+  "country": "Yugoslavia",
+  "countryCode": "YUG",
+  "confederation": "UEFA",
+  "year": 1950,
+  "tournamentId": "wc-1950",
+  "players": [
+    {
+      "id": "yug50mrkusic",
+      "name": "Srđan Mrkušić",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 78,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "yug50beara",
+      "name": "Vladimir Beara",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 83,
+        "manejo": 83,
+        "salidas": 76,
+        "penales": 75,
+        "distribucion": 76
+      },
+      "rating": 77,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "yug50broketa",
+      "name": "Božo Broketa",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 73,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "yug50zlatkovic",
+      "name": "Siniša Zlatković",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 73,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 72,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "yug50jovanovic",
+      "name": "Miodrag Jovanović",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 73
+      },
+      "rating": 71,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "yug50stankovic",
+      "name": "Branko Stanković",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 71,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "yug50colic",
+      "name": "Ratko Čolić",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 75
+      },
+      "rating": 69,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "yug50horvat",
+      "name": "Ivica Horvat",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 68
+      },
+      "rating": 68,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "yug50katnic",
+      "name": "Ervin Katnić",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 70,
+        "disparo": 69
+      },
+      "rating": 77,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "yug50atanackovic",
+      "name": "Aleksandar Atanacković",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 77,
+        "pases": 77,
+        "posicionamiento": 77,
+        "duelos": 77,
+        "resistencia": 69
+      },
+      "rating": 76,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "yug50radovnikovic",
+      "name": "Ivo Radovniković",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 65
+      },
+      "rating": 75,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "yug50ajic",
+      "name": "Predrag Đajić",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 75
+      },
+      "rating": 73,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "yug50palfi",
+      "name": "Bela Palfi",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 73,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "yug50cajkovski",
+      "name": "Zlatko Čajkovski",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 71,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "yug50mihajlovic",
+      "name": "Prvoslav Mihajlović",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 69,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 79
+      },
+      "rating": 79,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "yug50mitic",
+      "name": "Rajko Mitić",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 85,
+        "regate": 85,
+        "centro": 78,
+        "disparo": 78,
+        "desmarque": 85
+      },
+      "rating": 79,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 1
+    },
+    {
+      "id": "yug50tomasevic",
+      "name": "Kosta Tomašević",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 66,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 76
+      },
+      "rating": 77,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 2
+    },
+    {
+      "id": "yug50bobek",
+      "name": "Stjepan Bobek",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 73,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 76,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 1
+    },
+    {
+      "id": "yug50ognjanov",
+      "name": "Tihomir Ognjanov",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 76,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 1
+    },
+    {
+      "id": "yug50cajkovski2",
+      "name": "Željko Čajkovski",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 75,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950",
+      "goals": 2
+    },
+    {
+      "id": "yug50firm",
+      "name": "Vladimir Firm",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 63,
+        "disparo": 63,
+        "desmarque": 72
+      },
+      "rating": 72,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    },
+    {
+      "id": "yug50vukas",
+      "name": "Bernard Vukas",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 71,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 77
+      },
+      "rating": 71,
+      "country": "Yugoslavia",
+      "tournamentYear": 1950,
+      "tournamentId": "wc-1950"
+    }
+  ]
+}

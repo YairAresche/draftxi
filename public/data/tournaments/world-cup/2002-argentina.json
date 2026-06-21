@@ -1,0 +1,430 @@
+{
+  "country": "Argentina",
+  "countryCode": "ARG",
+  "confederation": "CONMEBOL",
+  "year": 2002,
+  "tournamentId": "wc-2002",
+  "players": [
+    {
+      "id": "arg02bonano",
+      "name": "Roberto Bonano",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 81,
+        "salidas": 73,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 77,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "arg02burgos",
+      "name": "Germán Burgos",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 72,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "arg02cavallero",
+      "name": "Pablo Cavallero",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 72,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "arg02zanetti",
+      "name": "Javier Zanetti",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 88,
+        "intercepciones": 88,
+        "velocidad": 78,
+        "pases": 79,
+        "duelos": 88
+      },
+      "rating": 89,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "arg02ayala",
+      "name": "Roberto Ayala",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "arg02samuel",
+      "name": "Walter Samuel",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 74,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "arg02chamot",
+      "name": "José Chamot",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 72,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "arg02sorin",
+      "name": "Juan Pablo Sorín",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 69,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "arg02pochettino",
+      "name": "Mauricio Pochettino",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 68,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "arg02placente",
+      "name": "Diego Placente",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 68,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "arg02veron",
+      "name": "Juan Sebastián Verón",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 82
+      },
+      "rating": 78,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "arg02almeyda",
+      "name": "Matías Almeyda",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 80,
+        "duelos": 79,
+        "resistencia": 71
+      },
+      "rating": 77,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "arg02husain",
+      "name": "Claudio Husaín",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 82
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "arg02ortega",
+      "name": "Ariel Ortega",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 73,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 2
+    },
+    {
+      "id": "arg02simeone",
+      "name": "Diego Simeone",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 75,
+        "llegada": 75,
+        "regate": 68,
+        "disparo": 69
+      },
+      "rating": 70,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "arg02aimar",
+      "name": "Pablo Aimar",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 69,
+        "pases": 69,
+        "posicionamiento": 77,
+        "duelos": 77,
+        "resistencia": 70
+      },
+      "rating": 70,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "arg02lopez",
+      "name": "Gustavo López",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 70,
+        "vision": 70,
+        "llegada": 61,
+        "recuperacion": 61,
+        "tecnica": 70
+      },
+      "rating": 70,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "arg02gallardo",
+      "name": "Marcelo Gallardo",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 74
+      },
+      "rating": 69,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "arg02gonzalez",
+      "name": "Kily González",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 71,
+        "paseFiltrado": 71,
+        "llegada": 71,
+        "regate": 63,
+        "disparo": 63
+      },
+      "rating": 68,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "arg02batistuta",
+      "name": "Gabriel Batistuta",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 91,
+        "fisico": 91,
+        "velocidad": 83,
+        "cabezazo": 83,
+        "pressing": 83,
+        "desmarque": 91
+      },
+      "rating": 87,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 10
+    },
+    {
+      "id": "arg02caniggia",
+      "name": "Claudio Caniggia",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 77,
+        "cabezazo": 76,
+        "pressing": 76,
+        "desmarque": 83
+      },
+      "rating": 78,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 4
+    },
+    {
+      "id": "arg02crespo",
+      "name": "Hernán Crespo",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 76
+      },
+      "rating": 77,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 4
+    },
+    {
+      "id": "arg02lopez2",
+      "name": "Claudio López",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 73,
+        "fisico": 73,
+        "velocidad": 63,
+        "cabezazo": 64,
+        "pressing": 64,
+        "desmarque": 73
+      },
+      "rating": 73,
+      "country": "Argentina",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    }
+  ]
+}

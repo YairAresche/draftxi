@@ -1,0 +1,432 @@
+{
+  "country": "Países Bajos",
+  "countryCode": "NLD",
+  "confederation": "UEFA",
+  "year": 1934,
+  "tournamentId": "wc-1934",
+  "players": [
+    {
+      "id": "nld34halle",
+      "name": "Leo Halle",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 80,
+        "salidas": 72,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 76,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34van-male",
+      "name": "Adri van Male",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 72,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 76,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34van-der-meulen",
+      "name": "Gejus van der Meulen",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 68,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34van-run",
+      "name": "Sjef van Run",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 77
+      },
+      "rating": 72,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34weber",
+      "name": "Mauk Weber",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 61,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 71,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34van-diepenbeek",
+      "name": "Jan van Diepenbeek",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 70,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34van-heel",
+      "name": "Puck van Heel",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 83,
+        "vision": 83,
+        "llegada": 75,
+        "recuperacion": 75,
+        "tecnica": 83
+      },
+      "rating": 78,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34pellikaan",
+      "name": "Henk Pellikaan",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 81,
+        "paseFiltrado": 81,
+        "llegada": 81,
+        "regate": 74,
+        "disparo": 75
+      },
+      "rating": 75,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34paauwe",
+      "name": "Bas Paauwe",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 77
+      },
+      "rating": 73,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34oprinsen",
+      "name": "Toon Oprinsen",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 70,
+        "vision": 70,
+        "llegada": 61,
+        "recuperacion": 60,
+        "tecnica": 69
+      },
+      "rating": 70,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34anderiesen",
+      "name": "Wim Anderiesen",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 68,
+        "pases": 68,
+        "posicionamiento": 68,
+        "duelos": 68,
+        "resistencia": 60
+      },
+      "rating": 68,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34vente",
+      "name": "Leen Vente",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 81
+      },
+      "rating": 80,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934",
+      "goals": 1
+    },
+    {
+      "id": "nld34bakhuys",
+      "name": "Beb Bakhuys",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 69,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 78
+      },
+      "rating": 78,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34schoemaker",
+      "name": "Arend Schoemaker",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 78,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34graafland",
+      "name": "Jan Graafland",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 75,
+        "disparo": 75,
+        "desmarque": 82
+      },
+      "rating": 77,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34langendaal",
+      "name": "Wim Langendaal",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 76,
+        "disparo": 76,
+        "desmarque": 83
+      },
+      "rating": 77,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34smit",
+      "name": "Kick Smit",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 72,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934",
+      "goals": 1
+    },
+    {
+      "id": "nld34vrauwdeunt",
+      "name": "Manus Vrauwdeunt",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 79
+      },
+      "rating": 76,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34van-nellen",
+      "name": "Joop van Nellen",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 69,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 77
+      },
+      "rating": 74,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34mijnders",
+      "name": "Kees Mijnders",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 73,
+        "fisico": 73,
+        "velocidad": 64,
+        "cabezazo": 65,
+        "pressing": 65,
+        "desmarque": 73
+      },
+      "rating": 73,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34mol",
+      "name": "Jaap Mol",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 75
+      },
+      "rating": 72,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "nld34wels",
+      "name": "Frank Wels",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 67,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 75
+      },
+      "rating": 71,
+      "country": "Países Bajos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    }
+  ]
+}

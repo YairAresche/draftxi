@@ -1,0 +1,437 @@
+{
+  "country": "Japón",
+  "countryCode": "JPN",
+  "confederation": "AFC",
+  "year": 2002,
+  "tournamentId": "wc-2002",
+  "players": [
+    {
+      "id": "jpn02kawaguchi",
+      "name": "Yoshikatsu Kawaguchi",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 75,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "jpn02sogahata",
+      "name": "Hitoshi Sogahata",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 66,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 72,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "jpn02narazaki",
+      "name": "Seigo Narazaki",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 71,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "jpn02akita",
+      "name": "Yutaka Akita",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 74,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "jpn02hattori",
+      "name": "Toshihiro Hattori",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 73,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 73,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "jpn02morioka",
+      "name": "Ryuzo Morioka",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 72,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "jpn02miyamoto",
+      "name": "Tsuneyasu Miyamoto",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 70,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "jpn02matsuda",
+      "name": "Naoki Matsuda",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 69,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "jpn02nakata",
+      "name": "Kōji Nakata",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 89,
+        "vision": 89,
+        "llegada": 80,
+        "recuperacion": 80,
+        "tecnica": 89
+      },
+      "rating": 88,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "jpn02nakata2",
+      "name": "Hidetoshi Nakata",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 89,
+        "vision": 89,
+        "llegada": 80,
+        "recuperacion": 80,
+        "tecnica": 89
+      },
+      "rating": 88,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "jpn02inamoto",
+      "name": "Junichi Inamoto",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 83,
+        "pases": 83,
+        "posicionamiento": 83,
+        "duelos": 83,
+        "resistencia": 75
+      },
+      "rating": 79,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 2
+    },
+    {
+      "id": "jpn02myojin",
+      "name": "Tomokazu Myojin",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 69,
+        "disparo": 68
+      },
+      "rating": 78,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "jpn02toda",
+      "name": "Kazuyuki Toda",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 81,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 80
+      },
+      "rating": 78,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "jpn02ogasawara",
+      "name": "Mitsuo Ogasawara",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 77,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "jpn02ono",
+      "name": "Shinji Ono",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 71
+      },
+      "rating": 74,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "jpn02morishima",
+      "name": "Hiroaki Morishima",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 77
+      },
+      "rating": 71,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "jpn02ichikawa",
+      "name": "Daisuke Ichikawa",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 68
+      },
+      "rating": 70,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "jpn02santos",
+      "name": "Alessandro Santos",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 71,
+        "paseFiltrado": 71,
+        "llegada": 71,
+        "regate": 63,
+        "disparo": 63
+      },
+      "rating": 69,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "jpn02fukunishi",
+      "name": "Takashi Fukunishi",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 74
+      },
+      "rating": 69,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "jpn02nakayama",
+      "name": "Masashi Nakayama",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 77
+      },
+      "rating": 73,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "jpn02suzuki",
+      "name": "Takayuki Suzuki",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 71,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002",
+      "goals": 1
+    },
+    {
+      "id": "jpn02yanagisawa",
+      "name": "Atsushi Yanagisawa",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 70,
+        "fisico": 70,
+        "velocidad": 60,
+        "cabezazo": 61,
+        "pressing": 61,
+        "desmarque": 70
+      },
+      "rating": 71,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    },
+    {
+      "id": "jpn02nishizawa",
+      "name": "Akinori Nishizawa",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 71,
+        "fisico": 71,
+        "velocidad": 61,
+        "cabezazo": 62,
+        "pressing": 62,
+        "desmarque": 70
+      },
+      "rating": 70,
+      "country": "Japón",
+      "tournamentYear": 2002,
+      "tournamentId": "wc-2002"
+    }
+  ]
+}

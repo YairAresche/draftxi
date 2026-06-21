@@ -1,0 +1,504 @@
+{
+  "country": "Francia",
+  "countryCode": "FRA",
+  "confederation": "UEFA",
+  "year": 2022,
+  "tournamentId": "wc-2022",
+  "players": [
+    {
+      "id": "fra22areola",
+      "name": "Alphonse Areola",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 70,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "fra22lloris",
+      "name": "Hugo Lloris",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 74,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 69,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "fra22mandanda",
+      "name": "Steve Mandanda",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 64,
+        "distribucion": 65
+      },
+      "rating": 69,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "fra22upamecano",
+      "name": "Dayot Upamecano",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 81
+      },
+      "rating": 76,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "fra22varane",
+      "name": "Raphaël Varane",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 75,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "fra22hernandez",
+      "name": "Lucas Hernandez",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 75,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "fra22hernandez2",
+      "name": "Théo Hernandez",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 75,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "fra22disasi",
+      "name": "Axel Disasi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 74,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 74,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "fra22konate",
+      "name": "Ibrahima Konaté",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 74,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "fra22pavard",
+      "name": "Benjamin Pavard",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 71,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "fra22kounde",
+      "name": "Jules Koundé",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 69,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "fra22saliba",
+      "name": "William Saliba",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 67,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "fra22griezmann",
+      "name": "Antoine Griezmann",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 94,
+        "paseFiltrado": 95,
+        "llegada": 94,
+        "regate": 87,
+        "disparo": 88
+      },
+      "rating": 88,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 4
+    },
+    {
+      "id": "fra22veretout",
+      "name": "Jordan Veretout",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 76,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "fra22camavinga",
+      "name": "Eduardo Camavinga",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 78,
+        "resistencia": 70
+      },
+      "rating": 75,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "fra22guendouzi",
+      "name": "Matteo Guendouzi",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 77,
+        "pases": 77,
+        "posicionamiento": 77,
+        "duelos": 77,
+        "resistencia": 69
+      },
+      "rating": 74,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "fra22tchouameni",
+      "name": "Aurélien Tchouaméni",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 73,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "fra22rabiot",
+      "name": "Adrien Rabiot",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 72,
+        "paseFiltrado": 72,
+        "llegada": 72,
+        "regate": 63,
+        "disparo": 62
+      },
+      "rating": 73,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "fra22fofana",
+      "name": "Youssouf Fofana",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 67,
+        "vision": 67,
+        "llegada": 58,
+        "recuperacion": 68,
+        "tecnica": 75
+      },
+      "rating": 68,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "fra22mbappe",
+      "name": "Kylian Mbappé",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        },
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 99,
+        "regate": 99,
+        "centro": 96,
+        "disparo": 96,
+        "desmarque": 99
+      },
+      "rating": 98,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 12
+    },
+    {
+      "id": "fra22giroud",
+      "name": "Olivier Giroud",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 87,
+        "fisico": 87,
+        "velocidad": 78,
+        "cabezazo": 79,
+        "pressing": 79,
+        "desmarque": 87
+      },
+      "rating": 87,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 5
+    },
+    {
+      "id": "fra22kolo-muani",
+      "name": "Randal Kolo Muani",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 78,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 1
+    },
+    {
+      "id": "fra22dembele",
+      "name": "Ousmane Dembélé",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 79
+      },
+      "rating": 75,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "fra22coman",
+      "name": "Kingsley Coman",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 75,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 81
+      },
+      "rating": 75,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    },
+    {
+      "id": "fra22benzema",
+      "name": "Karim Benzema",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 79
+      },
+      "rating": 74,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022",
+      "goals": 3
+    },
+    {
+      "id": "fra22thuram",
+      "name": "Marcus Thuram",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 72,
+        "fisico": 72,
+        "velocidad": 62,
+        "cabezazo": 63,
+        "pressing": 63,
+        "desmarque": 72
+      },
+      "rating": 72,
+      "country": "Francia",
+      "tournamentYear": 2022,
+      "tournamentId": "wc-2022"
+    }
+  ]
+}

@@ -1,0 +1,330 @@
+{
+  "country": "México",
+  "countryCode": "MEX",
+  "confederation": "CONCACAF",
+  "year": 1930,
+  "tournamentId": "wc-1930",
+  "players": [
+    {
+      "id": "mex30bonfiglio",
+      "name": "Oscar Bonfiglio",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 80,
+        "salidas": 73,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 77,
+      "country": "México",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "mex30sota",
+      "name": "Isidoro Sota",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 81,
+        "salidas": 73,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 75,
+      "country": "México",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "mex30rosas",
+      "name": "Manuel Rosas",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 79
+      },
+      "rating": 76,
+      "country": "México",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930",
+      "goals": 2
+    },
+    {
+      "id": "mex30garza-gutierrez",
+      "name": "Rafael Garza Gutiérrez",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 73,
+      "country": "México",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "mex30garza-gutierrez2",
+      "name": "Francisco Garza Gutiérrez",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 73,
+      "country": "México",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "mex30rosas2",
+      "name": "Felipe Rosas",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 80
+      },
+      "rating": 77,
+      "country": "México",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "mex30sanchez",
+      "name": "Alfredo Viejo Sánchez",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 79,
+        "paseFiltrado": 79,
+        "llegada": 79,
+        "regate": 71,
+        "disparo": 72
+      },
+      "rating": 74,
+      "country": "México",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "mex30rodriguez",
+      "name": "Raymundo Rodríguez",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 71,
+      "country": "México",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "mex30amezcua",
+      "name": "Efraín Amézcua",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 67
+      },
+      "rating": 70,
+      "country": "México",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "mex30mejia",
+      "name": "Dionisio Mejía",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 85,
+        "regate": 85,
+        "centro": 78,
+        "disparo": 78,
+        "desmarque": 85
+      },
+      "rating": 78,
+      "country": "México",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "mex30ruiz",
+      "name": "José Ruíz",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 76,
+        "cabezazo": 76,
+        "pressing": 76,
+        "desmarque": 83
+      },
+      "rating": 78,
+      "country": "México",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "mex30olivares",
+      "name": "Felipe Olivares",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 75,
+        "disparo": 75,
+        "desmarque": 82
+      },
+      "rating": 77,
+      "country": "México",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "mex30gayon",
+      "name": "Roberto Gayón",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 75,
+        "centro": 66,
+        "disparo": 65,
+        "desmarque": 74
+      },
+      "rating": 75,
+      "country": "México",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930",
+      "goals": 1
+    },
+    {
+      "id": "mex30carreno",
+      "name": "Juan Carreño",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 74,
+        "fisico": 74,
+        "velocidad": 65,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 74
+      },
+      "rating": 73,
+      "country": "México",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930",
+      "goals": 1
+    },
+    {
+      "id": "mex30castro",
+      "name": "Jesús Castro",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 70,
+      "country": "México",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "mex30perez",
+      "name": "Luis Pérez",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 70,
+        "fisico": 69,
+        "velocidad": 60,
+        "cabezazo": 61,
+        "pressing": 61,
+        "desmarque": 70
+      },
+      "rating": 70,
+      "country": "México",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "mex30lopez",
+      "name": "Hilario López",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 69,
+        "fisico": 69,
+        "velocidad": 59,
+        "cabezazo": 60,
+        "pressing": 60,
+        "desmarque": 69
+      },
+      "rating": 69,
+      "country": "México",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    }
+  ]
+}

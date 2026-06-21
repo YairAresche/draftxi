@@ -1,0 +1,414 @@
+{
+  "country": "Alemania",
+  "countryCode": "DEU",
+  "confederation": "UEFA",
+  "year": 1982,
+  "tournamentId": "wc-1982",
+  "players": [
+    {
+      "id": "deu82immel",
+      "name": "Eike Immel",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 68,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 76,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "deu82schumacher",
+      "name": "Harald Schumacher",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 73,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "deu82franke",
+      "name": "Bernd Franke",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 72,
+        "penales": 62,
+        "distribucion": 62
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "deu82stielike",
+      "name": "Uli Stielike",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "deu82hieronymus",
+      "name": "Holger Hieronymus",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "deu82kaltz",
+      "name": "Manfred Kaltz",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "deu82briegel",
+      "name": "Hans-Peter Briegel",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 70,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "deu82forster",
+      "name": "Karlheinz Förster",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "deu82forster2",
+      "name": "Bernd Förster",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "deu82breitner",
+      "name": "Paul Breitner",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 69
+      },
+      "rating": 68,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 4
+    },
+    {
+      "id": "deu82hannes",
+      "name": "Wilfried Hannes",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 67,
+        "intercepciones": 67,
+        "velocidad": 57,
+        "pases": 58,
+        "duelos": 67
+      },
+      "rating": 68,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "deu82matthaus",
+      "name": "Lothar Matthäus",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 90,
+        "vision": 89,
+        "llegada": 82,
+        "recuperacion": 82,
+        "tecnica": 89
+      },
+      "rating": 86,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 6
+    },
+    {
+      "id": "deu82dremmler",
+      "name": "Wolfgang Dremmler",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 77,
+        "resistencia": 68
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "deu82littbarski",
+      "name": "Pierre Littbarski",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 75,
+        "recuperacion": 75,
+        "tecnica": 82
+      },
+      "rating": 75,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 3
+    },
+    {
+      "id": "deu82muller",
+      "name": "Hansi Müller",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 73
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 1
+    },
+    {
+      "id": "deu82magath",
+      "name": "Felix Magath",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 72,
+        "disparo": 72
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "deu82engels",
+      "name": "Stephan Engels",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "deu82rummenigge",
+      "name": "Karl-Heinz Rummenigge",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 96,
+        "fisico": 96,
+        "velocidad": 87,
+        "cabezazo": 87,
+        "pressing": 87,
+        "desmarque": 96
+      },
+      "rating": 95,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 9
+    },
+    {
+      "id": "deu82fischer",
+      "name": "Klaus Fischer",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 82,
+        "fisico": 82,
+        "velocidad": 73,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 82
+      },
+      "rating": 80,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 2
+    },
+    {
+      "id": "deu82allofs",
+      "name": "Thomas Allofs",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 83,
+        "centro": 76,
+        "disparo": 76,
+        "desmarque": 84
+      },
+      "rating": 78,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "deu82reinders",
+      "name": "Uwe Reinders",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 73,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 80
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 1
+    },
+    {
+      "id": "deu82hrubesch",
+      "name": "Horst Hrubesch",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 76
+      },
+      "rating": 73,
+      "country": "Alemania",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 1
+    }
+  ]
+}

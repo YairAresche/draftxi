@@ -1,0 +1,294 @@
+{
+  "country": "Rumanía",
+  "countryCode": "ROU",
+  "confederation": "UEFA",
+  "year": 1930,
+  "tournamentId": "wc-1930",
+  "players": [
+    {
+      "id": "rou30lapusneanu",
+      "name": "Ion Lǎpuşneanu",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 65,
+        "penales": 66,
+        "distribucion": 65
+      },
+      "rating": 75,
+      "country": "Rumanía",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "rou30zauber",
+      "name": "Samuel Zauber",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 64,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 71,
+      "country": "Rumanía",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "rou30steiner",
+      "name": "Adalbert Steiner",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 81
+      },
+      "rating": 77,
+      "country": "Rumanía",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "rou30czako",
+      "name": "Iosif Czako",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 76,
+        "pases": 75,
+        "duelos": 82
+      },
+      "rating": 76,
+      "country": "Rumanía",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "rou30burger",
+      "name": "Rudolf Bürger",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 70,
+      "country": "Rumanía",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "rou30vogl",
+      "name": "Emerich Vogl",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 61,
+        "pases": 61,
+        "duelos": 69
+      },
+      "rating": 67,
+      "country": "Rumanía",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "rou30eisenbeisser",
+      "name": "Alfred Eisenbeisser",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 80,
+        "pases": 80,
+        "posicionamiento": 79,
+        "duelos": 80,
+        "resistencia": 71
+      },
+      "rating": 78,
+      "country": "Rumanía",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "rou30raffinsky",
+      "name": "László Raffinsky",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 65,
+        "recuperacion": 66,
+        "tecnica": 74
+      },
+      "rating": 74,
+      "country": "Rumanía",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "rou30robe",
+      "name": "Corneliu Robe",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 75
+      },
+      "rating": 70,
+      "country": "Rumanía",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "rou30barbu",
+      "name": "Ştefan Barbu",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 85,
+        "fisico": 84,
+        "velocidad": 78,
+        "cabezazo": 77,
+        "pressing": 77,
+        "desmarque": 84
+      },
+      "rating": 78,
+      "country": "Rumanía",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "rou30wetzer",
+      "name": "Rudolf Wetzer",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 83,
+        "regate": 82,
+        "centro": 75,
+        "disparo": 75,
+        "desmarque": 82
+      },
+      "rating": 78,
+      "country": "Rumanía",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "rou30stanciu",
+      "name": "Constantin Stanciu",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 72,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 74,
+      "country": "Rumanía",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930",
+      "goals": 1
+    },
+    {
+      "id": "rou30desu",
+      "name": "Adalbert Deşu",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 71,
+        "regate": 72,
+        "centro": 63,
+        "disparo": 62,
+        "desmarque": 71
+      },
+      "rating": 72,
+      "country": "Rumanía",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930",
+      "goals": 1
+    },
+    {
+      "id": "rou30kovacs",
+      "name": "Miklós Kovács",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 76
+      },
+      "rating": 71,
+      "country": "Rumanía",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930",
+      "goals": 1
+    },
+    {
+      "id": "rou30subaseanu",
+      "name": "Ilie Subăşeanu",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 69,
+        "regate": 69,
+        "centro": 60,
+        "disparo": 60,
+        "desmarque": 69
+      },
+      "rating": 70,
+      "country": "Rumanía",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    }
+  ]
+}

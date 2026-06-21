@@ -1,0 +1,414 @@
+{
+  "country": "Bélgica",
+  "countryCode": "BEL",
+  "confederation": "UEFA",
+  "year": 1934,
+  "tournamentId": "wc-1934",
+  "players": [
+    {
+      "id": "bel34vandewyer",
+      "name": "André Vandewyer",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 74,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34badjou",
+      "name": "Arnold Badjou",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 71,
+        "salidas": 62,
+        "penales": 62,
+        "distribucion": 62
+      },
+      "rating": 71,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34smellinckx",
+      "name": "Philibert Smellinckx",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 75,
+        "pases": 75,
+        "duelos": 82
+      },
+      "rating": 77,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34pappaert",
+      "name": "Jules Pappaert",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 68,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 75,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34joacim",
+      "name": "Constant Joacim",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 67,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34hellemans",
+      "name": "August Hellemans",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 65,
+        "recuperacion": 65,
+        "tecnica": 74
+      },
+      "rating": 74,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34peeraer",
+      "name": "Frans Peeraer",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 77,
+        "llegada": 77,
+        "regate": 70,
+        "disparo": 70
+      },
+      "rating": 73,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34van-ingelgem",
+      "name": "Joseph Van Ingelgem",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 71,
+        "tecnica": 78
+      },
+      "rating": 73,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34bourgeois",
+      "name": "Désiré Bourgeois",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 68
+      },
+      "rating": 72,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34claessens",
+      "name": "Jean Claessens",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 71,
+        "llegada": 63,
+        "recuperacion": 63,
+        "tecnica": 71
+      },
+      "rating": 72,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34welkenhuysen",
+      "name": "Félix Welkenhuysen",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 79,
+        "paseFiltrado": 79,
+        "llegada": 79,
+        "regate": 72,
+        "disparo": 73
+      },
+      "rating": 72,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34putmans",
+      "name": "Victor Putmans",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 67,
+        "recuperacion": 68,
+        "tecnica": 75
+      },
+      "rating": 71,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34simons",
+      "name": "René Simons",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 69
+      },
+      "rating": 70,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34grimmonprez",
+      "name": "Laurent Grimmonprez",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 76,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 83
+      },
+      "rating": 78,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34ledent",
+      "name": "François Ledent",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 85,
+        "fisico": 85,
+        "velocidad": 79,
+        "cabezazo": 78,
+        "pressing": 78,
+        "desmarque": 85
+      },
+      "rating": 78,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34voorhoof",
+      "name": "Bernard Voorhoof",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 85,
+        "fisico": 85,
+        "velocidad": 79,
+        "cabezazo": 78,
+        "pressing": 78,
+        "desmarque": 85
+      },
+      "rating": 78,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934",
+      "goals": 2
+    },
+    {
+      "id": "bel34devries",
+      "name": "François Devries",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 71,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34capelle",
+      "name": "Jean Capelle",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 81
+      },
+      "rating": 76,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34brichaut",
+      "name": "Jean Brichaut",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 67,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 76
+      },
+      "rating": 75,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34lamoot",
+      "name": "Robert Lamoot",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 74,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34heremans",
+      "name": "Albert Heremans",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 75
+      },
+      "rating": 73,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "bel34versyp",
+      "name": "Louis Versyp",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 79
+      },
+      "rating": 72,
+      "country": "Bélgica",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    }
+  ]
+}

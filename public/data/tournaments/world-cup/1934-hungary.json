@@ -1,0 +1,417 @@
+{
+  "country": "Hungría",
+  "countryCode": "HUN",
+  "confederation": "UEFA",
+  "year": 1934,
+  "tournamentId": "wc-1934",
+  "players": [
+    {
+      "id": "hun34szabo",
+      "name": "Antal Szabó",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 71,
+        "salidas": 62,
+        "penales": 62,
+        "distribucion": 62
+      },
+      "rating": 71,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "hun34hada",
+      "name": "József Háda",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 70,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "hun34vago",
+      "name": "József Vágó",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 75,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "hun34biro",
+      "name": "Sándor Bíró",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 74,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "hun34sternberg",
+      "name": "László Sternberg",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 73,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "hun34futo",
+      "name": "Gyula Futó",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 68
+      },
+      "rating": 69,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "hun34polgar",
+      "name": "Gyula Polgár",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 76,
+        "paseFiltrado": 76,
+        "llegada": 76,
+        "regate": 68,
+        "disparo": 67
+      },
+      "rating": 76,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "hun34szalay",
+      "name": "Antal Szalay",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 77,
+        "resistencia": 68
+      },
+      "rating": 75,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "hun34szucs",
+      "name": "György Szűcs",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 75,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "hun34palotas",
+      "name": "István Palotás",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 81
+      },
+      "rating": 74,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "hun34somlai",
+      "name": "Rezső Somlai",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 81
+      },
+      "rating": 74,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "hun34dudas",
+      "name": "János Dudás",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 78,
+        "resistencia": 71
+      },
+      "rating": 72,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "hun34lazar",
+      "name": "Gyula Lázár",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 63,
+        "recuperacion": 63,
+        "tecnica": 72
+      },
+      "rating": 72,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "hun34toldi",
+      "name": "Géza Toldi",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 84,
+        "fisico": 84,
+        "velocidad": 77,
+        "cabezazo": 77,
+        "pressing": 77,
+        "desmarque": 84
+      },
+      "rating": 80,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934",
+      "goals": 3
+    },
+    {
+      "id": "hun34vincze",
+      "name": "Jenő Vincze",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 80,
+        "fisico": 79,
+        "velocidad": 70,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 79,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934",
+      "goals": 1
+    },
+    {
+      "id": "hun34sarosi",
+      "name": "György Sárosi",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 84,
+        "fisico": 84,
+        "velocidad": 78,
+        "cabezazo": 77,
+        "pressing": 77,
+        "desmarque": 84
+      },
+      "rating": 78,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934",
+      "goals": 6
+    },
+    {
+      "id": "hun34tamassy",
+      "name": "István Tamássy",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "hun34kemeny",
+      "name": "Tibor Kemény",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 76
+      },
+      "rating": 76,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "hun34teleki",
+      "name": "Pál Teleki",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 74,
+        "cabezazo": 74,
+        "pressing": 73,
+        "desmarque": 81
+      },
+      "rating": 76,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934",
+      "goals": 1
+    },
+    {
+      "id": "hun34markos",
+      "name": "Imre Markos",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 76
+      },
+      "rating": 74,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "hun34szabo2",
+      "name": "Gábor Szabó",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 63,
+        "disparo": 63,
+        "desmarque": 72
+      },
+      "rating": 72,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "hun34avar",
+      "name": "István Avar",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 75
+      },
+      "rating": 71,
+      "country": "Hungría",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    }
+  ]
+}

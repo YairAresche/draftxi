@@ -1,0 +1,418 @@
+{
+  "country": "Inglaterra",
+  "countryCode": "ENG",
+  "confederation": "UEFA",
+  "year": 1982,
+  "tournamentId": "wc-1982",
+  "players": [
+    {
+      "id": "eng82corrigan",
+      "name": "Joe Corrigan",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 77,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82clemence",
+      "name": "Ray Clemence",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 75,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82shilton",
+      "name": "Peter Shilton",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 72,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82neal",
+      "name": "Phil Neal",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 76,
+        "pases": 75,
+        "duelos": 82
+      },
+      "rating": 76,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82thompson",
+      "name": "Phil Thompson",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 76
+      },
+      "rating": 75,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82butcher",
+      "name": "Terry Butcher",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 77
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82anderson",
+      "name": "Viv Anderson",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 73,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 72,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82mills",
+      "name": "Mick Mills",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 71,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82foster",
+      "name": "Steve Foster",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 70,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82sansom",
+      "name": "Kenny Sansom",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 67,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82robson",
+      "name": "Bryan Robson",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 85,
+        "pases": 84,
+        "posicionamiento": 84,
+        "duelos": 85,
+        "resistencia": 77
+      },
+      "rating": 79,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 2
+    },
+    {
+      "id": "eng82hoddle",
+      "name": "Glenn Hoddle",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 80
+      },
+      "rating": 78,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82rix",
+      "name": "Graham Rix",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 83,
+        "vision": 83,
+        "llegada": 75,
+        "recuperacion": 75,
+        "tecnica": 83
+      },
+      "rating": 78,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82brooking",
+      "name": "Trevor Brooking",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 80,
+        "pases": 80,
+        "posicionamiento": 80,
+        "duelos": 80,
+        "resistencia": 72
+      },
+      "rating": 77,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82coppell",
+      "name": "Steve Coppell",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 73,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82wilkins",
+      "name": "Ray Wilkins",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 63,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 71,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82mcdermott",
+      "name": "Terry McDermott",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 72,
+        "paseFiltrado": 72,
+        "llegada": 72,
+        "regate": 64,
+        "disparo": 64
+      },
+      "rating": 69,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82francis",
+      "name": "Trevor Francis",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 68,
+        "disparo": 69,
+        "desmarque": 77
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 2
+    },
+    {
+      "id": "eng82mariner",
+      "name": "Paul Mariner",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982",
+      "goals": 1
+    },
+    {
+      "id": "eng82woodcock",
+      "name": "Tony Woodcock",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 81
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82keegan",
+      "name": "Kevin Keegan",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 73,
+        "fisico": 73,
+        "velocidad": 64,
+        "cabezazo": 64,
+        "pressing": 64,
+        "desmarque": 73
+      },
+      "rating": 73,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    },
+    {
+      "id": "eng82withe",
+      "name": "Peter Withe",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 70,
+        "fisico": 69,
+        "velocidad": 60,
+        "cabezazo": 61,
+        "pressing": 61,
+        "desmarque": 69
+      },
+      "rating": 69,
+      "country": "Inglaterra",
+      "tournamentYear": 1982,
+      "tournamentId": "wc-1982"
+    }
+  ]
+}

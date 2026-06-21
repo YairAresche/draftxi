@@ -1,0 +1,427 @@
+{
+  "country": "Países Bajos",
+  "countryCode": "NLD",
+  "confederation": "UEFA",
+  "year": 1938,
+  "tournamentId": "wc-1938",
+  "players": [
+    {
+      "id": "nld38van-male",
+      "name": "Adri van Male",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 76,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38michel",
+      "name": "Niek Michel",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 70,
+        "manejo": 70,
+        "salidas": 62,
+        "penales": 62,
+        "distribucion": 62
+      },
+      "rating": 69,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38been",
+      "name": "Dick Been",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 75,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38caldenhove",
+      "name": "Bertus Caldenhove",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 74,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38plenter",
+      "name": "Hendrikus Plenter",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 71,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38weber",
+      "name": "Mauk Weber",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 69,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38van-heel",
+      "name": "Puck van Heel",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 83,
+        "vision": 83,
+        "llegada": 75,
+        "recuperacion": 76,
+        "tecnica": 83
+      },
+      "rating": 77,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38hogenbirk",
+      "name": "Frans Hogenbirk",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 76,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38paauwe",
+      "name": "Bas Paauwe",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 73,
+        "recuperacion": 73,
+        "tecnica": 81
+      },
+      "rating": 76,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38anderiesen",
+      "name": "Wim Anderiesen",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 66
+      },
+      "rating": 71,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38pijpers",
+      "name": "Rene Pijpers",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 70,
+        "llegada": 70,
+        "regate": 71,
+        "disparo": 72
+      },
+      "rating": 71,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38ooms",
+      "name": "Klaas Ooms",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 78,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38wels",
+      "name": "Frank Wels",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 77
+      },
+      "rating": 78,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38drok",
+      "name": "Daaf Drok",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 82,
+        "fisico": 82,
+        "velocidad": 75,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 82
+      },
+      "rating": 77,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38smit",
+      "name": "Kick Smit",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 73,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 80
+      },
+      "rating": 75,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 1
+    },
+    {
+      "id": "nld38van-spaandonck",
+      "name": "Henk van Spaandonck",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 78,
+        "velocidad": 70,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 78
+      },
+      "rating": 74,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38vente",
+      "name": "Leen Vente",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 67,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 76
+      },
+      "rating": 74,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 1
+    },
+    {
+      "id": "nld38de-winter",
+      "name": "Arie de Winter",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 70,
+        "desmarque": 77
+      },
+      "rating": 73,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38punt",
+      "name": "Piet Punt",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 79
+      },
+      "rating": 72,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38van-der-veen",
+      "name": "Frans van der Veen",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 74,
+        "velocidad": 66,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 74
+      },
+      "rating": 72,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38de-boer",
+      "name": "Piet de Boer",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 69,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 76
+      },
+      "rating": 71,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "nld38de-harder",
+      "name": "Bertus de Harder",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 78,
+        "regate": 70,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 78
+      },
+      "rating": 71,
+      "country": "Países Bajos",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    }
+  ]
+}

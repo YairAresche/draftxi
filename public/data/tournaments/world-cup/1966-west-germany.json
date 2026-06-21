@@ -1,0 +1,412 @@
+{
+  "country": "Alemania",
+  "countryCode": "DEU",
+  "confederation": "UEFA",
+  "year": 1966,
+  "tournamentId": "wc-1966",
+  "players": [
+    {
+      "id": "deu66tilkowski",
+      "name": "Hans Tilkowski",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 84,
+        "manejo": 84,
+        "salidas": 77,
+        "penales": 77,
+        "distribucion": 77
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "deu66maier",
+      "name": "Sepp Maier",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 81,
+        "salidas": 74,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "deu66bernard",
+      "name": "Günter Bernard",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "deu66sieloff",
+      "name": "Klaus-Dieter Sieloff",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 76,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "deu66hottges",
+      "name": "Horst-Dieter Höttges",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "deu66schulz",
+      "name": "Willi Schulz",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "deu66schnellinger",
+      "name": "Karl-Heinz Schnellinger",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 71
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "deu66patzke",
+      "name": "Bernd Patzke",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 71,
+        "duelos": 78
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "deu66paul",
+      "name": "Wolfgang Paul",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 72,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "deu66weber",
+      "name": "Wolfgang Weber",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 70,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "deu66lutz",
+      "name": "Friedel Lutz",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 68,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "deu66beckenbauer",
+      "name": "Franz Beckenbauer",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 93,
+        "pases": 93,
+        "posicionamiento": 93,
+        "duelos": 93,
+        "resistencia": 85
+      },
+      "rating": 90,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 5
+    },
+    {
+      "id": "deu66overath",
+      "name": "Wolfgang Overath",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 88,
+        "vision": 88,
+        "llegada": 79,
+        "recuperacion": 79,
+        "tecnica": 88
+      },
+      "rating": 87,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 3
+    },
+    {
+      "id": "deu66lorenz",
+      "name": "Max Lorenz",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 80,
+        "paseFiltrado": 80,
+        "llegada": 80,
+        "regate": 73,
+        "disparo": 73
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "deu66brulls",
+      "name": "Albert Brülls",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 66,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 73,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "deu66seeler",
+      "name": "Uwe Seeler",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 93,
+        "fisico": 94,
+        "velocidad": 86,
+        "cabezazo": 86,
+        "pressing": 86,
+        "desmarque": 94
+      },
+      "rating": 89,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 9
+    },
+    {
+      "id": "deu66haller",
+      "name": "Helmut Haller",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 82,
+        "fisico": 82,
+        "velocidad": 74,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 82
+      },
+      "rating": 80,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 6
+    },
+    {
+      "id": "deu66held",
+      "name": "Sigfried Held",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 77
+      },
+      "rating": 76,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "deu66hornig",
+      "name": "Heinz Hornig",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 75,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    },
+    {
+      "id": "deu66emmerich",
+      "name": "Lothar Emmerich",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 73,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "deu66grabowski",
+      "name": "Jürgen Grabowski",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 66,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 75
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966",
+      "goals": 1
+    },
+    {
+      "id": "deu66kramer",
+      "name": "Werner Krämer",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 75
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 1966,
+      "tournamentId": "wc-1966"
+    }
+  ]
+}

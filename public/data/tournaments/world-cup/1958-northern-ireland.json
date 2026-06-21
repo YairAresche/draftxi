@@ -1,0 +1,427 @@
+{
+  "country": "Irlanda del Norte",
+  "countryCode": "NIR",
+  "confederation": "UEFA",
+  "year": 1958,
+  "tournamentId": "wc-1958",
+  "players": [
+    {
+      "id": "nir58rea",
+      "name": "Roy Rea",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 71,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58uprichard",
+      "name": "Norman Uprichard",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 70,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58gregg",
+      "name": "Harry Gregg",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 64,
+        "penales": 64,
+        "distribucion": 64
+      },
+      "rating": 69,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58hamill",
+      "name": "Tommy Hamill",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 72,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58cunningham",
+      "name": "Willie Cunningham",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 70,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58mcmichael",
+      "name": "Alf McMichael",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 70,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58keith",
+      "name": "Dick Keith",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 61,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 68,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58graham",
+      "name": "Len Graham",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 61,
+        "pases": 61,
+        "duelos": 69
+      },
+      "rating": 68,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58peacock",
+      "name": "Bertie Peacock",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 74,
+        "recuperacion": 75,
+        "tecnica": 82
+      },
+      "rating": 78,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58blanchflower",
+      "name": "Danny Blanchflower",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 82,
+        "pases": 82,
+        "posicionamiento": 82,
+        "duelos": 82,
+        "resistencia": 75
+      },
+      "rating": 76,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58chapman",
+      "name": "Sammy Chapman",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 73,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58cush",
+      "name": "Wilbur Cush",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 87,
+        "regate": 87,
+        "centro": 80,
+        "disparo": 80,
+        "desmarque": 87
+      },
+      "rating": 80,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 1
+    },
+    {
+      "id": "nir58mcparland",
+      "name": "Peter McParland",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 76,
+        "disparo": 76,
+        "desmarque": 84
+      },
+      "rating": 80,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 5
+    },
+    {
+      "id": "nir58coyle",
+      "name": "Fay Coyle",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 84,
+        "fisico": 84,
+        "velocidad": 78,
+        "cabezazo": 77,
+        "pressing": 77,
+        "desmarque": 85
+      },
+      "rating": 79,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58simpson",
+      "name": "Billy Simpson",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 72,
+        "desmarque": 81
+      },
+      "rating": 78,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58trainor",
+      "name": "Bobby Trainor",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 70,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 79
+      },
+      "rating": 78,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58mcilroy",
+      "name": "Jimmy McIlroy",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58scott",
+      "name": "Jackie Scott",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 77
+      },
+      "rating": 76,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58bingham",
+      "name": "Billy Bingham",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 70,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 78
+      },
+      "rating": 75,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58dougan",
+      "name": "Derek Dougan",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 71,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 75,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58casey",
+      "name": "Tommy Casey",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 73
+      },
+      "rating": 74,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "nir58mccrory",
+      "name": "Sammy McCrory",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 73,
+        "fisico": 73,
+        "velocidad": 66,
+        "cabezazo": 65,
+        "pressing": 66,
+        "desmarque": 73
+      },
+      "rating": 69,
+      "country": "Irlanda del Norte",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    }
+  ]
+}

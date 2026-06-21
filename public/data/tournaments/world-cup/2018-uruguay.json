@@ -1,0 +1,429 @@
+{
+  "country": "Uruguay",
+  "countryCode": "URY",
+  "confederation": "CONMEBOL",
+  "year": 2018,
+  "tournamentId": "wc-2018",
+  "players": [
+    {
+      "id": "ury18campana",
+      "name": "Martín Campaña",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 77,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "ury18muslera",
+      "name": "Fernando Muslera",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 64,
+        "penales": 63,
+        "distribucion": 63
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "ury18silva",
+      "name": "Martín Silva",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 70,
+        "manejo": 70,
+        "salidas": 61,
+        "penales": 61,
+        "distribucion": 61
+      },
+      "rating": 70,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "ury18gimenez",
+      "name": "José Giménez",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 66,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 77,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "ury18varela",
+      "name": "Guillermo Varela",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 69,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 77,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "ury18coates",
+      "name": "Sebastián Coates",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 77,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "ury18caceres",
+      "name": "Martín Cáceres",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 84,
+        "intercepciones": 84,
+        "velocidad": 78,
+        "pases": 77,
+        "duelos": 84
+      },
+      "rating": 77,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "ury18godin",
+      "name": "Diego Godín",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "ury18pereira",
+      "name": "Maxi Pereira",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "ury18silva2",
+      "name": "Gastón Silva",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 69,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "ury18bentancur",
+      "name": "Rodrigo Bentancur",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 77
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "ury18vecino",
+      "name": "Matías Vecino",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 77,
+        "pases": 77,
+        "posicionamiento": 77,
+        "duelos": 77,
+        "resistencia": 70
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "ury18rodriguez",
+      "name": "Cristian Rodríguez",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 71,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "ury18nandez",
+      "name": "Nahitan Nández",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 75,
+        "llegada": 75,
+        "regate": 67,
+        "disparo": 67
+      },
+      "rating": 71,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "ury18torreira",
+      "name": "Lucas Torreira",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 71,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "ury18sanchez",
+      "name": "Carlos Sánchez",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 72,
+        "pases": 72,
+        "posicionamiento": 72,
+        "duelos": 72,
+        "resistencia": 64
+      },
+      "rating": 69,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "ury18laxalt",
+      "name": "Diego Laxalt",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 69,
+        "vision": 69,
+        "llegada": 60,
+        "recuperacion": 60,
+        "tecnica": 69
+      },
+      "rating": 69,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "ury18cavani",
+      "name": "Edinson Cavani",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 91,
+        "fisico": 91,
+        "velocidad": 83,
+        "cabezazo": 83,
+        "pressing": 83,
+        "desmarque": 91
+      },
+      "rating": 88,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 5
+    },
+    {
+      "id": "ury18suarez",
+      "name": "Luis Suárez",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 90,
+        "fisico": 90,
+        "velocidad": 82,
+        "cabezazo": 82,
+        "pressing": 82,
+        "desmarque": 90
+      },
+      "rating": 87,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 7
+    },
+    {
+      "id": "ury18de-arrascaeta",
+      "name": "Giorgian De Arrascaeta",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 73,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 2
+    },
+    {
+      "id": "ury18stuani",
+      "name": "Cristhian Stuani",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 71,
+        "disparo": 70,
+        "desmarque": 78
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "ury18gomez",
+      "name": "Maxi Gómez",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 70,
+        "cabezazo": 69,
+        "pressing": 70,
+        "desmarque": 77
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "ury18urretaviscaya",
+      "name": "Jonathan Urretaviscaya",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 75
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    }
+  ]
+}

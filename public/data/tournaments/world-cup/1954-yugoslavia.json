@@ -1,0 +1,419 @@
+{
+  "country": "Yugoslavia",
+  "countryCode": "YUG",
+  "confederation": "UEFA",
+  "year": 1954,
+  "tournamentId": "wc-1954",
+  "players": [
+    {
+      "id": "yug54kralj",
+      "name": "Branko Kralj",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 83,
+        "manejo": 83,
+        "salidas": 76,
+        "penales": 76,
+        "distribucion": 76
+      },
+      "rating": 77,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "yug54beara",
+      "name": "Vladimir Beara",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 70,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "yug54zekovic",
+      "name": "Miljan Zeković",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 68,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 76,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "yug54belin",
+      "name": "Bruno Belin",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 81
+      },
+      "rating": 76,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "yug54boskov",
+      "name": "Vujadin Boškov",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 75,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 75,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "yug54stankovic",
+      "name": "Branko Stanković",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 63,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 73,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "yug54crnkovic",
+      "name": "Tomislav Crnković",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 73,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "yug54horvat",
+      "name": "Ivica Horvat",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 70,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "yug54milovanov",
+      "name": "Sima Milovanov",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 67,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "yug54papec",
+      "name": "Zlatko Papec",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 72,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 75,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "yug54mantula",
+      "name": "Lav Mantula",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 74,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "yug54spajic",
+      "name": "Ljubiša Spajić",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 79,
+        "paseFiltrado": 79,
+        "llegada": 79,
+        "regate": 71,
+        "disparo": 72
+      },
+      "rating": 74,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "yug54cajkovski",
+      "name": "Zlatko Čajkovski",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 73,
+        "posicionamiento": 73,
+        "duelos": 73,
+        "resistencia": 64
+      },
+      "rating": 73,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "yug54bobek",
+      "name": "Stjepan Bobek",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 77
+      },
+      "rating": 71,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 1
+    },
+    {
+      "id": "yug54milutinovic",
+      "name": "Miloš Milutinović",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 87,
+        "regate": 87,
+        "centro": 80,
+        "disparo": 80,
+        "desmarque": 87
+      },
+      "rating": 80,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 1
+    },
+    {
+      "id": "yug54ognjanov",
+      "name": "Tihomir Ognjanov",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 70,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 79
+      },
+      "rating": 79,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 1
+    },
+    {
+      "id": "yug54mitic",
+      "name": "Rajko Mitić",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 84
+      },
+      "rating": 78,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 1
+    },
+    {
+      "id": "yug54veselinovic",
+      "name": "Todor Veselinović",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 82,
+        "fisico": 82,
+        "velocidad": 75,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 83
+      },
+      "rating": 78,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 3
+    },
+    {
+      "id": "yug54petakovic",
+      "name": "Aleksandar Petaković",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 76,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 83
+      },
+      "rating": 78,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 2
+    },
+    {
+      "id": "yug54vukas",
+      "name": "Bernard Vukas",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 63,
+        "disparo": 63,
+        "desmarque": 72
+      },
+      "rating": 71,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    },
+    {
+      "id": "yug54zebec",
+      "name": "Branko Zebec",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 70,
+        "fisico": 70,
+        "velocidad": 60,
+        "cabezazo": 61,
+        "pressing": 61,
+        "desmarque": 70
+      },
+      "rating": 71,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954",
+      "goals": 1
+    },
+    {
+      "id": "yug54dvornic",
+      "name": "Dionizije Dvornić",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 76
+      },
+      "rating": 71,
+      "country": "Yugoslavia",
+      "tournamentYear": 1954,
+      "tournamentId": "wc-1954"
+    }
+  ]
+}

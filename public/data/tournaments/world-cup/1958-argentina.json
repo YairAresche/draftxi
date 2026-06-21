@@ -1,0 +1,413 @@
+{
+  "country": "Argentina",
+  "countryCode": "ARG",
+  "confederation": "CONMEBOL",
+  "year": 1958,
+  "tournamentId": "wc-1958",
+  "players": [
+    {
+      "id": "arg58carrizo",
+      "name": "Amadeo Carrizo",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 68
+      },
+      "rating": 77,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "arg58musimessi",
+      "name": "Julio Musimessi",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 69,
+        "manejo": 69,
+        "salidas": 61,
+        "penales": 61,
+        "distribucion": 61
+      },
+      "rating": 68,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "arg58vairo",
+      "name": "Federico Vairo",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 74,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "arg58acevedo",
+      "name": "David Acevedo",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 74,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "arg58dellacha",
+      "name": "Pedro Dellacha",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 73,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "arg58rossi",
+      "name": "Néstor Rossi",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 73,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "arg58edwards",
+      "name": "Federico Edwards",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 71,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "arg58perez",
+      "name": "Alfredo Pérez",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 69,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "arg58delgado",
+      "name": "José Ramón Delgado",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 70,
+        "pases": 59,
+        "duelos": 68
+      },
+      "rating": 69,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "arg58lombardo",
+      "name": "Juan Lombardo",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 73
+      },
+      "rating": 68,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "arg58varacka",
+      "name": "José Varacka",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 83,
+        "pases": 83,
+        "posicionamiento": 83,
+        "duelos": 75,
+        "resistencia": 76
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "arg58mourino",
+      "name": "Eliseo Mouriño",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 75
+      },
+      "rating": 69,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "arg58corbatta",
+      "name": "Oreste Corbatta",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 75,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 83
+      },
+      "rating": 80,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 3
+    },
+    {
+      "id": "arg58prado",
+      "name": "Eliseo Prado",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 85,
+        "regate": 85,
+        "centro": 78,
+        "disparo": 78,
+        "desmarque": 86
+      },
+      "rating": 79,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "arg58boggio",
+      "name": "Norberto Boggio",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 76,
+        "disparo": 76,
+        "desmarque": 83
+      },
+      "rating": 77,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "arg58menendez",
+      "name": "Norberto Menéndez",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 75
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 1
+    },
+    {
+      "id": "arg58avio",
+      "name": "Ludovico Avio",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 68,
+        "cabezazo": 69,
+        "pressing": 68,
+        "desmarque": 77
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 1
+    },
+    {
+      "id": "arg58infante",
+      "name": "Ricardo Infante",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 74,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 81
+      },
+      "rating": 75,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "arg58sanfilippo",
+      "name": "José Sanfilippo",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 67,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 76
+      },
+      "rating": 75,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 1
+    },
+    {
+      "id": "arg58cruz",
+      "name": "Osvaldo Cruz",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 69,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 77
+      },
+      "rating": 73,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "arg58rojas",
+      "name": "Alfredo Rojas",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 71,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 77
+      },
+      "rating": 71,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "arg58labruna",
+      "name": "Ángel Labruna",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 70,
+        "regate": 70,
+        "centro": 61,
+        "disparo": 61,
+        "desmarque": 78
+      },
+      "rating": 71,
+      "country": "Argentina",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    }
+  ]
+}

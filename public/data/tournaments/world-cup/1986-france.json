@@ -1,0 +1,416 @@
+{
+  "country": "Francia",
+  "countryCode": "FRA",
+  "confederation": "UEFA",
+  "year": 1986,
+  "tournamentId": "wc-1986",
+  "players": [
+    {
+      "id": "fra86rust",
+      "name": "Albert Rust",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 80,
+        "salidas": 72,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 77,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "fra86bergeroo",
+      "name": "Philippe Bergeroo",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 76,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "fra86bats",
+      "name": "Joël Bats",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 71,
+        "salidas": 62,
+        "penales": 62,
+        "distribucion": 62
+      },
+      "rating": 70,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "fra86le-roux",
+      "name": "Yvon Le Roux",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 75,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "fra86amoros",
+      "name": "Manuel Amoros",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 74,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    },
+    {
+      "id": "fra86battiston",
+      "name": "Patrick Battiston",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 73,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "fra86bibard",
+      "name": "Michel Bibard",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 72,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "fra86tusseau",
+      "name": "Thierry Tusseau",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 72,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "fra86ayache",
+      "name": "William Ayache",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 72
+      },
+      "rating": 68,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "fra86bossis",
+      "name": "Maxime Bossis",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 68,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    },
+    {
+      "id": "fra86platini",
+      "name": "Michel Platini",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 99,
+        "paseFiltrado": 99,
+        "llegada": 99,
+        "regate": 94,
+        "disparo": 95
+      },
+      "rating": 95,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 5
+    },
+    {
+      "id": "fra86tigana",
+      "name": "Jean Tigana",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 80,
+        "resistencia": 72
+      },
+      "rating": 78,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    },
+    {
+      "id": "fra86ferreri",
+      "name": "Jean-Marc Ferreri",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 75,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    },
+    {
+      "id": "fra86genghini",
+      "name": "Bernard Genghini",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 81
+      },
+      "rating": 75,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 3
+    },
+    {
+      "id": "fra86giresse",
+      "name": "Alain Giresse",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 71,
+        "disparo": 71
+      },
+      "rating": 73,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 3
+    },
+    {
+      "id": "fra86fernandez",
+      "name": "Luis Fernández",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 67
+      },
+      "rating": 70,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    },
+    {
+      "id": "fra86vercruysse",
+      "name": "Philippe Vercruysse",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 74
+      },
+      "rating": 68,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "fra86stopyra",
+      "name": "Yannick Stopyra",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 70,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 80
+      },
+      "rating": 80,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 2
+    },
+    {
+      "id": "fra86rocheteau",
+      "name": "Dominique Rocheteau",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 79,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 4
+    },
+    {
+      "id": "fra86papin",
+      "name": "Jean-Pierre Papin",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 83,
+        "regate": 83,
+        "centro": 76,
+        "disparo": 76,
+        "desmarque": 83
+      },
+      "rating": 77,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 2
+    },
+    {
+      "id": "fra86xuereb",
+      "name": "Daniel Xuereb",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 64,
+        "disparo": 74,
+        "desmarque": 81
+      },
+      "rating": 74,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "fra86bellone",
+      "name": "Bruno Bellone",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 67,
+        "desmarque": 75
+      },
+      "rating": 69,
+      "country": "Francia",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    }
+  ]
+}

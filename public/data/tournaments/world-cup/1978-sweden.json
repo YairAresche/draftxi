@@ -1,0 +1,404 @@
+{
+  "country": "Suecia",
+  "countryCode": "SWE",
+  "confederation": "UEFA",
+  "year": 1978,
+  "tournamentId": "wc-1978",
+  "players": [
+    {
+      "id": "swe78hagberg",
+      "name": "Göran Hagberg",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 76,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78moller",
+      "name": "Jan Möller",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 75,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78hellstrom",
+      "name": "Ronnie Hellström",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 70,
+        "manejo": 70,
+        "salidas": 61,
+        "penales": 61,
+        "distribucion": 61
+      },
+      "rating": 69,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78karlsson",
+      "name": "Kent Karlsson",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 77
+      },
+      "rating": 72,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78erlandsson",
+      "name": "Ingemar Erlandsson",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 77,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 70,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78andersson",
+      "name": "Roy Andersson",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 61,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 68,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78andersson2",
+      "name": "Magnus Andersson",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 61,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 68,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78andersson3",
+      "name": "Roland Andersson",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 61,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 68,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78borg",
+      "name": "Hasse Borg",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 67,
+        "intercepciones": 67,
+        "velocidad": 57,
+        "pases": 58,
+        "duelos": 67
+      },
+      "rating": 67,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78nordqvist",
+      "name": "Björn Nordqvist",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 78,
+        "resistencia": 69
+      },
+      "rating": 78,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78nordin",
+      "name": "Olle Nordin",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 82,
+        "pases": 82,
+        "posicionamiento": 82,
+        "duelos": 82,
+        "resistencia": 75
+      },
+      "rating": 76,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78linderoth",
+      "name": "Anders Linderoth",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 79
+      },
+      "rating": 73,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78larsson",
+      "name": "Lennart Larsson",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 66,
+        "disparo": 65
+      },
+      "rating": 72,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78ahman",
+      "name": "Ronald Åhman",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 72,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 72,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78tapper",
+      "name": "Staffan Tapper",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 77
+      },
+      "rating": 70,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78edstrom",
+      "name": "Ralf Edström",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 75,
+        "cabezazo": 75,
+        "pressing": 75,
+        "desmarque": 83
+      },
+      "rating": 80,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 4
+    },
+    {
+      "id": "swe78torstensson",
+      "name": "Conny Torstensson",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 85,
+        "regate": 85,
+        "centro": 78,
+        "disparo": 78,
+        "desmarque": 85
+      },
+      "rating": 78,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    },
+    {
+      "id": "swe78nilsson",
+      "name": "Torbjörn Nilsson",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 80,
+        "fisico": 81,
+        "velocidad": 73,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 80
+      },
+      "rating": 76,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78larsson2",
+      "name": "Bo Larsson",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 67,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 75
+      },
+      "rating": 73,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78wendt",
+      "name": "Benny Wendt",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 76
+      },
+      "rating": 73,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "swe78sjoberg",
+      "name": "Thomas Sjöberg",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 72,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 72
+      },
+      "rating": 72,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    },
+    {
+      "id": "swe78aslund",
+      "name": "Sanny Åslund",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 74
+      },
+      "rating": 69,
+      "country": "Suecia",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    }
+  ]
+}

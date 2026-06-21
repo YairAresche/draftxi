@@ -1,0 +1,361 @@
+{
+  "country": "Estados Unidos",
+  "countryCode": "USA",
+  "confederation": "CONCACAF",
+  "year": 1934,
+  "tournamentId": "wc-1934",
+  "players": [
+    {
+      "id": "usa34hjulian",
+      "name": "Julius Hjulian",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 74,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 68,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "usa34czerkiewicz",
+      "name": "Ed Czerkiewicz",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 75,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "usa34rapp",
+      "name": "Herman Rapp",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 75,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "usa34martinelli",
+      "name": "Joe Martinelli",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 74,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "usa34harker",
+      "name": "Al Harker",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 69
+      },
+      "rating": 69,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "usa34moorhouse",
+      "name": "George Moorhouse",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 65,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 69,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "usa34florie",
+      "name": "Tom Florie",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 79
+      },
+      "rating": 78,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934",
+      "goals": 1
+    },
+    {
+      "id": "usa34lehman",
+      "name": "William Lehman",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 77,
+        "pases": 77,
+        "posicionamiento": 77,
+        "duelos": 77,
+        "resistencia": 68
+      },
+      "rating": 76,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "usa34lynch",
+      "name": "Tom Lynch",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 75
+      },
+      "rating": 76,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "usa34amrhein",
+      "name": "Tom Amrhein",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 65
+      },
+      "rating": 75,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "usa34gonsalves",
+      "name": "Billy Gonsalves",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 75
+      },
+      "rating": 74,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "usa34pietras",
+      "name": "Peter Pietras",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 81,
+        "paseFiltrado": 81,
+        "llegada": 81,
+        "regate": 74,
+        "disparo": 75
+      },
+      "rating": 74,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "usa34fiedler",
+      "name": "Bill Fiedler",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 62,
+        "recuperacion": 72,
+        "tecnica": 79
+      },
+      "rating": 72,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "usa34gallagher",
+      "name": "Jimmy Gallagher",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 72,
+        "paseFiltrado": 72,
+        "llegada": 72,
+        "regate": 63,
+        "disparo": 63
+      },
+      "rating": 72,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "usa34mclean",
+      "name": "Willie McLean",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 69,
+        "disparo": 70,
+        "desmarque": 78
+      },
+      "rating": 78,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "usa34dick",
+      "name": "Walter Dick",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 73,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 75,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "usa34donelli",
+      "name": "Aldo Donelli",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 75
+      },
+      "rating": 75,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934",
+      "goals": 1
+    },
+    {
+      "id": "usa34nilsen",
+      "name": "Werner Nilsen",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 66,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 75
+      },
+      "rating": 73,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    },
+    {
+      "id": "usa34ryan",
+      "name": "Francis Ryan",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 69,
+        "regate": 69,
+        "centro": 60,
+        "disparo": 61,
+        "desmarque": 69
+      },
+      "rating": 70,
+      "country": "Estados Unidos",
+      "tournamentYear": 1934,
+      "tournamentId": "wc-1934"
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "country": "Países Bajos",
+  "countryCode": "NLD",
+  "confederation": "UEFA",
+  "year": 1994,
+  "tournamentId": "wc-1994",
+  "players": [
+    {
+      "id": "nld94snelders",
+      "name": "Theo Snelders",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 77,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nld94van-der-sar",
+      "name": "Edwin van der Sar",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 77,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 74,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nld94de-goey",
+      "name": "Ed de Goey",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 69,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nld94koeman",
+      "name": "Ronald Koeman",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 78
+      },
+      "rating": 77,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "nld94van-gobbel",
+      "name": "Ulrich van Gobbel",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 77
+      },
+      "rating": 77,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nld94de-boer",
+      "name": "Frank de Boer",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 69,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 72,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nld94blind",
+      "name": "Danny Blind",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 71,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nld94valckx",
+      "name": "Stan Valckx",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 77
+      },
+      "rating": 71,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nld94de-wolf",
+      "name": "John de Wolf",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 65,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 69,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nld94numan",
+      "name": "Arthur Numan",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 68,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nld94rijkaard",
+      "name": "Frank Rijkaard",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 84,
+        "pases": 84,
+        "posicionamiento": 84,
+        "duelos": 84,
+        "resistencia": 77
+      },
+      "rating": 77,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nld94witschge",
+      "name": "Rob Witschge",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 76
+      },
+      "rating": 75,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nld94de-boer2",
+      "name": "Ronald de Boer",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 72,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 75,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 2
+    },
+    {
+      "id": "nld94jonk",
+      "name": "Wim Jonk",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 75,
+        "llegada": 75,
+        "regate": 67,
+        "disparo": 66
+      },
+      "rating": 74,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 2
+    },
+    {
+      "id": "nld94wouters",
+      "name": "Jan Wouters",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 73
+      },
+      "rating": 72,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nld94winter",
+      "name": "Aron Winter",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 68,
+        "pases": 68,
+        "posicionamiento": 68,
+        "duelos": 69,
+        "resistencia": 60
+      },
+      "rating": 69,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "nld94bergkamp",
+      "name": "Dennis Bergkamp",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 93,
+        "fisico": 93,
+        "velocidad": 84,
+        "cabezazo": 85,
+        "pressing": 85,
+        "desmarque": 93
+      },
+      "rating": 90,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 6
+    },
+    {
+      "id": "nld94overmars",
+      "name": "Marc Overmars",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 68,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 78
+      },
+      "rating": 79,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "nld94van-vossen",
+      "name": "Peter van Vossen",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 78
+      },
+      "rating": 77,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nld94bosman",
+      "name": "John Bosman",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 70,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 78
+      },
+      "rating": 74,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "nld94roy",
+      "name": "Bryan Roy",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 75
+      },
+      "rating": 73,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "nld94taument",
+      "name": "Gaston Taument",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 71,
+      "country": "Países Bajos",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    }
+  ]
+}

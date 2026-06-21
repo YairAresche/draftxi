@@ -1,0 +1,411 @@
+{
+  "country": "Uruguay",
+  "countryCode": "URY",
+  "confederation": "CONMEBOL",
+  "year": 1962,
+  "tournamentId": "wc-1962",
+  "players": [
+    {
+      "id": "ury62sosa",
+      "name": "Roberto Sosa",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 82,
+        "manejo": 82,
+        "salidas": 74,
+        "penales": 74,
+        "distribucion": 74
+      },
+      "rating": 76,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "ury62maidana",
+      "name": "Luis Maidana",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 69,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "ury62martinez",
+      "name": "William Martínez",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 74,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "ury62mendez",
+      "name": "Mario Méndez",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "ury62soria",
+      "name": "Rubén Soria",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 70,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "ury62troche",
+      "name": "Horacio Troche",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 68,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "ury62alvarez",
+      "name": "Emilio Álvarez",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 68
+      },
+      "rating": 68,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "ury62alvarez2",
+      "name": "Eliseo Álvarez",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 68
+      },
+      "rating": 68,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "ury62gonzalez",
+      "name": "Rubén González",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 67,
+        "intercepciones": 67,
+        "velocidad": 57,
+        "pases": 58,
+        "duelos": 67
+      },
+      "rating": 67,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "ury62cubilla",
+      "name": "Pedro Cubilla",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 78
+      },
+      "rating": 78,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "ury62langon",
+      "name": "Ronald Langón",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 66
+      },
+      "rating": 75,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "ury62cortes",
+      "name": "Julio César Cortés",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 79
+      },
+      "rating": 73,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "ury62goncalves",
+      "name": "Néstor Gonçalves",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 72
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "ury62rocha",
+      "name": "Pedro Rocha",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 75,
+        "llegada": 75,
+        "regate": 68,
+        "disparo": 68
+      },
+      "rating": 71,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "ury62gonzalez2",
+      "name": "Edgardo González",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 68,
+        "vision": 68,
+        "llegada": 59,
+        "recuperacion": 59,
+        "tecnica": 68
+      },
+      "rating": 68,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "ury62sasia",
+      "name": "José Sasía",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 86,
+        "regate": 86,
+        "centro": 78,
+        "disparo": 79,
+        "desmarque": 86
+      },
+      "rating": 80,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 2
+    },
+    {
+      "id": "ury62cubilla2",
+      "name": "Luis Cubilla",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 80
+      },
+      "rating": 80,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 2
+    },
+    {
+      "id": "ury62silva",
+      "name": "Héctor Silva",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 79
+      },
+      "rating": 78,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "ury62cabrera",
+      "name": "Ángel Cabrera",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 78
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "ury62bergara",
+      "name": "Mario Bergara",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 76
+      },
+      "rating": 71,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "ury62escalada",
+      "name": "Guillermo Escalada",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 71,
+        "fisico": 71,
+        "velocidad": 62,
+        "cabezazo": 63,
+        "pressing": 63,
+        "desmarque": 71
+      },
+      "rating": 70,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "ury62perez",
+      "name": "Domingo Pérez",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 69,
+        "fisico": 69,
+        "velocidad": 60,
+        "cabezazo": 61,
+        "pressing": 61,
+        "desmarque": 70
+      },
+      "rating": 69,
+      "country": "Uruguay",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    }
+  ]
+}

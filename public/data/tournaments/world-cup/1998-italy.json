@@ -1,0 +1,426 @@
+{
+  "country": "Italia",
+  "countryCode": "ITA",
+  "confederation": "UEFA",
+  "year": 1998,
+  "tournamentId": "wc-1998",
+  "players": [
+    {
+      "id": "ita98buffon",
+      "name": "Gianluigi Buffon",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 90,
+        "manejo": 90,
+        "salidas": 83,
+        "penales": 83,
+        "distribucion": 83
+      },
+      "rating": 84,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "ita98toldo",
+      "name": "Francesco Toldo",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 84,
+        "manejo": 84,
+        "salidas": 76,
+        "penales": 76,
+        "distribucion": 76
+      },
+      "rating": 78,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "ita98pagliuca",
+      "name": "Gianluca Pagliuca",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 71,
+        "salidas": 63,
+        "penales": 62,
+        "distribucion": 62
+      },
+      "rating": 71,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "ita98maldini",
+      "name": "Paolo Maldini",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 92,
+        "intercepciones": 92,
+        "velocidad": 83,
+        "pases": 84,
+        "duelos": 92
+      },
+      "rating": 92,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "ita98cannavaro",
+      "name": "Fabio Cannavaro",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 92,
+        "intercepciones": 92,
+        "velocidad": 85,
+        "pases": 85,
+        "duelos": 92
+      },
+      "rating": 87,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "ita98bergomi",
+      "name": "Giuseppe Bergomi",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 75,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "ita98pessotto",
+      "name": "Gianluca Pessotto",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 75,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "ita98nesta",
+      "name": "Alessandro Nesta",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 77
+      },
+      "rating": 73,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "ita98torricelli",
+      "name": "Moreno Torricelli",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 70,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "ita98costacurta",
+      "name": "Alessandro Costacurta",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 59,
+        "pases": 59,
+        "duelos": 68
+      },
+      "rating": 68,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "ita98baggio",
+      "name": "Dino Baggio",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 91,
+        "paseFiltrado": 92,
+        "llegada": 91,
+        "regate": 83,
+        "disparo": 83
+      },
+      "rating": 90,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 2
+    },
+    {
+      "id": "ita98baggio2",
+      "name": "Roberto Baggio",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 91,
+        "paseFiltrado": 92,
+        "llegada": 91,
+        "regate": 83,
+        "disparo": 83
+      },
+      "rating": 90,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 9
+    },
+    {
+      "id": "ita98albertini",
+      "name": "Demetrio Albertini",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 82,
+        "pases": 82,
+        "posicionamiento": 82,
+        "duelos": 82,
+        "resistencia": 74
+      },
+      "rating": 77,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "ita98di-matteo",
+      "name": "Roberto Di Matteo",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 67
+      },
+      "rating": 77,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "ita98moriero",
+      "name": "Francesco Moriero",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 77,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "ita98cois",
+      "name": "Sandro Cois",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 76
+      },
+      "rating": 75,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "ita98di-biagio",
+      "name": "Luigi Di Biagio",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 72,
+        "paseFiltrado": 72,
+        "llegada": 72,
+        "regate": 63,
+        "disparo": 63
+      },
+      "rating": 70,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "ita98di-livio",
+      "name": "Angelo Di Livio",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 69,
+        "vision": 69,
+        "llegada": 60,
+        "recuperacion": 60,
+        "tecnica": 69
+      },
+      "rating": 69,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "ita98vieri",
+      "name": "Christian Vieri",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 85,
+        "regate": 85,
+        "centro": 77,
+        "disparo": 78,
+        "desmarque": 85
+      },
+      "rating": 80,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 9
+    },
+    {
+      "id": "ita98inzaghi",
+      "name": "Filippo Inzaghi",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 74,
+        "disparo": 75,
+        "desmarque": 82
+      },
+      "rating": 75,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "ita98chiesa",
+      "name": "Enrico Chiesa",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 71,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 75,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "ita98del-piero",
+      "name": "Alessandro Del Piero",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 74,
+        "velocidad": 66,
+        "cabezazo": 66,
+        "pressing": 66,
+        "desmarque": 74
+      },
+      "rating": 73,
+      "country": "Italia",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 2
+    }
+  ]
+}

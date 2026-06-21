@@ -1,0 +1,330 @@
+{
+  "country": "Bolivia",
+  "countryCode": "BOL",
+  "confederation": "CONMEBOL",
+  "year": 1930,
+  "tournamentId": "wc-1930",
+  "players": [
+    {
+      "id": "bol30murillo",
+      "name": "Miguel Murillo",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 70,
+      "country": "Bolivia",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bol30bermudez",
+      "name": "Jesús Bermúdez",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 69,
+        "manejo": 69,
+        "salidas": 60,
+        "penales": 60,
+        "distribucion": 60
+      },
+      "rating": 69,
+      "country": "Bolivia",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bol30reyes-penaranda",
+      "name": "Luis Reyes Peñaranda",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 81
+      },
+      "rating": 76,
+      "country": "Bolivia",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bol30chavarria",
+      "name": "Casiano Chavarría",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 77
+      },
+      "rating": 75,
+      "country": "Bolivia",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bol30durandal",
+      "name": "Segundo Durandal",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 73,
+      "country": "Bolivia",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bol30sainz",
+      "name": "Renato Sáinz",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 78,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 78,
+      "country": "Bolivia",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bol30lara",
+      "name": "Diógenes Lara",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 75,
+        "recuperacion": 75,
+        "tecnica": 82
+      },
+      "rating": 77,
+      "country": "Bolivia",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bol30noya",
+      "name": "Constantino Noya",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 80,
+        "paseFiltrado": 80,
+        "llegada": 80,
+        "regate": 72,
+        "disparo": 72
+      },
+      "rating": 77,
+      "country": "Bolivia",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bol30brito",
+      "name": "Miguel Brito",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 75,
+      "country": "Bolivia",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bol30argote",
+      "name": "Juan Argote",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 71
+      },
+      "rating": 74,
+      "country": "Bolivia",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bol30valderrama",
+      "name": "Jorge Valderrama",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 75,
+        "resistencia": 68
+      },
+      "rating": 70,
+      "country": "Bolivia",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bol30gomez",
+      "name": "Gumercindo Gómez",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 77,
+        "cabezazo": 76,
+        "pressing": 76,
+        "desmarque": 83
+      },
+      "rating": 76,
+      "country": "Bolivia",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bol30reyes-ortiz",
+      "name": "Eduardo Reyes Ortiz",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 75,
+        "disparo": 75,
+        "desmarque": 82
+      },
+      "rating": 76,
+      "country": "Bolivia",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bol30mendez",
+      "name": "Rafael Méndez",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 77
+      },
+      "rating": 74,
+      "country": "Bolivia",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bol30fernandez",
+      "name": "René Fernández",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 64,
+        "disparo": 63,
+        "desmarque": 72
+      },
+      "rating": 72,
+      "country": "Bolivia",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bol30alborta",
+      "name": "Mario Alborta",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 73,
+        "fisico": 73,
+        "velocidad": 65,
+        "cabezazo": 65,
+        "pressing": 65,
+        "desmarque": 73
+      },
+      "rating": 71,
+      "country": "Bolivia",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    },
+    {
+      "id": "bol30bustamante",
+      "name": "José Bustamante",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 71,
+        "regate": 71,
+        "centro": 62,
+        "disparo": 62,
+        "desmarque": 71
+      },
+      "rating": 71,
+      "country": "Bolivia",
+      "tournamentYear": 1930,
+      "tournamentId": "wc-1930"
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "country": "Hungría",
+  "countryCode": "HUN",
+  "confederation": "UEFA",
+  "year": 1978,
+  "tournamentId": "wc-1978",
+  "players": [
+    {
+      "id": "hun78kovacs",
+      "name": "László Kovács",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 75,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "hun78gujdar",
+      "name": "Sándor Gujdár",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 74,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "hun78meszaros",
+      "name": "Ferenc Mészáros",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 68,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "hun78balint",
+      "name": "László Bálint",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 77
+      },
+      "rating": 73,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "hun78martos",
+      "name": "Győző Martos",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 72,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "hun78kocsis",
+      "name": "István Kocsis",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 70,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "hun78kereki",
+      "name": "Zoltán Kereki",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 61,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 69,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "hun78torok",
+      "name": "Péter Török",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 58,
+        "pases": 59,
+        "duelos": 68
+      },
+      "rating": 68,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "hun78rab",
+      "name": "Tibor Rab",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 68
+      },
+      "rating": 68,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "hun78zombori",
+      "name": "Sándor Zombori",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 81,
+        "vision": 81,
+        "llegada": 73,
+        "recuperacion": 73,
+        "tecnica": 80
+      },
+      "rating": 77,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    },
+    {
+      "id": "hun78pinter",
+      "name": "Sándor Pintér",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 76,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "hun78fulop",
+      "name": "Ferenc Fülöp",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 76,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "hun78csapo",
+      "name": "Károly Csapó",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 71,
+        "disparo": 72
+      },
+      "rating": 72,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    },
+    {
+      "id": "hun78halasz",
+      "name": "István Halász",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 77
+      },
+      "rating": 72,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "hun78toth",
+      "name": "József Tóth",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 68
+      },
+      "rating": 70,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    },
+    {
+      "id": "hun78nagy",
+      "name": "László Nagy",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 69
+      },
+      "rating": 70,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "hun78fazekas",
+      "name": "László Fazekas",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 72,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 75,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 2
+    },
+    {
+      "id": "hun78torocsik",
+      "name": "András Törőcsik",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 68,
+        "disparo": 67,
+        "desmarque": 76
+      },
+      "rating": 75,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "hun78nyilasi",
+      "name": "Tibor Nyilasi",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 79
+      },
+      "rating": 74,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 2
+    },
+    {
+      "id": "hun78varady",
+      "name": "Béla Várady",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 66,
+        "cabezazo": 67,
+        "pressing": 67,
+        "desmarque": 75
+      },
+      "rating": 74,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "hun78pusztai",
+      "name": "László Pusztai",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 64,
+        "disparo": 64,
+        "desmarque": 73
+      },
+      "rating": 72,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "hun78toth2",
+      "name": "András Tóth",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 77
+      },
+      "rating": 72,
+      "country": "Hungría",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    }
+  ]
+}

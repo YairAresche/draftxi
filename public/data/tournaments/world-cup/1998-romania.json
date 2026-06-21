@@ -1,0 +1,411 @@
+{
+  "country": "Rumanía",
+  "countryCode": "ROU",
+  "confederation": "UEFA",
+  "year": 1998,
+  "tournamentId": "wc-1998",
+  "players": [
+    {
+      "id": "rou98stangaciu",
+      "name": "Dumitru Stângaciu",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 85,
+        "manejo": 85,
+        "salidas": 78,
+        "penales": 78,
+        "distribucion": 78
+      },
+      "rating": 78,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "rou98stelea",
+      "name": "Bogdan Stelea",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 64,
+        "penales": 64,
+        "distribucion": 64
+      },
+      "rating": 70,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "rou98prunea",
+      "name": "Florin Prunea",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 68,
+        "manejo": 68,
+        "salidas": 59,
+        "penales": 59,
+        "distribucion": 59
+      },
+      "rating": 69,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "rou98petrescu",
+      "name": "Dan Petrescu",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 79,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 79
+      },
+      "rating": 77,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 2
+    },
+    {
+      "id": "rou98popescu",
+      "name": "Gheorghe Popescu",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 81,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 74,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "rou98ciobotariu",
+      "name": "Liviu Ciobotariu",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 73,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "rou98dulca",
+      "name": "Cristian Dulca",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 72
+      },
+      "rating": 71,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "rou98dobos",
+      "name": "Anton Doboș",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 71,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "rou98selymes",
+      "name": "Tibor Selymes",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 61,
+        "pases": 62,
+        "duelos": 70
+      },
+      "rating": 71,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "rou98hagi",
+      "name": "Gheorghe Hagi",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 93,
+        "paseFiltrado": 93,
+        "llegada": 93,
+        "regate": 86,
+        "disparo": 86
+      },
+      "rating": 88,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 3
+    },
+    {
+      "id": "rou98niculescu",
+      "name": "Radu Niculescu",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 83,
+        "paseFiltrado": 83,
+        "llegada": 83,
+        "regate": 76,
+        "disparo": 77
+      },
+      "rating": 77,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "rou98galca",
+      "name": "Constantin Gâlcă",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 78,
+        "resistencia": 70
+      },
+      "rating": 76,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "rou98filipescu",
+      "name": "Iulian Filipescu",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 76,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "rou98popescu2",
+      "name": "Gabriel Popescu",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 82,
+        "pases": 82,
+        "posicionamiento": 82,
+        "duelos": 81,
+        "resistencia": 74
+      },
+      "rating": 75,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "rou98stinga",
+      "name": "Ovidiu Stîngă",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 70,
+        "disparo": 70
+      },
+      "rating": 75,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "rou98marinescu",
+      "name": "Lucian Marinescu",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 73,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "rou98munteanu",
+      "name": "Dorinel Munteanu",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 70,
+        "llegada": 62,
+        "recuperacion": 62,
+        "tecnica": 71
+      },
+      "rating": 69,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "rou98moldovan",
+      "name": "Viorel Moldovan",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 84,
+        "regate": 83,
+        "centro": 76,
+        "disparo": 76,
+        "desmarque": 83
+      },
+      "rating": 79,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 2
+    },
+    {
+      "id": "rou98lacatus",
+      "name": "Marius Lăcătuș",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 70,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 78,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 2
+    },
+    {
+      "id": "rou98dumitrescu",
+      "name": "Ilie Dumitrescu",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 71,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 80
+      },
+      "rating": 78,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 2
+    },
+    {
+      "id": "rou98ilie",
+      "name": "Adrian Ilie",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 82
+      },
+      "rating": 77,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998",
+      "goals": 1
+    },
+    {
+      "id": "rou98craioveanu",
+      "name": "Gheorghe Craioveanu",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 81
+      },
+      "rating": 75,
+      "country": "Rumanía",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    }
+  ]
+}

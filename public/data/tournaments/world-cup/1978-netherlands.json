@@ -1,0 +1,419 @@
+{
+  "country": "Países Bajos",
+  "countryCode": "NLD",
+  "confederation": "UEFA",
+  "year": 1978,
+  "tournamentId": "wc-1978",
+  "players": [
+    {
+      "id": "nld78doesburg",
+      "name": "Pim Doesburg",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 77,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "nld78schrijvers",
+      "name": "Piet Schrijvers",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 83,
+        "manejo": 83,
+        "salidas": 76,
+        "penales": 76,
+        "distribucion": 75
+      },
+      "rating": 76,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "nld78jongbloed",
+      "name": "Jan Jongbloed",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 73,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "nld78wildschut",
+      "name": "Piet Wildschut",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 72,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "nld78poortvliet",
+      "name": "Jan Poortvliet",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 69,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "nld78krol",
+      "name": "Ruud Krol",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 73
+      },
+      "rating": 69,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    },
+    {
+      "id": "nld78rijsbergen",
+      "name": "Wim Rijsbergen",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 69,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "nld78brandts",
+      "name": "Ernie Brandts",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 73
+      },
+      "rating": 69,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 2
+    },
+    {
+      "id": "nld78van-kraay",
+      "name": "Adrie van Kraay",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 68,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "nld78hovenkamp",
+      "name": "Hugo Hovenkamp",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 69
+      },
+      "rating": 68,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "nld78suurbier",
+      "name": "Wim Suurbier",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 67,
+        "intercepciones": 67,
+        "velocidad": 57,
+        "pases": 58,
+        "duelos": 67
+      },
+      "rating": 68,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "nld78haan",
+      "name": "Arie Haan",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 86,
+        "vision": 86,
+        "llegada": 79,
+        "recuperacion": 79,
+        "tecnica": 86
+      },
+      "rating": 79,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 2
+    },
+    {
+      "id": "nld78van-de-kerkhof",
+      "name": "René van de Kerkhof",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 82,
+        "paseFiltrado": 82,
+        "llegada": 82,
+        "regate": 74,
+        "disparo": 75
+      },
+      "rating": 77,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    },
+    {
+      "id": "nld78van-de-kerkhof2",
+      "name": "Willy van de Kerkhof",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 82
+      },
+      "rating": 77,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    },
+    {
+      "id": "nld78boskamp",
+      "name": "Johan Boskamp",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 80
+      },
+      "rating": 77,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "nld78jansen",
+      "name": "Wim Jansen",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 70,
+        "tecnica": 77
+      },
+      "rating": 74,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "nld78schoenaker",
+      "name": "Dick Schoenaker",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 72
+      },
+      "rating": 73,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "nld78neeskens",
+      "name": "Johan Neeskens",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 72,
+        "pases": 72,
+        "posicionamiento": 72,
+        "duelos": 72,
+        "resistencia": 64
+      },
+      "rating": 72,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 5
+    },
+    {
+      "id": "nld78rep",
+      "name": "Johnny Rep",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 86,
+        "regate": 86,
+        "centro": 78,
+        "disparo": 78,
+        "desmarque": 86
+      },
+      "rating": 80,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 7
+    },
+    {
+      "id": "nld78lubse",
+      "name": "Harry Lubse",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 71,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 78,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978"
+    },
+    {
+      "id": "nld78rensenbrink",
+      "name": "Rob Rensenbrink",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 84,
+        "fisico": 76,
+        "velocidad": 78,
+        "cabezazo": 77,
+        "pressing": 77,
+        "desmarque": 84
+      },
+      "rating": 77,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 6
+    },
+    {
+      "id": "nld78nanninga",
+      "name": "Dick Nanninga",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 75,
+        "centro": 66,
+        "disparo": 65,
+        "desmarque": 74
+      },
+      "rating": 75,
+      "country": "Países Bajos",
+      "tournamentYear": 1978,
+      "tournamentId": "wc-1978",
+      "goals": 1
+    }
+  ]
+}

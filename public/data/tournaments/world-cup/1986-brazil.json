@@ -1,0 +1,425 @@
+{
+  "country": "Brasil",
+  "countryCode": "BRA",
+  "confederation": "CONMEBOL",
+  "year": 1986,
+  "tournamentId": "wc-1986",
+  "players": [
+    {
+      "id": "bra86leao",
+      "name": "Leão",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 77,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "bra86vitor",
+      "name": "Paulo Vítor",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 76,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "bra86carlos",
+      "name": "Carlos",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 67,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 74,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "bra86josimar",
+      "name": "Josimar",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 76,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 2
+    },
+    {
+      "id": "bra86branco",
+      "name": "Branco",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 75,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    },
+    {
+      "id": "bra86edinho",
+      "name": "Edinho",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 74,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    },
+    {
+      "id": "bra86galvao",
+      "name": "Mauro Galvão",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 72,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "bra86edson",
+      "name": "Édson",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 67,
+        "intercepciones": 67,
+        "velocidad": 58,
+        "pases": 59,
+        "duelos": 68
+      },
+      "rating": 68,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "bra86oscar",
+      "name": "Oscar",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 73
+      },
+      "rating": 68,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    },
+    {
+      "id": "bra86cesar",
+      "name": "Júlio César",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 67,
+        "pases": 66,
+        "duelos": 73
+      },
+      "rating": 68,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "bra86zico",
+      "name": "Zico",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 94,
+        "paseFiltrado": 94,
+        "llegada": 94,
+        "regate": 86,
+        "disparo": 86
+      },
+      "rating": 91,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 5
+    },
+    {
+      "id": "bra86socrates",
+      "name": "Sócrates",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 89,
+        "vision": 89,
+        "llegada": 81,
+        "recuperacion": 81,
+        "tecnica": 89
+      },
+      "rating": 89,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 4
+    },
+    {
+      "id": "bra86silas",
+      "name": "Paulo Silas",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 74,
+        "recuperacion": 74,
+        "tecnica": 82
+      },
+      "rating": 78,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "bra86junior",
+      "name": "Júnior",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 76
+      },
+      "rating": 75,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 1
+    },
+    {
+      "id": "bra86falcao",
+      "name": "Falcão",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 67
+      },
+      "rating": 74,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 3
+    },
+    {
+      "id": "bra86alemao",
+      "name": "Alemão",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 65,
+        "disparo": 64
+      },
+      "rating": 73,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "bra86elzo",
+      "name": "Elzo",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 75,
+        "posicionamiento": 75,
+        "duelos": 75,
+        "resistencia": 67
+      },
+      "rating": 72,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "bra86valdo",
+      "name": "Valdo",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 76,
+        "paseFiltrado": 77,
+        "llegada": 77,
+        "regate": 69,
+        "disparo": 69
+      },
+      "rating": 72,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "bra86muller",
+      "name": "Müller",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 73,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 81
+      },
+      "rating": 80,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 2
+    },
+    {
+      "id": "bra86careca",
+      "name": "Careca",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 86,
+        "regate": 86,
+        "centro": 79,
+        "disparo": 79,
+        "desmarque": 86
+      },
+      "rating": 80,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986",
+      "goals": 7
+    },
+    {
+      "id": "bra86casagrande",
+      "name": "Casagrande",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 73,
+        "centro": 65,
+        "disparo": 65,
+        "desmarque": 73
+      },
+      "rating": 70,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "bra86edivaldo",
+      "name": "Edivaldo",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 75
+      },
+      "rating": 69,
+      "country": "Brasil",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    }
+  ]
+}

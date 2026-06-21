@@ -1,0 +1,414 @@
+{
+  "country": "Hungría",
+  "countryCode": "HUN",
+  "confederation": "UEFA",
+  "year": 1938,
+  "tournamentId": "wc-1938",
+  "players": [
+    {
+      "id": "hun38hada",
+      "name": "József Háda",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 82,
+        "salidas": 74,
+        "penales": 74,
+        "distribucion": 74
+      },
+      "rating": 78,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "hun38palinkas",
+      "name": "József Pálinkás",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 72,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "hun38szabo",
+      "name": "Antal Szabó",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 71,
+        "manejo": 71,
+        "salidas": 63,
+        "penales": 63,
+        "distribucion": 63
+      },
+      "rating": 70,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "hun38koranyi",
+      "name": "Lajos Korányi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 73,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "hun38polgar",
+      "name": "Gyula Polgár",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 73,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "hun38biro",
+      "name": "Sándor Bíró",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 59,
+        "pases": 59,
+        "duelos": 68
+      },
+      "rating": 67,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "hun38balogh",
+      "name": "István Balogh",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 75,
+        "pases": 83,
+        "posicionamiento": 83,
+        "duelos": 75,
+        "resistencia": 66
+      },
+      "rating": 76,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "hun38lazar",
+      "name": "Gyula Lázár",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 74,
+        "vision": 74,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 74
+      },
+      "rating": 73,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "hun38dudas",
+      "name": "János Dudás",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 79
+      },
+      "rating": 72,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "hun38szucs",
+      "name": "György Szűcs",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 72,
+        "pases": 72,
+        "posicionamiento": 72,
+        "duelos": 72,
+        "resistencia": 64
+      },
+      "rating": 72,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "hun38turay",
+      "name": "József Turay",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 77
+      },
+      "rating": 72,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "hun38szalay",
+      "name": "Antal Szalay",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 63,
+        "recuperacion": 63,
+        "tecnica": 71
+      },
+      "rating": 70,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "hun38sarosi",
+      "name": "Béla Sárosi",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 67,
+        "disparo": 68
+      },
+      "rating": 68,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "hun38titkos",
+      "name": "Pál Titkos",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 80
+      },
+      "rating": 80,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 2
+    },
+    {
+      "id": "hun38toldi",
+      "name": "Géza Toldi",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 69,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 79
+      },
+      "rating": 80,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 3
+    },
+    {
+      "id": "hun38sas",
+      "name": "Ferenc Sas",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 84
+      },
+      "rating": 79,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "hun38zsengeller",
+      "name": "Gyula Zsengellér",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 71,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 79,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 5
+    },
+    {
+      "id": "hun38kohut",
+      "name": "Vilmos Kohut",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 79
+      },
+      "rating": 77,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 1
+    },
+    {
+      "id": "hun38sarosi2",
+      "name": "György Sárosi",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 84,
+        "fisico": 83,
+        "velocidad": 77,
+        "cabezazo": 76,
+        "pressing": 76,
+        "desmarque": 83
+      },
+      "rating": 77,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 6
+    },
+    {
+      "id": "hun38vincze",
+      "name": "Jenő Vincze",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 73,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 80
+      },
+      "rating": 75,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 1
+    },
+    {
+      "id": "hun38cseh",
+      "name": "László Cseh",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 75,
+        "regate": 74,
+        "centro": 66,
+        "disparo": 66,
+        "desmarque": 74
+      },
+      "rating": 72,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "hun38biro2",
+      "name": "Mihály Bíró",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 70,
+        "fisico": 70,
+        "velocidad": 61,
+        "cabezazo": 61,
+        "pressing": 61,
+        "desmarque": 70
+      },
+      "rating": 69,
+      "country": "Hungría",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "country": "Inglaterra",
+  "countryCode": "ENG",
+  "confederation": "UEFA",
+  "year": 2006,
+  "tournamentId": "wc-2006",
+  "players": [
+    {
+      "id": "eng06robinson",
+      "name": "Paul Robinson",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 72,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 73,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "eng06james",
+      "name": "David James",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 70,
+        "manejo": 70,
+        "salidas": 62,
+        "penales": 61,
+        "distribucion": 61
+      },
+      "rating": 68,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "eng06carson",
+      "name": "Scott Carson",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 65,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 68,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "eng06neville",
+      "name": "Gary Neville",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "eng06terry",
+      "name": "John Terry",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "eng06cole",
+      "name": "Ashley Cole",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 73,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "eng06bridge",
+      "name": "Wayne Bridge",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 77
+      },
+      "rating": 73,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "eng06carragher",
+      "name": "Jamie Carragher",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 73,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "eng06ferdinand",
+      "name": "Rio Ferdinand",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 70,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    },
+    {
+      "id": "eng06campbell",
+      "name": "Sol Campbell",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 70,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    },
+    {
+      "id": "eng06gerrard",
+      "name": "Steven Gerrard",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCD",
+          "compatibility": "puede"
+        },
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 91,
+        "vision": 91,
+        "llegada": 83,
+        "recuperacion": 83,
+        "tecnica": 91
+      },
+      "rating": 91,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 3
+    },
+    {
+      "id": "eng06beckham",
+      "name": "David Beckham",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 86,
+        "vision": 86,
+        "llegada": 78,
+        "recuperacion": 78,
+        "tecnica": 86
+      },
+      "rating": 86,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 3
+    },
+    {
+      "id": "eng06carrick",
+      "name": "Michael Carrick",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 72,
+        "recuperacion": 71,
+        "tecnica": 80
+      },
+      "rating": 78,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "eng06lampard",
+      "name": "Frank Lampard",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 75,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "eng06cole2",
+      "name": "Joe Cole",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 81,
+        "paseFiltrado": 81,
+        "llegada": 81,
+        "regate": 73,
+        "disparo": 74
+      },
+      "rating": 75,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    },
+    {
+      "id": "eng06jenas",
+      "name": "Jermaine Jenas",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 77,
+        "resistencia": 70
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "eng06downing",
+      "name": "Stewart Downing",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 74,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "eng06hargreaves",
+      "name": "Owen Hargreaves",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 79
+      },
+      "rating": 72,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "eng06lennon",
+      "name": "Aaron Lennon",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 66,
+        "disparo": 66
+      },
+      "rating": 69,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    },
+    {
+      "id": "eng06rooney",
+      "name": "Wayne Rooney",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 94,
+        "fisico": 93,
+        "velocidad": 86,
+        "cabezazo": 86,
+        "pressing": 86,
+        "desmarque": 94
+      },
+      "rating": 89,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    },
+    {
+      "id": "eng06owen",
+      "name": "Michael Owen",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 87,
+        "regate": 87,
+        "centro": 80,
+        "disparo": 79,
+        "desmarque": 87
+      },
+      "rating": 80,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 4
+    },
+    {
+      "id": "eng06crouch",
+      "name": "Peter Crouch",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 73,
+        "regate": 74,
+        "centro": 65,
+        "disparo": 65,
+        "desmarque": 74
+      },
+      "rating": 73,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006",
+      "goals": 1
+    },
+    {
+      "id": "eng06walcott",
+      "name": "Theo Walcott",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 69,
+        "fisico": 69,
+        "velocidad": 59,
+        "cabezazo": 60,
+        "pressing": 60,
+        "desmarque": 69
+      },
+      "rating": 69,
+      "country": "Inglaterra",
+      "tournamentYear": 2006,
+      "tournamentId": "wc-2006"
+    }
+  ]
+}

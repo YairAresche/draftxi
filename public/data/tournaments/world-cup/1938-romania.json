@@ -1,0 +1,412 @@
+{
+  "country": "Rumanía",
+  "countryCode": "ROU",
+  "confederation": "UEFA",
+  "year": 1938,
+  "tournamentId": "wc-1938",
+  "players": [
+    {
+      "id": "rou38pavlovici",
+      "name": "Dumitru Pavlovici",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 82,
+        "manejo": 82,
+        "salidas": 74,
+        "penales": 74,
+        "distribucion": 74
+      },
+      "rating": 78,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38david",
+      "name": "Mircea David",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 73,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38sadowski",
+      "name": "Robert Sadowski",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 69,
+        "manejo": 69,
+        "salidas": 60,
+        "penales": 60,
+        "distribucion": 60
+      },
+      "rating": 69,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38chiroiu",
+      "name": "Vasile Chiroiu",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 77,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38sfera",
+      "name": "Lazăr Sfera",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 82
+      },
+      "rating": 76,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38burger",
+      "name": "Rudolf Bürger",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 74,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38felecan",
+      "name": "Iacob Felecan",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 63,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 71,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38cossini",
+      "name": "Vintilă Cossini",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 75,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38brandabura",
+      "name": "Gheorghe Brandabura",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 79
+      },
+      "rating": 73,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38raffinsky",
+      "name": "László Raffinsky",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 79,
+        "llegada": 79,
+        "regate": 71,
+        "disparo": 72
+      },
+      "rating": 73,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38rasinaru",
+      "name": "Gheorghe Rășinaru",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 73,
+        "recuperacion": 73,
+        "tecnica": 80
+      },
+      "rating": 73,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38barbulescu",
+      "name": "Andrei Bărbulescu",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 77,
+        "pases": 77,
+        "posicionamiento": 77,
+        "duelos": 77,
+        "resistencia": 70
+      },
+      "rating": 70,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38baratky",
+      "name": "Iuliu Baratky",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 85,
+        "fisico": 85,
+        "velocidad": 78,
+        "cabezazo": 77,
+        "pressing": 77,
+        "desmarque": 85
+      },
+      "rating": 79,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 1
+    },
+    {
+      "id": "rou38bindea",
+      "name": "Silviu Bindea",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 85,
+        "regate": 85,
+        "centro": 77,
+        "disparo": 78,
+        "desmarque": 85
+      },
+      "rating": 79,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 1
+    },
+    {
+      "id": "rou38dobay",
+      "name": "Ștefan Dobay",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 67,
+        "disparo": 67,
+        "desmarque": 75
+      },
+      "rating": 76,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938",
+      "goals": 3
+    },
+    {
+      "id": "rou38kovacs",
+      "name": "Nicolae Kovács",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 67,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 76
+      },
+      "rating": 75,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38bodola",
+      "name": "Iuliu Bodola",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 71,
+        "disparo": 71,
+        "desmarque": 79
+      },
+      "rating": 73,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38braunbogdan",
+      "name": "Coloman Braun-Bogdan",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 74,
+        "regate": 73,
+        "centro": 65,
+        "disparo": 65,
+        "desmarque": 74
+      },
+      "rating": 73,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38moldoveanu",
+      "name": "Ioachim Moldoveanu",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 75,
+        "fisico": 75,
+        "velocidad": 68,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 75
+      },
+      "rating": 71,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38prassler",
+      "name": "Gyula Prassler",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 72,
+        "fisico": 72,
+        "velocidad": 63,
+        "cabezazo": 63,
+        "pressing": 63,
+        "desmarque": 72
+      },
+      "rating": 70,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38bogdan",
+      "name": "Ion Bogdan",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 71,
+        "fisico": 71,
+        "velocidad": 63,
+        "cabezazo": 63,
+        "pressing": 63,
+        "desmarque": 71
+      },
+      "rating": 69,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    },
+    {
+      "id": "rou38nagy",
+      "name": "Miklós Nagy",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 69,
+        "fisico": 69,
+        "velocidad": 60,
+        "cabezazo": 60,
+        "pressing": 60,
+        "desmarque": 69
+      },
+      "rating": 69,
+      "country": "Rumanía",
+      "tournamentYear": 1938,
+      "tournamentId": "wc-1938"
+    }
+  ]
+}

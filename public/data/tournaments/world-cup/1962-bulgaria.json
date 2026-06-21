@@ -1,0 +1,422 @@
+{
+  "country": "Bulgaria",
+  "countryCode": "BGR",
+  "confederation": "UEFA",
+  "year": 1962,
+  "tournamentId": "wc-1962",
+  "players": [
+    {
+      "id": "bgr62ivanov",
+      "name": "Ivan Ivanov",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 85,
+        "manejo": 85,
+        "salidas": 77,
+        "penales": 77,
+        "distribucion": 77
+      },
+      "rating": 78,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "bgr62parshanov",
+      "name": "Nikola Parshanov",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 80,
+        "salidas": 73,
+        "penales": 73,
+        "distribucion": 73
+      },
+      "rating": 75,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "bgr62naydenov",
+      "name": "Georgi Naydenov",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 75,
+        "salidas": 66,
+        "penales": 67,
+        "distribucion": 67
+      },
+      "rating": 74,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "bgr62rakarov",
+      "name": "Kiril Rakarov",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 64,
+        "pases": 75,
+        "duelos": 82
+      },
+      "rating": 75,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "bgr62dimov",
+      "name": "Dimitar Dimov",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 76,
+        "pases": 75,
+        "duelos": 82
+      },
+      "rating": 75,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "bgr62dimitrov",
+      "name": "Ivan Dimitrov",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 73,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "bgr62kostov",
+      "name": "Dimitar Kostov",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 70,
+        "pases": 70,
+        "duelos": 77
+      },
+      "rating": 71,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "bgr62zhechev",
+      "name": "Dobromir Zhechev",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 70,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "bgr62kitov",
+      "name": "Stoyan Kitov",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 81,
+        "resistencia": 72
+      },
+      "rating": 78,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "bgr62diev",
+      "name": "Todor Diev",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 77,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "bgr62dimitrov2",
+      "name": "Panteley Dimitrov",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 66,
+        "recuperacion": 66,
+        "tecnica": 75
+      },
+      "rating": 74,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "bgr62kostov2",
+      "name": "Aleksandar Kostov",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 71,
+        "disparo": 71
+      },
+      "rating": 72,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "bgr62kovachev",
+      "name": "Nikola Kovachev",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 70,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "bgr62yakimov",
+      "name": "Dimitar Yakimov",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 79,
+        "regate": 79,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 79
+      },
+      "rating": 78,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "bgr62asparuhov",
+      "name": "Georgi Asparuhov",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 78,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "bgr62sokolov",
+      "name": "Georgi Sokolov",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 73,
+        "desmarque": 80
+      },
+      "rating": 77,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "bgr62panayotov",
+      "name": "Panayot Panayotov",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 77,
+        "fisico": 77,
+        "velocidad": 68,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 78
+      },
+      "rating": 77,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "bgr62velichkov",
+      "name": "Petar Velichkov",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 80,
+        "velocidad": 72,
+        "cabezazo": 72,
+        "pressing": 72,
+        "desmarque": 80
+      },
+      "rating": 76,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "bgr62iliev",
+      "name": "Hristo Iliev",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 74,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 80
+      },
+      "rating": 74,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "bgr62kolev",
+      "name": "Ivan Kolev",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 68,
+        "disparo": 68,
+        "desmarque": 76
+      },
+      "rating": 73,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    },
+    {
+      "id": "bgr62dermendzhiev",
+      "name": "Dinko Dermendzhiev",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 74,
+        "fisico": 74,
+        "velocidad": 65,
+        "cabezazo": 65,
+        "pressing": 65,
+        "desmarque": 74
+      },
+      "rating": 72,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962",
+      "goals": 1
+    },
+    {
+      "id": "bgr62nikolov",
+      "name": "Georgi Nikolov",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 72,
+        "fisico": 72,
+        "velocidad": 64,
+        "cabezazo": 64,
+        "pressing": 64,
+        "desmarque": 72
+      },
+      "rating": 69,
+      "country": "Bulgaria",
+      "tournamentYear": 1962,
+      "tournamentId": "wc-1962"
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "country": "Alemania",
+  "countryCode": "DEU",
+  "confederation": "UEFA",
+  "year": 1958,
+  "tournamentId": "wc-1958",
+  "players": [
+    {
+      "id": "deu58herkenrath",
+      "name": "Fritz Herkenrath",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 78,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "deu58sawitzki",
+      "name": "Günter Sawitzki",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 70,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "deu58kwiatkowski",
+      "name": "Heinz Kwiatkowski",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 68,
+        "manejo": 68,
+        "salidas": 59,
+        "penales": 59,
+        "distribucion": 59
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "deu58juskowiak",
+      "name": "Erich Juskowiak",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 76,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "deu58schnellinger",
+      "name": "Karl-Heinz Schnellinger",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 65,
+        "pases": 66,
+        "duelos": 75
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 1
+    },
+    {
+      "id": "deu58erhardt",
+      "name": "Herbert Erhardt",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "deu58wewers",
+      "name": "Heinz Wewers",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "deu58stollenwerk",
+      "name": "Georg Stollenwerk",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "deu58nuber",
+      "name": "Hermann Nuber",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "deu58szymaniak",
+      "name": "Horst Szymaniak",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 80
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 1
+    },
+    {
+      "id": "deu58eckel",
+      "name": "Horst Eckel",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 81,
+        "duelos": 81,
+        "resistencia": 74
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "deu58schmidt",
+      "name": "Aki Schmidt",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 70,
+        "disparo": 71
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "deu58peters",
+      "name": "Wolfgang Peters",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 76,
+        "pases": 76,
+        "posicionamiento": 76,
+        "duelos": 76,
+        "resistencia": 69
+      },
+      "rating": 73,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "deu58walter",
+      "name": "Fritz Walter",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 77
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 3
+    },
+    {
+      "id": "deu58hoffmann",
+      "name": "Rudi Hoffmann",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 75
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "deu58seeler",
+      "name": "Uwe Seeler",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 89,
+        "fisico": 89,
+        "velocidad": 81,
+        "cabezazo": 81,
+        "pressing": 81,
+        "desmarque": 89
+      },
+      "rating": 87,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 9
+    },
+    {
+      "id": "deu58rahn",
+      "name": "Helmut Rahn",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 86,
+        "fisico": 86,
+        "velocidad": 79,
+        "cabezazo": 79,
+        "pressing": 79,
+        "desmarque": 86
+      },
+      "rating": 80,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 10
+    },
+    {
+      "id": "deu58schafer",
+      "name": "Hans Schäfer",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 85,
+        "regate": 85,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 85
+      },
+      "rating": 80,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 7
+    },
+    {
+      "id": "deu58kelbassa",
+      "name": "Alfred Kelbassa",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 78
+      },
+      "rating": 78,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    },
+    {
+      "id": "deu58klodt",
+      "name": "Bernhard Klodt",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 76,
+        "velocidad": 67,
+        "cabezazo": 68,
+        "pressing": 68,
+        "desmarque": 76
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 1
+    },
+    {
+      "id": "deu58cieslarczyk",
+      "name": "Hans Cieslarczyk",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 80,
+        "centro": 73,
+        "disparo": 74,
+        "desmarque": 81
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958",
+      "goals": 1
+    },
+    {
+      "id": "deu58sturm",
+      "name": "Hans Sturm",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 71,
+        "fisico": 71,
+        "velocidad": 62,
+        "cabezazo": 63,
+        "pressing": 63,
+        "desmarque": 71
+      },
+      "rating": 70,
+      "country": "Alemania",
+      "tournamentYear": 1958,
+      "tournamentId": "wc-1958"
+    }
+  ]
+}

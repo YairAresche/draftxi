@@ -1,0 +1,433 @@
+{
+  "country": "Alemania",
+  "countryCode": "DEU",
+  "confederation": "UEFA",
+  "year": 2018,
+  "tournamentId": "wc-2018",
+  "players": [
+    {
+      "id": "deu18neuer",
+      "name": "Manuel Neuer",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 93,
+        "manejo": 93,
+        "salidas": 85,
+        "penales": 86,
+        "distribucion": 85
+      },
+      "rating": 91,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "deu18ter-stegen",
+      "name": "Marc-André ter Stegen",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 79,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 78,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "deu18trapp",
+      "name": "Kevin Trapp",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 71,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "deu18hummels",
+      "name": "Mats Hummels",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 90,
+        "intercepciones": 90,
+        "velocidad": 82,
+        "pases": 81,
+        "duelos": 89
+      },
+      "rating": 87,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 2
+    },
+    {
+      "id": "deu18boateng",
+      "name": "Jérôme Boateng",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 90,
+        "intercepciones": 90,
+        "velocidad": 83,
+        "pases": 82,
+        "duelos": 90
+      },
+      "rating": 85,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "deu18hector",
+      "name": "Jonas Hector",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 73,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "deu18kimmich",
+      "name": "Joshua Kimmich",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 73,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "deu18ginter",
+      "name": "Matthias Ginter",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 64,
+        "duelos": 73
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "deu18sule",
+      "name": "Niklas Süle",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 66,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "deu18rudiger",
+      "name": "Antonio Rüdiger",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "deu18plattenhardt",
+      "name": "Marvin Plattenhardt",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 77
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "deu18kroos",
+      "name": "Toni Kroos",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 90,
+        "vision": 90,
+        "llegada": 82,
+        "recuperacion": 82,
+        "tecnica": 91
+      },
+      "rating": 89,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 3
+    },
+    {
+      "id": "deu18ozil",
+      "name": "Mesut Özil",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 87,
+        "paseFiltrado": 87,
+        "llegada": 87,
+        "regate": 79,
+        "disparo": 80
+      },
+      "rating": 82,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 2
+    },
+    {
+      "id": "deu18rudy",
+      "name": "Sebastian Rudy",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 85,
+        "vision": 85,
+        "llegada": 78,
+        "recuperacion": 78,
+        "tecnica": 85
+      },
+      "rating": 78,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "deu18brandt",
+      "name": "Julian Brandt",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 77,
+        "paseFiltrado": 77,
+        "llegada": 77,
+        "regate": 78,
+        "disparo": 79
+      },
+      "rating": 78,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "deu18gundogan",
+      "name": "İlkay Gündoğan",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 79,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 79
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "deu18draxler",
+      "name": "Julian Draxler",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 70,
+        "vision": 78,
+        "llegada": 61,
+        "recuperacion": 61,
+        "tecnica": 70
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "deu18khedira",
+      "name": "Sami Khedira",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 66
+      },
+      "rating": 70,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 2
+    },
+    {
+      "id": "deu18goretzka",
+      "name": "Leon Goretzka",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 69,
+        "pases": 70,
+        "posicionamiento": 70,
+        "duelos": 69,
+        "resistencia": 60
+      },
+      "rating": 70,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "deu18muller",
+      "name": "Thomas Müller",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 93,
+        "regate": 93,
+        "centro": 85,
+        "disparo": 85,
+        "desmarque": 92
+      },
+      "rating": 86,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 10
+    },
+    {
+      "id": "deu18reus",
+      "name": "Marco Reus",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 73,
+        "disparo": 73,
+        "desmarque": 81
+      },
+      "rating": 79,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018",
+      "goals": 1
+    },
+    {
+      "id": "deu18werner",
+      "name": "Timo Werner",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 77,
+        "cabezazo": 76,
+        "pressing": 76,
+        "desmarque": 83
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    },
+    {
+      "id": "deu18gomez",
+      "name": "Mario Gómez",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 63,
+        "disparo": 64,
+        "desmarque": 72
+      },
+      "rating": 72,
+      "country": "Alemania",
+      "tournamentYear": 2018,
+      "tournamentId": "wc-2018"
+    }
+  ]
+}

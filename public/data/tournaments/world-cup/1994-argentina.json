@@ -1,0 +1,407 @@
+{
+  "country": "Argentina",
+  "countryCode": "ARG",
+  "confederation": "CONMEBOL",
+  "year": 1994,
+  "tournamentId": "wc-1994",
+  "players": [
+    {
+      "id": "arg94goycochea",
+      "name": "Sergio Goycochea",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 80,
+        "manejo": 80,
+        "salidas": 72,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "arg94scoponi",
+      "name": "Norberto Scoponi",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "arg94islas",
+      "name": "Luis Islas",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 72,
+        "manejo": 72,
+        "salidas": 64,
+        "penales": 65,
+        "distribucion": 65
+      },
+      "rating": 69,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "arg94sensini",
+      "name": "Roberto Néstor Sensini",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 82,
+        "velocidad": 75,
+        "pases": 74,
+        "duelos": 82
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "arg94vazquez",
+      "name": "Sergio Vázquez",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 80,
+        "velocidad": 74,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 74,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "arg94caceres",
+      "name": "Fernando Cáceres",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 73,
+        "pases": 72,
+        "duelos": 79
+      },
+      "rating": 72,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "arg94chamot",
+      "name": "José Chamot",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 71,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "arg94borelli",
+      "name": "Jorge Borelli",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 71,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "arg94ruggeri",
+      "name": "Oscar Ruggeri",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 70,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "arg94diaz",
+      "name": "Hernán Díaz",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 77,
+        "velocidad": 59,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 70,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "arg94maradona",
+      "name": "Diego Maradona",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 90,
+        "paseFiltrado": 90,
+        "llegada": 90,
+        "regate": 83,
+        "disparo": 83
+      },
+      "rating": 86,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 8
+    },
+    {
+      "id": "arg94ortega",
+      "name": "Ariel Ortega",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 91,
+        "paseFiltrado": 91,
+        "llegada": 91,
+        "regate": 74,
+        "disparo": 73
+      },
+      "rating": 84,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 2
+    },
+    {
+      "id": "arg94basualdo",
+      "name": "José Basualdo",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 82,
+        "llegada": 75,
+        "recuperacion": 75,
+        "tecnica": 82
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "arg94rodriguez",
+      "name": "Leonardo Rodríguez",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 67,
+        "recuperacion": 67,
+        "tecnica": 76
+      },
+      "rating": 75,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "arg94redondo",
+      "name": "Fernando Redondo",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 73,
+        "posicionamiento": 73,
+        "duelos": 81,
+        "resistencia": 74
+      },
+      "rating": 74,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "arg94perez",
+      "name": "Hugo Pérez",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 65
+      },
+      "rating": 73,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "arg94mancuso",
+      "name": "Alejandro Mancuso",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 76,
+        "paseFiltrado": 76,
+        "llegada": 77,
+        "regate": 69,
+        "disparo": 69
+      },
+      "rating": 73,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "arg94simeone",
+      "name": "Diego Simeone",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 68,
+        "paseFiltrado": 68,
+        "llegada": 68,
+        "regate": 59,
+        "disparo": 59
+      },
+      "rating": 68,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "arg94batistuta",
+      "name": "Gabriel Batistuta",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 97,
+        "fisico": 97,
+        "velocidad": 90,
+        "cabezazo": 90,
+        "pressing": 90,
+        "desmarque": 97
+      },
+      "rating": 92,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 10
+    },
+    {
+      "id": "arg94balbo",
+      "name": "Abel Balbo",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 85,
+        "fisico": 84,
+        "velocidad": 78,
+        "cabezazo": 77,
+        "pressing": 77,
+        "desmarque": 84
+      },
+      "rating": 79,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 1
+    },
+    {
+      "id": "arg94caniggia",
+      "name": "Claudio Caniggia",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 79,
+        "velocidad": 71,
+        "cabezazo": 71,
+        "pressing": 71,
+        "desmarque": 79
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994",
+      "goals": 4
+    },
+    {
+      "id": "arg94medina-bello",
+      "name": "Ramón Medina Bello",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 77,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 78
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    }
+  ]
+}

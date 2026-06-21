@@ -1,0 +1,399 @@
+{
+  "country": "Bulgaria",
+  "countryCode": "BGR",
+  "confederation": "UEFA",
+  "year": 1974,
+  "tournamentId": "wc-1974",
+  "players": [
+    {
+      "id": "bgr74goranov",
+      "name": "Rumyancho Goranov",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 72,
+        "penales": 72,
+        "distribucion": 72
+      },
+      "rating": 74,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74staykov",
+      "name": "Stefan Staykov",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 71,
+        "penales": 71,
+        "distribucion": 71
+      },
+      "rating": 73,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74simeonov",
+      "name": "Simeon Simeonov",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 73,
+        "manejo": 73,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 68,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74kolev",
+      "name": "Bozhil Kolev",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 72,
+        "intercepciones": 72,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 72
+      },
+      "rating": 73,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74zhechev",
+      "name": "Dobromir Zhechev",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 61,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 72,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974",
+      "goals": 1
+    },
+    {
+      "id": "bgr74zafirov",
+      "name": "Ivan Zafirov",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 63,
+        "duelos": 71
+      },
+      "rating": 71,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74aladzhov",
+      "name": "Stefan Aladzhov",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 69,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74penev",
+      "name": "Dimitar Penev",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 68,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74vasilev",
+      "name": "Mladen Vasilev",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 61,
+        "pases": 61,
+        "duelos": 69
+      },
+      "rating": 67,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74nikodimov",
+      "name": "Asparuh Nikodimov",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 85,
+        "paseFiltrado": 85,
+        "llegada": 85,
+        "regate": 78,
+        "disparo": 79
+      },
+      "rating": 78,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974",
+      "goals": 1
+    },
+    {
+      "id": "bgr74stoyanov",
+      "name": "Ivan Stoyanov",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 77
+      },
+      "rating": 76,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74velichkov",
+      "name": "Stefko Velichkov",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 72,
+        "pases": 72,
+        "posicionamiento": 72,
+        "duelos": 72,
+        "resistencia": 63
+      },
+      "rating": 72,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74denev",
+      "name": "Georgi Denev",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 70,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74ivkov",
+      "name": "Kiril Ivkov",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 68,
+        "pases": 76,
+        "posicionamiento": 68,
+        "duelos": 68,
+        "resistencia": 59
+      },
+      "rating": 69,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74vasilev2",
+      "name": "Tsonyo Vasilev",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 71,
+        "vision": 71,
+        "llegada": 62,
+        "recuperacion": 62,
+        "tecnica": 70
+      },
+      "rating": 68,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74bonev",
+      "name": "Hristo Bonev",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 81,
+        "regate": 81,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 82
+      },
+      "rating": 76,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974",
+      "goals": 2
+    },
+    {
+      "id": "bgr74panov",
+      "name": "Pavel Panov",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 82
+      },
+      "rating": 76,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74milanov",
+      "name": "Kiril Milanov",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 78,
+        "fisico": 77,
+        "velocidad": 69,
+        "cabezazo": 69,
+        "pressing": 69,
+        "desmarque": 77
+      },
+      "rating": 75,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74borisov",
+      "name": "Krasimir Borisov",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 78,
+        "fisico": 78,
+        "velocidad": 70,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 78
+      },
+      "rating": 74,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74voynov",
+      "name": "Voyn Voynov",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 78,
+        "velocidad": 71,
+        "cabezazo": 70,
+        "pressing": 70,
+        "desmarque": 78
+      },
+      "rating": 72,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74mihailov",
+      "name": "Atanas Mihailov",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 72,
+        "regate": 72,
+        "centro": 63,
+        "disparo": 63,
+        "desmarque": 72
+      },
+      "rating": 71,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "bgr74grigorov",
+      "name": "Bozhidar Grigorov",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 71,
+        "regate": 71,
+        "centro": 62,
+        "disparo": 62,
+        "desmarque": 71
+      },
+      "rating": 71,
+      "country": "Bulgaria",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    }
+  ]
+}

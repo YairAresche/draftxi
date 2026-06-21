@@ -1,0 +1,405 @@
+{
+  "country": "Australia",
+  "countryCode": "AUS",
+  "confederation": "AFC",
+  "year": 1974,
+  "tournamentId": "wc-1974",
+  "players": [
+    {
+      "id": "aus74maher",
+      "name": "Allan Maher",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 78,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 77,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74reilly",
+      "name": "Jack Reilly",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 76,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74milisavljevic",
+      "name": "Jim Milisavljevic",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 65,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 72,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74rudic",
+      "name": "Ivo Rudic",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 76,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74schaefer",
+      "name": "Manfred Schaefer",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 68,
+        "pases": 68,
+        "duelos": 76
+      },
+      "rating": 71,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74wilson",
+      "name": "Peter Wilson",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 76,
+        "velocidad": 70,
+        "pases": 69,
+        "duelos": 76
+      },
+      "rating": 70,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74utjesenovic",
+      "name": "Doug Utjesenovic",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 66,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 69,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74williams",
+      "name": "Harry Williams",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 70,
+        "intercepciones": 70,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 70
+      },
+      "rating": 69,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74curran",
+      "name": "Colin Curran",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 68,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74harding",
+      "name": "Dave Harding",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 68,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 67,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74ollerton",
+      "name": "Peter Ollerton",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 80,
+        "llegada": 72,
+        "recuperacion": 72,
+        "tecnica": 80
+      },
+      "rating": 77,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74mackay",
+      "name": "Jimmy Mackay",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 75,
+        "vision": 75,
+        "llegada": 66,
+        "recuperacion": 67,
+        "tecnica": 75
+      },
+      "rating": 75,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74richards",
+      "name": "Ray Richards",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 77,
+        "pases": 77,
+        "posicionamiento": 77,
+        "duelos": 77,
+        "resistencia": 68
+      },
+      "rating": 74,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74tolson",
+      "name": "Max Tolson",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 78,
+        "pases": 78,
+        "posicionamiento": 78,
+        "duelos": 78,
+        "resistencia": 70
+      },
+      "rating": 73,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74watkiss",
+      "name": "Johnny Watkiss",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 73,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74warren",
+      "name": "Johnny Warren",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 71,
+        "disparo": 72
+      },
+      "rating": 71,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74rooney",
+      "name": "Jimmy Rooney",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 70,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74campbell",
+      "name": "Ernie Campbell",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 74,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 66,
+        "disparo": 66
+      },
+      "rating": 70,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74alston",
+      "name": "Adrian Alston",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 83,
+        "regate": 82,
+        "centro": 75,
+        "disparo": 75,
+        "desmarque": 83
+      },
+      "rating": 78,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74buljevic",
+      "name": "Branko Buljevic",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 72,
+        "fisico": 72,
+        "velocidad": 62,
+        "cabezazo": 63,
+        "pressing": 63,
+        "desmarque": 72
+      },
+      "rating": 72,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74abonyi",
+      "name": "Attila Abonyi",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 76,
+        "regate": 76,
+        "centro": 69,
+        "disparo": 69,
+        "desmarque": 76
+      },
+      "rating": 70,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    },
+    {
+      "id": "aus74manuel",
+      "name": "Garry Manuel",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 72,
+        "fisico": 72,
+        "velocidad": 63,
+        "cabezazo": 63,
+        "pressing": 63,
+        "desmarque": 71
+      },
+      "rating": 69,
+      "country": "Australia",
+      "tournamentYear": 1974,
+      "tournamentId": "wc-1974"
+    }
+  ]
+}

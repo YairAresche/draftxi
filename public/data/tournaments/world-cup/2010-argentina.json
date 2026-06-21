@@ -1,0 +1,436 @@
+{
+  "country": "Argentina",
+  "countryCode": "ARG",
+  "confederation": "CONMEBOL",
+  "year": 2010,
+  "tournamentId": "wc-2010",
+  "players": [
+    {
+      "id": "arg10pozo",
+      "name": "Diego Pozo",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 79,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 78,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "arg10andujar",
+      "name": "Mariano Andújar",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 74,
+        "manejo": 74,
+        "salidas": 66,
+        "penales": 66,
+        "distribucion": 66
+      },
+      "rating": 72,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "arg10romero",
+      "name": "Sergio Romero",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 70,
+        "penales": 70,
+        "distribucion": 70
+      },
+      "rating": 70,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "arg10otamendi",
+      "name": "Nicolás Otamendi",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 70,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "arg10samuel",
+      "name": "Walter Samuel",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 79,
+        "velocidad": 72,
+        "pases": 71,
+        "duelos": 79
+      },
+      "rating": 75,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "arg10garce",
+      "name": "Ariel Garcé",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 77,
+        "velocidad": 69,
+        "pases": 69,
+        "duelos": 77
+      },
+      "rating": 74,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "arg10demichelis",
+      "name": "Martín Demichelis",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 78,
+        "velocidad": 71,
+        "pases": 70,
+        "duelos": 77
+      },
+      "rating": 71,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "arg10heinze",
+      "name": "Gabriel Heinze",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 70,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "arg10rodriguez",
+      "name": "Clemente Rodríguez",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 71,
+        "intercepciones": 71,
+        "velocidad": 62,
+        "pases": 62,
+        "duelos": 71
+      },
+      "rating": 69,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "arg10burdisso",
+      "name": "Nicolás Burdisso",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 61,
+        "duelos": 69
+      },
+      "rating": 68,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "arg10bolatti",
+      "name": "Mario Bolatti",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 85,
+        "pases": 85,
+        "posicionamiento": 85,
+        "duelos": 85,
+        "resistencia": 78
+      },
+      "rating": 78,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "arg10di-maria",
+      "name": "Ángel Di María",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 78
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 3
+    },
+    {
+      "id": "arg10mascherano",
+      "name": "Javier Mascherano",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 75,
+        "paseFiltrado": 75,
+        "llegada": 75,
+        "regate": 66,
+        "disparo": 65
+      },
+      "rating": 75,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "arg10gutierrez",
+      "name": "Jonás Gutiérrez",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 73,
+        "vision": 73,
+        "llegada": 64,
+        "recuperacion": 65,
+        "tecnica": 73
+      },
+      "rating": 73,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "arg10rodriguez2",
+      "name": "Maxi Rodríguez",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 74,
+        "pases": 74,
+        "posicionamiento": 74,
+        "duelos": 74,
+        "resistencia": 65
+      },
+      "rating": 72,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 3
+    },
+    {
+      "id": "arg10pastore",
+      "name": "Javier Pastore",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 72,
+        "vision": 72,
+        "llegada": 64,
+        "recuperacion": 64,
+        "tecnica": 72
+      },
+      "rating": 70,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "arg10veron",
+      "name": "Juan Sebastián Verón",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 69,
+        "recuperacion": 69,
+        "tecnica": 76
+      },
+      "rating": 69,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "arg10messi",
+      "name": "Lionel Messi",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 91,
+        "regate": 91,
+        "centro": 83,
+        "disparo": 83,
+        "desmarque": 91
+      },
+      "rating": 89,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 13
+    },
+    {
+      "id": "arg10aguero",
+      "name": "Sergio Agüero",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 83,
+        "fisico": 83,
+        "velocidad": 74,
+        "cabezazo": 74,
+        "pressing": 74,
+        "desmarque": 83
+      },
+      "rating": 82,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 2
+    },
+    {
+      "id": "arg10higuain",
+      "name": "Gonzalo Higuaín",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 86,
+        "fisico": 86,
+        "velocidad": 79,
+        "cabezazo": 78,
+        "pressing": 78,
+        "desmarque": 86
+      },
+      "rating": 80,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 5
+    },
+    {
+      "id": "arg10tevez",
+      "name": "Carlos Tevez",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 84,
+        "regate": 84,
+        "centro": 77,
+        "disparo": 77,
+        "desmarque": 84
+      },
+      "rating": 78,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 3
+    },
+    {
+      "id": "arg10palermo",
+      "name": "Martín Palermo",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 80,
+        "centro": 72,
+        "disparo": 72,
+        "desmarque": 80
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "arg10milito",
+      "name": "Diego Milito",
+      "position": "ED",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 70,
+        "regate": 70,
+        "centro": 61,
+        "disparo": 61,
+        "desmarque": 70
+      },
+      "rating": 71,
+      "country": "Argentina",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    }
+  ]
+}

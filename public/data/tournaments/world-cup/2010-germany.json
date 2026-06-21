@@ -1,0 +1,464 @@
+{
+  "country": "Alemania",
+  "countryCode": "DEU",
+  "confederation": "UEFA",
+  "year": 2010,
+  "tournamentId": "wc-2010",
+  "players": [
+    {
+      "id": "deu10neuer",
+      "name": "Manuel Neuer",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 88,
+        "manejo": 88,
+        "salidas": 79,
+        "penales": 79,
+        "distribucion": 79
+      },
+      "rating": 88,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "deu10butt",
+      "name": "Hans-Jörg Butt",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 77,
+        "salidas": 69,
+        "penales": 69,
+        "distribucion": 69
+      },
+      "rating": 75,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "deu10wiese",
+      "name": "Tim Wiese",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "deu10lahm",
+      "name": "Philipp Lahm",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "LI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 96,
+        "intercepciones": 96,
+        "velocidad": 89,
+        "pases": 89,
+        "duelos": 96
+      },
+      "rating": 92,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "deu10jansen",
+      "name": "Marcell Jansen",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 73,
+        "pases": 73,
+        "duelos": 80
+      },
+      "rating": 76,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "deu10aogo",
+      "name": "Dennis Aogo",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 80,
+        "velocidad": 72,
+        "pases": 72,
+        "duelos": 80
+      },
+      "rating": 76,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "deu10badstuber",
+      "name": "Holger Badstuber",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 75,
+        "velocidad": 67,
+        "pases": 67,
+        "duelos": 75
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "deu10mertesacker",
+      "name": "Per Mertesacker",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 66,
+        "pases": 66,
+        "duelos": 74
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "deu10boateng",
+      "name": "Jérôme Boateng",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 65,
+        "pases": 65,
+        "duelos": 73
+      },
+      "rating": 71,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "deu10friedrich",
+      "name": "Arne Friedrich",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 68,
+        "intercepciones": 68,
+        "velocidad": 59,
+        "pases": 59,
+        "duelos": 68
+      },
+      "rating": 68,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "deu10tasci",
+      "name": "Serdar Tasci",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 74,
+        "velocidad": 68,
+        "pases": 67,
+        "duelos": 74
+      },
+      "rating": 68,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "deu10schweinsteiger",
+      "name": "Bastian Schweinsteiger",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 95,
+        "vision": 95,
+        "llegada": 88,
+        "recuperacion": 88,
+        "tecnica": 95
+      },
+      "rating": 91,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 2
+    },
+    {
+      "id": "deu10ozil",
+      "name": "Mesut Özil",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 91,
+        "paseFiltrado": 91,
+        "llegada": 91,
+        "regate": 83,
+        "disparo": 82
+      },
+      "rating": 90,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 2
+    },
+    {
+      "id": "deu10khedira",
+      "name": "Sami Khedira",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 81,
+        "pases": 81,
+        "posicionamiento": 82,
+        "duelos": 81,
+        "resistencia": 73
+      },
+      "rating": 78,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 2
+    },
+    {
+      "id": "deu10trochowski",
+      "name": "Piotr Trochowski",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 80,
+        "pases": 80,
+        "posicionamiento": 80,
+        "duelos": 80,
+        "resistencia": 72
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "deu10podolski",
+      "name": "Lukas Podolski",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 78,
+        "paseFiltrado": 78,
+        "llegada": 78,
+        "regate": 70,
+        "disparo": 70
+      },
+      "rating": 75,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 5
+    },
+    {
+      "id": "deu10kroos",
+      "name": "Toni Kroos",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 77,
+        "vision": 77,
+        "llegada": 70,
+        "recuperacion": 70,
+        "tecnica": 77
+      },
+      "rating": 74,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 3
+    },
+    {
+      "id": "deu10marin",
+      "name": "Marko Marin",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 69,
+        "paseFiltrado": 69,
+        "llegada": 69,
+        "regate": 61,
+        "disparo": 60
+      },
+      "rating": 68,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "deu10klose",
+      "name": "Miroslav Klose",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 95,
+        "fisico": 95,
+        "velocidad": 87,
+        "cabezazo": 87,
+        "pressing": 87,
+        "desmarque": 95
+      },
+      "rating": 91,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 16
+    },
+    {
+      "id": "deu10muller",
+      "name": "Thomas Müller",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 93,
+        "regate": 93,
+        "centro": 86,
+        "disparo": 86,
+        "desmarque": 93
+      },
+      "rating": 89,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 10
+    },
+    {
+      "id": "deu10cacau",
+      "name": "Cacau",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 82,
+        "regate": 82,
+        "centro": 74,
+        "disparo": 74,
+        "desmarque": 82
+      },
+      "rating": 79,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010",
+      "goals": 1
+    },
+    {
+      "id": "deu10kieling",
+      "name": "Stefan Kießling",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 84,
+        "fisico": 84,
+        "velocidad": 77,
+        "cabezazo": 77,
+        "pressing": 77,
+        "desmarque": 84
+      },
+      "rating": 78,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    },
+    {
+      "id": "deu10gomez",
+      "name": "Mario Gómez",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 71,
+        "fisico": 71,
+        "velocidad": 63,
+        "cabezazo": 63,
+        "pressing": 63,
+        "desmarque": 71
+      },
+      "rating": 69,
+      "country": "Alemania",
+      "tournamentYear": 2010,
+      "tournamentId": "wc-2010"
+    }
+  ]
+}

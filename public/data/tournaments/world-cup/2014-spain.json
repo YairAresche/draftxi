@@ -1,0 +1,434 @@
+{
+  "country": "España",
+  "countryCode": "ESP",
+  "confederation": "UEFA",
+  "year": 2014,
+  "tournamentId": "wc-2014",
+  "players": [
+    {
+      "id": "esp14casillas",
+      "name": "Iker Casillas",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 83,
+        "manejo": 83,
+        "salidas": 74,
+        "penales": 74,
+        "distribucion": 74
+      },
+      "rating": 83,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "esp14de-gea",
+      "name": "David de Gea",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 70,
+        "manejo": 70,
+        "salidas": 61,
+        "penales": 61,
+        "distribucion": 61
+      },
+      "rating": 71,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "esp14reina",
+      "name": "Pepe Reina",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 76,
+        "salidas": 68,
+        "penales": 68,
+        "distribucion": 68
+      },
+      "rating": 71,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "esp14ramos",
+      "name": "Sergio Ramos",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 95,
+        "intercepciones": 95,
+        "velocidad": 87,
+        "pases": 87,
+        "duelos": 95
+      },
+      "rating": 91,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "esp14alba",
+      "name": "Jordi Alba",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 90,
+        "intercepciones": 90,
+        "velocidad": 82,
+        "pases": 82,
+        "duelos": 91
+      },
+      "rating": 88,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "esp14pique",
+      "name": "Gerard Piqué",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 91,
+        "intercepciones": 91,
+        "velocidad": 84,
+        "pases": 83,
+        "duelos": 91
+      },
+      "rating": 87,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "esp14albiol",
+      "name": "Raúl Albiol",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 78,
+        "intercepciones": 78,
+        "velocidad": 69,
+        "pases": 70,
+        "duelos": 78
+      },
+      "rating": 75,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "esp14juanfran",
+      "name": "Juanfran",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 73,
+        "velocidad": 64,
+        "pases": 65,
+        "duelos": 74
+      },
+      "rating": 74,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "esp14azpilicueta",
+      "name": "César Azpilicueta",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 69,
+        "intercepciones": 69,
+        "velocidad": 60,
+        "pases": 60,
+        "duelos": 69
+      },
+      "rating": 68,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "esp14busquets",
+      "name": "Sergio Busquets",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 97,
+        "pases": 97,
+        "posicionamiento": 97,
+        "duelos": 97,
+        "resistencia": 90
+      },
+      "rating": 91,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "esp14iniesta",
+      "name": "Andrés Iniesta",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 93,
+        "paseFiltrado": 93,
+        "llegada": 93,
+        "regate": 85,
+        "disparo": 85
+      },
+      "rating": 90,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 2
+    },
+    {
+      "id": "esp14xavi",
+      "name": "Xavi",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 96,
+        "vision": 96,
+        "llegada": 89,
+        "recuperacion": 79,
+        "tecnica": 88
+      },
+      "rating": 89,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "esp14silva",
+      "name": "David Silva",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 91,
+        "paseFiltrado": 91,
+        "llegada": 90,
+        "regate": 82,
+        "disparo": 82
+      },
+      "rating": 89,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "esp14fabregas",
+      "name": "Cesc Fàbregas",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 87,
+        "vision": 87,
+        "llegada": 78,
+        "recuperacion": 78,
+        "tecnica": 87
+      },
+      "rating": 85,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "esp14martinez",
+      "name": "Javi Martínez",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 79,
+        "pases": 79,
+        "posicionamiento": 79,
+        "duelos": 79,
+        "resistencia": 71
+      },
+      "rating": 76,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "esp14mata",
+      "name": "Juan Mata",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 76,
+        "vision": 76,
+        "llegada": 68,
+        "recuperacion": 68,
+        "tecnica": 76
+      },
+      "rating": 73,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 1
+    },
+    {
+      "id": "esp14koke",
+      "name": "Koke",
+      "position": "MCO",
+      "altPositions": [],
+      "stats": {
+        "vision": 73,
+        "paseFiltrado": 74,
+        "llegada": 74,
+        "regate": 65,
+        "disparo": 64
+      },
+      "rating": 73,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "esp14cazorla",
+      "name": "Santi Cazorla",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 78,
+        "llegada": 71,
+        "recuperacion": 71,
+        "tecnica": 78
+      },
+      "rating": 73,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    },
+    {
+      "id": "esp14alonso",
+      "name": "Xabi Alonso",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 73,
+        "pases": 73,
+        "posicionamiento": 73,
+        "duelos": 73,
+        "resistencia": 65
+      },
+      "rating": 71,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 2
+    },
+    {
+      "id": "esp14villa",
+      "name": "David Villa",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 81,
+        "fisico": 81,
+        "velocidad": 72,
+        "cabezazo": 73,
+        "pressing": 73,
+        "desmarque": 81
+      },
+      "rating": 80,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 9
+    },
+    {
+      "id": "esp14costa",
+      "name": "Diego Costa",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 87,
+        "fisico": 87,
+        "velocidad": 81,
+        "cabezazo": 80,
+        "pressing": 80,
+        "desmarque": 87
+      },
+      "rating": 80,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 3
+    },
+    {
+      "id": "esp14torres",
+      "name": "Fernando Torres",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 84,
+        "fisico": 84,
+        "velocidad": 77,
+        "cabezazo": 76,
+        "pressing": 76,
+        "desmarque": 84
+      },
+      "rating": 79,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014",
+      "goals": 4
+    },
+    {
+      "id": "esp14pedro",
+      "name": "Pedro",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 78,
+        "regate": 78,
+        "centro": 70,
+        "disparo": 70,
+        "desmarque": 78
+      },
+      "rating": 77,
+      "country": "España",
+      "tournamentYear": 2014,
+      "tournamentId": "wc-2014"
+    }
+  ]
+}
