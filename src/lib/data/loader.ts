@@ -11,7 +11,11 @@ export interface SquadRef {
   countryCode: string
 }
 
+type PlayerOverride = { rating: number; stats: Record<string, number> }
+type OverridesMap = Record<string, PlayerOverride>
+
 let catalogPromise: Promise<SquadRef[]> | null = null
+let overridesPromise: Promise<OverridesMap> | null = null
 const squadCache = new Map<string, Squad>()
 
 export async function loadSquadCatalog(): Promise<SquadRef[]> {
@@ -23,15 +27,32 @@ export async function loadSquadCatalog(): Promise<SquadRef[]> {
   return catalogPromise
 }
 
+function loadOverrides(): Promise<OverridesMap> {
+  if (!overridesPromise) {
+    overridesPromise = fetch('/data/overrides.json')
+      .then(r => r.ok ? r.json() as Promise<OverridesMap> : {})
+      .catch(() => ({}))
+  }
+  return overridesPromise
+}
+
 export async function loadSquadBySlug(year: number, slug: string): Promise<Squad | null> {
   const key = `${year}-${slug}`
   if (squadCache.has(key)) return squadCache.get(key)!
   try {
-    const res = await fetch(`${BASE}/${key}.json`)
-    if (!res.ok) return null
-    const data: Squad = await res.json()
-    squadCache.set(key, data)
-    return data
+    const [data, overrides]: [Squad, OverridesMap] = await Promise.all([
+      fetch(`${BASE}/${key}.json`).then(r => { if (!r.ok) throw new Error(); return r.json() }),
+      loadOverrides(),
+    ])
+    const patched: Squad = {
+      ...data,
+      players: data.players.map(p => {
+        const ov = overrides[p.id]
+        return ov ? { ...p, rating: ov.rating, stats: ov.stats } : p
+      }),
+    }
+    squadCache.set(key, patched)
+    return patched
   } catch {
     return null
   }
