@@ -268,26 +268,29 @@ export default function GamePage() {
             const movingCanPlay = movingPick
               ? getCompatibility(movingPick.position, movingPick.altPositions, slot.position) !== 'forzado'
               : false
+            // For swap: also check displaced player can go back to the moving pick's origin slot
+            const movingOrigSlot = movingPick ? formation.slots.find(s => s.id === movingPick.slotId) : null
+            const displacedCanGoToOrigin = pick && movingOrigSlot
+              ? getCompatibility(pick.position, pick.altPositions, movingOrigSlot.position) !== 'forzado'
+              : false
             const isPendingTarget = pendingPlayer !== null && pick === null && pendingCanPlay
-            const isSwapTarget    = pick !== null && movingPick !== null && movingCanPlay
+            const isSwapTarget    = pick !== null && movingPick !== null && movingCanPlay && displacedCanGoToOrigin
             const isMovingTarget  = movingPick !== null && pick === null && movingCanPlay
 
             function handleSlotClick() {
               if (movingPick) {
                 if (!movingCanPlay) return
                 if (pick) {
-                  // Swap: el jugador desplazado va al slot original del que se estaba moviendo
-                  const origSlot = formation?.slots.find(s => s.id === movingPick.slotId)
+                  // Swap only allowed if displaced player can also play in the origin slot
+                  if (!movingOrigSlot || !displacedCanGoToOrigin) return
                   const displaced = pick
                   unplacePick(slot.id)
                   const compatA = getCompatibility(movingPick.position, movingPick.altPositions, slot.position)
                   addPick({ ...movingPick, slotId: slot.id, slotPosition: slot.position, compatibility: compatA,
                     tournamentRating: Math.round(movingPick.rating * compatibilityMultiplier(compatA)) })
-                  if (origSlot) {
-                    const compatB = getCompatibility(displaced.position, displaced.altPositions, origSlot.position)
-                    addPick({ ...displaced, slotId: origSlot.id, slotPosition: origSlot.position, compatibility: compatB,
-                      tournamentRating: Math.round(displaced.rating * compatibilityMultiplier(compatB)) })
-                  }
+                  const compatB = getCompatibility(displaced.position, displaced.altPositions, movingOrigSlot.position)
+                  addPick({ ...displaced, slotId: movingOrigSlot.id, slotPosition: movingOrigSlot.position, compatibility: compatB,
+                    tournamentRating: Math.round(displaced.rating * compatibilityMultiplier(compatB)) })
                 } else {
                   const compat = getCompatibility(movingPick.position, movingPick.altPositions, slot.position)
                   addPick({ ...movingPick, slotId: slot.id, slotPosition: slot.position, compatibility: compat,
