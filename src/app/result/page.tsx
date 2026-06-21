@@ -25,7 +25,7 @@ const RESULT_LABELS: Record<string, string> = {
 
 export default function ResultPage() {
   const router = useRouter()
-  const { phase, picks, chemistry, simMode, injuriesEnabled, summary, setSummary, reset } = useGameStore()
+  const { phase, picks, chemistry, injuriesEnabled, summary, setSummary, reset } = useGameStore()
   const computed = useRef(false)
 
   // ── Animation ─────────────────────────────────────────
@@ -34,25 +34,21 @@ export default function ResultPage() {
   type Frame = { matchIndex: number; eventIndex: number | null }
   const frames = useMemo((): Frame[] => {
     if (!summary) return []
-    if (simMode !== 'relato') {
-      return summary.matches.map((_, i) => ({ matchIndex: i, eventIndex: null }))
-    }
     const list: Frame[] = []
     summary.matches.forEach((match, mi) => {
       list.push({ matchIndex: mi, eventIndex: null })
       match.events.forEach((_, ei) => list.push({ matchIndex: mi, eventIndex: ei }))
     })
     return list
-  }, [summary, simMode])
+  }, [summary])
 
   const animDone = animIndex >= frames.length && frames.length > 0
 
   useEffect(() => {
     if (animDone || frames.length === 0) return
-    const ms = simMode === 'relato' ? 420 : 850
-    const t = setTimeout(() => setAnimIndex(i => i + 1), ms)
+    const t = setTimeout(() => setAnimIndex(i => i + 1), 420)
     return () => clearTimeout(t)
-  }, [animIndex, animDone, frames.length, simMode])
+  }, [animIndex, animDone, frames.length])
 
   const visibleFrames = frames.slice(0, animIndex)
   const visibleMatchSet = new Set(visibleFrames.map(f => f.matchIndex))
@@ -147,27 +143,12 @@ export default function ResultPage() {
         )}
 
         {/* Matches — progressive */}
-        {simMode === 'relato' ? (
-          <section className="space-y-4">
-            <h2 className="text-sm font-semibold text-gray-500 uppercase tracking-wider">Partidos</h2>
-            {summary.matches.filter((_, i) => visibleMatchSet.has(i)).map((match, i) => (
-              <MatchCard key={i} match={match} visibleEvents={animDone ? undefined : eventsShown(i)} />
-            ))}
-          </section>
-        ) : (
-          <section className="space-y-2">
-            <h2 className="text-sm font-semibold text-gray-500 uppercase tracking-wider">Resultados</h2>
-            {summary.matches.filter((_, i) => visibleMatchSet.has(i)).map((match, i) => (
-              <div key={i} className="flex items-center justify-between bg-gray-900 border border-gray-800 rounded-xl px-4 py-3 animate-fadeIn">
-                <span className="text-sm text-gray-400">{PHASE_LABELS[match.phase]}</span>
-                <span className="text-sm text-gray-400">vs {match.rivalSquad.country} {match.rivalSquad.year}</span>
-                <span className={`font-bold ${match.won ? 'text-emerald-400' : match.goalsFor === match.goalsAgainst ? 'text-yellow-400' : 'text-red-400'}`}>
-                  {match.goalsFor}–{match.goalsAgainst}
-                </span>
-              </div>
-            ))}
-          </section>
-        )}
+        <section className="space-y-4">
+          <h2 className="text-sm font-semibold text-gray-500 uppercase tracking-wider">Partidos</h2>
+          {summary.matches.filter((_, i) => visibleMatchSet.has(i)).map((match, i) => (
+            <MatchCard key={i} match={match} visibleEvents={animDone ? undefined : eventsShown(i)} />
+          ))}
+        </section>
 
         {/* Awards — only after animation */}
         {animDone && (
@@ -191,10 +172,10 @@ export default function ResultPage() {
                 <thead>
                   <tr className="border-b border-gray-800">
                     <th className="text-left px-4 py-2 text-gray-500 font-medium">Jugador</th>
-                    <th className="px-3 py-2 text-gray-500 font-medium text-center">⚽</th>
-                    <th className="px-3 py-2 text-gray-500 font-medium text-center">🎯</th>
-                    <th className="px-3 py-2 text-gray-500 font-medium text-center">🛡️</th>
-                    <th className="px-3 py-2 text-gray-500 font-medium text-right">Puntaje</th>
+                    <th className="px-3 py-2 text-gray-500 font-medium text-center" title="Goles">⚽ Goles</th>
+                    <th className="px-3 py-2 text-gray-500 font-medium text-center" title="Asistencias">🎯 Asist.</th>
+                    <th className="px-3 py-2 text-gray-500 font-medium text-center" title="Vallas invictas (defensores) / Atajadas clave (portero)">🛡️ Vallas</th>
+                    <th className="px-3 py-2 text-gray-500 font-medium text-right" title="Rating base + bonus por rendimiento">Puntaje</th>
                   </tr>
                 </thead>
                 <tbody>
@@ -209,7 +190,9 @@ export default function ResultPage() {
                         <td className="px-3 py-2 text-center text-white">{stat.goals || '—'}</td>
                         <td className="px-3 py-2 text-center text-white">{stat.assists || '—'}</td>
                         <td className="px-3 py-2 text-center text-white">
-                          {stat.cleanSheets > 0 ? stat.cleanSheets : stat.keySaves > 0 ? stat.keySaves : '—'}
+                          {stat.position === 'POR'
+                            ? (stat.keySaves > 0 ? stat.keySaves : stat.cleanSheets > 0 ? stat.cleanSheets : '—')
+                            : (stat.cleanSheets > 0 ? stat.cleanSheets : '—')}
                         </td>
                         <td className="px-3 py-2 text-right">
                           <span className={`font-bold ${ratingColor(stat.rating)}`}>{stat.rating}</span>
@@ -242,6 +225,8 @@ function MatchCard({ match, visibleEvents }: { match: MatchResult; visibleEvents
   const events = visibleEvents !== undefined ? match.events.slice(0, visibleEvents) : match.events
   const resultColor = match.won
     ? 'text-emerald-400'
+    : match.penalties
+    ? 'text-orange-400'
     : match.goalsFor === match.goalsAgainst
     ? 'text-yellow-400'
     : 'text-red-400'
@@ -251,9 +236,16 @@ function MatchCard({ match, visibleEvents }: { match: MatchResult; visibleEvents
       <div className="flex items-center justify-between px-4 py-3 border-b border-gray-800">
         <span className="text-xs text-gray-500 uppercase tracking-wide">{PHASE_LABELS[match.phase]}</span>
         <span className="text-xs text-gray-500">vs {match.rivalSquad.country} {match.rivalSquad.year}</span>
-        <span className={`font-black text-lg ${resultColor}`}>
-          {match.goalsFor}–{match.goalsAgainst}
-        </span>
+        <div className="text-right">
+          <span className={`font-black text-lg ${resultColor}`}>
+            {match.goalsFor}–{match.goalsAgainst}
+          </span>
+          {match.penalties && (
+            <div className={`text-xs font-semibold ${resultColor}`}>
+              {match.won ? 'Victoria en penales' : 'Derrota en penales'}
+            </div>
+          )}
+        </div>
       </div>
       {events.length > 0 && (
         <div className="px-4 py-3 space-y-1.5 max-h-48 overflow-y-auto">

@@ -4,7 +4,7 @@ import { useState, useRef, useEffect } from 'react'
 import { useRouter } from 'next/navigation'
 import { useGameStore } from '@/lib/store/gameStore'
 import { FORMATIONS } from '@/lib/data/formations'
-import type { StatsDisplayMode, DifficultyMode, SimMode, DraftMode, SquadPool } from '@/types/game'
+import type { StatsDisplayMode, DifficultyMode, DraftMode, SquadPool } from '@/types/game'
 
 const WC_YEARS = [1930,1934,1938,1950,1954,1958,1962,1966,1970,1974,1978,1982,1986,1990,1994,1998,2002,2006,2010,2014,2018,2022]
 
@@ -15,7 +15,6 @@ export default function Home() {
   const [formationId, setFormationId] = useState('4-3-3')
   const [statsMode, setStatsMode] = useState<StatsDisplayMode>('medio')
   const [difficultyMode, setDifficultyMode] = useState<DifficultyMode>('normal')
-  const [simMode, setSimMode] = useState<SimMode>('relato')
   const [draftMode, setDraftMode] = useState<DraftMode>('libre')
   const [injuriesEnabled, setInjuriesEnabled] = useState(false)
   const [chemistryCap, setChemistryCap] = useState(true)
@@ -25,7 +24,7 @@ export default function Home() {
 
   function handleStart() {
     const formation = FORMATIONS.find(f => f.id === formationId)!
-    startGame(formation, { statsMode, difficultyMode, simMode, injuriesEnabled, chemistryCap, draftMode, squadPool, yearFrom, yearTo })
+    startGame(formation, { statsMode, difficultyMode, simMode: 'relato', injuriesEnabled, chemistryCap, draftMode, squadPool, yearFrom, yearTo })
     router.push('/game')
   }
 
@@ -128,27 +127,6 @@ export default function Home() {
                 >
                   <div className="text-xs font-semibold">{label}</div>
                   <div className="text-xs opacity-60">{desc}</div>
-                </button>
-              ))}
-            </div>
-          </Section>
-
-          <Section label="Simulación">
-            <div className="grid grid-cols-2 gap-2">
-              {([
-                ['relato', 'Con relato'] as const,
-                ['directo', 'Directo'] as const,
-              ]).map(([val, label]) => (
-                <button
-                  key={val}
-                  onClick={() => setSimMode(val)}
-                  className={`py-2 rounded-lg text-sm font-semibold border transition-all ${
-                    simMode === val
-                      ? 'bg-blue-600 border-blue-500 text-white'
-                      : 'bg-gray-800 border-gray-700 text-gray-300 hover:border-gray-600'
-                  }`}
-                >
-                  {label}
                 </button>
               ))}
             </div>

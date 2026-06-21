@@ -44,6 +44,8 @@ export interface MatchEvent {
   type: 'gol' | 'gol-anulado' | 'atajada' | 'palo' | 'amarilla' | 'roja' | 'penal' | 'lesion'
   playerId?: string
   playerName?: string
+  assistId?: string
+  assistName?: string
   team: 'tuyo' | 'rival'
   description: string
 }
@@ -56,6 +58,7 @@ export interface MatchResult {
   events: MatchEvent[]
   won: boolean
   eliminated: boolean
+  penalties?: boolean  // knockout draw resolved by penalties
 }
 
 export interface PlayerTournamentStats {

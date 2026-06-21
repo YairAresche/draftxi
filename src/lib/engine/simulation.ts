@@ -62,6 +62,9 @@ function generateEvents(
   const scorers = picks.filter(p =>
     ['DC', 'MCO', 'EI', 'ED', 'MC'].includes(p.slotPosition)
   )
+  const assisters = picks.filter(p =>
+    ['MCO', 'MC', 'MCD', 'EI', 'ED', 'MI', 'MD', 'DC', 'LD', 'LI'].includes(p.slotPosition)
+  )
   const keepers = picks.filter(p => p.slotPosition === 'POR')
   const defenders = picks.filter(p =>
     ['DFC', 'LD', 'LI', 'MCD'].includes(p.slotPosition)
@@ -71,21 +74,30 @@ function generateEvents(
     .filter(p => ['DC', 'MCO', 'EI', 'ED'].includes(p.position))
     .slice(0, 3)
 
-  // Goals for
+  // Goals for — always generate real goals; VAR is a separate extra event
   for (let i = 0; i < goalsFor; i++) {
-    const scorer = scorers[Math.floor(rand() * scorers.length)]
+    const scorer = scorers.length > 0 ? scorers[Math.floor(rand() * scorers.length)] : picks[Math.floor(rand() * picks.length)]
     const minute = uniqueMinute(5, 90)
-    const isVar = rand() < 0.08
-    if (isVar) {
-      events.push({ minute, type: 'gol-anulado', playerId: scorer?.id, playerName: scorer?.name, team: 'tuyo', description: `¡Gol anulado por VAR! ${scorer?.name ?? 'Tu jugador'} festejó de más.` })
-    } else {
-      events.push({ minute, type: 'gol', playerId: scorer?.id, playerName: scorer?.name, team: 'tuyo', description: `⚽ ¡GOL! ${scorer?.name ?? 'Tu jugador'} anota en el minuto ${minute}.` })
-    }
+    const eligibleAssisters = assisters.filter(a => a.id !== scorer?.id)
+    const assister = eligibleAssisters.length > 0 && rand() < 0.65
+      ? eligibleAssisters[Math.floor(rand() * eligibleAssisters.length)]
+      : null
+    const desc = assister
+      ? `⚽ ¡GOL! ${scorer?.name ?? 'Tu jugador'} anota asistido por ${assister.name} en el min. ${minute}.`
+      : `⚽ ¡GOL! ${scorer?.name ?? 'Tu jugador'} anota en el minuto ${minute}.`
+    events.push({ minute, type: 'gol', playerId: scorer?.id, playerName: scorer?.name, assistId: assister?.id, assistName: assister?.name, team: 'tuyo', description: desc })
+  }
+
+  // Extra VAR drama — an annulled goal separate from the real ones
+  if (goalsFor > 0 && rand() < 0.15) {
+    const scorer = scorers.length > 0 ? scorers[Math.floor(rand() * scorers.length)] : picks[0]
+    const minute = uniqueMinute(5, 90)
+    events.push({ minute, type: 'gol-anulado', playerId: scorer?.id, playerName: scorer?.name, team: 'tuyo', description: `🚫 ¡Gol anulado por VAR! ${scorer?.name ?? 'Tu jugador'} festejó de más.` })
   }
 
   // Goals against
   for (let i = 0; i < goalsAgainst; i++) {
-    const scorer = cpuScorers[Math.floor(rand() * cpuScorers.length)]
+    const scorer = cpuScorers.length > 0 ? cpuScorers[Math.floor(rand() * cpuScorers.length)] : null
     const minute = uniqueMinute(5, 90)
     events.push({ minute, type: 'gol', playerName: scorer?.name, team: 'rival', description: `⚽ Gol del rival. ${scorer?.name ?? 'Jugador rival'} marca en el minuto ${minute}.` })
   }
@@ -112,12 +124,7 @@ function generateEvents(
     events.push({ minute, type: 'roja', playerId: card?.id, playerName: card?.name, team: 'tuyo', description: `🟥 ¡Expulsión! ${card?.name ?? 'Un jugador'} ve la roja.` })
   }
 
-  // Injury
-  if (injuriesEnabled && rand() < 0.15) {
-    const injured = picks[Math.floor(rand() * picks.length)]
-    const minute = uniqueMinute(30, 75)
-    events.push({ minute, type: 'lesion', playerId: injured?.id, playerName: injured?.name, team: 'tuyo', description: `🚑 Lesión de ${injured?.name ?? 'un jugador'}. Sale del campo.` })
-  }
+  // Injuries are handled between matches, not mid-game (no bench available)
 
   return events.sort((a, b) => a.minute - b.minute)
 }
@@ -195,9 +202,14 @@ export function runTournament(
     for (const ev of events) {
       if (ev.team === 'tuyo' && ev.playerId) {
         const stat = playerStats.get(ev.playerId)
-        if (!stat) continue
-        if (ev.type === 'gol') stat.goals++
-        if (ev.type === 'atajada') stat.keySaves++
+        if (stat) {
+          if (ev.type === 'gol') stat.goals++
+          if (ev.type === 'atajada') stat.keySaves++
+        }
+      }
+      if (ev.type === 'gol' && ev.team === 'tuyo' && ev.assistId) {
+        const assistStat = playerStats.get(ev.assistId)
+        if (assistStat) assistStat.assists++
       }
     }
     // Clean sheet
@@ -209,9 +221,17 @@ export function runTournament(
     }
 
     const isKnockout = ['octavos', 'cuartos', 'semis', 'final'].includes(phase)
-    eliminated = isKnockout && !won
+    let wonMatch = won
+    let penalties = false
 
-    matches.push({ rivalSquad: rival, goalsFor, goalsAgainst, phase, events, won, eliminated })
+    if (isKnockout && goalsFor === goalsAgainst) {
+      wonMatch = rand() > 0.5
+      penalties = true
+    }
+
+    eliminated = isKnockout && !wonMatch
+
+    matches.push({ rivalSquad: rival, goalsFor, goalsAgainst, phase, events, won: wonMatch, eliminated, ...(penalties ? { penalties: true } : {}) })
   }
 
   const stats = Array.from(playerStats.values())
