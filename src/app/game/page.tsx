@@ -244,8 +244,9 @@ export default function GamePage() {
           </button>
           <span style={{ color: C.muted }} className="text-xs tabular-nums">
             {picks.length}/{formation?.slots.length}
+            {formation && <span style={{ color: C.dim }}> · {formation.name}</span>}
             <span style={{ color: C.dim }} className="mx-2">·</span>
-            rerolls: <span style={{ color: rerollsLeft === 0 ? C.red : C.text }}>{rerollsLeft}</span>
+            tiradas: <span style={{ color: rerollsLeft === 0 ? C.red : C.text }}>{rerollsLeft}</span>
           </span>
           {chemistry.total > 0
             ? <span style={{ color: C.green }} className="text-xs font-semibold">+{Math.round(chemistry.total * 100)}%</span>
@@ -461,7 +462,7 @@ export default function GamePage() {
             >
               {currentRoll.squad.country} · otro año
             </button>
-            <span style={{ color: C.dim }} className="text-[10px] self-center shrink-0">({rerollsLeft})</span>
+            <span style={{ color: C.dim }} className="text-[10px] self-center shrink-0">({rerollsLeft} restantes)</span>
           </div>
         )}
       </div>

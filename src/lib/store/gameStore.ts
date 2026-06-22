@@ -71,6 +71,7 @@ export const useGameStore = create<GameState & GameActions>((set) => ({
       picks: [...state.picks, player],
       currentRoll: null,
       rollIndex: state.rollIndex + 1,
+      rerollsLeft: 3,
     })),
 
   unplacePick: (slotId) =>

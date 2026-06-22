@@ -11,7 +11,12 @@ export interface SquadRef {
   countryCode: string
 }
 
-type PlayerOverride = { rating: number; stats: Record<string, number> }
+type PlayerOverride = {
+  rating: number
+  stats: Record<string, number>
+  position?: string
+  altPositions?: Array<{ position: string; compatibility: string }>
+}
 type OverridesMap = Record<string, PlayerOverride>
 
 let catalogPromise: Promise<SquadRef[]> | null = null
@@ -48,7 +53,14 @@ export async function loadSquadBySlug(year: number, slug: string): Promise<Squad
       ...data,
       players: data.players.map(p => {
         const ov = overrides[p.id]
-        return ov ? { ...p, rating: ov.rating, stats: ov.stats } : p
+        if (!ov) return p
+        return {
+          ...p,
+          rating: ov.rating,
+          stats: ov.stats,
+          ...(ov.position    ? { position: ov.position }       : {}),
+          ...(ov.altPositions ? { altPositions: ov.altPositions } : {}),
+        }
       }),
     }
     squadCache.set(key, patched)

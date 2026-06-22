@@ -1,0 +1,29 @@
+{
+  "country": "España",
+  "year": 2022,
+  "players": [
+    {"name": "Unai Simón", "position": "POR", "altPositions": [], "rating": 83},
+    {"name": "Robert Sánchez", "position": "POR", "altPositions": [], "rating": 76},
+    {"name": "David Raya", "position": "POR", "altPositions": [], "rating": 75},
+    {"name": "Dani Carvajal", "position": "LD", "altPositions": [{"position":"MC","compatibility":"forzado"}], "rating": 84},
+    {"name": "César Azpilicueta", "position": "LD", "altPositions": [{"position":"DFC","compatibility":"puede"}], "rating": 80},
+    {"name": "Jordi Alba", "position": "LI", "altPositions": [{"position":"MI","compatibility":"puede"}], "rating": 84},
+    {"name": "Alejandro Balde", "position": "LI", "altPositions": [], "rating": 78},
+    {"name": "Aymeric Laporte", "position": "DFC", "altPositions": [{"position":"LI","compatibility":"puede"}], "rating": 85},
+    {"name": "Pau Torres", "position": "DFC", "altPositions": [], "rating": 83},
+    {"name": "Eric García", "position": "DFC", "altPositions": [{"position":"MCD","compatibility":"forzado"}], "rating": 78},
+    {"name": "Sergio Busquets", "position": "MCD", "altPositions": [{"position":"MC","compatibility":"puede"}], "rating": 86},
+    {"name": "Rodri", "position": "MCD", "altPositions": [{"position":"MC","compatibility":"puede"}], "rating": 89},
+    {"name": "Pedri", "position": "MC", "altPositions": [{"position":"MCO","compatibility":"puede"},{"position":"MI","compatibility":"puede"}], "rating": 90},
+    {"name": "Gavi", "position": "MC", "altPositions": [{"position":"MI","compatibility":"puede"},{"position":"MCO","compatibility":"puede"}], "rating": 89},
+    {"name": "Carlos Soler", "position": "MC", "altPositions": [{"position":"MCO","compatibility":"puede"}], "rating": 79},
+    {"name": "Koke", "position": "MC", "altPositions": [{"position":"MCD","compatibility":"puede"},{"position":"MD","compatibility":"puede"}], "rating": 80},
+    {"name": "Marco Asensio", "position": "MCO", "altPositions": [{"position":"ED","compatibility":"puede"},{"position":"DC","compatibility":"puede"}], "rating": 82},
+    {"name": "Dani Olmo", "position": "MCO", "altPositions": [{"position":"MI","compatibility":"puede"},{"position":"EI","compatibility":"puede"}], "rating": 85},
+    {"name": "Ferran Torres", "position": "EI", "altPositions": [{"position":"DC","compatibility":"puede"},{"position":"ED","compatibility":"puede"}], "rating": 83},
+    {"name": "Nico Williams", "position": "EI", "altPositions": [{"position":"ED","compatibility":"puede"}], "rating": 82},
+    {"name": "Ansu Fati", "position": "EI", "altPositions": [{"position":"DC","compatibility":"forzado"}], "rating": 80},
+    {"name": "Pablo Sarabia", "position": "ED", "altPositions": [{"position":"EI","compatibility":"puede"},{"position":"MCO","compatibility":"puede"}], "rating": 79},
+    {"name": "Álvaro Morata", "position": "DC", "altPositions": [{"position":"EI","compatibility":"forzado"}], "rating": 84}
+  ]
+}

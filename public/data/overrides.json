@@ -109904,43 +109904,51 @@
     }
   },
   "esp22sanchez": {
-    "rating": 78,
+    "rating": 76,
+    "position": "POR",
+    "altPositions": [],
     "stats": {
-      "reflejos": 83,
-      "manejo": 84,
+      "reflejos": 79,
+      "manejo": 78,
       "salidas": 76,
-      "penales": 76,
-      "distribucion": 76
+      "penales": 74,
+      "distribucion": 73
     }
   },
   "esp22raya": {
-    "rating": 68,
+    "rating": 75,
+    "position": "POR",
+    "altPositions": [],
     "stats": {
-      "reflejos": 68,
-      "manejo": 68,
-      "salidas": 61,
-      "penales": 61,
-      "distribucion": 61
+      "reflejos": 78,
+      "manejo": 77,
+      "salidas": 75,
+      "penales": 73,
+      "distribucion": 72
     }
   },
   "esp22simon": {
-    "rating": 64,
+    "rating": 83,
+    "position": "POR",
+    "altPositions": [],
     "stats": {
-      "reflejos": 66,
-      "manejo": 67,
-      "salidas": 59,
-      "penales": 60,
-      "distribucion": 60
+      "reflejos": 86,
+      "manejo": 85,
+      "salidas": 83,
+      "penales": 81,
+      "distribucion": 80
     }
   },
   "esp22balde": {
-    "rating": 79,
+    "rating": 78,
+    "position": "LI",
+    "altPositions": [],
     "stats": {
-      "defAerea": 84,
-      "intercepciones": 84,
-      "velocidad": 77,
-      "pases": 77,
-      "duelos": 84
+      "defAerea": 81,
+      "intercepciones": 80,
+      "velocidad": 78,
+      "pases": 76,
+      "duelos": 75
     }
   },
   "esp22guillamon": {
@@ -109954,73 +109962,117 @@
     }
   },
   "esp22laporte": {
-    "rating": 69,
+    "rating": 85,
+    "position": "DFC",
+    "altPositions": [
+      {
+        "position": "LI",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "defAerea": 75,
-      "intercepciones": 75,
-      "velocidad": 68,
-      "pases": 67,
-      "duelos": 75
+      "defAerea": 88,
+      "intercepciones": 87,
+      "velocidad": 85,
+      "pases": 83,
+      "duelos": 82
     }
   },
   "esp22azpilicueta": {
-    "rating": 67,
+    "rating": 80,
+    "position": "LD",
+    "altPositions": [
+      {
+        "position": "DFC",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "defAerea": 73,
-      "intercepciones": 73,
-      "velocidad": 68,
-      "pases": 67,
-      "duelos": 73
+      "defAerea": 83,
+      "intercepciones": 82,
+      "velocidad": 80,
+      "pases": 78,
+      "duelos": 77
     }
   },
   "esp22garcia": {
-    "rating": 65,
+    "rating": 78,
+    "position": "DFC",
+    "altPositions": [
+      {
+        "position": "MCD",
+        "compatibility": "forzado"
+      }
+    ],
     "stats": {
-      "defAerea": 67,
-      "intercepciones": 67,
-      "velocidad": 59,
-      "pases": 59,
-      "duelos": 67
+      "defAerea": 81,
+      "intercepciones": 80,
+      "velocidad": 78,
+      "pases": 76,
+      "duelos": 75
     }
   },
   "esp22torres": {
-    "rating": 63,
+    "rating": 83,
+    "position": "DFC",
+    "altPositions": [],
     "stats": {
-      "defAerea": 64,
-      "intercepciones": 64,
-      "velocidad": 56,
-      "pases": 56,
-      "duelos": 64
+      "defAerea": 86,
+      "intercepciones": 85,
+      "velocidad": 83,
+      "pases": 81,
+      "duelos": 80
     }
   },
   "esp22alba": {
-    "rating": 61,
+    "rating": 84,
+    "position": "LI",
+    "altPositions": [
+      {
+        "position": "MI",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "defAerea": 60,
-      "intercepciones": 60,
-      "velocidad": 51,
-      "pases": 52,
-      "duelos": 60
+      "defAerea": 87,
+      "intercepciones": 86,
+      "velocidad": 84,
+      "pases": 82,
+      "duelos": 81
     }
   },
   "esp22carvajal": {
-    "rating": 60,
+    "rating": 84,
+    "position": "LD",
+    "altPositions": [
+      {
+        "position": "MC",
+        "compatibility": "forzado"
+      }
+    ],
     "stats": {
-      "defAerea": 64,
-      "intercepciones": 64,
-      "velocidad": 56,
-      "pases": 56,
-      "duelos": 64
+      "defAerea": 87,
+      "intercepciones": 86,
+      "velocidad": 84,
+      "pases": 82,
+      "duelos": 81
     }
   },
   "esp22busquets": {
-    "rating": 80,
+    "rating": 86,
+    "position": "MCD",
+    "altPositions": [
+      {
+        "position": "MC",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "recuperacion": 83,
-      "pases": 83,
-      "posicionamiento": 83,
-      "duelos": 83,
-      "resistencia": 75
+      "recuperacion": 89,
+      "pases": 88,
+      "posicionamiento": 86,
+      "duelos": 84,
+      "resistencia": 83
     }
   },
   "esp22llorente": {
@@ -110034,75 +110086,139 @@
     }
   },
   "esp22rodri": {
-    "rating": 68,
+    "rating": 89,
+    "position": "MCD",
+    "altPositions": [
+      {
+        "position": "MC",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "pases": 69,
-      "vision": 69,
-      "llegada": 62,
-      "recuperacion": 62,
-      "tecnica": 69
+      "recuperacion": 92,
+      "pases": 91,
+      "posicionamiento": 89,
+      "duelos": 87,
+      "resistencia": 86
     }
   },
   "esp22gavi": {
-    "rating": 65,
+    "rating": 89,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MI",
+        "compatibility": "puede"
+      },
+      {
+        "position": "MCO",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "vision": 67,
-      "paseFiltrado": 67,
-      "llegada": 67,
-      "regate": 60,
-      "disparo": 59
+      "pases": 92,
+      "vision": 91,
+      "llegada": 89,
+      "recuperacion": 87,
+      "tecnica": 86
     }
   },
   "esp22soler": {
-    "rating": 63,
+    "rating": 79,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCO",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "recuperacion": 64,
-      "pases": 64,
-      "posicionamiento": 64,
-      "duelos": 64,
-      "resistencia": 57
+      "pases": 82,
+      "vision": 81,
+      "llegada": 79,
+      "recuperacion": 77,
+      "tecnica": 76
     }
   },
   "esp22pedri": {
-    "rating": 61,
+    "rating": 90,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCO",
+        "compatibility": "puede"
+      },
+      {
+        "position": "MI",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "pases": 67,
-      "vision": 67,
-      "llegada": 61,
-      "recuperacion": 61,
-      "tecnica": 67
+      "pases": 93,
+      "vision": 92,
+      "llegada": 90,
+      "recuperacion": 88,
+      "tecnica": 87
     }
   },
   "esp22koke": {
-    "rating": 59,
+    "rating": 80,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCD",
+        "compatibility": "puede"
+      },
+      {
+        "position": "MD",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "pases": 61,
-      "vision": 61,
-      "llegada": 54,
-      "recuperacion": 55,
-      "tecnica": 61
+      "pases": 83,
+      "vision": 82,
+      "llegada": 80,
+      "recuperacion": 78,
+      "tecnica": 77
     }
   },
   "esp22morata": {
     "rating": 84,
+    "position": "DC",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "forzado"
+      }
+    ],
     "stats": {
-      "definicion": 83,
-      "fisico": 83,
-      "velocidad": 72,
-      "cabezazo": 74,
-      "pressing": 74,
-      "desmarque": 83
+      "definicion": 87,
+      "fisico": 86,
+      "velocidad": 85,
+      "cabezazo": 83,
+      "pressing": 82,
+      "desmarque": 81
     }
   },
   "esp22sarabia": {
-    "rating": 76,
+    "rating": 79,
+    "position": "ED",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      },
+      {
+        "position": "MCO",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "definicion": 78,
-      "fisico": 78,
-      "velocidad": 70,
-      "cabezazo": 70,
-      "pressing": 70,
-      "desmarque": 78
+      "velocidad": 82,
+      "regate": 81,
+      "centro": 79,
+      "disparo": 77,
+      "desmarque": 76
     }
   },
   "esp22pino": {
@@ -110116,55 +110232,100 @@
     }
   },
   "esp22torres2": {
-    "rating": 70,
+    "rating": 83,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "DC",
+        "compatibility": "puede"
+      },
+      {
+        "position": "ED",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "velocidad": 71,
-      "regate": 71,
-      "centro": 63,
-      "disparo": 62,
-      "desmarque": 71
+      "velocidad": 86,
+      "regate": 85,
+      "centro": 83,
+      "disparo": 81,
+      "desmarque": 80
     }
   },
   "esp22olmo": {
-    "rating": 67,
+    "rating": 85,
+    "position": "MCO",
+    "altPositions": [
+      {
+        "position": "MI",
+        "compatibility": "puede"
+      },
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "velocidad": 68,
-      "regate": 68,
-      "centro": 60,
-      "disparo": 60,
-      "desmarque": 68
+      "vision": 88,
+      "paseFiltrado": 87,
+      "llegada": 85,
+      "regate": 83,
+      "disparo": 82
     }
   },
   "esp22asensio": {
-    "rating": 65,
+    "rating": 82,
+    "position": "MCO",
+    "altPositions": [
+      {
+        "position": "ED",
+        "compatibility": "puede"
+      },
+      {
+        "position": "DC",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "velocidad": 68,
-      "regate": 68,
-      "centro": 60,
-      "disparo": 61,
-      "desmarque": 68
+      "vision": 85,
+      "paseFiltrado": 84,
+      "llegada": 82,
+      "regate": 80,
+      "disparo": 79
     }
   },
   "esp22fati": {
-    "rating": 64,
+    "rating": 80,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "DC",
+        "compatibility": "forzado"
+      }
+    ],
     "stats": {
-      "definicion": 67,
-      "fisico": 67,
-      "velocidad": 59,
-      "cabezazo": 59,
-      "pressing": 59,
-      "desmarque": 67
+      "velocidad": 83,
+      "regate": 82,
+      "centro": 80,
+      "disparo": 78,
+      "desmarque": 77
     }
   },
   "esp22williams": {
-    "rating": 62,
+    "rating": 82,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "ED",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "definicion": 67,
-      "fisico": 67,
-      "velocidad": 62,
-      "cabezazo": 61,
-      "pressing": 61,
-      "desmarque": 67
+      "velocidad": 85,
+      "regate": 84,
+      "centro": 82,
+      "disparo": 80,
+      "desmarque": 79
     }
   },
   "che22kohn": {

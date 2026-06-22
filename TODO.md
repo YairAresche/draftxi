@@ -34,6 +34,7 @@
 ## 🎨 UI / UX
 
 - [ ] **Onboarding / tutorial** — modal o card explicativa al inicio del primer juego: qué es la química, importancia del equilibrio ofensivo/defensivo, cuándo conviene priorizar química vs. rating, qué significa cada posición
+- [ ] **Responsive mobile** — el draft usa layout fijo (campo izquierda + panel derecha) que no funciona en pantallas <768px. Requiere rediseño del layout: campo colapsable o vista alternativa tipo "lista + campo superpuesto". Prioridad alta si se espera tráfico mobile.
 - [ ] **Dark / light mode** — toggle que persiste entre sesiones
 - [ ] **Share card** — imagen del XI para compartir (html-to-image ya está instalado)
 - [ ] **Historial visible** — UI para ver las últimas partidas guardadas en localStorage
