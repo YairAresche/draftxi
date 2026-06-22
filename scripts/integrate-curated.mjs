@@ -68,11 +68,70 @@ function findMatch(curatedName, players) {
   return p ?? null
 }
 
+// Slug en nuestros archivos por nombre de país
+const COUNTRY_SLUG = {
+  'argentina': 'argentina', 'brasil': 'brazil', 'brazil': 'brazil',
+  'uruguay': 'uruguay', 'españa': 'spain', 'spain': 'spain',
+  'italia': 'italy', 'italy': 'italy', 'francia': 'france', 'france': 'france',
+  'alemania': 'germany', 'germany': 'germany',
+  'alemania occidental': 'west-germany', 'west germany': 'west-germany',
+  'holanda': 'netherlands', 'países bajos': 'netherlands', 'netherlands': 'netherlands',
+  'holland': 'netherlands', 'the netherlands': 'netherlands',
+  'inglaterra': 'england', 'england': 'england',
+  'portugal': 'portugal', 'croacia': 'croatia', 'croatia': 'croatia',
+  'bélgica': 'belgium', 'belgium': 'belgium',
+}
+
+function resolveSlug(country, year) {
+  const key = country.toLowerCase()
+  const slug = COUNTRY_SLUG[key] ?? key.toLowerCase().replace(/\s+/g, '-')
+  // Antes de 1990 Alemania era West Germany
+  if ((slug === 'germany' || slug === 'alemania') && year < 1990) return 'west-germany'
+  return slug
+}
+
+function processSquad(curatedSquad, overrides) {
+  const { country, year, players: curatedPlayers } = curatedSquad
+  const slug = resolveSlug(country, year)
+  const sourceFile = path.join(DATA_DIR, `${year}-${slug}.json`)
+
+  if (!fs.existsSync(sourceFile)) {
+    console.warn(`⚠  No encontrado: ${year}-${slug}.json (country="${country}")`)
+    return 0
+  }
+
+  const squad = JSON.parse(fs.readFileSync(sourceFile, 'utf8'))
+  const unmatched = []
+  let matched = 0
+
+  for (const cp of curatedPlayers) {
+    const sp = findMatch(cp.name, squad.players)
+    if (!sp) { unmatched.push(cp.name); continue }
+
+    overrides[sp.id] = {
+      rating:       cp.rating,
+      position:     cp.position,
+      altPositions: cp.altPositions ?? [],
+      stats:        generateStats(cp.position, cp.rating),
+    }
+    matched++
+  }
+
+  const tag = `${year} ${slug}`
+  if (unmatched.length > 0) {
+    console.log(`  ✓ ${tag}: ${matched} ok — sin match: ${unmatched.join(', ')}`)
+  } else {
+    console.log(`  ✓ ${tag}: ${matched} jugadores`)
+  }
+  return matched
+}
+
 // ── Main ──────────────────────────────────────────────────────────────────────
 const filter = process.argv[2] ?? null
 
 const curatedFiles = fs.readdirSync(CURATED)
   .filter(f => f.endsWith('.json') && (!filter || f.startsWith(filter)))
+  .sort()
 
 if (curatedFiles.length === 0) {
   console.error(`No se encontraron archivos curados${filter ? ` para "${filter}"` : ''} en scripts/curated/`)
@@ -86,42 +145,13 @@ const overrides = fs.existsSync(OVERRIDES)
 let totalUpdated = 0
 
 for (const file of curatedFiles) {
-  const m = file.match(/^(\d{4})-(.+)\.json$/)
-  if (!m) continue
-  const [, yearStr, slug] = m
-
-  const curated = JSON.parse(fs.readFileSync(path.join(CURATED, file), 'utf8'))
-  const sourceFile = path.join(DATA_DIR, `${yearStr}-${slug}.json`)
-
-  if (!fs.existsSync(sourceFile)) {
-    console.warn(`⚠  Archivo fuente no encontrado: ${yearStr}-${slug}.json`)
-    continue
+  const raw = JSON.parse(fs.readFileSync(path.join(CURATED, file), 'utf8'))
+  // Soporta archivo con una selección (objeto) o batch con varias (array)
+  const squads = Array.isArray(raw) ? raw : [raw]
+  console.log(`\n📂 ${file} (${squads.length} selección${squads.length > 1 ? 'es' : ''})`)
+  for (const squad of squads) {
+    totalUpdated += processSquad(squad, overrides)
   }
-
-  const squad   = JSON.parse(fs.readFileSync(sourceFile, 'utf8'))
-  const unmatched = []
-  let matched = 0
-
-  for (const cp of curated.players) {
-    const sp = findMatch(cp.name, squad.players)
-    if (!sp) { unmatched.push(cp.name); continue }
-
-    overrides[sp.id] = {
-      rating:      cp.rating,
-      position:    cp.position,
-      altPositions: cp.altPositions ?? [],
-      stats:       generateStats(cp.position, cp.rating),
-    }
-    matched++
-  }
-
-  const tag = `${yearStr} ${slug}`
-  if (unmatched.length > 0) {
-    console.log(`✓ ${tag}: ${matched} ok — sin match: ${unmatched.join(', ')}`)
-  } else {
-    console.log(`✓ ${tag}: ${matched} jugadores actualizados`)
-  }
-  totalUpdated += matched
 }
 
 fs.writeFileSync(OVERRIDES, JSON.stringify(overrides, null, 2))
