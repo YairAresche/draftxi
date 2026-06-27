@@ -6,6 +6,7 @@ import { motion, AnimatePresence } from 'framer-motion'
 import { useGameStore } from '@/lib/store/gameStore'
 import { loadSquadCatalog, loadSquadBySlug, type SquadRef } from '@/lib/data/loader'
 import { calculateChemistry } from '@/lib/engine/chemistry'
+import { computeOvr } from '@/lib/engine/simulation'
 import { getCompatibility, compatibilityMultiplier, COMPATIBILITY_EMOJI } from '@/lib/utils/positions'
 import type { Squad } from '@/types/tournament'
 import type { Player, SquadPlayer, Position } from '@/types/player'
@@ -172,7 +173,7 @@ export default function GamePage() {
       slotPosition: slot.position,
       compatibility: compat,
       chemistryBonus: 0,
-      tournamentRating: Math.round(player.rating * compatibilityMultiplier(compat)),
+      tournamentRating: Math.round(computeOvr(player) * compatibilityMultiplier(compat)),
     })
     setPendingPlayer(null)
     const willComplete = picks.length + 1 === (formation?.slots.length ?? 11)
@@ -315,14 +316,14 @@ export default function GamePage() {
                   unplacePick(slot.id)
                   const compatA = getCompatibility(movingPick.position, movingPick.altPositions, slot.position)
                   addPick({ ...movingPick, slotId: slot.id, slotPosition: slot.position, compatibility: compatA,
-                    tournamentRating: Math.round(movingPick.rating * compatibilityMultiplier(compatA)) })
+                    tournamentRating: Math.round(computeOvr(movingPick) * compatibilityMultiplier(compatA)) })
                   const compatB = getCompatibility(displaced.position, displaced.altPositions, movingOrigSlot.position)
                   addPick({ ...displaced, slotId: movingOrigSlot.id, slotPosition: movingOrigSlot.position, compatibility: compatB,
-                    tournamentRating: Math.round(displaced.rating * compatibilityMultiplier(compatB)) })
+                    tournamentRating: Math.round(computeOvr(displaced) * compatibilityMultiplier(compatB)) })
                 } else {
                   const compat = getCompatibility(movingPick.position, movingPick.altPositions, slot.position)
                   addPick({ ...movingPick, slotId: slot.id, slotPosition: slot.position, compatibility: compat,
-                    tournamentRating: Math.round(movingPick.rating * compatibilityMultiplier(compat)) })
+                    tournamentRating: Math.round(computeOvr(movingPick) * compatibilityMultiplier(compat)) })
                 }
                 setMovingPick(null)
               } else if (pendingPlayer && !pick && pendingCanPlay) {
@@ -514,8 +515,8 @@ export default function GamePage() {
             <span style={{ color: C.text, fontSize: 12, fontWeight: 600 }}>
               {movingPick.name.split(' ').at(-1)}
             </span>
-            <span style={{ color: listRatingColor(movingPick.rating), fontSize: 13, fontWeight: 900 }}>
-              {movingPick.rating}
+            <span style={{ color: listRatingColor(computeOvr(movingPick)), fontSize: 13, fontWeight: 900 }}>
+              {computeOvr(movingPick)}
             </span>
           </div>
           <div style={{ display: 'flex', gap: 3, marginTop: 3, flexWrap: 'wrap' }}>
@@ -750,7 +751,7 @@ function SlotDot({ slot, player, isCaptain, isNext, isPendingTarget, isSwapTarge
   const compatColor = compat === 'natural' ? C.green : compat === 'puede' ? C.amber : compat === 'forzado' ? C.red : ''
   const isTargeted  = isPendingTarget || isMovingTarget
   const projectedRating = (isTargeted || isSwapTarget) && activePending && compat && compat !== 'forzado'
-    ? Math.round(activePending.rating * compatibilityMultiplier(compat))
+    ? Math.round(computeOvr(activePending) * compatibilityMultiplier(compat))
     : null
   const isClickable = isTargeted || isSwapTarget || (player !== null && !pendingPlayer && !movingPick)
 
@@ -838,7 +839,7 @@ function PlayerRow({ index, player, slotPosition, difficultyMode, isPending, isA
   onHoverEnd?: () => void
 }) {
   const compat         = slotPosition ? getCompatibility(player.position, player.altPositions, slotPosition) : 'natural'
-  const adjustedRating = Math.round(player.rating * compatibilityMultiplier(compat))
+  const adjustedRating = Math.round(computeOvr(player) * compatibilityMultiplier(compat))
   const isAlmanaque    = difficultyMode === 'almanaque'
   const posDisplay     = [
     player.position,
@@ -944,25 +945,27 @@ function listRatingColor(r: number): string {
 
 const STAT_LABELS: Record<string, string> = {
   reflejos: 'REF', manejo: 'MAN', salidas: 'SAL', penales: 'PEN', distribucion: 'DIS',
-  defAerea: 'AER', intercepciones: 'INT', velocidad: 'VEL', pases: 'PAS', duelos: 'DUE',
-  recuperacion: 'REC', posicionamiento: 'POS', vision: 'VIS', llegada: 'LLE', tecnica: 'TEC',
-  paseFiltrado: 'FIL', regate: 'REG', disparo: 'TIR', definicion: 'DEF', fisico: 'FIS',
-  cabezazo: 'CAB', pressing: 'PRE', centro: 'CEN', desmarque: 'DES', resistencia: 'RES',
+  comunicacion: 'COM',
+  defAerea: 'AER', intercepciones: 'INT', duelos: 'DUE', centro: 'CEN', velocidad: 'VEL',
+  cabezazo: 'CAB', posicionamiento: 'POS',
+  recuperacion: 'REC', pases: 'PAS', llegada: 'LLE', tirosLejanos: 'TIR', regate: 'REG',
+  vision: 'VIS', paseFiltrado: 'FIL', definicion: 'DEF',
+  fisico: 'FIS', desmarque: 'DES', disparo: 'TIR',
 }
 
 const KEY_STATS_BY_POS: Record<string, string[]> = {
-  POR: ['reflejos', 'manejo', 'salidas'],
-  LD:  ['velocidad', 'intercepciones', 'pases'],
-  LI:  ['velocidad', 'intercepciones', 'pases'],
-  DFC: ['defAerea', 'duelos', 'intercepciones'],
-  MCD: ['recuperacion', 'posicionamiento', 'duelos'],
-  MC:  ['pases', 'vision', 'llegada'],
-  MCO: ['vision', 'paseFiltrado', 'regate'],
-  MD:  ['velocidad', 'regate', 'centro'],
-  MI:  ['velocidad', 'regate', 'centro'],
-  EI:  ['velocidad', 'regate', 'disparo'],
-  ED:  ['velocidad', 'regate', 'disparo'],
-  DC:  ['definicion', 'velocidad', 'cabezazo'],
+  POR: ['reflejos', 'manejo', 'salidas', 'penales', 'distribucion', 'comunicacion'],
+  LD:  ['defAerea', 'intercepciones', 'duelos', 'centro', 'velocidad', 'comunicacion'],
+  LI:  ['defAerea', 'intercepciones', 'duelos', 'centro', 'velocidad', 'comunicacion'],
+  DFC: ['defAerea', 'intercepciones', 'duelos', 'cabezazo', 'posicionamiento', 'comunicacion'],
+  MCD: ['recuperacion', 'duelos', 'posicionamiento', 'pases', 'llegada', 'tirosLejanos'],
+  MC:  ['vision', 'pases', 'llegada', 'tirosLejanos', 'recuperacion', 'regate'],
+  MCO: ['vision', 'paseFiltrado', 'llegada', 'regate', 'tirosLejanos', 'definicion'],
+  MD:  ['velocidad', 'pases', 'regate', 'centro', 'duelos', 'tirosLejanos'],
+  MI:  ['velocidad', 'pases', 'regate', 'centro', 'duelos', 'tirosLejanos'],
+  EI:  ['velocidad', 'regate', 'centro', 'tirosLejanos', 'desmarque', 'definicion'],
+  ED:  ['velocidad', 'regate', 'centro', 'tirosLejanos', 'desmarque', 'definicion'],
+  DC:  ['definicion', 'cabezazo', 'fisico', 'desmarque', 'velocidad', 'pases'],
 }
 
 function getStatsForDisplay(player: Player, mode: 'simple' | 'medio' | 'completo'): [string, number][] {

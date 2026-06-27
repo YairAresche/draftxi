@@ -13,9 +13,10 @@
       "stats": {
         "reflejos": 86,
         "manejo": 85,
-        "salidas": 83,
-        "penales": 81,
-        "distribucion": 80
+        "salidas": 84,
+        "penales": 82,
+        "distribucion": 81,
+        "comunicacion": 80
       },
       "rating": 83,
       "country": "Inglaterra",
@@ -30,9 +31,10 @@
       "stats": {
         "reflejos": 78,
         "manejo": 77,
-        "salidas": 75,
-        "penales": 73,
-        "distribucion": 72
+        "salidas": 76,
+        "penales": 74,
+        "distribucion": 73,
+        "comunicacion": 72
       },
       "rating": 75,
       "country": "Inglaterra",
@@ -52,9 +54,10 @@
       "stats": {
         "defAerea": 88,
         "intercepciones": 87,
-        "velocidad": 85,
-        "pases": 83,
-        "duelos": 82
+        "duelos": 86,
+        "centro": 84,
+        "velocidad": 83,
+        "comunicacion": 82
       },
       "rating": 85,
       "country": "Inglaterra",
@@ -69,9 +72,10 @@
       "stats": {
         "defAerea": 82,
         "intercepciones": 81,
-        "velocidad": 79,
-        "pases": 77,
-        "duelos": 76
+        "duelos": 80,
+        "centro": 78,
+        "velocidad": 77,
+        "comunicacion": 76
       },
       "rating": 79,
       "country": "Inglaterra",
@@ -86,9 +90,10 @@
       "stats": {
         "defAerea": 79,
         "intercepciones": 78,
-        "velocidad": 76,
-        "pases": 74,
-        "duelos": 73
+        "duelos": 77,
+        "cabezazo": 75,
+        "posicionamiento": 74,
+        "comunicacion": 73
       },
       "rating": 76,
       "country": "Inglaterra",
@@ -103,9 +108,10 @@
       "stats": {
         "defAerea": 86,
         "intercepciones": 85,
-        "velocidad": 83,
-        "pases": 81,
-        "duelos": 80
+        "duelos": 84,
+        "cabezazo": 82,
+        "posicionamiento": 81,
+        "comunicacion": 80
       },
       "rating": 83,
       "country": "Inglaterra",
@@ -125,9 +131,10 @@
       "stats": {
         "defAerea": 83,
         "intercepciones": 82,
-        "velocidad": 80,
-        "pases": 78,
-        "duelos": 77
+        "duelos": 81,
+        "centro": 79,
+        "velocidad": 78,
+        "comunicacion": 77
       },
       "rating": 80,
       "country": "Inglaterra",
@@ -146,10 +153,11 @@
       ],
       "stats": {
         "recuperacion": 92,
-        "pases": 91,
-        "posicionamiento": 89,
-        "duelos": 87,
-        "resistencia": 86
+        "duelos": 91,
+        "posicionamiento": 90,
+        "pases": 88,
+        "llegada": 87,
+        "tirosLejanos": 86
       },
       "rating": 89,
       "country": "Inglaterra",
@@ -167,11 +175,12 @@
         }
       ],
       "stats": {
-        "pases": 96,
-        "vision": 95,
-        "llegada": 93,
+        "vision": 96,
+        "pases": 95,
+        "llegada": 94,
+        "tirosLejanos": 92,
         "recuperacion": 91,
-        "tecnica": 90
+        "regate": 90
       },
       "rating": 93,
       "country": "Inglaterra",
@@ -184,11 +193,12 @@
       "position": "MC",
       "altPositions": [],
       "stats": {
-        "pases": 80,
-        "vision": 79,
-        "llegada": 77,
+        "vision": 80,
+        "pases": 79,
+        "llegada": 78,
+        "tirosLejanos": 76,
         "recuperacion": 75,
-        "tecnica": 74
+        "regate": 74
       },
       "rating": 77,
       "country": "Inglaterra",
@@ -208,9 +218,10 @@
       "stats": {
         "vision": 91,
         "paseFiltrado": 90,
-        "llegada": 88,
-        "regate": 86,
-        "disparo": 85
+        "llegada": 89,
+        "regate": 87,
+        "tirosLejanos": 86,
+        "definicion": 85
       },
       "rating": 88,
       "country": "Inglaterra",
@@ -230,9 +241,10 @@
       "stats": {
         "velocidad": 92,
         "regate": 91,
-        "centro": 89,
-        "disparo": 87,
-        "desmarque": 86
+        "centro": 90,
+        "tirosLejanos": 88,
+        "desmarque": 87,
+        "definicion": 86
       },
       "rating": 89,
       "country": "Inglaterra",
@@ -246,11 +258,11 @@
       "altPositions": [],
       "stats": {
         "definicion": 93,
-        "fisico": 92,
-        "velocidad": 91,
-        "cabezazo": 89,
-        "pressing": 88,
-        "desmarque": 87
+        "cabezazo": 92,
+        "fisico": 91,
+        "desmarque": 89,
+        "velocidad": 88,
+        "pases": 87
       },
       "rating": 90,
       "country": "Inglaterra",
@@ -270,9 +282,10 @@
       "stats": {
         "velocidad": 90,
         "regate": 89,
-        "centro": 87,
-        "disparo": 85,
-        "desmarque": 84
+        "centro": 88,
+        "tirosLejanos": 86,
+        "desmarque": 85,
+        "definicion": 84
       },
       "rating": 87,
       "country": "Inglaterra",
@@ -292,9 +305,10 @@
       "stats": {
         "velocidad": 84,
         "regate": 83,
-        "centro": 81,
-        "disparo": 79,
-        "desmarque": 78
+        "centro": 82,
+        "tirosLejanos": 80,
+        "desmarque": 79,
+        "definicion": 78
       },
       "rating": 81,
       "country": "Inglaterra",
@@ -314,9 +328,10 @@
       "stats": {
         "velocidad": 84,
         "regate": 83,
-        "centro": 81,
-        "disparo": 79,
-        "desmarque": 78
+        "centro": 82,
+        "tirosLejanos": 80,
+        "desmarque": 79,
+        "definicion": 78
       },
       "rating": 81,
       "country": "Inglaterra",
@@ -336,9 +351,10 @@
       "stats": {
         "defAerea": 83,
         "intercepciones": 82,
-        "velocidad": 80,
-        "pases": 78,
-        "duelos": 77
+        "duelos": 81,
+        "cabezazo": 79,
+        "posicionamiento": 78,
+        "comunicacion": 77
       },
       "rating": 80,
       "country": "Inglaterra",
@@ -358,9 +374,10 @@
       "stats": {
         "vision": 84,
         "paseFiltrado": 83,
-        "llegada": 81,
-        "regate": 79,
-        "disparo": 78
+        "llegada": 82,
+        "regate": 80,
+        "tirosLejanos": 79,
+        "definicion": 78
       },
       "rating": 81,
       "country": "Inglaterra",
@@ -374,11 +391,11 @@
       "altPositions": [],
       "stats": {
         "definicion": 84,
-        "fisico": 83,
-        "velocidad": 82,
-        "cabezazo": 80,
-        "pressing": 79,
-        "desmarque": 78
+        "cabezazo": 83,
+        "fisico": 82,
+        "desmarque": 80,
+        "velocidad": 79,
+        "pases": 78
       },
       "rating": 81,
       "country": "Inglaterra",
@@ -398,9 +415,10 @@
       "stats": {
         "velocidad": 81,
         "regate": 80,
-        "centro": 78,
-        "disparo": 76,
-        "desmarque": 75
+        "centro": 79,
+        "tirosLejanos": 77,
+        "desmarque": 76,
+        "definicion": 75
       },
       "rating": 78,
       "country": "Inglaterra",

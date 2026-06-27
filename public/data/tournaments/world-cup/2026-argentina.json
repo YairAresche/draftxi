@@ -13,9 +13,10 @@
       "stats": {
         "reflejos": 92,
         "manejo": 91,
-        "salidas": 89,
-        "penales": 87,
-        "distribucion": 86
+        "salidas": 90,
+        "penales": 88,
+        "distribucion": 87,
+        "comunicacion": 86
       },
       "rating": 89,
       "country": "Argentina",
@@ -30,9 +31,10 @@
       "stats": {
         "reflejos": 76,
         "manejo": 75,
-        "salidas": 73,
-        "penales": 71,
-        "distribucion": 70
+        "salidas": 74,
+        "penales": 72,
+        "distribucion": 71,
+        "comunicacion": 70
       },
       "rating": 73,
       "country": "Argentina",
@@ -47,9 +49,10 @@
       "stats": {
         "defAerea": 84,
         "intercepciones": 83,
-        "velocidad": 81,
-        "pases": 79,
-        "duelos": 78
+        "duelos": 82,
+        "centro": 80,
+        "velocidad": 79,
+        "comunicacion": 78
       },
       "rating": 81,
       "country": "Argentina",
@@ -64,9 +67,10 @@
       "stats": {
         "defAerea": 84,
         "intercepciones": 83,
-        "velocidad": 81,
-        "pases": 79,
-        "duelos": 78
+        "duelos": 82,
+        "cabezazo": 80,
+        "posicionamiento": 79,
+        "comunicacion": 78
       },
       "rating": 81,
       "country": "Argentina",
@@ -81,9 +85,10 @@
       "stats": {
         "defAerea": 90,
         "intercepciones": 89,
-        "velocidad": 87,
-        "pases": 85,
-        "duelos": 84
+        "duelos": 88,
+        "cabezazo": 86,
+        "posicionamiento": 85,
+        "comunicacion": 84
       },
       "rating": 87,
       "country": "Argentina",
@@ -98,9 +103,10 @@
       "stats": {
         "defAerea": 87,
         "intercepciones": 86,
-        "velocidad": 84,
-        "pases": 82,
-        "duelos": 81
+        "duelos": 85,
+        "cabezazo": 83,
+        "posicionamiento": 82,
+        "comunicacion": 81
       },
       "rating": 84,
       "country": "Argentina",
@@ -115,9 +121,10 @@
       "stats": {
         "defAerea": 80,
         "intercepciones": 79,
-        "velocidad": 77,
-        "pases": 75,
-        "duelos": 74
+        "duelos": 78,
+        "centro": 76,
+        "velocidad": 75,
+        "comunicacion": 74
       },
       "rating": 77,
       "country": "Argentina",
@@ -135,11 +142,12 @@
         }
       ],
       "stats": {
-        "pases": 86,
-        "vision": 85,
-        "llegada": 83,
+        "vision": 86,
+        "pases": 85,
+        "llegada": 84,
+        "tirosLejanos": 82,
         "recuperacion": 81,
-        "tecnica": 80
+        "regate": 80
       },
       "rating": 83,
       "country": "Argentina",
@@ -157,11 +165,12 @@
         }
       ],
       "stats": {
-        "pases": 90,
-        "vision": 89,
-        "llegada": 87,
+        "vision": 90,
+        "pases": 89,
+        "llegada": 88,
+        "tirosLejanos": 86,
         "recuperacion": 85,
-        "tecnica": 84
+        "regate": 84
       },
       "rating": 87,
       "country": "Argentina",
@@ -179,11 +188,12 @@
         }
       ],
       "stats": {
-        "pases": 88,
-        "vision": 87,
-        "llegada": 85,
+        "vision": 88,
+        "pases": 87,
+        "llegada": 86,
+        "tirosLejanos": 84,
         "recuperacion": 83,
-        "tecnica": 82
+        "regate": 82
       },
       "rating": 85,
       "country": "Argentina",
@@ -203,9 +213,10 @@
       "stats": {
         "velocidad": 94,
         "regate": 93,
-        "centro": 91,
-        "disparo": 89,
-        "desmarque": 88
+        "centro": 92,
+        "tirosLejanos": 90,
+        "desmarque": 89,
+        "definicion": 88
       },
       "rating": 91,
       "country": "Argentina",
@@ -224,11 +235,11 @@
       ],
       "stats": {
         "definicion": 92,
-        "fisico": 91,
-        "velocidad": 90,
-        "cabezazo": 88,
-        "pressing": 87,
-        "desmarque": 86
+        "cabezazo": 91,
+        "fisico": 90,
+        "desmarque": 88,
+        "velocidad": 87,
+        "pases": 86
       },
       "rating": 89,
       "country": "Argentina",
@@ -242,11 +253,11 @@
       "altPositions": [],
       "stats": {
         "definicion": 90,
-        "fisico": 89,
-        "velocidad": 88,
-        "cabezazo": 86,
-        "pressing": 85,
-        "desmarque": 84
+        "cabezazo": 89,
+        "fisico": 88,
+        "desmarque": 86,
+        "velocidad": 85,
+        "pases": 84
       },
       "rating": 87,
       "country": "Argentina",
@@ -266,9 +277,10 @@
       "stats": {
         "velocidad": 80,
         "regate": 79,
-        "centro": 77,
-        "disparo": 75,
-        "desmarque": 74
+        "centro": 78,
+        "tirosLejanos": 76,
+        "desmarque": 75,
+        "definicion": 74
       },
       "rating": 77,
       "country": "Argentina",
@@ -288,9 +300,10 @@
       "stats": {
         "vision": 81,
         "paseFiltrado": 80,
-        "llegada": 78,
-        "regate": 76,
-        "disparo": 75
+        "llegada": 79,
+        "regate": 77,
+        "tirosLejanos": 76,
+        "definicion": 75
       },
       "rating": 78,
       "country": "Argentina",
@@ -310,9 +323,10 @@
       "stats": {
         "velocidad": 85,
         "regate": 84,
-        "centro": 82,
-        "disparo": 80,
-        "desmarque": 79
+        "centro": 83,
+        "tirosLejanos": 81,
+        "desmarque": 80,
+        "definicion": 79
       },
       "rating": 82,
       "country": "Argentina",
@@ -325,11 +339,12 @@
       "position": "MC",
       "altPositions": [],
       "stats": {
-        "pases": 78,
-        "vision": 77,
-        "llegada": 75,
+        "vision": 78,
+        "pases": 77,
+        "llegada": 76,
+        "tirosLejanos": 74,
         "recuperacion": 73,
-        "tecnica": 72
+        "regate": 72
       },
       "rating": 75,
       "country": "Argentina",
@@ -343,10 +358,11 @@
       "altPositions": [],
       "stats": {
         "recuperacion": 77,
-        "pases": 76,
-        "posicionamiento": 74,
-        "duelos": 72,
-        "resistencia": 71
+        "duelos": 76,
+        "posicionamiento": 75,
+        "pases": 73,
+        "llegada": 72,
+        "tirosLejanos": 71
       },
       "rating": 74,
       "country": "Argentina",
@@ -361,9 +377,10 @@
       "stats": {
         "defAerea": 75,
         "intercepciones": 74,
-        "velocidad": 72,
-        "pases": 70,
-        "duelos": 69
+        "duelos": 73,
+        "cabezazo": 71,
+        "posicionamiento": 70,
+        "comunicacion": 69
       },
       "rating": 72,
       "country": "Argentina",
@@ -383,9 +400,10 @@
       "stats": {
         "vision": 79,
         "paseFiltrado": 78,
-        "llegada": 76,
-        "regate": 74,
-        "disparo": 73
+        "llegada": 77,
+        "regate": 75,
+        "tirosLejanos": 74,
+        "definicion": 73
       },
       "rating": 76,
       "country": "Argentina",

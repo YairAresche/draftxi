@@ -13,9 +13,10 @@
       "stats": {
         "reflejos": 83,
         "manejo": 82,
-        "salidas": 80,
-        "penales": 78,
-        "distribucion": 77
+        "salidas": 81,
+        "penales": 79,
+        "distribucion": 78,
+        "comunicacion": 77
       },
       "rating": 80,
       "country": "Uruguay",
@@ -30,9 +31,10 @@
       "stats": {
         "reflejos": 75,
         "manejo": 74,
-        "salidas": 72,
-        "penales": 70,
-        "distribucion": 69
+        "salidas": 73,
+        "penales": 71,
+        "distribucion": 70,
+        "comunicacion": 69
       },
       "rating": 72,
       "country": "Uruguay",
@@ -52,9 +54,10 @@
       "stats": {
         "defAerea": 79,
         "intercepciones": 78,
-        "velocidad": 76,
-        "pases": 74,
-        "duelos": 73
+        "duelos": 77,
+        "centro": 75,
+        "velocidad": 74,
+        "comunicacion": 73
       },
       "rating": 76,
       "country": "Uruguay",
@@ -74,9 +77,10 @@
       "stats": {
         "defAerea": 89,
         "intercepciones": 88,
-        "velocidad": 86,
-        "pases": 84,
-        "duelos": 83
+        "duelos": 87,
+        "cabezazo": 85,
+        "posicionamiento": 84,
+        "comunicacion": 83
       },
       "rating": 86,
       "country": "Uruguay",
@@ -91,9 +95,10 @@
       "stats": {
         "defAerea": 85,
         "intercepciones": 84,
-        "velocidad": 82,
-        "pases": 80,
-        "duelos": 79
+        "duelos": 83,
+        "cabezazo": 81,
+        "posicionamiento": 80,
+        "comunicacion": 79
       },
       "rating": 82,
       "country": "Uruguay",
@@ -108,9 +113,10 @@
       "stats": {
         "defAerea": 84,
         "intercepciones": 83,
-        "velocidad": 81,
-        "pases": 79,
-        "duelos": 78
+        "duelos": 82,
+        "centro": 80,
+        "velocidad": 79,
+        "comunicacion": 78
       },
       "rating": 81,
       "country": "Uruguay",
@@ -125,9 +131,10 @@
       "stats": {
         "defAerea": 77,
         "intercepciones": 76,
-        "velocidad": 74,
-        "pases": 72,
-        "duelos": 71
+        "duelos": 75,
+        "cabezazo": 73,
+        "posicionamiento": 72,
+        "comunicacion": 71
       },
       "rating": 74,
       "country": "Uruguay",
@@ -145,11 +152,12 @@
         }
       ],
       "stats": {
-        "pases": 94,
-        "vision": 93,
-        "llegada": 91,
+        "vision": 94,
+        "pases": 93,
+        "llegada": 92,
+        "tirosLejanos": 90,
         "recuperacion": 89,
-        "tecnica": 88
+        "regate": 88
       },
       "rating": 91,
       "country": "Uruguay",
@@ -167,11 +175,12 @@
         }
       ],
       "stats": {
-        "pases": 87,
-        "vision": 86,
-        "llegada": 84,
+        "vision": 87,
+        "pases": 86,
+        "llegada": 85,
+        "tirosLejanos": 83,
         "recuperacion": 82,
-        "tecnica": 81
+        "regate": 81
       },
       "rating": 84,
       "country": "Uruguay",
@@ -185,10 +194,11 @@
       "altPositions": [],
       "stats": {
         "recuperacion": 87,
-        "pases": 86,
-        "posicionamiento": 84,
-        "duelos": 82,
-        "resistencia": 81
+        "duelos": 86,
+        "posicionamiento": 85,
+        "pases": 83,
+        "llegada": 82,
+        "tirosLejanos": 81
       },
       "rating": 84,
       "country": "Uruguay",
@@ -208,9 +218,10 @@
       "stats": {
         "vision": 86,
         "paseFiltrado": 85,
-        "llegada": 83,
-        "regate": 81,
-        "disparo": 80
+        "llegada": 84,
+        "regate": 82,
+        "tirosLejanos": 81,
+        "definicion": 80
       },
       "rating": 83,
       "country": "Uruguay",
@@ -230,9 +241,10 @@
       "stats": {
         "vision": 83,
         "paseFiltrado": 82,
-        "llegada": 80,
-        "regate": 78,
-        "disparo": 77
+        "llegada": 81,
+        "regate": 79,
+        "tirosLejanos": 78,
+        "definicion": 77
       },
       "rating": 80,
       "country": "Uruguay",
@@ -251,11 +263,11 @@
       ],
       "stats": {
         "definicion": 89,
-        "fisico": 88,
-        "velocidad": 87,
-        "cabezazo": 85,
-        "pressing": 84,
-        "desmarque": 83
+        "cabezazo": 88,
+        "fisico": 87,
+        "desmarque": 85,
+        "velocidad": 84,
+        "pases": 83
       },
       "rating": 86,
       "country": "Uruguay",
@@ -275,9 +287,10 @@
       "stats": {
         "velocidad": 82,
         "regate": 81,
-        "centro": 79,
-        "disparo": 77,
-        "desmarque": 76
+        "centro": 80,
+        "tirosLejanos": 78,
+        "desmarque": 77,
+        "definicion": 76
       },
       "rating": 79,
       "country": "Uruguay",
@@ -292,9 +305,10 @@
       "stats": {
         "velocidad": 80,
         "regate": 79,
-        "centro": 77,
-        "disparo": 75,
-        "desmarque": 74
+        "centro": 78,
+        "tirosLejanos": 76,
+        "desmarque": 75,
+        "definicion": 74
       },
       "rating": 77,
       "country": "Uruguay",
@@ -309,9 +323,10 @@
       "stats": {
         "velocidad": 77,
         "regate": 76,
-        "centro": 74,
-        "disparo": 72,
-        "desmarque": 71
+        "centro": 75,
+        "tirosLejanos": 73,
+        "desmarque": 72,
+        "definicion": 71
       },
       "rating": 74,
       "country": "Uruguay",
@@ -331,9 +346,10 @@
       "stats": {
         "velocidad": 77,
         "regate": 76,
-        "centro": 74,
-        "disparo": 72,
-        "desmarque": 71
+        "centro": 75,
+        "tirosLejanos": 73,
+        "desmarque": 72,
+        "definicion": 71
       },
       "rating": 74,
       "country": "Uruguay",
@@ -347,11 +363,11 @@
       "altPositions": [],
       "stats": {
         "definicion": 78,
-        "fisico": 77,
-        "velocidad": 76,
-        "cabezazo": 74,
-        "pressing": 73,
-        "desmarque": 72
+        "cabezazo": 77,
+        "fisico": 76,
+        "desmarque": 74,
+        "velocidad": 73,
+        "pases": 72
       },
       "rating": 75,
       "country": "Uruguay",

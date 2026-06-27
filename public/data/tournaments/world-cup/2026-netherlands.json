@@ -13,9 +13,10 @@
       "stats": {
         "reflejos": 84,
         "manejo": 83,
-        "salidas": 81,
-        "penales": 79,
-        "distribucion": 78
+        "salidas": 82,
+        "penales": 80,
+        "distribucion": 79,
+        "comunicacion": 78
       },
       "rating": 81,
       "country": "Holanda",
@@ -30,9 +31,10 @@
       "stats": {
         "reflejos": 79,
         "manejo": 78,
-        "salidas": 76,
-        "penales": 74,
-        "distribucion": 73
+        "salidas": 77,
+        "penales": 75,
+        "distribucion": 74,
+        "comunicacion": 73
       },
       "rating": 76,
       "country": "Holanda",
@@ -47,9 +49,10 @@
       "stats": {
         "defAerea": 86,
         "intercepciones": 85,
-        "velocidad": 83,
-        "pases": 81,
-        "duelos": 80
+        "duelos": 84,
+        "centro": 82,
+        "velocidad": 81,
+        "comunicacion": 80
       },
       "rating": 83,
       "country": "Holanda",
@@ -64,9 +67,10 @@
       "stats": {
         "defAerea": 77,
         "intercepciones": 76,
-        "velocidad": 74,
-        "pases": 72,
-        "duelos": 71
+        "duelos": 75,
+        "centro": 73,
+        "velocidad": 72,
+        "comunicacion": 71
       },
       "rating": 74,
       "country": "Holanda",
@@ -81,9 +85,10 @@
       "stats": {
         "defAerea": 90,
         "intercepciones": 89,
-        "velocidad": 87,
-        "pases": 85,
-        "duelos": 84
+        "duelos": 88,
+        "cabezazo": 86,
+        "posicionamiento": 85,
+        "comunicacion": 84
       },
       "rating": 87,
       "country": "Holanda",
@@ -98,9 +103,10 @@
       "stats": {
         "defAerea": 87,
         "intercepciones": 86,
-        "velocidad": 84,
-        "pases": 82,
-        "duelos": 81
+        "duelos": 85,
+        "cabezazo": 83,
+        "posicionamiento": 82,
+        "comunicacion": 81
       },
       "rating": 84,
       "country": "Holanda",
@@ -115,9 +121,10 @@
       "stats": {
         "defAerea": 81,
         "intercepciones": 80,
-        "velocidad": 78,
-        "pases": 76,
-        "duelos": 75
+        "duelos": 79,
+        "cabezazo": 77,
+        "posicionamiento": 76,
+        "comunicacion": 75
       },
       "rating": 78,
       "country": "Holanda",
@@ -135,11 +142,12 @@
         }
       ],
       "stats": {
-        "pases": 89,
-        "vision": 88,
-        "llegada": 86,
+        "vision": 89,
+        "pases": 88,
+        "llegada": 87,
+        "tirosLejanos": 85,
         "recuperacion": 84,
-        "tecnica": 83
+        "regate": 83
       },
       "rating": 86,
       "country": "Holanda",
@@ -157,11 +165,12 @@
         }
       ],
       "stats": {
-        "pases": 87,
-        "vision": 86,
-        "llegada": 84,
+        "vision": 87,
+        "pases": 86,
+        "llegada": 85,
+        "tirosLejanos": 83,
         "recuperacion": 82,
-        "tecnica": 81
+        "regate": 81
       },
       "rating": 84,
       "country": "Holanda",
@@ -180,10 +189,11 @@
       ],
       "stats": {
         "recuperacion": 87,
-        "pases": 86,
-        "posicionamiento": 84,
-        "duelos": 82,
-        "resistencia": 81
+        "duelos": 86,
+        "posicionamiento": 85,
+        "pases": 83,
+        "llegada": 82,
+        "tirosLejanos": 81
       },
       "rating": 84,
       "country": "Holanda",
@@ -201,11 +211,12 @@
         }
       ],
       "stats": {
-        "pases": 87,
-        "vision": 86,
-        "llegada": 84,
+        "vision": 87,
+        "pases": 86,
+        "llegada": 85,
+        "tirosLejanos": 83,
         "recuperacion": 82,
-        "tecnica": 81
+        "regate": 81
       },
       "rating": 84,
       "country": "Holanda",
@@ -225,9 +236,10 @@
       "stats": {
         "velocidad": 89,
         "regate": 88,
-        "centro": 86,
-        "disparo": 84,
-        "desmarque": 83
+        "centro": 87,
+        "tirosLejanos": 85,
+        "desmarque": 84,
+        "definicion": 83
       },
       "rating": 86,
       "country": "Holanda",
@@ -246,11 +258,11 @@
       ],
       "stats": {
         "definicion": 81,
-        "fisico": 80,
-        "velocidad": 79,
-        "cabezazo": 77,
-        "pressing": 76,
-        "desmarque": 75
+        "cabezazo": 80,
+        "fisico": 79,
+        "desmarque": 77,
+        "velocidad": 76,
+        "pases": 75
       },
       "rating": 78,
       "country": "Holanda",
@@ -264,11 +276,11 @@
       "altPositions": [],
       "stats": {
         "definicion": 79,
-        "fisico": 78,
-        "velocidad": 77,
-        "cabezazo": 75,
-        "pressing": 74,
-        "desmarque": 73
+        "cabezazo": 78,
+        "fisico": 77,
+        "desmarque": 75,
+        "velocidad": 74,
+        "pases": 73
       },
       "rating": 76,
       "country": "Holanda",
@@ -288,9 +300,10 @@
       "stats": {
         "velocidad": 83,
         "regate": 82,
-        "centro": 80,
-        "disparo": 78,
-        "desmarque": 77
+        "centro": 81,
+        "tirosLejanos": 79,
+        "desmarque": 78,
+        "definicion": 77
       },
       "rating": 80,
       "country": "Holanda",
@@ -304,11 +317,11 @@
       "altPositions": [],
       "stats": {
         "definicion": 83,
-        "fisico": 82,
-        "velocidad": 81,
-        "cabezazo": 79,
-        "pressing": 78,
-        "desmarque": 77
+        "cabezazo": 82,
+        "fisico": 81,
+        "desmarque": 79,
+        "velocidad": 78,
+        "pases": 77
       },
       "rating": 80,
       "country": "Holanda",
@@ -328,9 +341,10 @@
       "stats": {
         "vision": 87,
         "paseFiltrado": 86,
-        "llegada": 84,
-        "regate": 82,
-        "disparo": 81
+        "llegada": 85,
+        "regate": 83,
+        "tirosLejanos": 82,
+        "definicion": 81
       },
       "rating": 84,
       "country": "Holanda",
@@ -350,9 +364,10 @@
       "stats": {
         "defAerea": 86,
         "intercepciones": 85,
-        "velocidad": 83,
-        "pases": 81,
-        "duelos": 80
+        "duelos": 84,
+        "cabezazo": 82,
+        "posicionamiento": 81,
+        "comunicacion": 80
       },
       "rating": 83,
       "country": "Holanda",
@@ -372,9 +387,10 @@
       "stats": {
         "defAerea": 82,
         "intercepciones": 81,
-        "velocidad": 79,
-        "pases": 77,
-        "duelos": 76
+        "duelos": 80,
+        "cabezazo": 78,
+        "posicionamiento": 77,
+        "comunicacion": 76
       },
       "rating": 79,
       "country": "Holanda",

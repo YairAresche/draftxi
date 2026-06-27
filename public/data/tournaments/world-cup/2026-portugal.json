@@ -13,9 +13,10 @@
       "stats": {
         "reflejos": 89,
         "manejo": 88,
-        "salidas": 86,
-        "penales": 84,
-        "distribucion": 83
+        "salidas": 87,
+        "penales": 85,
+        "distribucion": 84,
+        "comunicacion": 83
       },
       "rating": 86,
       "country": "Portugal",
@@ -30,9 +31,10 @@
       "stats": {
         "reflejos": 76,
         "manejo": 75,
-        "salidas": 73,
-        "penales": 71,
-        "distribucion": 70
+        "salidas": 74,
+        "penales": 72,
+        "distribucion": 71,
+        "comunicacion": 70
       },
       "rating": 73,
       "country": "Portugal",
@@ -52,9 +54,10 @@
       "stats": {
         "defAerea": 86,
         "intercepciones": 85,
-        "velocidad": 83,
-        "pases": 81,
-        "duelos": 80
+        "duelos": 84,
+        "centro": 82,
+        "velocidad": 81,
+        "comunicacion": 80
       },
       "rating": 83,
       "country": "Portugal",
@@ -74,9 +77,10 @@
       "stats": {
         "defAerea": 82,
         "intercepciones": 81,
-        "velocidad": 79,
-        "pases": 77,
-        "duelos": 76
+        "duelos": 80,
+        "centro": 78,
+        "velocidad": 77,
+        "comunicacion": 76
       },
       "rating": 79,
       "country": "Portugal",
@@ -91,9 +95,10 @@
       "stats": {
         "defAerea": 92,
         "intercepciones": 91,
-        "velocidad": 89,
-        "pases": 87,
-        "duelos": 86
+        "duelos": 90,
+        "cabezazo": 88,
+        "posicionamiento": 87,
+        "comunicacion": 86
       },
       "rating": 89,
       "country": "Portugal",
@@ -108,9 +113,10 @@
       "stats": {
         "defAerea": 85,
         "intercepciones": 84,
-        "velocidad": 82,
-        "pases": 80,
-        "duelos": 79
+        "duelos": 83,
+        "cabezazo": 81,
+        "posicionamiento": 80,
+        "comunicacion": 79
       },
       "rating": 82,
       "country": "Portugal",
@@ -125,9 +131,10 @@
       "stats": {
         "defAerea": 83,
         "intercepciones": 82,
-        "velocidad": 80,
-        "pases": 78,
-        "duelos": 77
+        "duelos": 81,
+        "cabezazo": 79,
+        "posicionamiento": 78,
+        "comunicacion": 77
       },
       "rating": 80,
       "country": "Portugal",
@@ -146,10 +153,11 @@
       ],
       "stats": {
         "recuperacion": 85,
-        "pases": 84,
-        "posicionamiento": 82,
-        "duelos": 80,
-        "resistencia": 79
+        "duelos": 84,
+        "posicionamiento": 83,
+        "pases": 81,
+        "llegada": 80,
+        "tirosLejanos": 79
       },
       "rating": 82,
       "country": "Portugal",
@@ -167,11 +175,12 @@
         }
       ],
       "stats": {
-        "pases": 88,
-        "vision": 87,
-        "llegada": 85,
+        "vision": 88,
+        "pases": 87,
+        "llegada": 86,
+        "tirosLejanos": 84,
         "recuperacion": 83,
-        "tecnica": 82
+        "regate": 82
       },
       "rating": 85,
       "country": "Portugal",
@@ -191,9 +200,10 @@
       "stats": {
         "vision": 89,
         "paseFiltrado": 88,
-        "llegada": 86,
-        "regate": 84,
-        "disparo": 83
+        "llegada": 87,
+        "regate": 85,
+        "tirosLejanos": 84,
+        "definicion": 83
       },
       "rating": 86,
       "country": "Portugal",
@@ -213,9 +223,10 @@
       "stats": {
         "velocidad": 92,
         "regate": 91,
-        "centro": 89,
-        "disparo": 87,
-        "desmarque": 86
+        "centro": 90,
+        "tirosLejanos": 88,
+        "desmarque": 87,
+        "definicion": 86
       },
       "rating": 89,
       "country": "Portugal",
@@ -234,11 +245,11 @@
       ],
       "stats": {
         "definicion": 82,
-        "fisico": 81,
-        "velocidad": 80,
-        "cabezazo": 78,
-        "pressing": 77,
-        "desmarque": 76
+        "cabezazo": 81,
+        "fisico": 80,
+        "desmarque": 78,
+        "velocidad": 77,
+        "pases": 76
       },
       "rating": 79,
       "country": "Portugal",
@@ -258,9 +269,10 @@
       "stats": {
         "velocidad": 89,
         "regate": 88,
-        "centro": 86,
-        "disparo": 84,
-        "desmarque": 83
+        "centro": 87,
+        "tirosLejanos": 85,
+        "desmarque": 84,
+        "definicion": 83
       },
       "rating": 86,
       "country": "Portugal",
@@ -280,9 +292,10 @@
       "stats": {
         "vision": 86,
         "paseFiltrado": 85,
-        "llegada": 83,
-        "regate": 81,
-        "disparo": 80
+        "llegada": 84,
+        "regate": 82,
+        "tirosLejanos": 81,
+        "definicion": 80
       },
       "rating": 83,
       "country": "Portugal",
@@ -296,11 +309,11 @@
       "altPositions": [],
       "stats": {
         "definicion": 87,
-        "fisico": 86,
-        "velocidad": 85,
-        "cabezazo": 83,
-        "pressing": 82,
-        "desmarque": 81
+        "cabezazo": 86,
+        "fisico": 85,
+        "desmarque": 83,
+        "velocidad": 82,
+        "pases": 81
       },
       "rating": 84,
       "country": "Portugal",
@@ -320,9 +333,10 @@
       "stats": {
         "velocidad": 86,
         "regate": 85,
-        "centro": 83,
-        "disparo": 81,
-        "desmarque": 80
+        "centro": 84,
+        "tirosLejanos": 82,
+        "desmarque": 81,
+        "definicion": 80
       },
       "rating": 83,
       "country": "Portugal",
@@ -342,9 +356,10 @@
       "stats": {
         "velocidad": 83,
         "regate": 82,
-        "centro": 80,
-        "disparo": 78,
-        "desmarque": 77
+        "centro": 81,
+        "tirosLejanos": 79,
+        "desmarque": 78,
+        "definicion": 77
       },
       "rating": 80,
       "country": "Portugal",
@@ -357,11 +372,12 @@
       "position": "MC",
       "altPositions": [],
       "stats": {
-        "pases": 81,
-        "vision": 80,
-        "llegada": 78,
+        "vision": 81,
+        "pases": 80,
+        "llegada": 79,
+        "tirosLejanos": 77,
         "recuperacion": 76,
-        "tecnica": 75
+        "regate": 75
       },
       "rating": 78,
       "country": "Portugal",
@@ -376,9 +392,10 @@
       "stats": {
         "defAerea": 87,
         "intercepciones": 86,
-        "velocidad": 84,
-        "pases": 82,
-        "duelos": 81
+        "duelos": 85,
+        "centro": 83,
+        "velocidad": 82,
+        "comunicacion": 81
       },
       "rating": 84,
       "country": "Portugal",
@@ -397,11 +414,11 @@
       ],
       "stats": {
         "definicion": 84,
-        "fisico": 83,
-        "velocidad": 82,
-        "cabezazo": 80,
-        "pressing": 79,
-        "desmarque": 78
+        "cabezazo": 83,
+        "fisico": 82,
+        "desmarque": 80,
+        "velocidad": 79,
+        "pases": 78
       },
       "rating": 81,
       "country": "Portugal",

@@ -13,9 +13,10 @@
       "stats": {
         "reflejos": 85,
         "manejo": 84,
-        "salidas": 82,
-        "penales": 80,
-        "distribucion": 79
+        "salidas": 83,
+        "penales": 81,
+        "distribucion": 80,
+        "comunicacion": 79
       },
       "rating": 82,
       "country": "Alemania",
@@ -30,9 +31,10 @@
       "stats": {
         "reflejos": 84,
         "manejo": 83,
-        "salidas": 81,
-        "penales": 79,
-        "distribucion": 78
+        "salidas": 82,
+        "penales": 80,
+        "distribucion": 79,
+        "comunicacion": 78
       },
       "rating": 81,
       "country": "Alemania",
@@ -52,9 +54,10 @@
       "stats": {
         "defAerea": 91,
         "intercepciones": 90,
-        "velocidad": 88,
-        "pases": 86,
-        "duelos": 85
+        "duelos": 89,
+        "centro": 87,
+        "velocidad": 86,
+        "comunicacion": 85
       },
       "rating": 88,
       "country": "Alemania",
@@ -69,9 +72,10 @@
       "stats": {
         "defAerea": 83,
         "intercepciones": 82,
-        "velocidad": 80,
-        "pases": 78,
-        "duelos": 77
+        "duelos": 81,
+        "centro": 79,
+        "velocidad": 78,
+        "comunicacion": 77
       },
       "rating": 80,
       "country": "Alemania",
@@ -86,9 +90,10 @@
       "stats": {
         "defAerea": 87,
         "intercepciones": 86,
-        "velocidad": 84,
-        "pases": 82,
-        "duelos": 81
+        "duelos": 85,
+        "cabezazo": 83,
+        "posicionamiento": 82,
+        "comunicacion": 81
       },
       "rating": 84,
       "country": "Alemania",
@@ -103,9 +108,10 @@
       "stats": {
         "defAerea": 85,
         "intercepciones": 84,
-        "velocidad": 82,
-        "pases": 80,
-        "duelos": 79
+        "duelos": 83,
+        "cabezazo": 81,
+        "posicionamiento": 80,
+        "comunicacion": 79
       },
       "rating": 82,
       "country": "Alemania",
@@ -120,9 +126,10 @@
       "stats": {
         "defAerea": 81,
         "intercepciones": 80,
-        "velocidad": 78,
-        "pases": 76,
-        "duelos": 75
+        "duelos": 79,
+        "cabezazo": 77,
+        "posicionamiento": 76,
+        "comunicacion": 75
       },
       "rating": 78,
       "country": "Alemania",
@@ -140,11 +147,12 @@
         }
       ],
       "stats": {
-        "pases": 86,
-        "vision": 85,
-        "llegada": 83,
+        "vision": 86,
+        "pases": 85,
+        "llegada": 84,
+        "tirosLejanos": 82,
         "recuperacion": 81,
-        "tecnica": 80
+        "regate": 80
       },
       "rating": 83,
       "country": "Alemania",
@@ -164,9 +172,10 @@
       "stats": {
         "vision": 95,
         "paseFiltrado": 94,
-        "llegada": 92,
-        "regate": 90,
-        "disparo": 89
+        "llegada": 93,
+        "regate": 91,
+        "tirosLejanos": 90,
+        "definicion": 89
       },
       "rating": 92,
       "country": "Alemania",
@@ -186,9 +195,10 @@
       "stats": {
         "vision": 95,
         "paseFiltrado": 94,
-        "llegada": 92,
-        "regate": 90,
-        "disparo": 89
+        "llegada": 93,
+        "regate": 91,
+        "tirosLejanos": 90,
+        "definicion": 89
       },
       "rating": 92,
       "country": "Alemania",
@@ -208,9 +218,10 @@
       "stats": {
         "velocidad": 86,
         "regate": 85,
-        "centro": 83,
-        "disparo": 81,
-        "desmarque": 80
+        "centro": 84,
+        "tirosLejanos": 82,
+        "desmarque": 81,
+        "definicion": 80
       },
       "rating": 83,
       "country": "Alemania",
@@ -230,9 +241,10 @@
       "stats": {
         "velocidad": 81,
         "regate": 80,
-        "centro": 78,
-        "disparo": 76,
-        "desmarque": 75
+        "centro": 79,
+        "tirosLejanos": 77,
+        "desmarque": 76,
+        "definicion": 75
       },
       "rating": 78,
       "country": "Alemania",
@@ -251,11 +263,11 @@
       ],
       "stats": {
         "definicion": 88,
-        "fisico": 87,
-        "velocidad": 86,
-        "cabezazo": 84,
-        "pressing": 83,
-        "desmarque": 82
+        "cabezazo": 87,
+        "fisico": 86,
+        "desmarque": 84,
+        "velocidad": 83,
+        "pases": 82
       },
       "rating": 85,
       "country": "Alemania",
@@ -269,11 +281,11 @@
       "altPositions": [],
       "stats": {
         "definicion": 84,
-        "fisico": 83,
-        "velocidad": 82,
-        "cabezazo": 80,
-        "pressing": 79,
-        "desmarque": 78
+        "cabezazo": 83,
+        "fisico": 82,
+        "desmarque": 80,
+        "velocidad": 79,
+        "pases": 78
       },
       "rating": 81,
       "country": "Alemania",
@@ -291,11 +303,12 @@
         }
       ],
       "stats": {
-        "pases": 83,
-        "vision": 82,
-        "llegada": 80,
+        "vision": 83,
+        "pases": 82,
+        "llegada": 81,
+        "tirosLejanos": 79,
         "recuperacion": 78,
-        "tecnica": 77
+        "regate": 77
       },
       "rating": 80,
       "country": "Alemania",
@@ -309,10 +322,11 @@
       "altPositions": [],
       "stats": {
         "recuperacion": 82,
-        "pases": 81,
-        "posicionamiento": 79,
-        "duelos": 77,
-        "resistencia": 76
+        "duelos": 81,
+        "posicionamiento": 80,
+        "pases": 78,
+        "llegada": 77,
+        "tirosLejanos": 76
       },
       "rating": 79,
       "country": "Alemania",
@@ -326,11 +340,11 @@
       "altPositions": [],
       "stats": {
         "definicion": 80,
-        "fisico": 79,
-        "velocidad": 78,
-        "cabezazo": 76,
-        "pressing": 75,
-        "desmarque": 74
+        "cabezazo": 79,
+        "fisico": 78,
+        "desmarque": 76,
+        "velocidad": 75,
+        "pases": 74
       },
       "rating": 77,
       "country": "Alemania",
@@ -349,11 +363,11 @@
       ],
       "stats": {
         "definicion": 79,
-        "fisico": 78,
-        "velocidad": 77,
-        "cabezazo": 75,
-        "pressing": 74,
-        "desmarque": 73
+        "cabezazo": 78,
+        "fisico": 77,
+        "desmarque": 75,
+        "velocidad": 74,
+        "pases": 73
       },
       "rating": 76,
       "country": "Alemania",

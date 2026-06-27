@@ -15,18 +15,18 @@ const INDEX     = path.join(DATA_DIR, 'index.json')
 const CATALOG   = path.join(DATA_DIR, 'catalog.json')
 
 const POSITION_STATS = {
-  POR: ['reflejos', 'manejo', 'salidas', 'penales', 'distribucion'],
-  LD:  ['defAerea', 'intercepciones', 'velocidad', 'pases', 'duelos'],
-  LI:  ['defAerea', 'intercepciones', 'velocidad', 'pases', 'duelos'],
-  DFC: ['defAerea', 'intercepciones', 'velocidad', 'pases', 'duelos'],
-  MCD: ['recuperacion', 'pases', 'posicionamiento', 'duelos', 'resistencia'],
-  MC:  ['pases', 'vision', 'llegada', 'recuperacion', 'tecnica'],
-  MCO: ['vision', 'paseFiltrado', 'llegada', 'regate', 'disparo'],
-  MD:  ['velocidad', 'regate', 'centro', 'disparo', 'pases'],
-  MI:  ['velocidad', 'regate', 'centro', 'disparo', 'pases'],
-  EI:  ['velocidad', 'regate', 'centro', 'disparo', 'desmarque'],
-  ED:  ['velocidad', 'regate', 'centro', 'disparo', 'desmarque'],
-  DC:  ['definicion', 'fisico', 'velocidad', 'cabezazo', 'pressing', 'desmarque'],
+  POR: ['reflejos', 'manejo', 'salidas', 'penales', 'distribucion', 'comunicacion'],
+  LD:  ['defAerea', 'intercepciones', 'duelos', 'centro', 'velocidad', 'comunicacion'],
+  LI:  ['defAerea', 'intercepciones', 'duelos', 'centro', 'velocidad', 'comunicacion'],
+  DFC: ['defAerea', 'intercepciones', 'duelos', 'cabezazo', 'posicionamiento', 'comunicacion'],
+  MCD: ['recuperacion', 'duelos', 'posicionamiento', 'pases', 'llegada', 'tirosLejanos'],
+  MC:  ['vision', 'pases', 'llegada', 'tirosLejanos', 'recuperacion', 'regate'],
+  MCO: ['vision', 'paseFiltrado', 'llegada', 'regate', 'tirosLejanos', 'definicion'],
+  MD:  ['velocidad', 'pases', 'regate', 'centro', 'duelos', 'tirosLejanos'],
+  MI:  ['velocidad', 'pases', 'regate', 'centro', 'duelos', 'tirosLejanos'],
+  EI:  ['velocidad', 'regate', 'centro', 'tirosLejanos', 'desmarque', 'definicion'],
+  ED:  ['velocidad', 'regate', 'centro', 'tirosLejanos', 'desmarque', 'definicion'],
+  DC:  ['definicion', 'cabezazo', 'fisico', 'desmarque', 'velocidad', 'pases'],
 }
 
 function generateStats(position, rating) {

@@ -22,6 +22,7 @@ export interface AltPosition {
 }
 
 export interface PlayerStats {
+  [key: string]: number | undefined
   // POR
   reflejos?: number
   manejo?: number
@@ -31,6 +32,7 @@ export interface PlayerStats {
   // DEF (DFC, LD, LI)
   defAerea?: number
   intercepciones?: number
+  cabezazo?: number
   duelos?: number
   // MEDIO (MCD, MC, MCO)
   recuperacion?: number
@@ -38,20 +40,18 @@ export interface PlayerStats {
   pases?: number
   llegada?: number
   paseFiltrado?: number
-  // ATAQUE (EI, ED, DC)
-  velocidad?: number
   regate?: number
+  // ATAQUE (EI, ED, MCO, DC)
+  velocidad?: number
   centro?: number
   definicion?: number
   fisico?: number
-  cabezazo?: number
-  pressing?: number
   desmarque?: number
-  disparo?: number
+  tirosLejanos?: number  // EI/ED, MI/MD, MC, MCO, MCD — disparo desde lejos
+  disparo?: number       // deprecated — reemplazado por tirosLejanos; se mantiene para compat con source data
   // Compartida
-  tecnica?: number
   posicionamiento?: number
-  resistencia?: number
+  comunicacion?: number  // POR, DFC, LD, LI — organización defensiva
 }
 
 export interface Player {

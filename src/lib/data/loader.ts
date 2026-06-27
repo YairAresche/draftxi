@@ -1,4 +1,5 @@
 import type { Squad } from '@/types/tournament'
+import type { Position, AltPosition } from '@/types/player'
 
 const BASE = '/data/tournaments/world-cup'
 
@@ -14,8 +15,8 @@ export interface SquadRef {
 type PlayerOverride = {
   rating: number
   stats: Record<string, number>
-  position?: string
-  altPositions?: Array<{ position: string; compatibility: string }>
+  position?: Position
+  altPositions?: AltPosition[]
 }
 type OverridesMap = Record<string, PlayerOverride>
 

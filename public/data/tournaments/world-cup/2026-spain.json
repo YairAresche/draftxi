@@ -13,9 +13,10 @@
       "stats": {
         "reflejos": 87,
         "manejo": 86,
-        "salidas": 84,
-        "penales": 82,
-        "distribucion": 81
+        "salidas": 85,
+        "penales": 83,
+        "distribucion": 82,
+        "comunicacion": 81
       },
       "rating": 84,
       "country": "España",
@@ -30,9 +31,10 @@
       "stats": {
         "reflejos": 85,
         "manejo": 84,
-        "salidas": 82,
-        "penales": 80,
-        "distribucion": 79
+        "salidas": 83,
+        "penales": 81,
+        "distribucion": 80,
+        "comunicacion": 79
       },
       "rating": 82,
       "country": "España",
@@ -47,9 +49,10 @@
       "stats": {
         "defAerea": 85,
         "intercepciones": 84,
-        "velocidad": 82,
-        "pases": 80,
-        "duelos": 79
+        "duelos": 83,
+        "centro": 81,
+        "velocidad": 80,
+        "comunicacion": 79
       },
       "rating": 82,
       "country": "España",
@@ -64,9 +67,10 @@
       "stats": {
         "defAerea": 86,
         "intercepciones": 85,
-        "velocidad": 83,
-        "pases": 81,
-        "duelos": 80
+        "duelos": 84,
+        "centro": 82,
+        "velocidad": 81,
+        "comunicacion": 80
       },
       "rating": 83,
       "country": "España",
@@ -81,9 +85,10 @@
       "stats": {
         "defAerea": 83,
         "intercepciones": 82,
-        "velocidad": 80,
-        "pases": 78,
-        "duelos": 77
+        "duelos": 81,
+        "cabezazo": 79,
+        "posicionamiento": 78,
+        "comunicacion": 77
       },
       "rating": 80,
       "country": "España",
@@ -98,9 +103,10 @@
       "stats": {
         "defAerea": 87,
         "intercepciones": 86,
-        "velocidad": 84,
-        "pases": 82,
-        "duelos": 81
+        "duelos": 85,
+        "cabezazo": 83,
+        "posicionamiento": 82,
+        "comunicacion": 81
       },
       "rating": 84,
       "country": "España",
@@ -115,9 +121,10 @@
       "stats": {
         "defAerea": 81,
         "intercepciones": 80,
-        "velocidad": 78,
-        "pases": 76,
-        "duelos": 75
+        "duelos": 79,
+        "cabezazo": 77,
+        "posicionamiento": 76,
+        "comunicacion": 75
       },
       "rating": 78,
       "country": "España",
@@ -135,11 +142,12 @@
         }
       ],
       "stats": {
-        "pases": 92,
-        "vision": 91,
-        "llegada": 89,
+        "vision": 92,
+        "pases": 91,
+        "llegada": 90,
+        "tirosLejanos": 88,
         "recuperacion": 87,
-        "tecnica": 86
+        "regate": 86
       },
       "rating": 89,
       "country": "España",
@@ -153,10 +161,11 @@
       "altPositions": [],
       "stats": {
         "recuperacion": 96,
-        "pases": 95,
-        "posicionamiento": 93,
-        "duelos": 91,
-        "resistencia": 90
+        "duelos": 95,
+        "posicionamiento": 94,
+        "pases": 92,
+        "llegada": 91,
+        "tirosLejanos": 90
       },
       "rating": 93,
       "country": "España",
@@ -174,11 +183,12 @@
         }
       ],
       "stats": {
-        "pases": 89,
-        "vision": 88,
-        "llegada": 86,
+        "vision": 89,
+        "pases": 88,
+        "llegada": 87,
+        "tirosLejanos": 85,
         "recuperacion": 84,
-        "tecnica": 83
+        "regate": 83
       },
       "rating": 86,
       "country": "España",
@@ -198,9 +208,10 @@
       "stats": {
         "vision": 89,
         "paseFiltrado": 88,
-        "llegada": 86,
-        "regate": 84,
-        "disparo": 83
+        "llegada": 87,
+        "regate": 85,
+        "tirosLejanos": 84,
+        "definicion": 83
       },
       "rating": 86,
       "country": "España",
@@ -220,9 +231,10 @@
       "stats": {
         "velocidad": 94,
         "regate": 93,
-        "centro": 91,
-        "disparo": 89,
-        "desmarque": 88
+        "centro": 92,
+        "tirosLejanos": 90,
+        "desmarque": 89,
+        "definicion": 88
       },
       "rating": 91,
       "country": "España",
@@ -242,9 +254,10 @@
       "stats": {
         "velocidad": 91,
         "regate": 90,
-        "centro": 88,
-        "disparo": 86,
-        "desmarque": 85
+        "centro": 89,
+        "tirosLejanos": 87,
+        "desmarque": 86,
+        "definicion": 85
       },
       "rating": 88,
       "country": "España",
@@ -258,11 +271,11 @@
       "altPositions": [],
       "stats": {
         "definicion": 82,
-        "fisico": 81,
-        "velocidad": 80,
-        "cabezazo": 78,
-        "pressing": 77,
-        "desmarque": 76
+        "cabezazo": 81,
+        "fisico": 80,
+        "desmarque": 78,
+        "velocidad": 77,
+        "pases": 76
       },
       "rating": 79,
       "country": "España",
@@ -282,9 +295,10 @@
       "stats": {
         "velocidad": 81,
         "regate": 80,
-        "centro": 78,
-        "disparo": 76,
-        "desmarque": 75
+        "centro": 79,
+        "tirosLejanos": 77,
+        "desmarque": 76,
+        "definicion": 75
       },
       "rating": 78,
       "country": "España",
@@ -303,11 +317,11 @@
       ],
       "stats": {
         "definicion": 84,
-        "fisico": 83,
-        "velocidad": 82,
-        "cabezazo": 80,
-        "pressing": 79,
-        "desmarque": 78
+        "cabezazo": 83,
+        "fisico": 82,
+        "desmarque": 80,
+        "velocidad": 79,
+        "pases": 78
       },
       "rating": 81,
       "country": "España",
@@ -325,11 +339,12 @@
         }
       ],
       "stats": {
-        "pases": 86,
-        "vision": 85,
-        "llegada": 83,
+        "vision": 86,
+        "pases": 85,
+        "llegada": 84,
+        "tirosLejanos": 82,
         "recuperacion": 81,
-        "tecnica": 80
+        "regate": 80
       },
       "rating": 83,
       "country": "España",
@@ -343,10 +358,11 @@
       "altPositions": [],
       "stats": {
         "recuperacion": 85,
-        "pases": 84,
-        "posicionamiento": 82,
-        "duelos": 80,
-        "resistencia": 79
+        "duelos": 84,
+        "posicionamiento": 83,
+        "pases": 81,
+        "llegada": 80,
+        "tirosLejanos": 79
       },
       "rating": 82,
       "country": "España",
@@ -361,9 +377,10 @@
       "stats": {
         "defAerea": 78,
         "intercepciones": 77,
-        "velocidad": 75,
-        "pases": 73,
-        "duelos": 72
+        "duelos": 76,
+        "centro": 74,
+        "velocidad": 73,
+        "comunicacion": 72
       },
       "rating": 75,
       "country": "España",
@@ -378,9 +395,10 @@
       "stats": {
         "velocidad": 77,
         "regate": 76,
-        "centro": 74,
-        "disparo": 72,
-        "desmarque": 71
+        "centro": 75,
+        "tirosLejanos": 73,
+        "desmarque": 72,
+        "definicion": 71
       },
       "rating": 74,
       "country": "España",

@@ -13,9 +13,10 @@
       "stats": {
         "reflejos": 90,
         "manejo": 89,
-        "salidas": 87,
-        "penales": 85,
-        "distribucion": 84
+        "salidas": 88,
+        "penales": 86,
+        "distribucion": 85,
+        "comunicacion": 84
       },
       "rating": 87,
       "country": "Francia",
@@ -30,9 +31,10 @@
       "stats": {
         "reflejos": 77,
         "manejo": 76,
-        "salidas": 74,
-        "penales": 72,
-        "distribucion": 71
+        "salidas": 75,
+        "penales": 73,
+        "distribucion": 72,
+        "comunicacion": 71
       },
       "rating": 74,
       "country": "Francia",
@@ -52,9 +54,10 @@
       "stats": {
         "defAerea": 89,
         "intercepciones": 88,
-        "velocidad": 86,
-        "pases": 84,
-        "duelos": 83
+        "duelos": 87,
+        "centro": 85,
+        "velocidad": 84,
+        "comunicacion": 83
       },
       "rating": 86,
       "country": "Francia",
@@ -69,9 +72,10 @@
       "stats": {
         "defAerea": 90,
         "intercepciones": 89,
-        "velocidad": 87,
-        "pases": 85,
-        "duelos": 84
+        "duelos": 88,
+        "centro": 86,
+        "velocidad": 85,
+        "comunicacion": 84
       },
       "rating": 87,
       "country": "Francia",
@@ -86,9 +90,10 @@
       "stats": {
         "defAerea": 86,
         "intercepciones": 85,
-        "velocidad": 83,
-        "pases": 81,
-        "duelos": 80
+        "duelos": 84,
+        "cabezazo": 82,
+        "posicionamiento": 81,
+        "comunicacion": 80
       },
       "rating": 83,
       "country": "Francia",
@@ -103,9 +108,10 @@
       "stats": {
         "defAerea": 87,
         "intercepciones": 86,
-        "velocidad": 84,
-        "pases": 82,
-        "duelos": 81
+        "duelos": 85,
+        "cabezazo": 83,
+        "posicionamiento": 82,
+        "comunicacion": 81
       },
       "rating": 84,
       "country": "Francia",
@@ -119,10 +125,11 @@
       "altPositions": [],
       "stats": {
         "recuperacion": 90,
-        "pases": 89,
-        "posicionamiento": 87,
-        "duelos": 85,
-        "resistencia": 84
+        "duelos": 89,
+        "posicionamiento": 88,
+        "pases": 86,
+        "llegada": 85,
+        "tirosLejanos": 84
       },
       "rating": 87,
       "country": "Francia",
@@ -140,11 +147,12 @@
         }
       ],
       "stats": {
-        "pases": 87,
-        "vision": 86,
-        "llegada": 84,
+        "vision": 87,
+        "pases": 86,
+        "llegada": 85,
+        "tirosLejanos": 83,
         "recuperacion": 82,
-        "tecnica": 81
+        "regate": 81
       },
       "rating": 84,
       "country": "Francia",
@@ -162,11 +170,12 @@
         }
       ],
       "stats": {
-        "pases": 83,
-        "vision": 82,
-        "llegada": 80,
+        "vision": 83,
+        "pases": 82,
+        "llegada": 81,
+        "tirosLejanos": 79,
         "recuperacion": 78,
-        "tecnica": 77
+        "regate": 77
       },
       "rating": 80,
       "country": "Francia",
@@ -186,9 +195,10 @@
       "stats": {
         "vision": 88,
         "paseFiltrado": 87,
-        "llegada": 85,
-        "regate": 83,
-        "disparo": 82
+        "llegada": 86,
+        "regate": 84,
+        "tirosLejanos": 83,
+        "definicion": 82
       },
       "rating": 85,
       "country": "Francia",
@@ -207,11 +217,11 @@
       ],
       "stats": {
         "definicion": 98,
-        "fisico": 97,
-        "velocidad": 96,
-        "cabezazo": 94,
-        "pressing": 93,
-        "desmarque": 92
+        "cabezazo": 97,
+        "fisico": 96,
+        "desmarque": 94,
+        "velocidad": 93,
+        "pases": 92
       },
       "rating": 95,
       "country": "Francia",
@@ -231,9 +241,10 @@
       "stats": {
         "velocidad": 87,
         "regate": 86,
-        "centro": 84,
-        "disparo": 82,
-        "desmarque": 81
+        "centro": 85,
+        "tirosLejanos": 83,
+        "desmarque": 82,
+        "definicion": 81
       },
       "rating": 84,
       "country": "Francia",
@@ -252,11 +263,11 @@
       ],
       "stats": {
         "definicion": 84,
-        "fisico": 83,
-        "velocidad": 82,
-        "cabezazo": 80,
-        "pressing": 79,
-        "desmarque": 78
+        "cabezazo": 83,
+        "fisico": 82,
+        "desmarque": 80,
+        "velocidad": 79,
+        "pases": 78
       },
       "rating": 81,
       "country": "Francia",
@@ -275,11 +286,11 @@
       ],
       "stats": {
         "definicion": 87,
-        "fisico": 86,
-        "velocidad": 85,
-        "cabezazo": 83,
-        "pressing": 82,
-        "desmarque": 81
+        "cabezazo": 86,
+        "fisico": 85,
+        "desmarque": 83,
+        "velocidad": 82,
+        "pases": 81
       },
       "rating": 84,
       "country": "Francia",
@@ -292,11 +303,12 @@
       "position": "MC",
       "altPositions": [],
       "stats": {
-        "pases": 85,
-        "vision": 84,
-        "llegada": 82,
+        "vision": 85,
+        "pases": 84,
+        "llegada": 83,
+        "tirosLejanos": 81,
         "recuperacion": 80,
-        "tecnica": 79
+        "regate": 79
       },
       "rating": 82,
       "country": "Francia",
@@ -316,9 +328,10 @@
       "stats": {
         "velocidad": 85,
         "regate": 84,
-        "centro": 82,
-        "disparo": 80,
-        "desmarque": 79
+        "centro": 83,
+        "tirosLejanos": 81,
+        "desmarque": 80,
+        "definicion": 79
       },
       "rating": 82,
       "country": "Francia",
@@ -333,9 +346,10 @@
       "stats": {
         "defAerea": 90,
         "intercepciones": 89,
-        "velocidad": 87,
-        "pases": 85,
-        "duelos": 84
+        "duelos": 88,
+        "cabezazo": 86,
+        "posicionamiento": 85,
+        "comunicacion": 84
       },
       "rating": 87,
       "country": "Francia",
@@ -355,9 +369,10 @@
       "stats": {
         "velocidad": 79,
         "regate": 78,
-        "centro": 76,
-        "disparo": 74,
-        "desmarque": 73
+        "centro": 77,
+        "tirosLejanos": 75,
+        "desmarque": 74,
+        "definicion": 73
       },
       "rating": 76,
       "country": "Francia",
@@ -377,9 +392,10 @@
       "stats": {
         "velocidad": 86,
         "regate": 85,
-        "centro": 83,
-        "disparo": 81,
-        "desmarque": 80
+        "centro": 84,
+        "tirosLejanos": 82,
+        "desmarque": 81,
+        "definicion": 80
       },
       "rating": 83,
       "country": "Francia",

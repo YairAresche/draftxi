@@ -13,9 +13,10 @@
       "stats": {
         "reflejos": 90,
         "manejo": 89,
-        "salidas": 87,
-        "penales": 85,
-        "distribucion": 84
+        "salidas": 88,
+        "penales": 86,
+        "distribucion": 85,
+        "comunicacion": 84
       },
       "rating": 87,
       "country": "Brasil",
@@ -30,9 +31,10 @@
       "stats": {
         "reflejos": 84,
         "manejo": 83,
-        "salidas": 81,
-        "penales": 79,
-        "distribucion": 78
+        "salidas": 82,
+        "penales": 80,
+        "distribucion": 79,
+        "comunicacion": 78
       },
       "rating": 81,
       "country": "Brasil",
@@ -52,9 +54,10 @@
       "stats": {
         "defAerea": 82,
         "intercepciones": 81,
-        "velocidad": 79,
-        "pases": 77,
-        "duelos": 76
+        "duelos": 80,
+        "centro": 78,
+        "velocidad": 77,
+        "comunicacion": 76
       },
       "rating": 79,
       "country": "Brasil",
@@ -69,9 +72,10 @@
       "stats": {
         "defAerea": 81,
         "intercepciones": 80,
-        "velocidad": 78,
-        "pases": 76,
-        "duelos": 75
+        "duelos": 79,
+        "centro": 77,
+        "velocidad": 76,
+        "comunicacion": 75
       },
       "rating": 78,
       "country": "Brasil",
@@ -86,9 +90,10 @@
       "stats": {
         "defAerea": 89,
         "intercepciones": 88,
-        "velocidad": 86,
-        "pases": 84,
-        "duelos": 83
+        "duelos": 87,
+        "cabezazo": 85,
+        "posicionamiento": 84,
+        "comunicacion": 83
       },
       "rating": 86,
       "country": "Brasil",
@@ -103,9 +108,10 @@
       "stats": {
         "defAerea": 87,
         "intercepciones": 86,
-        "velocidad": 84,
-        "pases": 82,
-        "duelos": 81
+        "duelos": 85,
+        "cabezazo": 83,
+        "posicionamiento": 82,
+        "comunicacion": 81
       },
       "rating": 84,
       "country": "Brasil",
@@ -120,9 +126,10 @@
       "stats": {
         "defAerea": 85,
         "intercepciones": 84,
-        "velocidad": 82,
-        "pases": 80,
-        "duelos": 79
+        "duelos": 83,
+        "cabezazo": 81,
+        "posicionamiento": 80,
+        "comunicacion": 79
       },
       "rating": 82,
       "country": "Brasil",
@@ -136,10 +143,11 @@
       "altPositions": [],
       "stats": {
         "recuperacion": 85,
-        "pases": 84,
-        "posicionamiento": 82,
-        "duelos": 80,
-        "resistencia": 79
+        "duelos": 84,
+        "posicionamiento": 83,
+        "pases": 81,
+        "llegada": 80,
+        "tirosLejanos": 79
       },
       "rating": 82,
       "country": "Brasil",
@@ -157,11 +165,12 @@
         }
       ],
       "stats": {
-        "pases": 89,
-        "vision": 88,
-        "llegada": 86,
+        "vision": 89,
+        "pases": 88,
+        "llegada": 87,
+        "tirosLejanos": 85,
         "recuperacion": 84,
-        "tecnica": 83
+        "regate": 83
       },
       "rating": 86,
       "country": "Brasil",
@@ -181,9 +190,10 @@
       "stats": {
         "vision": 87,
         "paseFiltrado": 86,
-        "llegada": 84,
-        "regate": 82,
-        "disparo": 81
+        "llegada": 85,
+        "regate": 83,
+        "tirosLejanos": 82,
+        "definicion": 81
       },
       "rating": 84,
       "country": "Brasil",
@@ -203,9 +213,10 @@
       "stats": {
         "velocidad": 95,
         "regate": 94,
-        "centro": 92,
-        "disparo": 90,
-        "desmarque": 89
+        "centro": 93,
+        "tirosLejanos": 91,
+        "desmarque": 90,
+        "definicion": 89
       },
       "rating": 92,
       "country": "Brasil",
@@ -225,9 +236,10 @@
       "stats": {
         "velocidad": 87,
         "regate": 86,
-        "centro": 84,
-        "disparo": 82,
-        "desmarque": 81
+        "centro": 85,
+        "tirosLejanos": 83,
+        "desmarque": 82,
+        "definicion": 81
       },
       "rating": 84,
       "country": "Brasil",
@@ -246,11 +258,11 @@
       ],
       "stats": {
         "definicion": 85,
-        "fisico": 84,
-        "velocidad": 83,
-        "cabezazo": 81,
-        "pressing": 80,
-        "desmarque": 79
+        "cabezazo": 84,
+        "fisico": 83,
+        "desmarque": 81,
+        "velocidad": 80,
+        "pases": 79
       },
       "rating": 82,
       "country": "Brasil",
@@ -270,9 +282,10 @@
       "stats": {
         "velocidad": 88,
         "regate": 87,
-        "centro": 85,
-        "disparo": 83,
-        "desmarque": 82
+        "centro": 86,
+        "tirosLejanos": 84,
+        "desmarque": 83,
+        "definicion": 82
       },
       "rating": 85,
       "country": "Brasil",
@@ -287,9 +300,10 @@
       "stats": {
         "velocidad": 85,
         "regate": 84,
-        "centro": 82,
-        "disparo": 80,
-        "desmarque": 79
+        "centro": 83,
+        "tirosLejanos": 81,
+        "desmarque": 80,
+        "definicion": 79
       },
       "rating": 82,
       "country": "Brasil",
@@ -303,11 +317,11 @@
       "altPositions": [],
       "stats": {
         "definicion": 83,
-        "fisico": 82,
-        "velocidad": 81,
-        "cabezazo": 79,
-        "pressing": 78,
-        "desmarque": 77
+        "cabezazo": 82,
+        "fisico": 81,
+        "desmarque": 79,
+        "velocidad": 78,
+        "pases": 77
       },
       "rating": 80,
       "country": "Brasil",
@@ -327,9 +341,10 @@
       "stats": {
         "velocidad": 82,
         "regate": 81,
-        "centro": 79,
-        "disparo": 77,
-        "desmarque": 76
+        "centro": 80,
+        "tirosLejanos": 78,
+        "desmarque": 77,
+        "definicion": 76
       },
       "rating": 79,
       "country": "Brasil",
@@ -343,10 +358,11 @@
       "altPositions": [],
       "stats": {
         "recuperacion": 80,
-        "pases": 79,
-        "posicionamiento": 77,
-        "duelos": 75,
-        "resistencia": 74
+        "duelos": 79,
+        "posicionamiento": 78,
+        "pases": 76,
+        "llegada": 75,
+        "tirosLejanos": 74
       },
       "rating": 77,
       "country": "Brasil",
@@ -365,11 +381,11 @@
       ],
       "stats": {
         "definicion": 78,
-        "fisico": 77,
-        "velocidad": 76,
-        "cabezazo": 74,
-        "pressing": 73,
-        "desmarque": 72
+        "cabezazo": 77,
+        "fisico": 76,
+        "desmarque": 74,
+        "velocidad": 73,
+        "pases": 72
       },
       "rating": 75,
       "country": "Brasil",
@@ -384,9 +400,10 @@
       "stats": {
         "defAerea": 79,
         "intercepciones": 78,
-        "velocidad": 76,
-        "pases": 74,
-        "duelos": 73
+        "duelos": 77,
+        "centro": 75,
+        "velocidad": 74,
+        "comunicacion": 73
       },
       "rating": 76,
       "country": "Brasil",

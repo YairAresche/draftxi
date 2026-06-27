@@ -22,6 +22,10 @@ function avg(nums: number[]): number {
   return nums.reduce((s, n) => s + n, 0) / nums.length
 }
 
+function clamp(value: number, min: number, max: number): number {
+  return Math.min(Math.max(value, min), max)
+}
+
 function statOrRating(p: SquadPlayer, ...keys: (keyof PlayerStats)[]): number {
   const vals = keys
     .map(k => p.stats?.[k])
@@ -40,40 +44,132 @@ function weightedRandom<T>(items: T[], weights: number[], rand: () => number): T
   return items[items.length - 1]
 }
 
+// ── OVR derivado por posición ──────────────────────────────────────────────
+
+const STAT_WEIGHTS: Record<string, Record<string, number>> = {
+  POR: { reflejos: 0.30, manejo: 0.25, salidas: 0.20, penales: 0.10, distribucion: 0.10, comunicacion: 0.05 },
+  LD:  { defAerea: 0.20, intercepciones: 0.20, duelos: 0.20, centro: 0.15, velocidad: 0.15, comunicacion: 0.10 },
+  LI:  { defAerea: 0.20, intercepciones: 0.20, duelos: 0.20, centro: 0.15, velocidad: 0.15, comunicacion: 0.10 },
+  DFC: { defAerea: 0.25, intercepciones: 0.25, duelos: 0.20, cabezazo: 0.15, posicionamiento: 0.10, comunicacion: 0.05 },
+  MCD: { recuperacion: 0.25, duelos: 0.25, posicionamiento: 0.20, pases: 0.15, llegada: 0.10, tirosLejanos: 0.05 },
+  MC:  { vision: 0.20, pases: 0.20, llegada: 0.20, tirosLejanos: 0.15, recuperacion: 0.15, regate: 0.10 },
+  MCO: { vision: 0.20, paseFiltrado: 0.20, llegada: 0.20, regate: 0.15, tirosLejanos: 0.15, definicion: 0.10 },
+  EI:  { velocidad: 0.20, regate: 0.20, centro: 0.15, tirosLejanos: 0.15, desmarque: 0.15, definicion: 0.15 },
+  ED:  { velocidad: 0.20, regate: 0.20, centro: 0.15, tirosLejanos: 0.15, desmarque: 0.15, definicion: 0.15 },
+  MI:  { velocidad: 0.20, pases: 0.20, regate: 0.20, centro: 0.15, duelos: 0.15, tirosLejanos: 0.10 },
+  MD:  { velocidad: 0.20, pases: 0.20, regate: 0.20, centro: 0.15, duelos: 0.15, tirosLejanos: 0.10 },
+  DC:  { definicion: 0.35, cabezazo: 0.15, fisico: 0.15, desmarque: 0.15, velocidad: 0.10, pases: 0.10 },
+}
+
+export function computeOvr(player: { position: string; stats?: Partial<Record<string, number>>; rating: number }): number {
+  const weights = STAT_WEIGHTS[player.position]
+  if (!weights || !player.stats) return player.rating
+  const computed = Object.entries(weights).reduce((sum, [key, w]) => {
+    return sum + (player.stats![key] ?? player.rating) * w
+  }, 0)
+  return Math.round(computed)
+}
+
 // ── Layer 1: Zone-based rating ─────────────────────────────────────────────
-// Replaces flat avg(rating). Each zone uses the relevant stats; falls back
-// to player.rating if a stat is missing (older/uncurated players).
+
+function computeServiceMult(picks: SquadPlayer[]): number {
+  const wingers  = picks.filter(p => ['EI', 'ED'].includes(p.slotPosition))
+  const fullbacks = picks.filter(p => ['LD', 'LI'].includes(p.slotPosition))
+  const hasService = wingers.length > 0 || fullbacks.length > 0
+  if (!hasService) return 1 + clamp((75 - 75) / 200, -0.08, 0.12)
+  const wingerCentro  = wingers.length > 0  ? avg(wingers.map(p => p.stats?.centro ?? p.rating))   : 75
+  const fbCentro      = fullbacks.length > 0 ? avg(fullbacks.map(p => p.stats?.centro ?? p.rating)) : 75
+  const serviceScore  = wingerCentro * 0.70 + fbCentro * 0.30
+  return 1 + clamp((serviceScore - 75) / 200, -0.08, 0.12)
+}
 
 function computeZoneScores(picks: SquadPlayer[]): { attack: number; defense: number } {
   const attackers = picks.filter(p => ['DC', 'EI', 'ED', 'MCO'].includes(p.slotPosition))
+  const wingers   = picks.filter(p => ['EI', 'ED'].includes(p.slotPosition))
+  const lateral   = picks.filter(p => ['MI', 'MD'].includes(p.slotPosition))
   const defenders = picks.filter(p => ['DFC', 'LD', 'LI'].includes(p.slotPosition))
   const midfield  = picks.filter(p => ['MCD', 'MC', 'MI', 'MD'].includes(p.slotPosition))
+  const mcds      = picks.filter(p => p.slotPosition === 'MCD')
+  const mcs       = picks.filter(p => p.slotPosition === 'MC')
   const keeper    = picks.find(p => p.slotPosition === 'POR')
+
+  const serviceMult = computeServiceMult(picks)
 
   const attackScore = (() => {
     const scores = attackers.map(p => {
-      if (p.slotPosition === 'DC')
-        return statOrRating(p, 'definicion', 'fisico', 'desmarque')
-      if (['EI', 'ED'].includes(p.slotPosition))
-        return statOrRating(p, 'velocidad', 'regate', 'disparo')
-      return statOrRating(p, 'vision', 'llegada', 'paseFiltrado')  // MCO
+      if (p.slotPosition === 'DC') {
+        const base = statOrRating(p, 'definicion', 'fisico', 'desmarque')
+        return base * serviceMult
+      }
+      if (['EI', 'ED'].includes(p.slotPosition)) {
+        return avg([
+          p.stats?.velocidad ?? p.rating,
+          p.stats?.regate    ?? p.rating,
+          p.stats?.tirosLejanos ?? p.rating,
+          (p.stats?.definicion ?? p.rating) * 0.7,
+        ])
+      }
+      if (p.slotPosition === 'MCO') {
+        return avg([
+          p.stats?.vision    ?? p.rating,
+          p.stats?.llegada   ?? p.rating,
+          (p.stats?.tirosLejanos ?? p.rating) * 0.6,
+          (p.stats?.definicion   ?? p.rating) * 0.4,
+        ])
+      }
+      return p.rating
     })
-    return scores.length > 0 ? avg(scores) : avg(picks.map(p => p.rating))
+
+    const lateralScores = lateral.map(p =>
+      avg([p.stats?.velocidad ?? p.rating, p.stats?.regate ?? p.rating, p.stats?.centro ?? p.rating]) * 0.85
+    )
+
+    const allOffensiveScores = [...scores, ...lateralScores]
+    return allOffensiveScores.length > 0 ? avg(allOffensiveScores) : avg(picks.map(p => p.rating))
   })()
 
   const keeperScore = keeper ? statOrRating(keeper, 'reflejos', 'manejo', 'salidas') : 70
 
-  const defenseScores = [
+  const defenseScoresRaw: number[] = [
     ...defenders.map(p => statOrRating(p, 'defAerea', 'intercepciones', 'duelos')),
-    ...midfield.filter(p => p.slotPosition === 'MCD').map(p =>
-      statOrRating(p, 'recuperacion', 'posicionamiento', 'duelos')),
+    ...mcds.map(p => {
+      let score = statOrRating(p, 'recuperacion', 'posicionamiento', 'duelos')
+      const pases = p.stats?.pases ?? 72
+      if (pases < 72) score *= (1 - (72 - pases) * 0.004)
+      return score
+    }),
     keeperScore,
   ]
-  const defenseScore = avg(defenseScores.length > 0 ? defenseScores : picks.map(p => p.rating))
+  const rawDefenseScore = avg(defenseScoresRaw.length > 0 ? defenseScoresRaw : picks.map(p => p.rating))
 
-  // Midfield multiplier: good passers/vision add up to +10%, bad ones up to -5%
-  const midfieldAvg = midfield.length > 0 ? avg(midfield.map(p => statOrRating(p, 'pases', 'vision'))) : 75
-  const midfieldMult = 1 + Math.min(Math.max((midfieldAvg - 70) / 100, -0.05), 0.10)
+  // Defensive mult via comunicacion
+  const comPlayers = [...defenders, ...(keeper ? [keeper] : [])]
+  const avgComunicacion = comPlayers.length > 0
+    ? avg(comPlayers.map(p => p.stats?.comunicacion ?? 72))
+    : 72
+  const defensiveMult = 1 + clamp((avgComunicacion - 72) / 150, -0.04, 0.08)
+  const defenseScore = rawDefenseScore * defensiveMult
+
+  // Midfield multiplier — MC: pases+vision+regate*0.3; MCD: pases*0.6+vision*0.4
+  const mcAvg  = mcs.length > 0
+    ? avg(mcs.map(p => {
+        const pases  = p.stats?.pases  ?? p.rating
+        const vision = p.stats?.vision ?? p.rating
+        const regate = p.stats?.regate ?? p.rating
+        return (pases + vision + regate * 0.3) / 2.3
+      }))
+    : null
+  const mcdAvg = mcds.length > 0
+    ? avg(mcds.map(p => {
+        const pases  = p.stats?.pases  ?? p.rating
+        const vision = p.stats?.vision ?? p.rating
+        return pases * 0.6 + vision * 0.4
+      }))
+    : null
+
+  const midfieldVals = [mcAvg, mcdAvg].filter((v): v is number => v !== null)
+  const midfieldAvg  = midfieldVals.length > 0 ? avg(midfieldVals) : 75
+  const midfieldMult = 1 + clamp((midfieldAvg - 70) / 100, -0.05, 0.10)
 
   return {
     attack:  attackScore  * midfieldMult,
@@ -87,9 +183,15 @@ function teamRating(picks: SquadPlayer[], chemistry: TeamChemistry): number {
   return ((zones.attack + zones.defense) / 2) * (1 + chemistry.total)
 }
 
-function cpuRating(squad: Squad): number {
+function cpuRating(squad: Squad, phase: MatchResult['phase']): number {
   if (!squad.players.length) return 72
-  return squad.players.reduce((s, p) => s + p.rating, 0) / squad.players.length
+  const base = squad.players.reduce((s, p) => s + p.rating, 0) / squad.players.length
+  const phaseBonus = ['grupo-1', 'grupo-2', 'grupo-3'].includes(phase)
+    ? 0.12
+    : ['octavos', 'cuartos'].includes(phase)
+    ? 0.15
+    : 0.18  // semis, final
+  return base * (1 + phaseBonus)
 }
 
 const PHASES: MatchResult['phase'][] = [
@@ -107,7 +209,6 @@ const PHASE_LABELS: Record<MatchResult['phase'], string> = {
 }
 
 // ── Layer 2: Weighted event narrative ─────────────────────────────────────
-// Scorer and assister are picked by position-specific stats, not uniformly.
 
 function generateEvents(
   picks: SquadPlayer[],
@@ -115,7 +216,8 @@ function generateEvents(
   goalsFor: number,
   goalsAgainst: number,
   rand: () => number,
-  injuriesEnabled: boolean
+  injuriesEnabled: boolean,
+  serviceMult: number,
 ): MatchEvent[] {
   const events: MatchEvent[] = []
   const usedMinutes = new Set<number>()
@@ -128,24 +230,39 @@ function generateEvents(
     return m
   }
 
-  const scorers   = picks.filter(p => ['DC', 'MCO', 'EI', 'ED', 'MC'].includes(p.slotPosition))
+  const scorers   = picks.filter(p => ['DC', 'MCO', 'EI', 'ED', 'MC', 'MCD'].includes(p.slotPosition))
   const assisters = picks.filter(p =>
     ['MCO', 'MC', 'MCD', 'EI', 'ED', 'MI', 'MD', 'DC', 'LD', 'LI'].includes(p.slotPosition))
   const keepers   = picks.filter(p => p.slotPosition === 'POR')
   const defenders = picks.filter(p => ['DFC', 'LD', 'LI', 'MCD'].includes(p.slotPosition))
 
-  // Scorer weights: DC = definicion+cabezazo, EI/ED = velocidad+disparo+regate, MCO/MC = rating
   const scorerWeights = scorers.map(p => {
-    if (p.slotPosition === 'DC')
-      return (p.stats?.definicion ?? p.rating) * 1.3 + (p.stats?.cabezazo ?? p.rating) * 0.4
+    if (p.slotPosition === 'DC') {
+      const base = (p.stats?.definicion ?? p.rating) * 1.3 + (p.stats?.cabezazo ?? p.rating) * 0.4
+      return base * serviceMult
+    }
     if (['EI', 'ED'].includes(p.slotPosition))
-      return (p.stats?.velocidad ?? p.rating) * 0.4 + (p.stats?.disparo ?? p.rating) * 0.9 + (p.stats?.regate ?? p.rating) * 0.4
-    return p.rating  // MCO, MC — baseline
+      return (p.stats?.velocidad    ?? p.rating) * 0.35
+           + (p.stats?.tirosLejanos ?? p.rating) * 0.75
+           + (p.stats?.regate       ?? p.rating) * 0.35
+           + (p.stats?.definicion   ?? p.rating) * 0.40
+    if (p.slotPosition === 'MCO')
+      return (p.stats?.llegada      ?? p.rating) * 0.6
+           + (p.stats?.tirosLejanos ?? p.rating) * 0.5
+           + (p.stats?.definicion   ?? p.rating) * 0.35
+    if (p.slotPosition === 'MC')
+      return (p.stats?.llegada      ?? p.rating) * 0.5
+           + (p.stats?.tirosLejanos ?? p.rating) * 0.55
+           + (p.stats?.regate       ?? p.rating) * 0.2
+    if (p.slotPosition === 'MCD')
+      return (p.stats?.llegada      ?? p.rating * 0.5) * 0.25
+           + (p.stats?.tirosLejanos ?? p.rating * 0.4) * 0.20
+    return p.rating
   })
 
-  // Assister weights: vision + paseFiltrado/pases
   const assisterWeights = assisters.map(p =>
-    (p.stats?.vision ?? p.rating) * 0.6 + (p.stats?.paseFiltrado ?? p.stats?.pases ?? p.rating) * 0.4
+    (p.stats?.vision ?? p.rating) * 0.6
+    + (p.stats?.paseFiltrado ?? p.stats?.pases ?? p.rating) * 0.4
   )
 
   const cpuScorers = cpuSquad.players
@@ -185,11 +302,14 @@ function generateEvents(
     events.push({ minute, type: 'gol', playerName: scorer?.name, team: 'rival', description: `⚽ Gol del rival. ${scorer?.name ?? 'Jugador rival'} marca en el minuto ${minute}.` })
   }
 
-  // Key saves — count scales with keeper reflejos
-  const keeperReflejos = keepers[0]?.stats?.reflejos ?? keepers[0]?.rating ?? 75
-  const saveCount = goalsAgainst === 0
+  // Key saves — count scales with keeper reflejos + comunicacion
+  const keeperReflejos     = keepers[0]?.stats?.reflejos     ?? keepers[0]?.rating ?? 75
+  const keeperComunicacion = keepers[0]?.stats?.comunicacion ?? 70
+  let saveCount = goalsAgainst === 0
     ? (keeperReflejos >= 88 ? Math.floor(rand() * 2) + 2 : Math.floor(rand() * 2) + 1)
     : (goalsAgainst <= 1 && keeperReflejos >= 87 && rand() < (keeperReflejos - 82) / 20 ? 1 : 0)
+  if (keeperComunicacion > 80) saveCount += 1
+
   for (let i = 0; i < saveCount; i++) {
     const keeper = keepers[0]
     const minute = uniqueMinute(10, 88)
@@ -217,25 +337,33 @@ function generateEvents(
 function simulateMatch(
   myRating: number,
   rivalRating: number,
-  rand: () => number
+  myAttack: number,
+  myDefense: number,
+  rand: () => number,
 ): { goalsFor: number; goalsAgainst: number } {
   const ratingDiff = myRating - rivalRating
-  const winProb = 0.5 + ratingDiff * 0.006
-  const clamped = Math.max(0.1, Math.min(0.9, winProb))
+  const winProb    = 0.5 + ratingDiff * 0.006
+  const clamped    = Math.max(0.1, Math.min(0.9, winProb))
 
-  const roll = rand()
+  const attackBias  = clamp((myAttack  - 78) / 120, -0.15, 0.20)
+  const defenseBias = clamp((myDefense - 78) / 120, -0.15, 0.20)
+
+  const roll             = rand()
   const baseGoalsFor     = Math.floor(rand() * 4)
   const baseGoalsAgainst = Math.floor(rand() * 3)
 
   if (roll < clamped) {
-    const gf = Math.max(1, baseGoalsFor)
-    const ga = Math.max(0, Math.min(gf - 1, baseGoalsAgainst))
+    let gf = Math.max(1, baseGoalsFor)
+    if (rand() < attackBias)  gf = Math.min(4, gf + 1)
+    let ga = Math.max(0, Math.min(gf - 1, baseGoalsAgainst))
+    if (rand() < defenseBias) ga = Math.max(0, ga - 1)
     return { goalsFor: gf, goalsAgainst: ga }
   } else if (roll < clamped + 0.15) {
     const g = Math.floor(rand() * 3)
     return { goalsFor: g, goalsAgainst: g }
   } else {
-    const ga = Math.max(1, baseGoalsAgainst + 1)
+    let ga = Math.max(1, baseGoalsAgainst + 1)
+    if (rand() < defenseBias) ga = Math.max(1, ga - 1)
     const gf = Math.max(0, Math.min(ga - 1, baseGoalsFor))
     return { goalsFor: gf, goalsAgainst: ga }
   }
@@ -253,22 +381,24 @@ export function runTournament(
   seed: number
 ): TournamentSummary {
   const rand     = mulberry32(seed)
-  const myRating = teamRating(picks, chemistry)
+  const zones    = computeZoneScores(picks)
+  const myRating = picks.length === 0 ? 50 : ((zones.attack + zones.defense) / 2) * (1 + chemistry.total)
+  const serviceMult = computeServiceMult(picks)
   const squads   = cpuSquads.length > 0 ? cpuSquads : [fallbackSquad()]
 
-  const matches: MatchResult[]                        = []
+  const matches: MatchResult[]      = []
   const playerStats = new Map<string, PlayerTournamentStats>()
 
   for (const p of picks) {
     playerStats.set(p.id, {
-      playerId: p.id,
+      playerId:   p.id,
       playerName: p.name,
-      position: p.slotPosition,
-      goals: 0,
-      assists: 0,
+      position:   p.slotPosition,
+      goals:       0,
+      assists:     0,
       cleanSheets: 0,
-      keySaves: 0,
-      rating: p.rating,
+      keySaves:    0,
+      rating:      p.rating,
     })
   }
 
@@ -276,12 +406,12 @@ export function runTournament(
 
   for (let i = 0; i < PHASES.length; i++) {
     if (eliminated) break
-    const phase      = PHASES[i]
-    const rival      = squads[i % squads.length]
-    const rivalRat   = cpuRating(rival)
-    const { goalsFor, goalsAgainst } = simulateMatch(myRating, rivalRat, rand)
-    const won        = goalsFor > goalsAgainst
-    const events     = generateEvents(picks, rival, goalsFor, goalsAgainst, rand, injuriesEnabled)
+    const phase    = PHASES[i]
+    const rival    = squads[i % squads.length]
+    const rivalRat = cpuRating(rival, phase)
+    const { goalsFor, goalsAgainst } = simulateMatch(myRating, rivalRat, zones.attack, zones.defense, rand)
+    const won      = goalsFor > goalsAgainst
+    const events   = generateEvents(picks, rival, goalsFor, goalsAgainst, rand, injuriesEnabled, serviceMult)
 
     for (const ev of events) {
       if (ev.team === 'tuyo' && ev.playerId) {
@@ -330,9 +460,9 @@ export function runTournament(
   const bestKeeper = stats.filter(s => s.position === 'POR').sort((a, b) => b.keySaves - a.keySaves)[0] ?? null
   const mvp        = sortBy('rating')
 
-  const lastMatch     = matches[matches.length - 1]
-  const won           = lastMatch?.won ?? false
-  const finalResult: TournamentSummary['finalResult'] = won
+  const lastMatch = matches[matches.length - 1]
+  const wonTournament = lastMatch?.won ?? false
+  const finalResult: TournamentSummary['finalResult'] = wonTournament
     ? 'campeon'
     : lastMatch?.phase === 'final'   ? 'finalista'
     : lastMatch?.phase === 'semis'   ? 'semifinalista'
@@ -340,5 +470,5 @@ export function runTournament(
     : lastMatch?.phase === 'octavos' ? 'octavos'
     : 'grupos'
 
-  return { matches, playerStats: stats, topScorer, topAssist, bestKeeper, mvp, won, finalResult }
+  return { matches, playerStats: stats, topScorer, topAssist, bestKeeper, mvp, won: wonTournament, finalResult }
 }
