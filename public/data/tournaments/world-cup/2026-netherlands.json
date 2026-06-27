@@ -6,7 +6,7 @@
   "tournamentId": "wc-2026",
   "players": [
     {
-      "id": "ned26-bverbruggen",
+      "id": "ned26-barverbrugge",
       "name": "Bart Verbruggen",
       "position": "POR",
       "altPositions": [],
@@ -24,7 +24,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-mflekken",
+      "id": "ned26-marflekken",
       "name": "Mark Flekken",
       "position": "POR",
       "altPositions": [],
@@ -42,7 +42,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-ddumfries",
+      "id": "ned26-dendumfries",
       "name": "Denzel Dumfries",
       "position": "LD",
       "altPositions": [],
@@ -60,7 +60,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-hhartman",
+      "id": "ned26-harhartman",
       "name": "Hartman",
       "position": "LI",
       "altPositions": [],
@@ -78,7 +78,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-vdijk",
+      "id": "ned26-virdijk",
       "name": "Virgil van Dijk",
       "position": "DFC",
       "altPositions": [],
@@ -96,7 +96,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-mligt",
+      "id": "ned26-matligt",
       "name": "Matthijs de Ligt",
       "position": "DFC",
       "altPositions": [],
@@ -114,7 +114,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-svrij",
+      "id": "ned26-stevrij",
       "name": "Stefan de Vrij",
       "position": "DFC",
       "altPositions": [],
@@ -132,7 +132,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-fjong",
+      "id": "ned26-frejong",
       "name": "Frenkie de Jong",
       "position": "MC",
       "altPositions": [
@@ -155,7 +155,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-tkoopmeiners",
+      "id": "ned26-teukoopmeine",
       "name": "Teun Koopmeiners",
       "position": "MC",
       "altPositions": [
@@ -178,7 +178,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-rgravenberch",
+      "id": "ned26-ryagravenber",
       "name": "Ryan Gravenberch",
       "position": "MCD",
       "altPositions": [
@@ -201,7 +201,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-treijnders",
+      "id": "ned26-tijreijnders",
       "name": "Tijjani Reijnders",
       "position": "MC",
       "altPositions": [
@@ -224,7 +224,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-cgakpo",
+      "id": "ned26-codgakpo",
       "name": "Cody Gakpo",
       "position": "EI",
       "altPositions": [
@@ -247,7 +247,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-mdepay",
+      "id": "ned26-memdepay",
       "name": "Memphis Depay",
       "position": "DC",
       "altPositions": [
@@ -270,7 +270,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-wweghorst",
+      "id": "ned26-wouweghorst",
       "name": "Wout Weghorst",
       "position": "DC",
       "altPositions": [],
@@ -288,7 +288,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-dmalen",
+      "id": "ned26-donmalen",
       "name": "Donyell Malen",
       "position": "ED",
       "altPositions": [
@@ -311,7 +311,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-bbrobbey",
+      "id": "ned26-bribrobbey",
       "name": "Brian Brobbey",
       "position": "DC",
       "altPositions": [],
@@ -329,7 +329,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-xsimons",
+      "id": "ned26-xavsimons",
       "name": "Xavi Simons",
       "position": "MCO",
       "altPositions": [
@@ -352,7 +352,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-jtimber",
+      "id": "ned26-jurtimber",
       "name": "Jurriën Timber",
       "position": "DFC",
       "altPositions": [
@@ -375,7 +375,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ned26-nake",
+      "id": "ned26-natake",
       "name": "Nathan Aké",
       "position": "DFC",
       "altPositions": [

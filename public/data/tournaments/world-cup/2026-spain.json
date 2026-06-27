@@ -6,7 +6,7 @@
   "tournamentId": "wc-2026",
   "players": [
     {
-      "id": "esp26-usimon",
+      "id": "esp26-unasimon",
       "name": "Unai Simón",
       "position": "POR",
       "altPositions": [],
@@ -24,7 +24,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-draya",
+      "id": "esp26-davraya",
       "name": "David Raya",
       "position": "POR",
       "altPositions": [],
@@ -42,7 +42,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-dcarvajal",
+      "id": "esp26-dancarvajal",
       "name": "Dani Carvajal",
       "position": "LD",
       "altPositions": [],
@@ -60,7 +60,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-abalde",
+      "id": "esp26-alebalde",
       "name": "Alejandro Balde",
       "position": "LI",
       "altPositions": [],
@@ -78,7 +78,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-alaporte",
+      "id": "esp26-aymlaporte",
       "name": "Aymeric Laporte",
       "position": "DFC",
       "altPositions": [],
@@ -96,7 +96,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-pcubarsi",
+      "id": "esp26-paucubarsi",
       "name": "Pau Cubarsí",
       "position": "DFC",
       "altPositions": [],
@@ -114,7 +114,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-dvivian",
+      "id": "esp26-danvivian",
       "name": "Dani Vivian",
       "position": "DFC",
       "altPositions": [],
@@ -132,7 +132,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-ppedri",
+      "id": "esp26-pedpedri",
       "name": "Pedri",
       "position": "MC",
       "altPositions": [
@@ -155,7 +155,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-rrodri",
+      "id": "esp26-rodrodri",
       "name": "Rodri",
       "position": "MCD",
       "altPositions": [],
@@ -173,7 +173,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-ggavi",
+      "id": "esp26-gavgavi",
       "name": "Gavi",
       "position": "MC",
       "altPositions": [
@@ -196,7 +196,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-dolmo",
+      "id": "esp26-danolmo",
       "name": "Dani Olmo",
       "position": "MCO",
       "altPositions": [
@@ -219,7 +219,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-lyamal",
+      "id": "esp26-lamyamal",
       "name": "Lamine Yamal",
       "position": "ED",
       "altPositions": [
@@ -242,7 +242,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-nwilliams",
+      "id": "esp26-nicwilliams",
       "name": "Nico Williams",
       "position": "EI",
       "altPositions": [
@@ -265,7 +265,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-amorata",
+      "id": "esp26-alvmorata",
       "name": "Álvaro Morata",
       "position": "DC",
       "altPositions": [],
@@ -283,7 +283,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-ftorres",
+      "id": "esp26-fertorres",
       "name": "Ferran Torres",
       "position": "EI",
       "altPositions": [
@@ -306,7 +306,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-moyarzabal",
+      "id": "esp26-mikoyarzabal",
       "name": "Mikel Oyarzabal",
       "position": "DC",
       "altPositions": [
@@ -329,7 +329,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-fruiz",
+      "id": "esp26-fabruiz",
       "name": "Fabian Ruiz",
       "position": "MC",
       "altPositions": [
@@ -352,7 +352,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-mzubimendi",
+      "id": "esp26-marzubimendi",
       "name": "Martín Zubimendi",
       "position": "MCD",
       "altPositions": [],
@@ -370,7 +370,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-mpubill",
+      "id": "esp26-marpubill",
       "name": "Marc Pubill",
       "position": "LD",
       "altPositions": [],
@@ -388,7 +388,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "esp26-bzaragoza",
+      "id": "esp26-bryzaragoza",
       "name": "Bryan Zaragoza",
       "position": "EI",
       "altPositions": [],

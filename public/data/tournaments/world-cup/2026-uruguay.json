@@ -6,7 +6,7 @@
   "tournamentId": "wc-2026",
   "players": [
     {
-      "id": "uru26-srochet",
+      "id": "uru26-serrochet",
       "name": "Sergio Rochet",
       "position": "POR",
       "altPositions": [],
@@ -24,7 +24,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "uru26-smele",
+      "id": "uru26-sanmele",
       "name": "Santiago Mele",
       "position": "POR",
       "altPositions": [],
@@ -42,7 +42,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "uru26-nnandez",
+      "id": "uru26-nahnandez",
       "name": "Nahitan Nández",
       "position": "LD",
       "altPositions": [
@@ -65,7 +65,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "uru26-raraujo",
+      "id": "uru26-ronaraujo",
       "name": "Ronald Araújo",
       "position": "DFC",
       "altPositions": [
@@ -88,7 +88,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "uru26-jgimenez",
+      "id": "uru26-josgimenez",
       "name": "José María Giménez",
       "position": "DFC",
       "altPositions": [],
@@ -106,7 +106,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "uru26-molivera",
+      "id": "uru26-matolivera",
       "name": "Mathías Olivera",
       "position": "LI",
       "altPositions": [],
@@ -124,7 +124,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "uru26-scaceres",
+      "id": "uru26-sebcaceres",
       "name": "Sebastián Cáceres",
       "position": "DFC",
       "altPositions": [],
@@ -142,7 +142,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "uru26-fvalverde",
+      "id": "uru26-fedvalverde",
       "name": "Federico Valverde",
       "position": "MC",
       "altPositions": [
@@ -165,7 +165,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "uru26-rbentancur",
+      "id": "uru26-rodbentancur",
       "name": "Rodrigo Bentancur",
       "position": "MC",
       "altPositions": [
@@ -188,7 +188,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "uru26-mugarte",
+      "id": "uru26-manugarte",
       "name": "Manuel Ugarte",
       "position": "MCD",
       "altPositions": [],
@@ -206,7 +206,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "uru26-garrascaeta",
+      "id": "uru26-gioarrascaet",
       "name": "Giorgian de Arrascaeta",
       "position": "MCO",
       "altPositions": [
@@ -229,7 +229,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "uru26-ncruz",
+      "id": "uru26-niccruz",
       "name": "Nicolás De la Cruz",
       "position": "MCO",
       "altPositions": [
@@ -252,7 +252,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "uru26-dnunez",
+      "id": "uru26-darnunez",
       "name": "Darwin Núñez",
       "position": "DC",
       "altPositions": [
@@ -275,7 +275,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "uru26-ftorres",
+      "id": "uru26-factorres",
       "name": "Facundo Torres",
       "position": "EI",
       "altPositions": [
@@ -298,7 +298,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "uru26-maraujo",
+      "id": "uru26-maxaraujo",
       "name": "Maximiliano Araújo",
       "position": "EI",
       "altPositions": [],
@@ -316,7 +316,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "uru26-brodriguez",
+      "id": "uru26-brirodriguez",
       "name": "Brian Rodríguez",
       "position": "EI",
       "altPositions": [],
@@ -334,7 +334,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "uru26-acanobbio",
+      "id": "uru26-agucanobbio",
       "name": "Agustín Canobbio",
       "position": "EI",
       "altPositions": [
@@ -357,7 +357,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "uru26-lbeltran",
+      "id": "uru26-lucbeltran",
       "name": "Lucas Beltrán",
       "position": "DC",
       "altPositions": [],

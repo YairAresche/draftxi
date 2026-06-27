@@ -6,7 +6,7 @@
   "tournamentId": "wc-2026",
   "players": [
     {
-      "id": "eng26-jpickford",
+      "id": "eng26-jorpickford",
       "name": "Jordan Pickford",
       "position": "POR",
       "altPositions": [],
@@ -24,7 +24,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-dhenderson",
+      "id": "eng26-deahenderson",
       "name": "Dean Henderson",
       "position": "POR",
       "altPositions": [],
@@ -42,7 +42,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-talexanderar",
+      "id": "eng26-trealexander",
       "name": "Trent Alexander-Arnold",
       "position": "LD",
       "altPositions": [
@@ -65,7 +65,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-lshaw",
+      "id": "eng26-lukshaw",
       "name": "Luke Shaw",
       "position": "LI",
       "altPositions": [],
@@ -83,7 +83,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-hmaguire",
+      "id": "eng26-harmaguire",
       "name": "Harry Maguire",
       "position": "DFC",
       "altPositions": [],
@@ -101,7 +101,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-jstones",
+      "id": "eng26-johstones",
       "name": "John Stones",
       "position": "DFC",
       "altPositions": [],
@@ -119,7 +119,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-kwalker",
+      "id": "eng26-kylwalker",
       "name": "Kyle Walker",
       "position": "LD",
       "altPositions": [
@@ -142,7 +142,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-drice",
+      "id": "eng26-decrice",
       "name": "Declan Rice",
       "position": "MCD",
       "altPositions": [
@@ -165,7 +165,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-jbellingham",
+      "id": "eng26-judbellingha",
       "name": "Jude Bellingham",
       "position": "MC",
       "altPositions": [
@@ -188,7 +188,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-cgallagher",
+      "id": "eng26-congallagher",
       "name": "Conor Gallagher",
       "position": "MC",
       "altPositions": [],
@@ -206,7 +206,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-cpalmer",
+      "id": "eng26-colpalmer",
       "name": "Cole Palmer",
       "position": "MCO",
       "altPositions": [
@@ -229,7 +229,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-bsaka",
+      "id": "eng26-buksaka",
       "name": "Bukayo Saka",
       "position": "ED",
       "altPositions": [
@@ -252,7 +252,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-hkane",
+      "id": "eng26-harkane",
       "name": "Harry Kane",
       "position": "DC",
       "altPositions": [],
@@ -270,7 +270,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-pfoden",
+      "id": "eng26-phifoden",
       "name": "Phil Foden",
       "position": "EI",
       "altPositions": [
@@ -293,7 +293,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-mrashford",
+      "id": "eng26-marrashford",
       "name": "Marcus Rashford",
       "position": "EI",
       "altPositions": [
@@ -316,7 +316,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-agordon",
+      "id": "eng26-antgordon",
       "name": "Anthony Gordon",
       "position": "EI",
       "altPositions": [
@@ -339,7 +339,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-lcolwill",
+      "id": "eng26-levcolwill",
       "name": "Levi Colwill",
       "position": "DFC",
       "altPositions": [
@@ -362,7 +362,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-eeze",
+      "id": "eng26-ebeeze",
       "name": "Eberechi Eze",
       "position": "MCO",
       "altPositions": [
@@ -385,7 +385,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-owatkins",
+      "id": "eng26-ollwatkins",
       "name": "Ollie Watkins",
       "position": "DC",
       "altPositions": [],
@@ -403,7 +403,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "eng26-jbowen",
+      "id": "eng26-jarbowen",
       "name": "Jarrod Bowen",
       "position": "ED",
       "altPositions": [

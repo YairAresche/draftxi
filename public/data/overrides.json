@@ -125123,5 +125123,2712 @@
       "velocidad": 85,
       "pases": 84
     }
+  },
+  "arg26-emimartinez": {
+    "rating": 89,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 92,
+      "manejo": 91,
+      "salidas": 90,
+      "penales": 88,
+      "distribucion": 87,
+      "comunicacion": 86
+    }
+  },
+  "arg26-gerrulli": {
+    "rating": 73,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 76,
+      "manejo": 75,
+      "salidas": 74,
+      "penales": 72,
+      "distribucion": 71,
+      "comunicacion": 70
+    }
+  },
+  "arg26-nahmolina": {
+    "rating": 81,
+    "position": "LD",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 84,
+      "intercepciones": 83,
+      "duelos": 82,
+      "centro": 80,
+      "velocidad": 79,
+      "comunicacion": 78
+    }
+  },
+  "arg26-nicotamendi": {
+    "rating": 81,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 84,
+      "intercepciones": 83,
+      "duelos": 82,
+      "cabezazo": 80,
+      "posicionamiento": 79,
+      "comunicacion": 78
+    }
+  },
+  "arg26-criromero": {
+    "rating": 87,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 90,
+      "intercepciones": 89,
+      "duelos": 88,
+      "cabezazo": 86,
+      "posicionamiento": 85,
+      "comunicacion": 84
+    }
+  },
+  "arg26-lismartinez": {
+    "rating": 84,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 87,
+      "intercepciones": 86,
+      "duelos": 85,
+      "cabezazo": 83,
+      "posicionamiento": 82,
+      "comunicacion": 81
+    }
+  },
+  "arg26-nictagliafic": {
+    "rating": 77,
+    "position": "LI",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 80,
+      "intercepciones": 79,
+      "duelos": 78,
+      "centro": 76,
+      "velocidad": 75,
+      "comunicacion": 74
+    }
+  },
+  "arg26-rodpaul": {
+    "rating": 83,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCD",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 86,
+      "pases": 85,
+      "llegada": 84,
+      "tirosLejanos": 82,
+      "recuperacion": 81,
+      "regate": 80
+    }
+  },
+  "arg26-aleallister": {
+    "rating": 87,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCD",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 90,
+      "pases": 89,
+      "llegada": 88,
+      "tirosLejanos": 86,
+      "recuperacion": 85,
+      "regate": 84
+    }
+  },
+  "arg26-enzfernandez": {
+    "rating": 85,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCO",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 88,
+      "pases": 87,
+      "llegada": 86,
+      "tirosLejanos": 84,
+      "recuperacion": 83,
+      "regate": 82
+    }
+  },
+  "arg26-liomessi": {
+    "rating": 91,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "MCO",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 94,
+      "regate": 93,
+      "centro": 92,
+      "tirosLejanos": 90,
+      "desmarque": 89,
+      "definicion": 88
+    }
+  },
+  "arg26-julalvarez": {
+    "rating": 89,
+    "position": "DC",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "definicion": 92,
+      "cabezazo": 91,
+      "fisico": 90,
+      "desmarque": 88,
+      "velocidad": 87,
+      "pases": 86
+    }
+  },
+  "arg26-laumartinez": {
+    "rating": 87,
+    "position": "DC",
+    "altPositions": [],
+    "stats": {
+      "definicion": 90,
+      "cabezazo": 89,
+      "fisico": 88,
+      "desmarque": 86,
+      "velocidad": 85,
+      "pases": 84
+    }
+  },
+  "arg26-angmaria": {
+    "rating": 77,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "ED",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 80,
+      "regate": 79,
+      "centro": 78,
+      "tirosLejanos": 76,
+      "desmarque": 75,
+      "definicion": 74
+    }
+  },
+  "arg26-paudybala": {
+    "rating": 78,
+    "position": "MCO",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 81,
+      "paseFiltrado": 80,
+      "llegada": 79,
+      "regate": 77,
+      "tirosLejanos": 76,
+      "definicion": 75
+    }
+  },
+  "arg26-alegarnacho": {
+    "rating": 82,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "ED",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 85,
+      "regate": 84,
+      "centro": 83,
+      "tirosLejanos": 81,
+      "desmarque": 80,
+      "definicion": 79
+    }
+  },
+  "arg26-thialmada": {
+    "rating": 75,
+    "position": "MC",
+    "altPositions": [],
+    "stats": {
+      "vision": 78,
+      "pases": 77,
+      "llegada": 76,
+      "tirosLejanos": 74,
+      "recuperacion": 73,
+      "regate": 72
+    }
+  },
+  "arg26-guirodriguez": {
+    "rating": 74,
+    "position": "MCD",
+    "altPositions": [],
+    "stats": {
+      "recuperacion": 77,
+      "duelos": 76,
+      "posicionamiento": 75,
+      "pases": 73,
+      "llegada": 72,
+      "tirosLejanos": 71
+    }
+  },
+  "arg26-gerpezzella": {
+    "rating": 72,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 75,
+      "intercepciones": 74,
+      "duelos": 73,
+      "cabezazo": 71,
+      "posicionamiento": 70,
+      "comunicacion": 69
+    }
+  },
+  "arg26-valcarboni": {
+    "rating": 76,
+    "position": "MCO",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 79,
+      "paseFiltrado": 78,
+      "llegada": 77,
+      "regate": 75,
+      "tirosLejanos": 74,
+      "definicion": 73
+    }
+  },
+  "bra26-alialisson": {
+    "rating": 87,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 90,
+      "manejo": 89,
+      "salidas": 88,
+      "penales": 86,
+      "distribucion": 85,
+      "comunicacion": 84
+    }
+  },
+  "bra26-edeederson": {
+    "rating": 81,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 84,
+      "manejo": 83,
+      "salidas": 82,
+      "penales": 80,
+      "distribucion": 79,
+      "comunicacion": 78
+    }
+  },
+  "bra26-dandanilo": {
+    "rating": 79,
+    "position": "LD",
+    "altPositions": [
+      {
+        "position": "DFC",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "defAerea": 82,
+      "intercepciones": 81,
+      "duelos": 80,
+      "centro": 78,
+      "velocidad": 77,
+      "comunicacion": 76
+    }
+  },
+  "bra26-guiarana": {
+    "rating": 78,
+    "position": "LI",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 81,
+      "intercepciones": 80,
+      "duelos": 79,
+      "centro": 77,
+      "velocidad": 76,
+      "comunicacion": 75
+    }
+  },
+  "bra26-marmarquinho": {
+    "rating": 86,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 89,
+      "intercepciones": 88,
+      "duelos": 87,
+      "cabezazo": 85,
+      "posicionamiento": 84,
+      "comunicacion": 83
+    }
+  },
+  "bra26-edemilitao": {
+    "rating": 84,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 87,
+      "intercepciones": 86,
+      "duelos": 85,
+      "cabezazo": 83,
+      "posicionamiento": 82,
+      "comunicacion": 81
+    }
+  },
+  "bra26-gabmagalhaes": {
+    "rating": 82,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 85,
+      "intercepciones": 84,
+      "duelos": 83,
+      "cabezazo": 81,
+      "posicionamiento": 80,
+      "comunicacion": 79
+    }
+  },
+  "bra26-cascasemiro": {
+    "rating": 82,
+    "position": "MCD",
+    "altPositions": [],
+    "stats": {
+      "recuperacion": 85,
+      "duelos": 84,
+      "posicionamiento": 83,
+      "pases": 81,
+      "llegada": 80,
+      "tirosLejanos": 79
+    }
+  },
+  "bra26-bruguimaraes": {
+    "rating": 86,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCD",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 89,
+      "pases": 88,
+      "llegada": 87,
+      "tirosLejanos": 85,
+      "recuperacion": 84,
+      "regate": 83
+    }
+  },
+  "bra26-lucpaqueta": {
+    "rating": 84,
+    "position": "MCO",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 87,
+      "paseFiltrado": 86,
+      "llegada": 85,
+      "regate": 83,
+      "tirosLejanos": 82,
+      "definicion": 81
+    }
+  },
+  "bra26-vinjunior": {
+    "rating": 92,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "ED",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 95,
+      "regate": 94,
+      "centro": 93,
+      "tirosLejanos": 91,
+      "desmarque": 90,
+      "definicion": 89
+    }
+  },
+  "bra26-rodrodrygo": {
+    "rating": 84,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "DC",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 87,
+      "regate": 86,
+      "centro": 85,
+      "tirosLejanos": 83,
+      "desmarque": 82,
+      "definicion": 81
+    }
+  },
+  "bra26-ricricharlis": {
+    "rating": 82,
+    "position": "DC",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "definicion": 85,
+      "cabezazo": 84,
+      "fisico": 83,
+      "desmarque": 81,
+      "velocidad": 80,
+      "pases": 79
+    }
+  },
+  "bra26-rapraphinha": {
+    "rating": 85,
+    "position": "ED",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 88,
+      "regate": 87,
+      "centro": 86,
+      "tirosLejanos": 84,
+      "desmarque": 83,
+      "definicion": 82
+    }
+  },
+  "bra26-gabmartinell": {
+    "rating": 82,
+    "position": "EI",
+    "altPositions": [],
+    "stats": {
+      "velocidad": 85,
+      "regate": 84,
+      "centro": 83,
+      "tirosLejanos": 81,
+      "desmarque": 80,
+      "definicion": 79
+    }
+  },
+  "bra26-endendrick": {
+    "rating": 80,
+    "position": "DC",
+    "altPositions": [],
+    "stats": {
+      "definicion": 83,
+      "cabezazo": 82,
+      "fisico": 81,
+      "desmarque": 79,
+      "velocidad": 78,
+      "pases": 77
+    }
+  },
+  "bra26-savsavinho": {
+    "rating": 79,
+    "position": "ED",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 82,
+      "regate": 81,
+      "centro": 80,
+      "tirosLejanos": 78,
+      "desmarque": 77,
+      "definicion": 76
+    }
+  },
+  "bra26-andandre": {
+    "rating": 77,
+    "position": "MCD",
+    "altPositions": [],
+    "stats": {
+      "recuperacion": 80,
+      "duelos": 79,
+      "posicionamiento": 78,
+      "pases": 76,
+      "llegada": 75,
+      "tirosLejanos": 74
+    }
+  },
+  "bra26-gabjesus": {
+    "rating": 75,
+    "position": "DC",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "definicion": 78,
+      "cabezazo": 77,
+      "fisico": 76,
+      "desmarque": 74,
+      "velocidad": 73,
+      "pases": 72
+    }
+  },
+  "bra26-yancouto": {
+    "rating": 76,
+    "position": "LD",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 79,
+      "intercepciones": 78,
+      "duelos": 77,
+      "centro": 75,
+      "velocidad": 74,
+      "comunicacion": 73
+    }
+  },
+  "uru26-serrochet": {
+    "rating": 80,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 83,
+      "manejo": 82,
+      "salidas": 81,
+      "penales": 79,
+      "distribucion": 78,
+      "comunicacion": 77
+    }
+  },
+  "uru26-sanmele": {
+    "rating": 72,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 75,
+      "manejo": 74,
+      "salidas": 73,
+      "penales": 71,
+      "distribucion": 70,
+      "comunicacion": 69
+    }
+  },
+  "uru26-nahnandez": {
+    "rating": 76,
+    "position": "LD",
+    "altPositions": [
+      {
+        "position": "MC",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "defAerea": 79,
+      "intercepciones": 78,
+      "duelos": 77,
+      "centro": 75,
+      "velocidad": 74,
+      "comunicacion": 73
+    }
+  },
+  "uru26-ronaraujo": {
+    "rating": 86,
+    "position": "DFC",
+    "altPositions": [
+      {
+        "position": "LD",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "defAerea": 89,
+      "intercepciones": 88,
+      "duelos": 87,
+      "cabezazo": 85,
+      "posicionamiento": 84,
+      "comunicacion": 83
+    }
+  },
+  "uru26-josgimenez": {
+    "rating": 82,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 85,
+      "intercepciones": 84,
+      "duelos": 83,
+      "cabezazo": 81,
+      "posicionamiento": 80,
+      "comunicacion": 79
+    }
+  },
+  "uru26-matolivera": {
+    "rating": 81,
+    "position": "LI",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 84,
+      "intercepciones": 83,
+      "duelos": 82,
+      "centro": 80,
+      "velocidad": 79,
+      "comunicacion": 78
+    }
+  },
+  "uru26-sebcaceres": {
+    "rating": 74,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 77,
+      "intercepciones": 76,
+      "duelos": 75,
+      "cabezazo": 73,
+      "posicionamiento": 72,
+      "comunicacion": 71
+    }
+  },
+  "uru26-fedvalverde": {
+    "rating": 91,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MD",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 94,
+      "pases": 93,
+      "llegada": 92,
+      "tirosLejanos": 90,
+      "recuperacion": 89,
+      "regate": 88
+    }
+  },
+  "uru26-rodbentancur": {
+    "rating": 84,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCD",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 87,
+      "pases": 86,
+      "llegada": 85,
+      "tirosLejanos": 83,
+      "recuperacion": 82,
+      "regate": 81
+    }
+  },
+  "uru26-manugarte": {
+    "rating": 84,
+    "position": "MCD",
+    "altPositions": [],
+    "stats": {
+      "recuperacion": 87,
+      "duelos": 86,
+      "posicionamiento": 85,
+      "pases": 83,
+      "llegada": 82,
+      "tirosLejanos": 81
+    }
+  },
+  "uru26-gioarrascaet": {
+    "rating": 83,
+    "position": "MCO",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 86,
+      "paseFiltrado": 85,
+      "llegada": 84,
+      "regate": 82,
+      "tirosLejanos": 81,
+      "definicion": 80
+    }
+  },
+  "uru26-niccruz": {
+    "rating": 80,
+    "position": "MCO",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 83,
+      "paseFiltrado": 82,
+      "llegada": 81,
+      "regate": 79,
+      "tirosLejanos": 78,
+      "definicion": 77
+    }
+  },
+  "uru26-darnunez": {
+    "rating": 86,
+    "position": "DC",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "definicion": 89,
+      "cabezazo": 88,
+      "fisico": 87,
+      "desmarque": 85,
+      "velocidad": 84,
+      "pases": 83
+    }
+  },
+  "uru26-factorres": {
+    "rating": 79,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "ED",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 82,
+      "regate": 81,
+      "centro": 80,
+      "tirosLejanos": 78,
+      "desmarque": 77,
+      "definicion": 76
+    }
+  },
+  "uru26-maxaraujo": {
+    "rating": 77,
+    "position": "EI",
+    "altPositions": [],
+    "stats": {
+      "velocidad": 80,
+      "regate": 79,
+      "centro": 78,
+      "tirosLejanos": 76,
+      "desmarque": 75,
+      "definicion": 74
+    }
+  },
+  "uru26-brirodriguez": {
+    "rating": 74,
+    "position": "EI",
+    "altPositions": [],
+    "stats": {
+      "velocidad": 77,
+      "regate": 76,
+      "centro": 75,
+      "tirosLejanos": 73,
+      "desmarque": 72,
+      "definicion": 71
+    }
+  },
+  "uru26-agucanobbio": {
+    "rating": 74,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "DC",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 77,
+      "regate": 76,
+      "centro": 75,
+      "tirosLejanos": 73,
+      "desmarque": 72,
+      "definicion": 71
+    }
+  },
+  "uru26-lucbeltran": {
+    "rating": 75,
+    "position": "DC",
+    "altPositions": [],
+    "stats": {
+      "definicion": 78,
+      "cabezazo": 77,
+      "fisico": 76,
+      "desmarque": 74,
+      "velocidad": 73,
+      "pases": 72
+    }
+  },
+  "esp26-unasimon": {
+    "rating": 84,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 87,
+      "manejo": 86,
+      "salidas": 85,
+      "penales": 83,
+      "distribucion": 82,
+      "comunicacion": 81
+    }
+  },
+  "esp26-davraya": {
+    "rating": 82,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 85,
+      "manejo": 84,
+      "salidas": 83,
+      "penales": 81,
+      "distribucion": 80,
+      "comunicacion": 79
+    }
+  },
+  "esp26-dancarvajal": {
+    "rating": 82,
+    "position": "LD",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 85,
+      "intercepciones": 84,
+      "duelos": 83,
+      "centro": 81,
+      "velocidad": 80,
+      "comunicacion": 79
+    }
+  },
+  "esp26-alebalde": {
+    "rating": 83,
+    "position": "LI",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 86,
+      "intercepciones": 85,
+      "duelos": 84,
+      "centro": 82,
+      "velocidad": 81,
+      "comunicacion": 80
+    }
+  },
+  "esp26-aymlaporte": {
+    "rating": 80,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 83,
+      "intercepciones": 82,
+      "duelos": 81,
+      "cabezazo": 79,
+      "posicionamiento": 78,
+      "comunicacion": 77
+    }
+  },
+  "esp26-paucubarsi": {
+    "rating": 84,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 87,
+      "intercepciones": 86,
+      "duelos": 85,
+      "cabezazo": 83,
+      "posicionamiento": 82,
+      "comunicacion": 81
+    }
+  },
+  "esp26-danvivian": {
+    "rating": 78,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 81,
+      "intercepciones": 80,
+      "duelos": 79,
+      "cabezazo": 77,
+      "posicionamiento": 76,
+      "comunicacion": 75
+    }
+  },
+  "esp26-pedpedri": {
+    "rating": 89,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCO",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 92,
+      "pases": 91,
+      "llegada": 90,
+      "tirosLejanos": 88,
+      "recuperacion": 87,
+      "regate": 86
+    }
+  },
+  "esp26-rodrodri": {
+    "rating": 93,
+    "position": "MCD",
+    "altPositions": [],
+    "stats": {
+      "recuperacion": 96,
+      "duelos": 95,
+      "posicionamiento": 94,
+      "pases": 92,
+      "llegada": 91,
+      "tirosLejanos": 90
+    }
+  },
+  "esp26-gavgavi": {
+    "rating": 86,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 89,
+      "pases": 88,
+      "llegada": 87,
+      "tirosLejanos": 85,
+      "recuperacion": 84,
+      "regate": 83
+    }
+  },
+  "esp26-danolmo": {
+    "rating": 86,
+    "position": "MCO",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 89,
+      "paseFiltrado": 88,
+      "llegada": 87,
+      "regate": 85,
+      "tirosLejanos": 84,
+      "definicion": 83
+    }
+  },
+  "esp26-lamyamal": {
+    "rating": 91,
+    "position": "ED",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 94,
+      "regate": 93,
+      "centro": 92,
+      "tirosLejanos": 90,
+      "desmarque": 89,
+      "definicion": 88
+    }
+  },
+  "esp26-nicwilliams": {
+    "rating": 88,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "ED",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 91,
+      "regate": 90,
+      "centro": 89,
+      "tirosLejanos": 87,
+      "desmarque": 86,
+      "definicion": 85
+    }
+  },
+  "esp26-alvmorata": {
+    "rating": 79,
+    "position": "DC",
+    "altPositions": [],
+    "stats": {
+      "definicion": 82,
+      "cabezazo": 81,
+      "fisico": 80,
+      "desmarque": 78,
+      "velocidad": 77,
+      "pases": 76
+    }
+  },
+  "esp26-fertorres": {
+    "rating": 78,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "DC",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 81,
+      "regate": 80,
+      "centro": 79,
+      "tirosLejanos": 77,
+      "desmarque": 76,
+      "definicion": 75
+    }
+  },
+  "esp26-mikoyarzabal": {
+    "rating": 81,
+    "position": "DC",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "definicion": 84,
+      "cabezazo": 83,
+      "fisico": 82,
+      "desmarque": 80,
+      "velocidad": 79,
+      "pases": 78
+    }
+  },
+  "esp26-fabruiz": {
+    "rating": 83,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCO",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 86,
+      "pases": 85,
+      "llegada": 84,
+      "tirosLejanos": 82,
+      "recuperacion": 81,
+      "regate": 80
+    }
+  },
+  "esp26-marzubimendi": {
+    "rating": 82,
+    "position": "MCD",
+    "altPositions": [],
+    "stats": {
+      "recuperacion": 85,
+      "duelos": 84,
+      "posicionamiento": 83,
+      "pases": 81,
+      "llegada": 80,
+      "tirosLejanos": 79
+    }
+  },
+  "esp26-marpubill": {
+    "rating": 75,
+    "position": "LD",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 78,
+      "intercepciones": 77,
+      "duelos": 76,
+      "centro": 74,
+      "velocidad": 73,
+      "comunicacion": 72
+    }
+  },
+  "esp26-bryzaragoza": {
+    "rating": 74,
+    "position": "EI",
+    "altPositions": [],
+    "stats": {
+      "velocidad": 77,
+      "regate": 76,
+      "centro": 75,
+      "tirosLejanos": 73,
+      "desmarque": 72,
+      "definicion": 71
+    }
+  },
+  "fra26-mikmaignan": {
+    "rating": 87,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 90,
+      "manejo": 89,
+      "salidas": 88,
+      "penales": 86,
+      "distribucion": 85,
+      "comunicacion": 84
+    }
+  },
+  "fra26-brisamba": {
+    "rating": 74,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 77,
+      "manejo": 76,
+      "salidas": 75,
+      "penales": 73,
+      "distribucion": 72,
+      "comunicacion": 71
+    }
+  },
+  "fra26-julkounde": {
+    "rating": 86,
+    "position": "LD",
+    "altPositions": [
+      {
+        "position": "DFC",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "defAerea": 89,
+      "intercepciones": 88,
+      "duelos": 87,
+      "centro": 85,
+      "velocidad": 84,
+      "comunicacion": 83
+    }
+  },
+  "fra26-thehernandez": {
+    "rating": 87,
+    "position": "LI",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 90,
+      "intercepciones": 89,
+      "duelos": 88,
+      "centro": 86,
+      "velocidad": 85,
+      "comunicacion": 84
+    }
+  },
+  "fra26-dayupamecano": {
+    "rating": 83,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 86,
+      "intercepciones": 85,
+      "duelos": 84,
+      "cabezazo": 82,
+      "posicionamiento": 81,
+      "comunicacion": 80
+    }
+  },
+  "fra26-ibrkonate": {
+    "rating": 84,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 87,
+      "intercepciones": 86,
+      "duelos": 85,
+      "cabezazo": 83,
+      "posicionamiento": 82,
+      "comunicacion": 81
+    }
+  },
+  "fra26-aurtchouamen": {
+    "rating": 87,
+    "position": "MCD",
+    "altPositions": [],
+    "stats": {
+      "recuperacion": 90,
+      "duelos": 89,
+      "posicionamiento": 88,
+      "pases": 86,
+      "llegada": 85,
+      "tirosLejanos": 84
+    }
+  },
+  "fra26-educamavinga": {
+    "rating": 84,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "LI",
+        "compatibility": "forzado"
+      }
+    ],
+    "stats": {
+      "vision": 87,
+      "pases": 86,
+      "llegada": 85,
+      "tirosLejanos": 83,
+      "recuperacion": 82,
+      "regate": 81
+    }
+  },
+  "fra26-adrrabiot": {
+    "rating": 80,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCD",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 83,
+      "pases": 82,
+      "llegada": 81,
+      "tirosLejanos": 79,
+      "recuperacion": 78,
+      "regate": 77
+    }
+  },
+  "fra26-antgriezmann": {
+    "rating": 85,
+    "position": "MCO",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 88,
+      "paseFiltrado": 87,
+      "llegada": 86,
+      "regate": 84,
+      "tirosLejanos": 83,
+      "definicion": 82
+    }
+  },
+  "fra26-kylmbappe": {
+    "rating": 95,
+    "position": "DC",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "definicion": 98,
+      "cabezazo": 97,
+      "fisico": 96,
+      "desmarque": 94,
+      "velocidad": 93,
+      "pases": 92
+    }
+  },
+  "fra26-ousdembele": {
+    "rating": 84,
+    "position": "ED",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 87,
+      "regate": 86,
+      "centro": 85,
+      "tirosLejanos": 83,
+      "desmarque": 82,
+      "definicion": 81
+    }
+  },
+  "fra26-ranmuani": {
+    "rating": 81,
+    "position": "DC",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "definicion": 84,
+      "cabezazo": 83,
+      "fisico": 82,
+      "desmarque": 80,
+      "velocidad": 79,
+      "pases": 78
+    }
+  },
+  "fra26-marthuram": {
+    "rating": 84,
+    "position": "DC",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "definicion": 87,
+      "cabezazo": 86,
+      "fisico": 85,
+      "desmarque": 83,
+      "velocidad": 82,
+      "pases": 81
+    }
+  },
+  "fra26-warzaireemer": {
+    "rating": 82,
+    "position": "MC",
+    "altPositions": [],
+    "stats": {
+      "vision": 85,
+      "pases": 84,
+      "llegada": 83,
+      "tirosLejanos": 81,
+      "recuperacion": 80,
+      "regate": 79
+    }
+  },
+  "fra26-brabarcola": {
+    "rating": 82,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "ED",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 85,
+      "regate": 84,
+      "centro": 83,
+      "tirosLejanos": 81,
+      "desmarque": 80,
+      "definicion": 79
+    }
+  },
+  "fra26-wilsaliba": {
+    "rating": 87,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 90,
+      "intercepciones": 89,
+      "duelos": 88,
+      "cabezazo": 86,
+      "posicionamiento": 85,
+      "comunicacion": 84
+    }
+  },
+  "fra26-kincoman": {
+    "rating": 76,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "ED",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 79,
+      "regate": 78,
+      "centro": 77,
+      "tirosLejanos": 75,
+      "desmarque": 74,
+      "definicion": 73
+    }
+  },
+  "fra26-micolise": {
+    "rating": 83,
+    "position": "ED",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 86,
+      "regate": 85,
+      "centro": 84,
+      "tirosLejanos": 82,
+      "desmarque": 81,
+      "definicion": 80
+    }
+  },
+  "ger26-manneuer": {
+    "rating": 82,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 85,
+      "manejo": 84,
+      "salidas": 83,
+      "penales": 81,
+      "distribucion": 80,
+      "comunicacion": 79
+    }
+  },
+  "ger26-marstegen": {
+    "rating": 81,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 84,
+      "manejo": 83,
+      "salidas": 82,
+      "penales": 80,
+      "distribucion": 79,
+      "comunicacion": 78
+    }
+  },
+  "ger26-joskimmich": {
+    "rating": 88,
+    "position": "LD",
+    "altPositions": [
+      {
+        "position": "MCD",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "defAerea": 91,
+      "intercepciones": 90,
+      "duelos": 89,
+      "centro": 87,
+      "velocidad": 86,
+      "comunicacion": 85
+    }
+  },
+  "ger26-davraum": {
+    "rating": 80,
+    "position": "LI",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 83,
+      "intercepciones": 82,
+      "duelos": 81,
+      "centro": 79,
+      "velocidad": 78,
+      "comunicacion": 77
+    }
+  },
+  "ger26-antrudiger": {
+    "rating": 84,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 87,
+      "intercepciones": 86,
+      "duelos": 85,
+      "cabezazo": 83,
+      "posicionamiento": 82,
+      "comunicacion": 81
+    }
+  },
+  "ger26-jontah": {
+    "rating": 82,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 85,
+      "intercepciones": 84,
+      "duelos": 83,
+      "cabezazo": 81,
+      "posicionamiento": 80,
+      "comunicacion": 79
+    }
+  },
+  "ger26-walanton": {
+    "rating": 78,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 81,
+      "intercepciones": 80,
+      "duelos": 79,
+      "cabezazo": 77,
+      "posicionamiento": 76,
+      "comunicacion": 75
+    }
+  },
+  "ger26-ilkgundogan": {
+    "rating": 83,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCO",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 86,
+      "pases": 85,
+      "llegada": 84,
+      "tirosLejanos": 82,
+      "recuperacion": 81,
+      "regate": 80
+    }
+  },
+  "ger26-jammusiala": {
+    "rating": 92,
+    "position": "MCO",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 95,
+      "paseFiltrado": 94,
+      "llegada": 93,
+      "regate": 91,
+      "tirosLejanos": 90,
+      "definicion": 89
+    }
+  },
+  "ger26-flowirtz": {
+    "rating": 92,
+    "position": "MCO",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 95,
+      "paseFiltrado": 94,
+      "llegada": 93,
+      "regate": 91,
+      "tirosLejanos": 90,
+      "definicion": 89
+    }
+  },
+  "ger26-lersane": {
+    "rating": 83,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "ED",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 86,
+      "regate": 85,
+      "centro": 84,
+      "tirosLejanos": 82,
+      "desmarque": 81,
+      "definicion": 80
+    }
+  },
+  "ger26-sergnabry": {
+    "rating": 78,
+    "position": "ED",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 81,
+      "regate": 80,
+      "centro": 79,
+      "tirosLejanos": 77,
+      "desmarque": 76,
+      "definicion": 75
+    }
+  },
+  "ger26-kaihavertz": {
+    "rating": 85,
+    "position": "DC",
+    "altPositions": [
+      {
+        "position": "MCO",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "definicion": 88,
+      "cabezazo": 87,
+      "fisico": 86,
+      "desmarque": 84,
+      "velocidad": 83,
+      "pases": 82
+    }
+  },
+  "ger26-nicfullkrug": {
+    "rating": 81,
+    "position": "DC",
+    "altPositions": [],
+    "stats": {
+      "definicion": 84,
+      "cabezazo": 83,
+      "fisico": 82,
+      "desmarque": 80,
+      "velocidad": 79,
+      "pases": 78
+    }
+  },
+  "ger26-leogoretzka": {
+    "rating": 80,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCD",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 83,
+      "pases": 82,
+      "llegada": 81,
+      "tirosLejanos": 79,
+      "recuperacion": 78,
+      "regate": 77
+    }
+  },
+  "ger26-robandrich": {
+    "rating": 79,
+    "position": "MCD",
+    "altPositions": [],
+    "stats": {
+      "recuperacion": 82,
+      "duelos": 81,
+      "posicionamiento": 80,
+      "pases": 78,
+      "llegada": 77,
+      "tirosLejanos": 76
+    }
+  },
+  "ger26-maxbeier": {
+    "rating": 77,
+    "position": "DC",
+    "altPositions": [],
+    "stats": {
+      "definicion": 80,
+      "cabezazo": 79,
+      "fisico": 78,
+      "desmarque": 76,
+      "velocidad": 75,
+      "pases": 74
+    }
+  },
+  "ger26-denundav": {
+    "rating": 76,
+    "position": "DC",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "definicion": 79,
+      "cabezazo": 78,
+      "fisico": 77,
+      "desmarque": 75,
+      "velocidad": 74,
+      "pases": 73
+    }
+  },
+  "ned26-barverbrugge": {
+    "rating": 81,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 84,
+      "manejo": 83,
+      "salidas": 82,
+      "penales": 80,
+      "distribucion": 79,
+      "comunicacion": 78
+    }
+  },
+  "ned26-marflekken": {
+    "rating": 76,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 79,
+      "manejo": 78,
+      "salidas": 77,
+      "penales": 75,
+      "distribucion": 74,
+      "comunicacion": 73
+    }
+  },
+  "ned26-dendumfries": {
+    "rating": 83,
+    "position": "LD",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 86,
+      "intercepciones": 85,
+      "duelos": 84,
+      "centro": 82,
+      "velocidad": 81,
+      "comunicacion": 80
+    }
+  },
+  "ned26-harhartman": {
+    "rating": 74,
+    "position": "LI",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 77,
+      "intercepciones": 76,
+      "duelos": 75,
+      "centro": 73,
+      "velocidad": 72,
+      "comunicacion": 71
+    }
+  },
+  "ned26-virdijk": {
+    "rating": 87,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 90,
+      "intercepciones": 89,
+      "duelos": 88,
+      "cabezazo": 86,
+      "posicionamiento": 85,
+      "comunicacion": 84
+    }
+  },
+  "ned26-matligt": {
+    "rating": 84,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 87,
+      "intercepciones": 86,
+      "duelos": 85,
+      "cabezazo": 83,
+      "posicionamiento": 82,
+      "comunicacion": 81
+    }
+  },
+  "ned26-stevrij": {
+    "rating": 78,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 81,
+      "intercepciones": 80,
+      "duelos": 79,
+      "cabezazo": 77,
+      "posicionamiento": 76,
+      "comunicacion": 75
+    }
+  },
+  "ned26-frejong": {
+    "rating": 86,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCD",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 89,
+      "pases": 88,
+      "llegada": 87,
+      "tirosLejanos": 85,
+      "recuperacion": 84,
+      "regate": 83
+    }
+  },
+  "ned26-teukoopmeine": {
+    "rating": 84,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCO",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 87,
+      "pases": 86,
+      "llegada": 85,
+      "tirosLejanos": 83,
+      "recuperacion": 82,
+      "regate": 81
+    }
+  },
+  "ned26-ryagravenber": {
+    "rating": 84,
+    "position": "MCD",
+    "altPositions": [
+      {
+        "position": "MC",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "recuperacion": 87,
+      "duelos": 86,
+      "posicionamiento": 85,
+      "pases": 83,
+      "llegada": 82,
+      "tirosLejanos": 81
+    }
+  },
+  "ned26-tijreijnders": {
+    "rating": 84,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCO",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 87,
+      "pases": 86,
+      "llegada": 85,
+      "tirosLejanos": 83,
+      "recuperacion": 82,
+      "regate": 81
+    }
+  },
+  "ned26-codgakpo": {
+    "rating": 86,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "DC",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 89,
+      "regate": 88,
+      "centro": 87,
+      "tirosLejanos": 85,
+      "desmarque": 84,
+      "definicion": 83
+    }
+  },
+  "ned26-memdepay": {
+    "rating": 78,
+    "position": "DC",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "definicion": 81,
+      "cabezazo": 80,
+      "fisico": 79,
+      "desmarque": 77,
+      "velocidad": 76,
+      "pases": 75
+    }
+  },
+  "ned26-wouweghorst": {
+    "rating": 76,
+    "position": "DC",
+    "altPositions": [],
+    "stats": {
+      "definicion": 79,
+      "cabezazo": 78,
+      "fisico": 77,
+      "desmarque": 75,
+      "velocidad": 74,
+      "pases": 73
+    }
+  },
+  "ned26-donmalen": {
+    "rating": 80,
+    "position": "ED",
+    "altPositions": [
+      {
+        "position": "DC",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 83,
+      "regate": 82,
+      "centro": 81,
+      "tirosLejanos": 79,
+      "desmarque": 78,
+      "definicion": 77
+    }
+  },
+  "ned26-bribrobbey": {
+    "rating": 80,
+    "position": "DC",
+    "altPositions": [],
+    "stats": {
+      "definicion": 83,
+      "cabezazo": 82,
+      "fisico": 81,
+      "desmarque": 79,
+      "velocidad": 78,
+      "pases": 77
+    }
+  },
+  "ned26-xavsimons": {
+    "rating": 84,
+    "position": "MCO",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 87,
+      "paseFiltrado": 86,
+      "llegada": 85,
+      "regate": 83,
+      "tirosLejanos": 82,
+      "definicion": 81
+    }
+  },
+  "ned26-jurtimber": {
+    "rating": 83,
+    "position": "DFC",
+    "altPositions": [
+      {
+        "position": "LD",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "defAerea": 86,
+      "intercepciones": 85,
+      "duelos": 84,
+      "cabezazo": 82,
+      "posicionamiento": 81,
+      "comunicacion": 80
+    }
+  },
+  "ned26-natake": {
+    "rating": 79,
+    "position": "DFC",
+    "altPositions": [
+      {
+        "position": "LI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "defAerea": 82,
+      "intercepciones": 81,
+      "duelos": 80,
+      "cabezazo": 78,
+      "posicionamiento": 77,
+      "comunicacion": 76
+    }
+  },
+  "eng26-jorpickford": {
+    "rating": 83,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 86,
+      "manejo": 85,
+      "salidas": 84,
+      "penales": 82,
+      "distribucion": 81,
+      "comunicacion": 80
+    }
+  },
+  "eng26-deahenderson": {
+    "rating": 75,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 78,
+      "manejo": 77,
+      "salidas": 76,
+      "penales": 74,
+      "distribucion": 73,
+      "comunicacion": 72
+    }
+  },
+  "eng26-trealexander": {
+    "rating": 85,
+    "position": "LD",
+    "altPositions": [
+      {
+        "position": "MC",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "defAerea": 88,
+      "intercepciones": 87,
+      "duelos": 86,
+      "centro": 84,
+      "velocidad": 83,
+      "comunicacion": 82
+    }
+  },
+  "eng26-lukshaw": {
+    "rating": 79,
+    "position": "LI",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 82,
+      "intercepciones": 81,
+      "duelos": 80,
+      "centro": 78,
+      "velocidad": 77,
+      "comunicacion": 76
+    }
+  },
+  "eng26-harmaguire": {
+    "rating": 76,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 79,
+      "intercepciones": 78,
+      "duelos": 77,
+      "cabezazo": 75,
+      "posicionamiento": 74,
+      "comunicacion": 73
+    }
+  },
+  "eng26-johstones": {
+    "rating": 83,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 86,
+      "intercepciones": 85,
+      "duelos": 84,
+      "cabezazo": 82,
+      "posicionamiento": 81,
+      "comunicacion": 80
+    }
+  },
+  "eng26-kylwalker": {
+    "rating": 80,
+    "position": "LD",
+    "altPositions": [
+      {
+        "position": "DFC",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "defAerea": 83,
+      "intercepciones": 82,
+      "duelos": 81,
+      "centro": 79,
+      "velocidad": 78,
+      "comunicacion": 77
+    }
+  },
+  "eng26-decrice": {
+    "rating": 89,
+    "position": "MCD",
+    "altPositions": [
+      {
+        "position": "MC",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "recuperacion": 92,
+      "duelos": 91,
+      "posicionamiento": 90,
+      "pases": 88,
+      "llegada": 87,
+      "tirosLejanos": 86
+    }
+  },
+  "eng26-judbellingha": {
+    "rating": 93,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCO",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 96,
+      "pases": 95,
+      "llegada": 94,
+      "tirosLejanos": 92,
+      "recuperacion": 91,
+      "regate": 90
+    }
+  },
+  "eng26-congallagher": {
+    "rating": 77,
+    "position": "MC",
+    "altPositions": [],
+    "stats": {
+      "vision": 80,
+      "pases": 79,
+      "llegada": 78,
+      "tirosLejanos": 76,
+      "recuperacion": 75,
+      "regate": 74
+    }
+  },
+  "eng26-colpalmer": {
+    "rating": 88,
+    "position": "MCO",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 91,
+      "paseFiltrado": 90,
+      "llegada": 89,
+      "regate": 87,
+      "tirosLejanos": 86,
+      "definicion": 85
+    }
+  },
+  "eng26-buksaka": {
+    "rating": 89,
+    "position": "ED",
+    "altPositions": [
+      {
+        "position": "LD",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 92,
+      "regate": 91,
+      "centro": 90,
+      "tirosLejanos": 88,
+      "desmarque": 87,
+      "definicion": 86
+    }
+  },
+  "eng26-harkane": {
+    "rating": 90,
+    "position": "DC",
+    "altPositions": [],
+    "stats": {
+      "definicion": 93,
+      "cabezazo": 92,
+      "fisico": 91,
+      "desmarque": 89,
+      "velocidad": 88,
+      "pases": 87
+    }
+  },
+  "eng26-phifoden": {
+    "rating": 87,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "MCO",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 90,
+      "regate": 89,
+      "centro": 88,
+      "tirosLejanos": 86,
+      "desmarque": 85,
+      "definicion": 84
+    }
+  },
+  "eng26-marrashford": {
+    "rating": 81,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "DC",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 84,
+      "regate": 83,
+      "centro": 82,
+      "tirosLejanos": 80,
+      "desmarque": 79,
+      "definicion": 78
+    }
+  },
+  "eng26-antgordon": {
+    "rating": 81,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "ED",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 84,
+      "regate": 83,
+      "centro": 82,
+      "tirosLejanos": 80,
+      "desmarque": 79,
+      "definicion": 78
+    }
+  },
+  "eng26-levcolwill": {
+    "rating": 80,
+    "position": "DFC",
+    "altPositions": [
+      {
+        "position": "LI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "defAerea": 83,
+      "intercepciones": 82,
+      "duelos": 81,
+      "cabezazo": 79,
+      "posicionamiento": 78,
+      "comunicacion": 77
+    }
+  },
+  "eng26-ebeeze": {
+    "rating": 81,
+    "position": "MCO",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 84,
+      "paseFiltrado": 83,
+      "llegada": 82,
+      "regate": 80,
+      "tirosLejanos": 79,
+      "definicion": 78
+    }
+  },
+  "eng26-ollwatkins": {
+    "rating": 81,
+    "position": "DC",
+    "altPositions": [],
+    "stats": {
+      "definicion": 84,
+      "cabezazo": 83,
+      "fisico": 82,
+      "desmarque": 80,
+      "velocidad": 79,
+      "pases": 78
+    }
+  },
+  "eng26-jarbowen": {
+    "rating": 78,
+    "position": "ED",
+    "altPositions": [
+      {
+        "position": "DC",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 81,
+      "regate": 80,
+      "centro": 79,
+      "tirosLejanos": 77,
+      "desmarque": 76,
+      "definicion": 75
+    }
+  },
+  "por26-diocosta": {
+    "rating": 86,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 89,
+      "manejo": 88,
+      "salidas": 87,
+      "penales": 85,
+      "distribucion": 84,
+      "comunicacion": 83
+    }
+  },
+  "por26-ruipatricio": {
+    "rating": 73,
+    "position": "POR",
+    "altPositions": [],
+    "stats": {
+      "reflejos": 76,
+      "manejo": 75,
+      "salidas": 74,
+      "penales": 72,
+      "distribucion": 71,
+      "comunicacion": 70
+    }
+  },
+  "por26-joacancelo": {
+    "rating": 83,
+    "position": "LD",
+    "altPositions": [
+      {
+        "position": "LI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "defAerea": 86,
+      "intercepciones": 85,
+      "duelos": 84,
+      "centro": 82,
+      "velocidad": 81,
+      "comunicacion": 80
+    }
+  },
+  "por26-rapguerreiro": {
+    "rating": 79,
+    "position": "LI",
+    "altPositions": [
+      {
+        "position": "MI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "defAerea": 82,
+      "intercepciones": 81,
+      "duelos": 80,
+      "centro": 78,
+      "velocidad": 77,
+      "comunicacion": 76
+    }
+  },
+  "por26-rubdias": {
+    "rating": 89,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 92,
+      "intercepciones": 91,
+      "duelos": 90,
+      "cabezazo": 88,
+      "posicionamiento": 87,
+      "comunicacion": 86
+    }
+  },
+  "por26-antsilva": {
+    "rating": 82,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 85,
+      "intercepciones": 84,
+      "duelos": 83,
+      "cabezazo": 81,
+      "posicionamiento": 80,
+      "comunicacion": 79
+    }
+  },
+  "por26-goninacio": {
+    "rating": 80,
+    "position": "DFC",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 83,
+      "intercepciones": 82,
+      "duelos": 81,
+      "cabezazo": 79,
+      "posicionamiento": 78,
+      "comunicacion": 77
+    }
+  },
+  "por26-rubneves": {
+    "rating": 82,
+    "position": "MCD",
+    "altPositions": [
+      {
+        "position": "MC",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "recuperacion": 85,
+      "duelos": 84,
+      "posicionamiento": 83,
+      "pases": 81,
+      "llegada": 80,
+      "tirosLejanos": 79
+    }
+  },
+  "por26-vitvitinha": {
+    "rating": 85,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCO",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 88,
+      "pases": 87,
+      "llegada": 86,
+      "tirosLejanos": 84,
+      "recuperacion": 83,
+      "regate": 82
+    }
+  },
+  "por26-brufernandes": {
+    "rating": 86,
+    "position": "MCO",
+    "altPositions": [
+      {
+        "position": "MC",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 89,
+      "paseFiltrado": 88,
+      "llegada": 87,
+      "regate": 85,
+      "tirosLejanos": 84,
+      "definicion": 83
+    }
+  },
+  "por26-bersilva": {
+    "rating": 89,
+    "position": "ED",
+    "altPositions": [
+      {
+        "position": "MCO",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 92,
+      "regate": 91,
+      "centro": 90,
+      "tirosLejanos": 88,
+      "desmarque": 87,
+      "definicion": 86
+    }
+  },
+  "por26-crironaldo": {
+    "rating": 79,
+    "position": "DC",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "definicion": 82,
+      "cabezazo": 81,
+      "fisico": 80,
+      "desmarque": 78,
+      "velocidad": 77,
+      "pases": 76
+    }
+  },
+  "por26-rafleao": {
+    "rating": 86,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "DC",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 89,
+      "regate": 88,
+      "centro": 87,
+      "tirosLejanos": 85,
+      "desmarque": 84,
+      "definicion": 83
+    }
+  },
+  "por26-joafelix": {
+    "rating": 83,
+    "position": "MCO",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "vision": 86,
+      "paseFiltrado": 85,
+      "llegada": 84,
+      "regate": 82,
+      "tirosLejanos": 81,
+      "definicion": 80
+    }
+  },
+  "por26-gonramos": {
+    "rating": 84,
+    "position": "DC",
+    "altPositions": [],
+    "stats": {
+      "definicion": 87,
+      "cabezazo": 86,
+      "fisico": 85,
+      "desmarque": 83,
+      "velocidad": 82,
+      "pases": 81
+    }
+  },
+  "por26-pedneto": {
+    "rating": 83,
+    "position": "EI",
+    "altPositions": [
+      {
+        "position": "ED",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 86,
+      "regate": 85,
+      "centro": 84,
+      "tirosLejanos": 82,
+      "desmarque": 81,
+      "definicion": 80
+    }
+  },
+  "por26-fraconceicao": {
+    "rating": 80,
+    "position": "ED",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "velocidad": 83,
+      "regate": 82,
+      "centro": 81,
+      "tirosLejanos": 79,
+      "desmarque": 78,
+      "definicion": 77
+    }
+  },
+  "por26-matnunes": {
+    "rating": 78,
+    "position": "MC",
+    "altPositions": [],
+    "stats": {
+      "vision": 81,
+      "pases": 80,
+      "llegada": 79,
+      "tirosLejanos": 77,
+      "recuperacion": 76,
+      "regate": 75
+    }
+  },
+  "por26-nunmendes": {
+    "rating": 84,
+    "position": "LI",
+    "altPositions": [],
+    "stats": {
+      "defAerea": 87,
+      "intercepciones": 86,
+      "duelos": 85,
+      "centro": 83,
+      "velocidad": 82,
+      "comunicacion": 81
+    }
+  },
+  "por26-diojota": {
+    "rating": 81,
+    "position": "DC",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
+    "stats": {
+      "definicion": 84,
+      "cabezazo": 83,
+      "fisico": 82,
+      "desmarque": 80,
+      "velocidad": 79,
+      "pases": 78
+    }
   }
 }

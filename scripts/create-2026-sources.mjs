@@ -54,7 +54,7 @@ function makeId(countryPrefix, name, usedIds) {
   const parts = name.trim().split(/\s+/)
   const last  = parts[parts.length - 1]
   const first = parts[0]
-  const code  = (first[0] + last).toLowerCase()
+  const code  = (first.slice(0, 3) + last).toLowerCase()
     .normalize('NFD').replace(/[̀-ͯ]/g, '')
     .replace(/[^a-z0-9]/g, '')
     .slice(0, 12)

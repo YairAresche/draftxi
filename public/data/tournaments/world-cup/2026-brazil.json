@@ -6,7 +6,7 @@
   "tournamentId": "wc-2026",
   "players": [
     {
-      "id": "bra26-aalisson",
+      "id": "bra26-alialisson",
       "name": "Alisson",
       "position": "POR",
       "altPositions": [],
@@ -24,7 +24,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-eederson",
+      "id": "bra26-edeederson",
       "name": "Éderson",
       "position": "POR",
       "altPositions": [],
@@ -42,7 +42,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-ddanilo",
+      "id": "bra26-dandanilo",
       "name": "Danilo",
       "position": "LD",
       "altPositions": [
@@ -65,7 +65,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-garana",
+      "id": "bra26-guiarana",
       "name": "Guilherme Arana",
       "position": "LI",
       "altPositions": [],
@@ -83,7 +83,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-mmarquinhos",
+      "id": "bra26-marmarquinho",
       "name": "Marquinhos",
       "position": "DFC",
       "altPositions": [],
@@ -101,7 +101,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-emilitao",
+      "id": "bra26-edemilitao",
       "name": "Éder Militão",
       "position": "DFC",
       "altPositions": [],
@@ -119,7 +119,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-gmagalhaes",
+      "id": "bra26-gabmagalhaes",
       "name": "Gabriel Magalhães",
       "position": "DFC",
       "altPositions": [],
@@ -137,7 +137,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-ccasemiro",
+      "id": "bra26-cascasemiro",
       "name": "Casemiro",
       "position": "MCD",
       "altPositions": [],
@@ -155,7 +155,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-bguimaraes",
+      "id": "bra26-bruguimaraes",
       "name": "Bruno Guimarães",
       "position": "MC",
       "altPositions": [
@@ -178,7 +178,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-lpaqueta",
+      "id": "bra26-lucpaqueta",
       "name": "Lucas Paquetá",
       "position": "MCO",
       "altPositions": [
@@ -201,7 +201,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-vjunior",
+      "id": "bra26-vinjunior",
       "name": "Vinícius Júnior",
       "position": "EI",
       "altPositions": [
@@ -224,7 +224,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-rrodrygo",
+      "id": "bra26-rodrodrygo",
       "name": "Rodrygo",
       "position": "EI",
       "altPositions": [
@@ -247,7 +247,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-rricharlison",
+      "id": "bra26-ricricharlis",
       "name": "Richarlison",
       "position": "DC",
       "altPositions": [
@@ -270,7 +270,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-rraphinha",
+      "id": "bra26-rapraphinha",
       "name": "Raphinha",
       "position": "ED",
       "altPositions": [
@@ -293,7 +293,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-gmartinelli",
+      "id": "bra26-gabmartinell",
       "name": "Gabriel Martinelli",
       "position": "EI",
       "altPositions": [],
@@ -311,7 +311,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-eendrick",
+      "id": "bra26-endendrick",
       "name": "Endrick",
       "position": "DC",
       "altPositions": [],
@@ -329,7 +329,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-ssavinho",
+      "id": "bra26-savsavinho",
       "name": "Savinho",
       "position": "ED",
       "altPositions": [
@@ -352,7 +352,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-aandre",
+      "id": "bra26-andandre",
       "name": "André",
       "position": "MCD",
       "altPositions": [],
@@ -370,7 +370,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-gjesus",
+      "id": "bra26-gabjesus",
       "name": "Gabriel Jesus",
       "position": "DC",
       "altPositions": [
@@ -393,7 +393,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "bra26-ycouto",
+      "id": "bra26-yancouto",
       "name": "Yan Couto",
       "position": "LD",
       "altPositions": [],

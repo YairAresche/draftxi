@@ -6,7 +6,7 @@
   "tournamentId": "wc-2026",
   "players": [
     {
-      "id": "arg26-emartinez",
+      "id": "arg26-emimartinez",
       "name": "Emiliano Martínez",
       "position": "POR",
       "altPositions": [],
@@ -24,7 +24,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-grulli",
+      "id": "arg26-gerrulli",
       "name": "Gerónimo Rulli",
       "position": "POR",
       "altPositions": [],
@@ -42,7 +42,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-nmolina",
+      "id": "arg26-nahmolina",
       "name": "Nahuel Molina",
       "position": "LD",
       "altPositions": [],
@@ -60,7 +60,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-notamendi",
+      "id": "arg26-nicotamendi",
       "name": "Nicolás Otamendi",
       "position": "DFC",
       "altPositions": [],
@@ -78,7 +78,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-cromero",
+      "id": "arg26-criromero",
       "name": "Cristian Romero",
       "position": "DFC",
       "altPositions": [],
@@ -96,7 +96,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-lmartinez",
+      "id": "arg26-lismartinez",
       "name": "Lisandro Martínez",
       "position": "DFC",
       "altPositions": [],
@@ -114,7 +114,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-ntagliafico",
+      "id": "arg26-nictagliafic",
       "name": "Nicolás Tagliafico",
       "position": "LI",
       "altPositions": [],
@@ -132,7 +132,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-rpaul",
+      "id": "arg26-rodpaul",
       "name": "Rodrigo De Paul",
       "position": "MC",
       "altPositions": [
@@ -155,7 +155,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-aallister",
+      "id": "arg26-aleallister",
       "name": "Alexis Mac Allister",
       "position": "MC",
       "altPositions": [
@@ -178,7 +178,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-efernandez",
+      "id": "arg26-enzfernandez",
       "name": "Enzo Fernández",
       "position": "MC",
       "altPositions": [
@@ -201,7 +201,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-lmessi",
+      "id": "arg26-liomessi",
       "name": "Lionel Messi",
       "position": "EI",
       "altPositions": [
@@ -224,7 +224,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-jalvarez",
+      "id": "arg26-julalvarez",
       "name": "Julián Álvarez",
       "position": "DC",
       "altPositions": [
@@ -247,7 +247,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-lmartinez2",
+      "id": "arg26-laumartinez",
       "name": "Lautaro Martínez",
       "position": "DC",
       "altPositions": [],
@@ -265,7 +265,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-amaria",
+      "id": "arg26-angmaria",
       "name": "Ángel Di María",
       "position": "EI",
       "altPositions": [
@@ -288,7 +288,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-pdybala",
+      "id": "arg26-paudybala",
       "name": "Paulo Dybala",
       "position": "MCO",
       "altPositions": [
@@ -311,7 +311,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-agarnacho",
+      "id": "arg26-alegarnacho",
       "name": "Alejandro Garnacho",
       "position": "EI",
       "altPositions": [
@@ -334,7 +334,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-talmada",
+      "id": "arg26-thialmada",
       "name": "Thiago Almada",
       "position": "MC",
       "altPositions": [],
@@ -352,7 +352,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-grodriguez",
+      "id": "arg26-guirodriguez",
       "name": "Guido Rodríguez",
       "position": "MCD",
       "altPositions": [],
@@ -370,7 +370,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-gpezzella",
+      "id": "arg26-gerpezzella",
       "name": "Germán Pezzella",
       "position": "DFC",
       "altPositions": [],
@@ -388,7 +388,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "arg26-vcarboni",
+      "id": "arg26-valcarboni",
       "name": "Valentín Carboni",
       "position": "MCO",
       "altPositions": [

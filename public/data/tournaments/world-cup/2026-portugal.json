@@ -6,7 +6,7 @@
   "tournamentId": "wc-2026",
   "players": [
     {
-      "id": "por26-dcosta",
+      "id": "por26-diocosta",
       "name": "Diogo Costa",
       "position": "POR",
       "altPositions": [],
@@ -24,7 +24,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-rpatricio",
+      "id": "por26-ruipatricio",
       "name": "Rui Patrício",
       "position": "POR",
       "altPositions": [],
@@ -42,7 +42,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-jcancelo",
+      "id": "por26-joacancelo",
       "name": "João Cancelo",
       "position": "LD",
       "altPositions": [
@@ -65,7 +65,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-rguerreiro",
+      "id": "por26-rapguerreiro",
       "name": "Raphael Guerreiro",
       "position": "LI",
       "altPositions": [
@@ -88,7 +88,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-rdias",
+      "id": "por26-rubdias",
       "name": "Rúben Dias",
       "position": "DFC",
       "altPositions": [],
@@ -106,7 +106,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-asilva",
+      "id": "por26-antsilva",
       "name": "António Silva",
       "position": "DFC",
       "altPositions": [],
@@ -124,7 +124,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-ginacio",
+      "id": "por26-goninacio",
       "name": "Gonçalo Inácio",
       "position": "DFC",
       "altPositions": [],
@@ -142,7 +142,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-rneves",
+      "id": "por26-rubneves",
       "name": "Rúben Neves",
       "position": "MCD",
       "altPositions": [
@@ -165,7 +165,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-vvitinha",
+      "id": "por26-vitvitinha",
       "name": "Vitinha",
       "position": "MC",
       "altPositions": [
@@ -188,7 +188,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-bfernandes",
+      "id": "por26-brufernandes",
       "name": "Bruno Fernandes",
       "position": "MCO",
       "altPositions": [
@@ -211,7 +211,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-bsilva",
+      "id": "por26-bersilva",
       "name": "Bernardo Silva",
       "position": "ED",
       "altPositions": [
@@ -234,7 +234,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-cronaldo",
+      "id": "por26-crironaldo",
       "name": "Cristiano Ronaldo",
       "position": "DC",
       "altPositions": [
@@ -257,7 +257,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-rleao",
+      "id": "por26-rafleao",
       "name": "Rafael Leão",
       "position": "EI",
       "altPositions": [
@@ -280,7 +280,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-jfelix",
+      "id": "por26-joafelix",
       "name": "João Félix",
       "position": "MCO",
       "altPositions": [
@@ -303,7 +303,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-gramos",
+      "id": "por26-gonramos",
       "name": "Gonçalo Ramos",
       "position": "DC",
       "altPositions": [],
@@ -321,7 +321,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-pneto",
+      "id": "por26-pedneto",
       "name": "Pedro Neto",
       "position": "EI",
       "altPositions": [
@@ -344,7 +344,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-fconceicao",
+      "id": "por26-fraconceicao",
       "name": "Francisco Conceição",
       "position": "ED",
       "altPositions": [
@@ -367,7 +367,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-mnunes",
+      "id": "por26-matnunes",
       "name": "Matheus Nunes",
       "position": "MC",
       "altPositions": [],
@@ -385,7 +385,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-nmendes",
+      "id": "por26-nunmendes",
       "name": "Nuno Mendes",
       "position": "LI",
       "altPositions": [],
@@ -403,7 +403,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "por26-djota",
+      "id": "por26-diojota",
       "name": "Diogo Jota",
       "position": "DC",
       "altPositions": [

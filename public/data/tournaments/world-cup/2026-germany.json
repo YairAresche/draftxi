@@ -6,7 +6,7 @@
   "tournamentId": "wc-2026",
   "players": [
     {
-      "id": "ger26-mneuer",
+      "id": "ger26-manneuer",
       "name": "Manuel Neuer",
       "position": "POR",
       "altPositions": [],
@@ -24,7 +24,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ger26-mstegen",
+      "id": "ger26-marstegen",
       "name": "Marc-André ter Stegen",
       "position": "POR",
       "altPositions": [],
@@ -42,7 +42,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ger26-jkimmich",
+      "id": "ger26-joskimmich",
       "name": "Joshua Kimmich",
       "position": "LD",
       "altPositions": [
@@ -65,7 +65,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ger26-draum",
+      "id": "ger26-davraum",
       "name": "David Raum",
       "position": "LI",
       "altPositions": [],
@@ -83,7 +83,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ger26-arudiger",
+      "id": "ger26-antrudiger",
       "name": "Antonio Rüdiger",
       "position": "DFC",
       "altPositions": [],
@@ -101,7 +101,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ger26-jtah",
+      "id": "ger26-jontah",
       "name": "Jonathan Tah",
       "position": "DFC",
       "altPositions": [],
@@ -119,7 +119,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ger26-wanton",
+      "id": "ger26-walanton",
       "name": "Waldemar Anton",
       "position": "DFC",
       "altPositions": [],
@@ -137,7 +137,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ger26-igundogan",
+      "id": "ger26-ilkgundogan",
       "name": "Ilkay Gündogan",
       "position": "MC",
       "altPositions": [
@@ -160,7 +160,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ger26-jmusiala",
+      "id": "ger26-jammusiala",
       "name": "Jamal Musiala",
       "position": "MCO",
       "altPositions": [
@@ -183,7 +183,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ger26-fwirtz",
+      "id": "ger26-flowirtz",
       "name": "Florian Wirtz",
       "position": "MCO",
       "altPositions": [
@@ -206,7 +206,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ger26-lsane",
+      "id": "ger26-lersane",
       "name": "Leroy Sané",
       "position": "EI",
       "altPositions": [
@@ -229,7 +229,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ger26-sgnabry",
+      "id": "ger26-sergnabry",
       "name": "Serge Gnabry",
       "position": "ED",
       "altPositions": [
@@ -252,7 +252,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ger26-khavertz",
+      "id": "ger26-kaihavertz",
       "name": "Kai Havertz",
       "position": "DC",
       "altPositions": [
@@ -275,7 +275,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ger26-nfullkrug",
+      "id": "ger26-nicfullkrug",
       "name": "Niclas Füllkrug",
       "position": "DC",
       "altPositions": [],
@@ -293,7 +293,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ger26-lgoretzka",
+      "id": "ger26-leogoretzka",
       "name": "Leon Goretzka",
       "position": "MC",
       "altPositions": [
@@ -316,7 +316,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ger26-randrich",
+      "id": "ger26-robandrich",
       "name": "Robert Andrich",
       "position": "MCD",
       "altPositions": [],
@@ -334,7 +334,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ger26-mbeier",
+      "id": "ger26-maxbeier",
       "name": "Maximilian Beier",
       "position": "DC",
       "altPositions": [],
@@ -352,7 +352,7 @@
       "tournamentId": "wc-2026"
     },
     {
-      "id": "ger26-dundav",
+      "id": "ger26-denundav",
       "name": "Deniz Undav",
       "position": "DC",
       "altPositions": [
