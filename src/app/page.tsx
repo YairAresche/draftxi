@@ -6,7 +6,7 @@ import { useGameStore } from '@/lib/store/gameStore'
 import { FORMATIONS } from '@/lib/data/formations'
 import type { StatsDisplayMode, DifficultyMode, DraftMode, SquadPool } from '@/types/game'
 
-const WC_YEARS = [1930,1934,1938,1950,1954,1958,1962,1966,1970,1974,1978,1982,1986,1990,1994,1998,2002,2006,2010,2014,2018,2022]
+const WC_YEARS = [1930,1934,1938,1950,1954,1958,1962,1966,1970,1974,1978,1982,1986,1990,1994,1998,2002,2006,2010,2014,2018,2022,2026]
 
 export default function Home() {
   const router = useRouter()
@@ -19,7 +19,7 @@ export default function Home() {
   const [chemistryCap, setChemistryCap] = useState(true)
   const [squadPool, setSquadPool] = useState<SquadPool>('all')
   const [yearFrom, setYearFrom] = useState(1930)
-  const [yearTo, setYearTo] = useState(2022)
+  const [yearTo, setYearTo] = useState(2026)
 
   function handleStart() {
     const formation = FORMATIONS.find(f => f.id === formationId)!

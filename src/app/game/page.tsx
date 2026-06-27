@@ -79,6 +79,7 @@ export default function GamePage() {
   const rightPanelRef = useRef<HTMLDivElement>(null)
   const [hoveredPlayer, setHoveredPlayer] = useState<Player | null>(null)
   const [activeTab, setActiveTab]         = useState<'field' | 'list'>('list')
+  const [selectedSlotId, setSelectedSlotId] = useState<string | null>(null)
 
   useEffect(() => {
     if (phase === 'config') { router.replace('/'); return }
@@ -93,31 +94,48 @@ export default function GamePage() {
   }, [])
 
   useEffect(() => {
-    if (!movingPick) return
+    if (!movingPick && !selectedSlotId) return
     const onKey = (e: KeyboardEvent) => {
-      if (e.key === 'Escape') { addPick(movingPick); setMovingPick(null) }
+      if (e.key === 'Escape') {
+        if (movingPick) { addPick(movingPick); setMovingPick(null) }
+        setSelectedSlotId(null)
+      }
     }
     window.addEventListener('keydown', onKey)
     return () => window.removeEventListener('keydown', onKey)
-  }, [movingPick, addPick])
+  }, [movingPick, selectedSlotId, addPick])
 
   const filteredCatalog = useMemo(() => {
     let c = squadCatalog
     if (yearFrom > 1930) c = c.filter(r => r.year >= yearFrom)
-    if (yearTo < 2022)   c = c.filter(r => r.year <= yearTo)
+    if (yearTo < 2026)   c = c.filter(r => r.year <= yearTo)
     if (squadPool === 'top') c = c.filter(r => TOP_NATION_SLUGS.has(r.slug))
     return c.length > 0 ? c : squadCatalog
   }, [squadCatalog, squadPool, yearFrom, yearTo])
 
   const isDone = picks.length === (formation?.slots.length ?? 0)
 
+  const selectedSlot = useMemo(
+    () => formation?.slots.find(s => s.id === selectedSlotId) ?? null,
+    [formation, selectedSlotId],
+  )
+
   const doRoll = useCallback(async () => {
     if (filteredCatalog.length === 0 || rolling) return
     setRolling(true)
-    const ref = filteredCatalog[Math.floor(Math.random() * filteredCatalog.length)]
+    const weights = filteredCatalog.map(r =>
+      r.year >= 2002 ? 2.5 : r.year >= 1978 ? 1.0 : r.year >= 1958 ? 0.6 : 0.3
+    )
+    const total = weights.reduce((s, w) => s + w, 0)
+    let rnd = Math.random() * total
+    let ref = filteredCatalog[filteredCatalog.length - 1]
+    for (let i = 0; i < filteredCatalog.length; i++) {
+      rnd -= weights[i]
+      if (rnd <= 0) { ref = filteredCatalog[i]; break }
+    }
     await new Promise<void>(resolve => setTimeout(resolve, 400))
     const squad = await loadSquadBySlug(ref.year, ref.slug)
-    if (squad) setRoll({ squad, availablePlayers: squad.players })
+    if (squad) { setRoll({ squad, availablePlayers: squad.players }); setSelectedSlotId(null) }
     setRolling(false)
   }, [filteredCatalog, rolling, setRoll])
 
@@ -176,6 +194,7 @@ export default function GamePage() {
       tournamentRating: Math.round(computeOvr(player) * compatibilityMultiplier(compat)),
     })
     setPendingPlayer(null)
+    setSelectedSlotId(null)
     const willComplete = picks.length + 1 === (formation?.slots.length ?? 11)
     setActiveTab(willComplete ? 'field' : 'list')
   }
@@ -198,6 +217,14 @@ export default function GamePage() {
     if (draftMode === 'ordenado') {
       const slot = formation?.slots.find(s => !picks.some(p => p.slotId === s.id))
       if (slot) commitPick(player, slot)
+    } else if (selectedSlot && !picks.some(p => p.slotId === selectedSlot.id)) {
+      const compat = getCompatibility(player.position, player.altPositions, selectedSlot.position)
+      if (compat !== 'forzado') {
+        commitPick(player, selectedSlot)
+      } else {
+        setPendingPlayer(player)
+        setActiveTab('field')
+      }
     } else {
       if (pendingPlayer?.id === player.id) {
         setPendingPlayer(null)
@@ -215,14 +242,24 @@ export default function GamePage() {
 
   const sortedPlayers = useMemo(() => {
     if (!currentRoll) return []
-    return [...currentRoll.availablePlayers].sort((a, b) => {
+    const players = [...currentRoll.availablePlayers]
+    if (selectedSlot) {
+      const order = { natural: 0, puede: 1, forzado: 2 } as const
+      return players.sort((a, b) => {
+        const ca = getCompatibility(a.position, a.altPositions, selectedSlot.position)
+        const cb = getCompatibility(b.position, b.altPositions, selectedSlot.position)
+        const co = order[ca] - order[cb]
+        return co !== 0 ? co : computeOvr(b) - computeOvr(a)
+      })
+    }
+    return players.sort((a, b) => {
       let cmp = 0
       if (sortKey === 'rating')   cmp = computeOvr(a) - computeOvr(b)
       else if (sortKey === 'name')     cmp = a.name.localeCompare(b.name)
       else if (sortKey === 'position') cmp = (POS_ORDER[a.position] ?? 9) - (POS_ORDER[b.position] ?? 9)
       return sortDir === 'desc' ? -cmp : cmp
     })
-  }, [currentRoll, sortKey, sortDir])
+  }, [currentRoll, sortKey, sortDir, selectedSlot])
 
   if (loading) {
     return (
@@ -332,6 +369,9 @@ export default function GamePage() {
                 unplacePick(slot.id)
                 setMovingPick(pick)
                 setPendingPlayer(null)
+              } else if (!pendingPlayer && !movingPick && !pick) {
+                setSelectedSlotId(prev => prev === slot.id ? null : slot.id)
+                setActiveTab('list')
               }
             }
 
@@ -345,6 +385,7 @@ export default function GamePage() {
                 isPendingTarget={isPendingTarget}
                 isSwapTarget={isSwapTarget}
                 isMovingTarget={isMovingTarget}
+                isSelected={selectedSlotId === slot.id}
                 movingPick={movingPick}
                 pendingPlayer={pendingPlayer}
                 difficultyMode={difficultyMode}
@@ -397,6 +438,17 @@ export default function GamePage() {
                   <p style={{ color: C.muted }} className="text-xs mt-0.5">{pendingPlayer.position} · {pendingPlayer.country} {pendingPlayer.tournamentYear}</p>
                 </div>
                 <button onClick={() => setPendingPlayer(null)}
+                  style={{ color: C.muted }} className="text-[10px] hover:text-white mt-1 shrink-0 cursor-pointer">✕</button>
+              </motion.div>
+            ) : selectedSlot ? (
+              <motion.div key={`filter-${selectedSlot.id}`} initial={{ opacity: 0 }} animate={{ opacity: 1 }}
+                className="flex items-start justify-between gap-2">
+                <div>
+                  <p style={{ color: C.blue }} className="text-[10px] uppercase tracking-widest font-semibold mb-0.5">Filtrando jugadores para</p>
+                  <p style={{ color: C.text }} className="text-2xl font-black leading-none">{selectedSlot.position}</p>
+                  <p style={{ color: C.muted }} className="text-xs mt-0.5">Clickeá un jugador para colocarlo ahí</p>
+                </div>
+                <button onClick={() => setSelectedSlotId(null)}
                   style={{ color: C.muted }} className="text-[10px] hover:text-white mt-1 shrink-0 cursor-pointer">✕</button>
               </motion.div>
             ) : currentRoll ? (
@@ -457,7 +509,8 @@ export default function GamePage() {
                   key={player.id}
                   index={idx + 1}
                   player={player}
-                  slotPosition={nextSlot?.position}
+                  slotPosition={selectedSlot?.position ?? nextSlot?.position}
+                  isFilterActive={selectedSlotId !== null}
                   difficultyMode={difficultyMode}
                   isPending={pendingPlayer?.id === player.id}
                   isAlreadyPicked={isAlreadyPicked}
@@ -733,7 +786,7 @@ function FieldMarkings() {
 
 /* ─── Slot dot ───────────────────────────────────── */
 function SlotDot({ slot, player, isCaptain, isNext, isPendingTarget, isSwapTarget, isMovingTarget,
-  movingPick, pendingPlayer, difficultyMode, onSlotClick }: {
+  isSelected, movingPick, pendingPlayer, difficultyMode, onSlotClick }: {
   slot: FormationSlot
   player: SquadPlayer | null
   isCaptain: boolean
@@ -741,6 +794,7 @@ function SlotDot({ slot, player, isCaptain, isNext, isPendingTarget, isSwapTarge
   isPendingTarget: boolean
   isSwapTarget: boolean
   isMovingTarget: boolean
+  isSelected: boolean
   movingPick: SquadPlayer | null
   pendingPlayer: Player | null
   difficultyMode: 'normal' | 'almanaque'
@@ -801,10 +855,15 @@ function SlotDot({ slot, player, isCaptain, isNext, isPendingTarget, isSwapTarge
               <div
                 className={`w-11 h-11 md:w-10 md:h-10 rounded-full flex items-center justify-center text-[10px] font-bold transition-all ${isNext ? 'animate-pulse' : ''}`}
                 style={{
-                  border: `2px dashed ${isNext ? C.blue : isTargeted && compat ? compatColor || 'rgba(255,255,255,0.4)' : 'rgba(255,255,255,0.25)'}`,
-                  color:  isNext ? C.blue : isTargeted && compat ? compatColor || 'rgba(255,255,255,0.5)' : 'rgba(255,255,255,0.4)',
+                  border: `2px ${isSelected && !isTargeted ? 'solid' : 'dashed'} ${
+                    isNext ? C.blue
+                    : isSelected ? C.blue
+                    : isTargeted && compat ? compatColor || 'rgba(255,255,255,0.4)'
+                    : 'rgba(255,255,255,0.25)'
+                  }`,
+                  color: isNext ? C.blue : isSelected || (isTargeted && compat) ? compatColor || C.blue : 'rgba(255,255,255,0.4)',
                   background: 'rgba(0,0,0,0.25)',
-                  boxShadow: isNext ? `0 0 14px ${C.blue}55` : isTargeted ? `0 0 8px ${compatColor}44` : 'none',
+                  boxShadow: isNext ? `0 0 14px ${C.blue}55` : isSelected ? `0 0 10px ${C.blue}44` : isTargeted ? `0 0 8px ${compatColor}44` : 'none',
                 }}
               >
                 {slot.position}
@@ -826,7 +885,7 @@ function SlotDot({ slot, player, isCaptain, isNext, isPendingTarget, isSwapTarge
 }
 
 /* ─── Player row ─────────────────────────────────── */
-function PlayerRow({ index, player, slotPosition, difficultyMode, isPending, isAlreadyPicked, isUnplaceable, onClick, onHover, onHoverEnd }: {
+function PlayerRow({ index, player, slotPosition, difficultyMode, isPending, isAlreadyPicked, isUnplaceable, isFilterActive, onClick, onHover, onHoverEnd }: {
   index: number
   player: Player
   slotPosition: Position | undefined
@@ -834,6 +893,7 @@ function PlayerRow({ index, player, slotPosition, difficultyMode, isPending, isA
   isPending: boolean
   isAlreadyPicked: boolean
   isUnplaceable: boolean
+  isFilterActive?: boolean
   onClick: () => void
   onHover?: (player: Player) => void
   onHoverEnd?: () => void
@@ -892,7 +952,9 @@ function PlayerRow({ index, player, slotPosition, difficultyMode, isPending, isA
         height: 46,
         borderColor: isPending ? C.amber + '40' : C.border + '50',
         background: isPending ? C.amber + '10' : 'transparent',
-        borderLeft: isPending ? `2px solid ${C.amber}` : undefined,
+        borderLeft: isPending ? `2px solid ${C.amber}`
+          : isFilterActive ? `2px solid ${compat === 'natural' ? C.green : compat === 'puede' ? C.amber : C.dim}`
+          : undefined,
       }}
       onMouseEnter={e => {
         onHover?.(player)
