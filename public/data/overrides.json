@@ -122483,16 +122483,16 @@
     }
   },
   "arg26-lmartinez": {
-    "rating": 87,
-    "position": "DC",
+    "rating": 84,
+    "position": "DFC",
     "altPositions": [],
     "stats": {
-      "definicion": 90,
-      "cabezazo": 89,
-      "fisico": 88,
-      "desmarque": 86,
-      "velocidad": 85,
-      "pases": 84
+      "defAerea": 87,
+      "intercepciones": 86,
+      "duelos": 85,
+      "cabezazo": 83,
+      "posicionamiento": 82,
+      "comunicacion": 81
     }
   },
   "arg26-ntagliafico": {
@@ -125109,6 +125109,19 @@
       "desmarque": 80,
       "velocidad": 79,
       "pases": 78
+    }
+  },
+  "arg26-lmartinez2": {
+    "rating": 87,
+    "position": "DC",
+    "altPositions": [],
+    "stats": {
+      "definicion": 90,
+      "cabezazo": 89,
+      "fisico": 88,
+      "desmarque": 86,
+      "velocidad": 85,
+      "pases": 84
     }
   }
 }

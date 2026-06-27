@@ -50,16 +50,19 @@ function slugify(name) {
     .replace(/^-|-$/g, '')
 }
 
-function makeId(countryPrefix, name) {
+function makeId(countryPrefix, name, usedIds) {
   const parts = name.trim().split(/\s+/)
   const last  = parts[parts.length - 1]
   const first = parts[0]
-  // Use first letter of first name + last name to reduce collisions
   const code  = (first[0] + last).toLowerCase()
     .normalize('NFD').replace(/[̀-ͯ]/g, '')
     .replace(/[^a-z0-9]/g, '')
     .slice(0, 12)
-  return `${countryPrefix}26-${code}`
+  let id = `${countryPrefix}26-${code}`
+  let n = 2
+  while (usedIds.has(id)) { id = `${countryPrefix}26-${code}${n}`; n++ }
+  usedIds.add(id)
+  return id
 }
 
 const COUNTRY_META = {
@@ -83,8 +86,9 @@ for (const squad of squads2026) {
   const meta = COUNTRY_META[squad.country]
   if (!meta) { console.warn(`⚠ País desconocido: ${squad.country}`); continue }
 
+  const usedIds = new Set()
   const players = squad.players.map(p => {
-    const id    = makeId(meta.prefix, p.name)
+    const id    = makeId(meta.prefix, p.name, usedIds)
     const stats = generateStats(p.position, p.rating)
     return {
       id,
