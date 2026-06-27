@@ -117034,23 +117034,29 @@
     }
   },
   "pol22szczesny": {
-    "rating": 76,
+    "rating": 87,
+    "position": "POR",
+    "altPositions": [],
     "stats": {
-      "reflejos": 75,
-      "manejo": 75,
-      "salidas": 66,
-      "penales": 66,
-      "distribucion": 66
+      "reflejos": 90,
+      "manejo": 89,
+      "salidas": 88,
+      "penales": 86,
+      "distribucion": 85,
+      "comunicacion": 84
     }
   },
   "pol22grabara": {
-    "rating": 66,
+    "rating": 74,
+    "position": "POR",
+    "altPositions": [],
     "stats": {
-      "reflejos": 69,
-      "manejo": 69,
-      "salidas": 61,
-      "penales": 61,
-      "distribucion": 61
+      "reflejos": 77,
+      "manejo": 76,
+      "salidas": 75,
+      "penales": 73,
+      "distribucion": 72,
+      "comunicacion": 71
     }
   },
   "pol22skorupski": {
@@ -117065,52 +117071,77 @@
   },
   "pol22bereszynski": {
     "rating": 77,
+    "position": "LD",
+    "altPositions": [
+      {
+        "position": "DFC",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "defAerea": 79,
-      "intercepciones": 80,
-      "velocidad": 71,
-      "pases": 72,
-      "duelos": 80
+      "defAerea": 80,
+      "intercepciones": 79,
+      "duelos": 78,
+      "centro": 76,
+      "velocidad": 75,
+      "comunicacion": 74
     }
   },
   "pol22bednarek": {
-    "rating": 70,
+    "rating": 80,
+    "position": "DFC",
+    "altPositions": [],
     "stats": {
-      "defAerea": 70,
-      "intercepciones": 70,
-      "velocidad": 60,
-      "pases": 61,
-      "duelos": 70
+      "defAerea": 83,
+      "intercepciones": 82,
+      "duelos": 81,
+      "cabezazo": 79,
+      "posicionamiento": 78,
+      "comunicacion": 77
     }
   },
   "pol22glik": {
-    "rating": 67,
+    "rating": 76,
+    "position": "DFC",
+    "altPositions": [],
     "stats": {
-      "defAerea": 70,
-      "intercepciones": 70,
-      "velocidad": 61,
-      "pases": 62,
-      "duelos": 70
+      "defAerea": 79,
+      "intercepciones": 78,
+      "duelos": 77,
+      "cabezazo": 75,
+      "posicionamiento": 74,
+      "comunicacion": 73
     }
   },
   "pol22cash": {
-    "rating": 65,
+    "rating": 77,
+    "position": "LD",
+    "altPositions": [],
     "stats": {
-      "defAerea": 65,
-      "intercepciones": 65,
-      "velocidad": 57,
-      "pases": 58,
-      "duelos": 65
+      "defAerea": 80,
+      "intercepciones": 79,
+      "duelos": 78,
+      "centro": 76,
+      "velocidad": 75,
+      "comunicacion": 74
     }
   },
   "pol22kiwior": {
-    "rating": 63,
+    "rating": 79,
+    "position": "DFC",
+    "altPositions": [
+      {
+        "position": "LI",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "defAerea": 65,
-      "intercepciones": 65,
-      "velocidad": 57,
-      "pases": 57,
-      "duelos": 64
+      "defAerea": 82,
+      "intercepciones": 81,
+      "duelos": 80,
+      "cabezazo": 78,
+      "posicionamiento": 77,
+      "comunicacion": 76
     }
   },
   "pol22wieteska": {
@@ -117134,43 +117165,65 @@
     }
   },
   "pol22gumny": {
-    "rating": 58,
+    "rating": 72,
+    "position": "LD",
+    "altPositions": [],
     "stats": {
-      "defAerea": 63,
-      "intercepciones": 63,
-      "velocidad": 58,
-      "pases": 57,
-      "duelos": 63
+      "defAerea": 75,
+      "intercepciones": 74,
+      "duelos": 73,
+      "centro": 71,
+      "velocidad": 70,
+      "comunicacion": 69
     }
   },
   "pol22zielinski": {
-    "rating": 78,
+    "rating": 87,
+    "position": "MCO",
+    "altPositions": [
+      {
+        "position": "MC",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "vision": 83,
-      "paseFiltrado": 83,
-      "llegada": 83,
-      "regate": 75,
-      "disparo": 76
+      "vision": 90,
+      "paseFiltrado": 89,
+      "llegada": 88,
+      "regate": 86,
+      "tirosLejanos": 85,
+      "definicion": 84
     }
   },
   "pol22bielik": {
-    "rating": 72,
+    "rating": 74,
+    "position": "MCD",
+    "altPositions": [
+      {
+        "position": "MC",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "recuperacion": 74,
-      "pases": 74,
-      "posicionamiento": 74,
-      "duelos": 74,
-      "resistencia": 66
+      "recuperacion": 77,
+      "duelos": 76,
+      "posicionamiento": 75,
+      "pases": 73,
+      "llegada": 72,
+      "tirosLejanos": 71
     }
   },
   "pol22kaminski": {
-    "rating": 69,
+    "rating": 75,
+    "position": "MC",
+    "altPositions": [],
     "stats": {
-      "pases": 74,
-      "vision": 74,
-      "llegada": 66,
-      "recuperacion": 66,
-      "tecnica": 74
+      "vision": 78,
+      "pases": 77,
+      "llegada": 76,
+      "tirosLejanos": 74,
+      "recuperacion": 73,
+      "regate": 72
     }
   },
   "pol22zurkowski": {
@@ -117194,13 +117247,21 @@
     }
   },
   "pol22szymanski2": {
-    "rating": 64,
+    "rating": 77,
+    "position": "MC",
+    "altPositions": [
+      {
+        "position": "MCO",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "pases": 68,
-      "vision": 68,
-      "llegada": 62,
-      "recuperacion": 62,
-      "tecnica": 68
+      "vision": 80,
+      "pases": 79,
+      "llegada": 78,
+      "tirosLejanos": 76,
+      "recuperacion": 75,
+      "regate": 74
     }
   },
   "pol22frankowski": {
@@ -117214,33 +117275,52 @@
     }
   },
   "pol22skoras": {
-    "rating": 61,
+    "rating": 73,
+    "position": "EI",
+    "altPositions": [],
     "stats": {
-      "recuperacion": 63,
-      "pases": 63,
-      "posicionamiento": 63,
-      "duelos": 63,
-      "resistencia": 56
+      "velocidad": 76,
+      "regate": 75,
+      "centro": 74,
+      "tirosLejanos": 72,
+      "desmarque": 71,
+      "definicion": 70
     }
   },
   "pol22zalewski": {
-    "rating": 60,
+    "rating": 75,
+    "position": "LI",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "pases": 64,
-      "vision": 64,
-      "llegada": 57,
-      "recuperacion": 57,
-      "tecnica": 64
+      "defAerea": 78,
+      "intercepciones": 77,
+      "duelos": 76,
+      "centro": 74,
+      "velocidad": 73,
+      "comunicacion": 72
     }
   },
   "pol22krychowiak": {
-    "rating": 59,
+    "rating": 77,
+    "position": "MCD",
+    "altPositions": [
+      {
+        "position": "MC",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "pases": 61,
-      "vision": 61,
-      "llegada": 54,
-      "recuperacion": 54,
-      "tecnica": 61
+      "recuperacion": 80,
+      "duelos": 79,
+      "posicionamiento": 78,
+      "pases": 76,
+      "llegada": 75,
+      "tirosLejanos": 74
     }
   },
   "pol22grosicki": {
@@ -117254,36 +117334,47 @@
     }
   },
   "pol22lewandowski": {
-    "rating": 82,
+    "rating": 92,
+    "position": "DC",
+    "altPositions": [],
     "stats": {
-      "definicion": 85,
-      "fisico": 85,
-      "velocidad": 78,
-      "cabezazo": 77,
-      "pressing": 77,
-      "desmarque": 85
+      "definicion": 95,
+      "cabezazo": 94,
+      "fisico": 93,
+      "desmarque": 91,
+      "velocidad": 90,
+      "pases": 89
     }
   },
   "pol22piatek": {
-    "rating": 70,
+    "rating": 76,
+    "position": "DC",
+    "altPositions": [
+      {
+        "position": "EI",
+        "compatibility": "puede"
+      }
+    ],
     "stats": {
-      "definicion": 76,
-      "fisico": 76,
-      "velocidad": 70,
-      "cabezazo": 69,
-      "pressing": 69,
-      "desmarque": 76
+      "definicion": 79,
+      "cabezazo": 78,
+      "fisico": 77,
+      "desmarque": 75,
+      "velocidad": 74,
+      "pases": 73
     }
   },
   "pol22milik": {
-    "rating": 65,
+    "rating": 80,
+    "position": "DC",
+    "altPositions": [],
     "stats": {
-      "definicion": 65,
-      "fisico": 65,
-      "velocidad": 57,
-      "cabezazo": 58,
-      "pressing": 58,
-      "desmarque": 65
+      "definicion": 83,
+      "cabezazo": 82,
+      "fisico": 81,
+      "desmarque": 79,
+      "velocidad": 78,
+      "pases": 77
     }
   },
   "pol22swiderski": {

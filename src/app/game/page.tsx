@@ -217,7 +217,7 @@ export default function GamePage() {
     if (!currentRoll) return []
     return [...currentRoll.availablePlayers].sort((a, b) => {
       let cmp = 0
-      if (sortKey === 'rating')   cmp = a.rating - b.rating
+      if (sortKey === 'rating')   cmp = computeOvr(a) - computeOvr(b)
       else if (sortKey === 'name')     cmp = a.name.localeCompare(b.name)
       else if (sortKey === 'position') cmp = (POS_ORDER[a.position] ?? 9) - (POS_ORDER[b.position] ?? 9)
       return sortDir === 'desc' ? -cmp : cmp

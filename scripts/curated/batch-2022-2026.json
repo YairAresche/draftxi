@@ -456,5 +456,29 @@
       { "name": "Nuno Mendes", "position": "LI", "altPositions": [], "rating": 84 },
       { "name": "Diogo Jota", "position": "DC", "altPositions": [{"position":"EI","compatibility":"puede"}], "rating": 81 }
     ]
+  },
+  {
+    "country": "Poland",
+    "year": 2022,
+    "players": [
+      { "name": "Wojciech Szczęsny",    "position": "POR", "altPositions": [], "rating": 87 },
+      { "name": "Kamil Grabara",        "position": "POR", "altPositions": [], "rating": 74 },
+      { "name": "Bartosz Bereszyński",  "position": "LD",  "altPositions": [{"position":"DFC","compatibility":"puede"}], "rating": 77 },
+      { "name": "Jan Bednarek",         "position": "DFC", "altPositions": [], "rating": 80 },
+      { "name": "Kamil Glik",           "position": "DFC", "altPositions": [], "rating": 76 },
+      { "name": "Jakub Kiwior",         "position": "DFC", "altPositions": [{"position":"LI","compatibility":"puede"}], "rating": 79 },
+      { "name": "Matty Cash",           "position": "LD",  "altPositions": [], "rating": 77 },
+      { "name": "Robert Gumny",         "position": "LD",  "altPositions": [], "rating": 72 },
+      { "name": "Nicola Zalewski",      "position": "LI",  "altPositions": [{"position":"EI","compatibility":"puede"}], "rating": 75 },
+      { "name": "Piotr Zieliński",      "position": "MCO", "altPositions": [{"position":"MC","compatibility":"puede"}], "rating": 87 },
+      { "name": "Grzegorz Krychowiak", "position": "MCD", "altPositions": [{"position":"MC","compatibility":"puede"}], "rating": 77 },
+      { "name": "Krystian Bielik",      "position": "MCD", "altPositions": [{"position":"MC","compatibility":"puede"}], "rating": 74 },
+      { "name": "Jakub Kamiński",       "position": "MC",  "altPositions": [], "rating": 75 },
+      { "name": "Sebastian Szymański",  "position": "MC",  "altPositions": [{"position":"MCO","compatibility":"puede"}], "rating": 77 },
+      { "name": "Michał Skóraś",        "position": "EI",  "altPositions": [], "rating": 73 },
+      { "name": "Robert Lewandowski",   "position": "DC",  "altPositions": [], "rating": 92 },
+      { "name": "Arkadiusz Milik",      "position": "DC",  "altPositions": [], "rating": 80 },
+      { "name": "Krzysztof Piątek",     "position": "DC",  "altPositions": [{"position":"EI","compatibility":"puede"}], "rating": 76 }
+    ]
   }
 ]
