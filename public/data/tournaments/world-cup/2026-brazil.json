@@ -1,0 +1,397 @@
+{
+  "country": "Brasil",
+  "countryCode": "BRA",
+  "confederation": "CONMEBOL",
+  "year": 2026,
+  "tournamentId": "wc-2026",
+  "players": [
+    {
+      "id": "bra26-aalisson",
+      "name": "Alisson",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 90,
+        "manejo": 89,
+        "salidas": 87,
+        "penales": 85,
+        "distribucion": 84
+      },
+      "rating": 87,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-eederson",
+      "name": "Éderson",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 84,
+        "manejo": 83,
+        "salidas": 81,
+        "penales": 79,
+        "distribucion": 78
+      },
+      "rating": 81,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-ddanilo",
+      "name": "Danilo",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 81,
+        "velocidad": 79,
+        "pases": 77,
+        "duelos": 76
+      },
+      "rating": 79,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-garana",
+      "name": "Guilherme Arana",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 80,
+        "velocidad": 78,
+        "pases": 76,
+        "duelos": 75
+      },
+      "rating": 78,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-mmarquinhos",
+      "name": "Marquinhos",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 89,
+        "intercepciones": 88,
+        "velocidad": 86,
+        "pases": 84,
+        "duelos": 83
+      },
+      "rating": 86,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-emilitao",
+      "name": "Éder Militão",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 87,
+        "intercepciones": 86,
+        "velocidad": 84,
+        "pases": 82,
+        "duelos": 81
+      },
+      "rating": 84,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-gmagalhaes",
+      "name": "Gabriel Magalhães",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 85,
+        "intercepciones": 84,
+        "velocidad": 82,
+        "pases": 80,
+        "duelos": 79
+      },
+      "rating": 82,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-ccasemiro",
+      "name": "Casemiro",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 85,
+        "pases": 84,
+        "posicionamiento": 82,
+        "duelos": 80,
+        "resistencia": 79
+      },
+      "rating": 82,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-bguimaraes",
+      "name": "Bruno Guimarães",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 89,
+        "vision": 88,
+        "llegada": 86,
+        "recuperacion": 84,
+        "tecnica": 83
+      },
+      "rating": 86,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-lpaqueta",
+      "name": "Lucas Paquetá",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 87,
+        "paseFiltrado": 86,
+        "llegada": 84,
+        "regate": 82,
+        "disparo": 81
+      },
+      "rating": 84,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-vjunior",
+      "name": "Vinícius Júnior",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "ED",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 95,
+        "regate": 94,
+        "centro": 92,
+        "disparo": 90,
+        "desmarque": 89
+      },
+      "rating": 92,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-rrodrygo",
+      "name": "Rodrygo",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 87,
+        "regate": 86,
+        "centro": 84,
+        "disparo": 82,
+        "desmarque": 81
+      },
+      "rating": 84,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-rricharlison",
+      "name": "Richarlison",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 85,
+        "fisico": 84,
+        "velocidad": 83,
+        "cabezazo": 81,
+        "pressing": 80,
+        "desmarque": 79
+      },
+      "rating": 82,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-rraphinha",
+      "name": "Raphinha",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 88,
+        "regate": 87,
+        "centro": 85,
+        "disparo": 83,
+        "desmarque": 82
+      },
+      "rating": 85,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-gmartinelli",
+      "name": "Gabriel Martinelli",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 85,
+        "regate": 84,
+        "centro": 82,
+        "disparo": 80,
+        "desmarque": 79
+      },
+      "rating": 82,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-eendrick",
+      "name": "Endrick",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 83,
+        "fisico": 82,
+        "velocidad": 81,
+        "cabezazo": 79,
+        "pressing": 78,
+        "desmarque": 77
+      },
+      "rating": 80,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-ssavinho",
+      "name": "Savinho",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 82,
+        "regate": 81,
+        "centro": 79,
+        "disparo": 77,
+        "desmarque": 76
+      },
+      "rating": 79,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-aandre",
+      "name": "André",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 80,
+        "pases": 79,
+        "posicionamiento": 77,
+        "duelos": 75,
+        "resistencia": 74
+      },
+      "rating": 77,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-gjesus",
+      "name": "Gabriel Jesus",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 78,
+        "fisico": 77,
+        "velocidad": 76,
+        "cabezazo": 74,
+        "pressing": 73,
+        "desmarque": 72
+      },
+      "rating": 75,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "bra26-ycouto",
+      "name": "Yan Couto",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 78,
+        "velocidad": 76,
+        "pases": 74,
+        "duelos": 73
+      },
+      "rating": 76,
+      "country": "Brasil",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    }
+  ]
+}

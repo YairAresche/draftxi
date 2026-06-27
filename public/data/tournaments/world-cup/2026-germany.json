@@ -1,0 +1,364 @@
+{
+  "country": "Alemania",
+  "countryCode": "GER",
+  "confederation": "UEFA",
+  "year": 2026,
+  "tournamentId": "wc-2026",
+  "players": [
+    {
+      "id": "ger26-mneuer",
+      "name": "Manuel Neuer",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 85,
+        "manejo": 84,
+        "salidas": 82,
+        "penales": 80,
+        "distribucion": 79
+      },
+      "rating": 82,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ger26-mstegen",
+      "name": "Marc-André ter Stegen",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 84,
+        "manejo": 83,
+        "salidas": 81,
+        "penales": 79,
+        "distribucion": 78
+      },
+      "rating": 81,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ger26-jkimmich",
+      "name": "Joshua Kimmich",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "MCD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 91,
+        "intercepciones": 90,
+        "velocidad": 88,
+        "pases": 86,
+        "duelos": 85
+      },
+      "rating": 88,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ger26-draum",
+      "name": "David Raum",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 82,
+        "velocidad": 80,
+        "pases": 78,
+        "duelos": 77
+      },
+      "rating": 80,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ger26-arudiger",
+      "name": "Antonio Rüdiger",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 87,
+        "intercepciones": 86,
+        "velocidad": 84,
+        "pases": 82,
+        "duelos": 81
+      },
+      "rating": 84,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ger26-jtah",
+      "name": "Jonathan Tah",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 85,
+        "intercepciones": 84,
+        "velocidad": 82,
+        "pases": 80,
+        "duelos": 79
+      },
+      "rating": 82,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ger26-wanton",
+      "name": "Waldemar Anton",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 80,
+        "velocidad": 78,
+        "pases": 76,
+        "duelos": 75
+      },
+      "rating": 78,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ger26-igundogan",
+      "name": "Ilkay Gündogan",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 86,
+        "vision": 85,
+        "llegada": 83,
+        "recuperacion": 81,
+        "tecnica": 80
+      },
+      "rating": 83,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ger26-jmusiala",
+      "name": "Jamal Musiala",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 95,
+        "paseFiltrado": 94,
+        "llegada": 92,
+        "regate": 90,
+        "disparo": 89
+      },
+      "rating": 92,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ger26-fwirtz",
+      "name": "Florian Wirtz",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 95,
+        "paseFiltrado": 94,
+        "llegada": 92,
+        "regate": 90,
+        "disparo": 89
+      },
+      "rating": 92,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ger26-lsane",
+      "name": "Leroy Sané",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "ED",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 86,
+        "regate": 85,
+        "centro": 83,
+        "disparo": 81,
+        "desmarque": 80
+      },
+      "rating": 83,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ger26-sgnabry",
+      "name": "Serge Gnabry",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 81,
+        "regate": 80,
+        "centro": 78,
+        "disparo": 76,
+        "desmarque": 75
+      },
+      "rating": 78,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ger26-khavertz",
+      "name": "Kai Havertz",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 88,
+        "fisico": 87,
+        "velocidad": 86,
+        "cabezazo": 84,
+        "pressing": 83,
+        "desmarque": 82
+      },
+      "rating": 85,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ger26-nfullkrug",
+      "name": "Niclas Füllkrug",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 84,
+        "fisico": 83,
+        "velocidad": 82,
+        "cabezazo": 80,
+        "pressing": 79,
+        "desmarque": 78
+      },
+      "rating": 81,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ger26-lgoretzka",
+      "name": "Leon Goretzka",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 83,
+        "vision": 82,
+        "llegada": 80,
+        "recuperacion": 78,
+        "tecnica": 77
+      },
+      "rating": 80,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ger26-randrich",
+      "name": "Robert Andrich",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 82,
+        "pases": 81,
+        "posicionamiento": 79,
+        "duelos": 77,
+        "resistencia": 76
+      },
+      "rating": 79,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ger26-mbeier",
+      "name": "Maximilian Beier",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 80,
+        "fisico": 79,
+        "velocidad": 78,
+        "cabezazo": 76,
+        "pressing": 75,
+        "desmarque": 74
+      },
+      "rating": 77,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ger26-dundav",
+      "name": "Deniz Undav",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 79,
+        "fisico": 78,
+        "velocidad": 77,
+        "cabezazo": 75,
+        "pressing": 74,
+        "desmarque": 73
+      },
+      "rating": 76,
+      "country": "Alemania",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    }
+  ]
+}

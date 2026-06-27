@@ -13,7 +13,6 @@ export default function Home() {
   const startGame = useGameStore(s => s.startGame)
 
   const [formationId, setFormationId] = useState('4-3-3')
-  const [statsMode, setStatsMode] = useState<StatsDisplayMode>('medio')
   const [difficultyMode, setDifficultyMode] = useState<DifficultyMode>('normal')
   const [draftMode, setDraftMode] = useState<DraftMode>('libre')
   const [injuriesEnabled, setInjuriesEnabled] = useState(false)
@@ -24,7 +23,7 @@ export default function Home() {
 
   function handleStart() {
     const formation = FORMATIONS.find(f => f.id === formationId)!
-    startGame(formation, { statsMode, difficultyMode, simMode: 'relato', injuriesEnabled, chemistryCap, draftMode, squadPool, yearFrom, yearTo })
+    startGame(formation, { statsMode: 'medio', difficultyMode, simMode: 'relato', injuriesEnabled, chemistryCap, draftMode, squadPool, yearFrom, yearTo })
     router.push('/game')
   }
 
@@ -56,29 +55,6 @@ export default function Home() {
                   }`}
                 >
                   {f.name}
-                </button>
-              ))}
-            </div>
-          </Section>
-
-          <Section label="Modo de stats">
-            <div className="grid grid-cols-3 gap-2">
-              {([
-                ['simple', 'Simple', 'Solo promedio'] as const,
-                ['medio', 'Medio', '3 stats clave'] as const,
-                ['completo', 'Completo', '5–6 stats'] as const,
-              ]).map(([val, label, desc]) => (
-                <button
-                  key={val}
-                  onClick={() => setStatsMode(val)}
-                  className={`py-2 px-3 rounded-lg text-left border transition-all ${
-                    statsMode === val
-                      ? 'bg-blue-600 border-blue-500'
-                      : 'bg-gray-800 border-gray-700 hover:border-gray-600'
-                  }`}
-                >
-                  <div className="text-xs font-semibold">{label}</div>
-                  <div className="text-xs opacity-60">{desc}</div>
                 </button>
               ))}
             </div>

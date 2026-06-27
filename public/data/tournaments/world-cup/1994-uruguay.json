@@ -1,0 +1,404 @@
+{
+  "country": "Uruguay",
+  "countryCode": "URY",
+  "confederation": "CONMEBOL",
+  "year": 1994,
+  "tournamentId": "wc-1994",
+  "players": [
+    {
+      "id": "ury94gustavofern",
+      "name": "Gustavo Fernández",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 81,
+        "manejo": 80,
+        "salidas": 78,
+        "penales": 76,
+        "distribucion": 75
+      },
+      "rating": 78,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94fernandoalv",
+      "name": "Fernando Álvez",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 74,
+        "salidas": 72,
+        "penales": 70,
+        "distribucion": 69
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94nelsonguti",
+      "name": "Nelson Gutiérrez",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 76,
+        "velocidad": 74,
+        "pases": 72,
+        "duelos": 71
+      },
+      "rating": 74,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94richardport",
+      "name": "Richard Porta",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 74,
+        "velocidad": 72,
+        "pases": 70,
+        "duelos": 69
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94victordio",
+      "name": "Víctor Díogo",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 76,
+        "velocidad": 74,
+        "pases": 72,
+        "duelos": 71
+      },
+      "rating": 74,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94wilmarcab",
+      "name": "Wilmar Cabrera",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 76,
+        "velocidad": 74,
+        "pases": 72,
+        "duelos": 71
+      },
+      "rating": 74,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94gustavomat",
+      "name": "Gustavo Matosas",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 74,
+        "velocidad": 72,
+        "pases": 70,
+        "duelos": 69
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94alfredoetch",
+      "name": "Alfredo Etchegoyen",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 73,
+        "velocidad": 71,
+        "pases": 69,
+        "duelos": 68
+      },
+      "rating": 71,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94sergiomart",
+      "name": "Sergio Martínez",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 75,
+        "velocidad": 73,
+        "pases": 71,
+        "duelos": 70
+      },
+      "rating": 73,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94sergiolem",
+      "name": "Sergio Lemos",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 72,
+        "velocidad": 70,
+        "pases": 68,
+        "duelos": 67
+      },
+      "rating": 70,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94joseherr",
+      "name": "José Herrera",
+      "position": "MCD",
+      "altPositions": [
+        {"position": "MC", "compatibility": "puede"}
+      ],
+      "stats": {
+        "recuperacion": 77,
+        "pases": 76,
+        "posicionamiento": 74,
+        "duelos": 72,
+        "resistencia": 71
+      },
+      "rating": 74,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94rubenpaz",
+      "name": "Rubén Paz",
+      "position": "MC",
+      "altPositions": [
+        {"position": "MCO", "compatibility": "puede"}
+      ],
+      "stats": {
+        "pases": 80,
+        "vision": 79,
+        "llegada": 77,
+        "recuperacion": 75,
+        "tecnica": 74
+      },
+      "rating": 77,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94pablob",
+      "name": "Pablo Bengoechea",
+      "position": "MC",
+      "altPositions": [
+        {"position": "MCO", "compatibility": "puede"}
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 81,
+        "llegada": 79,
+        "recuperacion": 77,
+        "tecnica": 76
+      },
+      "rating": 79,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94marceloot",
+      "name": "Marcelo Otero",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 79,
+        "vision": 78,
+        "llegada": 76,
+        "recuperacion": 74,
+        "tecnica": 73
+      },
+      "rating": 76,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94marcelovaz",
+      "name": "Marcelo Vázquez",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 74,
+        "llegada": 72,
+        "recuperacion": 70,
+        "tecnica": 69
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94gustavopoy",
+      "name": "Gustavo Poyet",
+      "position": "MC",
+      "altPositions": [
+        {"position": "MCO", "compatibility": "puede"},
+        {"position": "MCD", "compatibility": "puede"}
+      ],
+      "stats": {
+        "pases": 83,
+        "vision": 82,
+        "llegada": 80,
+        "recuperacion": 78,
+        "tecnica": 77
+      },
+      "rating": 80,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94enzofrancesc",
+      "name": "Enzo Francescoli",
+      "position": "MCO",
+      "altPositions": [
+        {"position": "DC", "compatibility": "puede"},
+        {"position": "MC", "compatibility": "puede"}
+      ],
+      "stats": {
+        "vision": 90,
+        "paseFiltrado": 89,
+        "llegada": 87,
+        "regate": 85,
+        "disparo": 84
+      },
+      "rating": 87,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94carlosagui",
+      "name": "Carlos Aguilera",
+      "position": "ED",
+      "altPositions": [
+        {"position": "EI", "compatibility": "puede"}
+      ],
+      "stats": {
+        "velocidad": 81,
+        "regate": 80,
+        "centro": 78,
+        "disparo": 76,
+        "desmarque": 75
+      },
+      "rating": 78,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94adrianpaz",
+      "name": "Adrián Paz",
+      "position": "EI",
+      "altPositions": [
+        {"position": "ED", "compatibility": "puede"}
+      ],
+      "stats": {
+        "velocidad": 79,
+        "regate": 78,
+        "centro": 76,
+        "disparo": 74,
+        "desmarque": 73
+      },
+      "rating": 76,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94danielfons",
+      "name": "Daniel Fonseca",
+      "position": "DC",
+      "altPositions": [
+        {"position": "EI", "compatibility": "puede"}
+      ],
+      "stats": {
+        "definicion": 86,
+        "fisico": 85,
+        "velocidad": 84,
+        "cabezazo": 82,
+        "pressing": 81,
+        "desmarque": 80
+      },
+      "rating": 83,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94washingtonl",
+      "name": "Washington Luna",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 76,
+        "velocidad": 75,
+        "cabezazo": 73,
+        "pressing": 72,
+        "desmarque": 71
+      },
+      "rating": 74,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    },
+    {
+      "id": "ury94santiagoos",
+      "name": "Santiago Ostolaza",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 77,
+        "fisico": 76,
+        "velocidad": 75,
+        "cabezazo": 73,
+        "pressing": 72,
+        "desmarque": 71
+      },
+      "rating": 74,
+      "country": "Uruguay",
+      "tournamentYear": 1994,
+      "tournamentId": "wc-1994"
+    }
+  ]
+}

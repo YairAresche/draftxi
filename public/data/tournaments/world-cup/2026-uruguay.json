@@ -1,0 +1,362 @@
+{
+  "country": "Uruguay",
+  "countryCode": "URU",
+  "confederation": "CONMEBOL",
+  "year": 2026,
+  "tournamentId": "wc-2026",
+  "players": [
+    {
+      "id": "uru26-srochet",
+      "name": "Sergio Rochet",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 83,
+        "manejo": 82,
+        "salidas": 80,
+        "penales": 78,
+        "distribucion": 77
+      },
+      "rating": 80,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "uru26-smele",
+      "name": "Santiago Mele",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 74,
+        "salidas": 72,
+        "penales": 70,
+        "distribucion": 69
+      },
+      "rating": 72,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "uru26-nnandez",
+      "name": "Nahitan Nández",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 78,
+        "velocidad": 76,
+        "pases": 74,
+        "duelos": 73
+      },
+      "rating": 76,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "uru26-raraujo",
+      "name": "Ronald Araújo",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 89,
+        "intercepciones": 88,
+        "velocidad": 86,
+        "pases": 84,
+        "duelos": 83
+      },
+      "rating": 86,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "uru26-jgimenez",
+      "name": "José María Giménez",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 85,
+        "intercepciones": 84,
+        "velocidad": 82,
+        "pases": 80,
+        "duelos": 79
+      },
+      "rating": 82,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "uru26-molivera",
+      "name": "Mathías Olivera",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 84,
+        "intercepciones": 83,
+        "velocidad": 81,
+        "pases": 79,
+        "duelos": 78
+      },
+      "rating": 81,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "uru26-scaceres",
+      "name": "Sebastián Cáceres",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 76,
+        "velocidad": 74,
+        "pases": 72,
+        "duelos": 71
+      },
+      "rating": 74,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "uru26-fvalverde",
+      "name": "Federico Valverde",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 94,
+        "vision": 93,
+        "llegada": 91,
+        "recuperacion": 89,
+        "tecnica": 88
+      },
+      "rating": 91,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "uru26-rbentancur",
+      "name": "Rodrigo Bentancur",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 87,
+        "vision": 86,
+        "llegada": 84,
+        "recuperacion": 82,
+        "tecnica": 81
+      },
+      "rating": 84,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "uru26-mugarte",
+      "name": "Manuel Ugarte",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 87,
+        "pases": 86,
+        "posicionamiento": 84,
+        "duelos": 82,
+        "resistencia": 81
+      },
+      "rating": 84,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "uru26-garrascaeta",
+      "name": "Giorgian de Arrascaeta",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 86,
+        "paseFiltrado": 85,
+        "llegada": 83,
+        "regate": 81,
+        "disparo": 80
+      },
+      "rating": 83,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "uru26-ncruz",
+      "name": "Nicolás De la Cruz",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 83,
+        "paseFiltrado": 82,
+        "llegada": 80,
+        "regate": 78,
+        "disparo": 77
+      },
+      "rating": 80,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "uru26-dnunez",
+      "name": "Darwin Núñez",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 89,
+        "fisico": 88,
+        "velocidad": 87,
+        "cabezazo": 85,
+        "pressing": 84,
+        "desmarque": 83
+      },
+      "rating": 86,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "uru26-ftorres",
+      "name": "Facundo Torres",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "ED",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 82,
+        "regate": 81,
+        "centro": 79,
+        "disparo": 77,
+        "desmarque": 76
+      },
+      "rating": 79,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "uru26-maraujo",
+      "name": "Maximiliano Araújo",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 80,
+        "regate": 79,
+        "centro": 77,
+        "disparo": 75,
+        "desmarque": 74
+      },
+      "rating": 77,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "uru26-brodriguez",
+      "name": "Brian Rodríguez",
+      "position": "EI",
+      "altPositions": [],
+      "stats": {
+        "velocidad": 77,
+        "regate": 76,
+        "centro": 74,
+        "disparo": 72,
+        "desmarque": 71
+      },
+      "rating": 74,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "uru26-acanobbio",
+      "name": "Agustín Canobbio",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 77,
+        "regate": 76,
+        "centro": 74,
+        "disparo": 72,
+        "desmarque": 71
+      },
+      "rating": 74,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "uru26-lbeltran",
+      "name": "Lucas Beltrán",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 78,
+        "fisico": 77,
+        "velocidad": 76,
+        "cabezazo": 74,
+        "pressing": 73,
+        "desmarque": 72
+      },
+      "rating": 75,
+      "country": "Uruguay",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    }
+  ]
+}

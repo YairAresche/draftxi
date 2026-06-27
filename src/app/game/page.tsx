@@ -77,6 +77,7 @@ export default function GamePage() {
   const [sortDir, setSortDir]       = useState<'asc' | 'desc'>('desc')
   const rightPanelRef = useRef<HTMLDivElement>(null)
   const [hoveredPlayer, setHoveredPlayer] = useState<Player | null>(null)
+  const [activeTab, setActiveTab]         = useState<'field' | 'list'>('list')
 
   useEffect(() => {
     if (phase === 'config') { router.replace('/'); return }
@@ -174,6 +175,8 @@ export default function GamePage() {
       tournamentRating: Math.round(player.rating * compatibilityMultiplier(compat)),
     })
     setPendingPlayer(null)
+    const willComplete = picks.length + 1 === (formation?.slots.length ?? 11)
+    setActiveTab(willComplete ? 'field' : 'list')
   }
 
   function handleSortClick(key: SortKey) {
@@ -195,7 +198,12 @@ export default function GamePage() {
       const slot = formation?.slots.find(s => !picks.some(p => p.slotId === s.id))
       if (slot) commitPick(player, slot)
     } else {
-      setPendingPlayer(p => p?.id === player.id ? null : player)
+      if (pendingPlayer?.id === player.id) {
+        setPendingPlayer(null)
+      } else {
+        setPendingPlayer(player)
+        setActiveTab('field')
+      }
     }
   }
 
@@ -224,14 +232,33 @@ export default function GamePage() {
   }
 
   return (
-    <div style={{ minHeight: '100vh', background: C.bg, cursor: movingPick ? 'grabbing' : undefined }} className="flex items-center justify-center">
+    <div style={{ minHeight: '100vh', background: C.bg, cursor: movingPick ? 'grabbing' : undefined }} className="flex flex-col md:items-center md:justify-center">
+
+      {/* Mobile tab bar */}
+      <div className="md:hidden flex border-b shrink-0" style={{ borderColor: C.border, background: C.surf }}>
+        <button
+          onClick={() => setActiveTab('field')}
+          className="flex-1 py-3 text-sm font-semibold transition-colors cursor-pointer"
+          style={{ color: activeTab === 'field' ? C.text : C.muted, borderBottom: `2px solid ${activeTab === 'field' ? C.blue : 'transparent'}` }}
+        >
+          Campo · {picks.length}/{formation?.slots.length ?? 11}
+        </button>
+        <button
+          onClick={() => setActiveTab('list')}
+          className="flex-1 py-3 text-sm font-semibold transition-colors cursor-pointer"
+          style={{ color: activeTab === 'list' ? C.text : C.muted, borderBottom: `2px solid ${activeTab === 'list' ? C.blue : 'transparent'}` }}
+        >
+          {currentRoll ? `${currentRoll.squad.country} ${currentRoll.squad.year}` : 'Jugadores'}
+        </button>
+      </div>
+
     <div style={{
         borderColor: C.border,
         boxShadow: '0 0 0 1px #30363d, 0 24px 64px rgba(0,0,0,0.7)',
-      }} className="w-full max-w-215 flex border rounded-xl overflow-hidden h-140">
+      }} className="flex-1 flex flex-col md:flex-row md:flex-none md:w-full md:max-w-215 md:border md:rounded-xl md:overflow-hidden md:h-140">
 
       {/* ── LEFT: Campo ── */}
-      <div style={{ borderColor: C.border }} className="w-85 shrink-0 flex flex-col border-r">
+      <div style={{ borderColor: C.border }} className={`flex flex-col flex-1 md:flex md:flex-col md:w-85 md:shrink-0 md:border-r ${activeTab !== 'field' ? 'hidden' : ''}`}>
 
         {/* Top bar */}
         <div style={{ borderColor: C.border }} className="flex items-center justify-between px-3 py-2 border-b shrink-0">
@@ -339,7 +366,7 @@ export default function GamePage() {
       </div>
 
       {/* ── RIGHT: Draft panel ── */}
-      <div ref={rightPanelRef} style={{ background: C.surf }} className="flex-1 flex flex-col min-w-0">
+      <div ref={rightPanelRef} style={{ background: C.surf }} className={`flex flex-col min-w-0 flex-1 md:flex md:flex-col md:flex-1 ${activeTab !== 'list' ? 'hidden' : ''}`}>
 
         {/* Roll header */}
         <div style={{ borderColor: C.border }} className="px-4 py-3 border-b shrink-0">
@@ -744,7 +771,7 @@ function SlotDot({ slot, player, isCaptain, isNext, isPendingTarget, isSwapTarge
           <motion.div key="filled" initial={{ scale: 0 }} animate={{ scale: 1 }} exit={{ scale: 0 }}
             className="flex flex-col items-center gap-0.5">
             <div
-              className={`w-10 h-10 rounded-full flex items-center justify-center text-[9px] font-black ${isSwapTarget || isMovingTarget ? 'opacity-50' : ''}`}
+              className={`w-11 h-11 md:w-10 md:h-10 rounded-full flex items-center justify-center text-[9px] font-black ${isSwapTarget || isMovingTarget ? 'opacity-50' : ''}`}
               style={{
                 background: 'rgba(13,17,23,0.92)',
                 border: `2px solid ${filledBorderColor}`,
@@ -771,7 +798,7 @@ function SlotDot({ slot, player, isCaptain, isNext, isPendingTarget, isSwapTarge
           <motion.div key="empty" initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
             <div className="flex flex-col items-center gap-0.5">
               <div
-                className={`w-10 h-10 rounded-full flex items-center justify-center text-[10px] font-bold transition-all ${isNext ? 'animate-pulse' : ''}`}
+                className={`w-11 h-11 md:w-10 md:h-10 rounded-full flex items-center justify-center text-[10px] font-bold transition-all ${isNext ? 'animate-pulse' : ''}`}
                 style={{
                   border: `2px dashed ${isNext ? C.blue : isTargeted && compat ? compatColor || 'rgba(255,255,255,0.4)' : 'rgba(255,255,255,0.25)'}`,
                   color:  isNext ? C.blue : isTargeted && compat ? compatColor || 'rgba(255,255,255,0.5)' : 'rgba(255,255,255,0.4)',

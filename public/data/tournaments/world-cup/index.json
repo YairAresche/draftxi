@@ -688,6 +688,24 @@
         "uruguay",
         "wales"
       ]
+    },
+    {
+      "id": "wc-2026",
+      "type": "world-cup",
+      "year": 2026,
+      "host": "USA/Canadá/México",
+      "winner": null,
+      "squads": [
+        "argentina",
+        "brazil",
+        "uruguay",
+        "spain",
+        "france",
+        "germany",
+        "netherlands",
+        "england",
+        "portugal"
+      ]
     }
   ]
 }

@@ -1,0 +1,411 @@
+{
+  "country": "Inglaterra",
+  "countryCode": "ENG",
+  "confederation": "UEFA",
+  "year": 2026,
+  "tournamentId": "wc-2026",
+  "players": [
+    {
+      "id": "eng26-jpickford",
+      "name": "Jordan Pickford",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 86,
+        "manejo": 85,
+        "salidas": 83,
+        "penales": 81,
+        "distribucion": 80
+      },
+      "rating": 83,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-dhenderson",
+      "name": "Dean Henderson",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 78,
+        "manejo": 77,
+        "salidas": 75,
+        "penales": 73,
+        "distribucion": 72
+      },
+      "rating": 75,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-talexanderar",
+      "name": "Trent Alexander-Arnold",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 88,
+        "intercepciones": 87,
+        "velocidad": 85,
+        "pases": 83,
+        "duelos": 82
+      },
+      "rating": 85,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-lshaw",
+      "name": "Luke Shaw",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 81,
+        "velocidad": 79,
+        "pases": 77,
+        "duelos": 76
+      },
+      "rating": 79,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-hmaguire",
+      "name": "Harry Maguire",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 79,
+        "intercepciones": 78,
+        "velocidad": 76,
+        "pases": 74,
+        "duelos": 73
+      },
+      "rating": 76,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-jstones",
+      "name": "John Stones",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 86,
+        "intercepciones": 85,
+        "velocidad": 83,
+        "pases": 81,
+        "duelos": 80
+      },
+      "rating": 83,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-kwalker",
+      "name": "Kyle Walker",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 82,
+        "velocidad": 80,
+        "pases": 78,
+        "duelos": 77
+      },
+      "rating": 80,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-drice",
+      "name": "Declan Rice",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 92,
+        "pases": 91,
+        "posicionamiento": 89,
+        "duelos": 87,
+        "resistencia": 86
+      },
+      "rating": 89,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-jbellingham",
+      "name": "Jude Bellingham",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 96,
+        "vision": 95,
+        "llegada": 93,
+        "recuperacion": 91,
+        "tecnica": 90
+      },
+      "rating": 93,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-cgallagher",
+      "name": "Conor Gallagher",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 80,
+        "vision": 79,
+        "llegada": 77,
+        "recuperacion": 75,
+        "tecnica": 74
+      },
+      "rating": 77,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-cpalmer",
+      "name": "Cole Palmer",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 91,
+        "paseFiltrado": 90,
+        "llegada": 88,
+        "regate": 86,
+        "disparo": 85
+      },
+      "rating": 88,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-bsaka",
+      "name": "Bukayo Saka",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 92,
+        "regate": 91,
+        "centro": 89,
+        "disparo": 87,
+        "desmarque": 86
+      },
+      "rating": 89,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-hkane",
+      "name": "Harry Kane",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 93,
+        "fisico": 92,
+        "velocidad": 91,
+        "cabezazo": 89,
+        "pressing": 88,
+        "desmarque": 87
+      },
+      "rating": 90,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-pfoden",
+      "name": "Phil Foden",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 90,
+        "regate": 89,
+        "centro": 87,
+        "disparo": 85,
+        "desmarque": 84
+      },
+      "rating": 87,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-mrashford",
+      "name": "Marcus Rashford",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 83,
+        "centro": 81,
+        "disparo": 79,
+        "desmarque": 78
+      },
+      "rating": 81,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-agordon",
+      "name": "Anthony Gordon",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "ED",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 84,
+        "regate": 83,
+        "centro": 81,
+        "disparo": 79,
+        "desmarque": 78
+      },
+      "rating": 81,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-lcolwill",
+      "name": "Levi Colwill",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 82,
+        "velocidad": 80,
+        "pases": 78,
+        "duelos": 77
+      },
+      "rating": 80,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-eeze",
+      "name": "Eberechi Eze",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 84,
+        "paseFiltrado": 83,
+        "llegada": 81,
+        "regate": 79,
+        "disparo": 78
+      },
+      "rating": 81,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-owatkins",
+      "name": "Ollie Watkins",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 84,
+        "fisico": 83,
+        "velocidad": 82,
+        "cabezazo": 80,
+        "pressing": 79,
+        "desmarque": 78
+      },
+      "rating": 81,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "eng26-jbowen",
+      "name": "Jarrod Bowen",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 81,
+        "regate": 80,
+        "centro": 78,
+        "disparo": 76,
+        "desmarque": 75
+      },
+      "rating": 78,
+      "country": "Inglaterra",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    }
+  ]
+}

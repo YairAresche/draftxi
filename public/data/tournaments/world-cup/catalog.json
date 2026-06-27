@@ -1,1 +1,4044 @@
-{"squads":[{"tournamentId":"wc-1930","year":1930,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-1930","year":1930,"slug":"belgium","country":"Bélgica","confederation":"UEFA","countryCode":"BEL"},{"tournamentId":"wc-1930","year":1930,"slug":"bolivia","country":"Bolivia","confederation":"CONMEBOL","countryCode":"BOL"},{"tournamentId":"wc-1930","year":1930,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-1930","year":1930,"slug":"chile","country":"Chile","confederation":"CONMEBOL","countryCode":"CHL"},{"tournamentId":"wc-1930","year":1930,"slug":"france","country":"Francia","confederation":"UEFA","countryCode":"FRA"},{"tournamentId":"wc-1930","year":1930,"slug":"mexico","country":"México","confederation":"CONCACAF","countryCode":"MEX"},{"tournamentId":"wc-1930","year":1930,"slug":"paraguay","country":"Paraguay","confederation":"CONMEBOL","countryCode":"PRY"},{"tournamentId":"wc-1930","year":1930,"slug":"peru","country":"Perú","confederation":"CONMEBOL","countryCode":"PER"},{"tournamentId":"wc-1930","year":1930,"slug":"romania","country":"Rumanía","confederation":"UEFA","countryCode":"ROU"},{"tournamentId":"wc-1930","year":1930,"slug":"united-states","country":"Estados Unidos","confederation":"CONCACAF","countryCode":"USA"},{"tournamentId":"wc-1930","year":1930,"slug":"uruguay","country":"Uruguay","confederation":"CONMEBOL","countryCode":"URY"},{"tournamentId":"wc-1930","year":1930,"slug":"yugoslavia","country":"Yugoslavia","confederation":"UEFA","countryCode":"YUG"},{"tournamentId":"wc-1934","year":1934,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-1934","year":1934,"slug":"austria","country":"Austria","confederation":"UEFA","countryCode":"AUT"},{"tournamentId":"wc-1934","year":1934,"slug":"belgium","country":"Bélgica","confederation":"UEFA","countryCode":"BEL"},{"tournamentId":"wc-1934","year":1934,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-1934","year":1934,"slug":"czechoslovakia","country":"Checoslovaquia","confederation":"UEFA","countryCode":"CSK"},{"tournamentId":"wc-1934","year":1934,"slug":"egypt","country":"Egipto","confederation":"CAF","countryCode":"EGY"},{"tournamentId":"wc-1934","year":1934,"slug":"france","country":"Francia","confederation":"UEFA","countryCode":"FRA"},{"tournamentId":"wc-1934","year":1934,"slug":"germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-1934","year":1934,"slug":"hungary","country":"Hungría","confederation":"UEFA","countryCode":"HUN"},{"tournamentId":"wc-1934","year":1934,"slug":"italy","country":"Italia","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-1934","year":1934,"slug":"netherlands","country":"Países Bajos","confederation":"UEFA","countryCode":"NLD"},{"tournamentId":"wc-1934","year":1934,"slug":"romania","country":"Rumanía","confederation":"UEFA","countryCode":"ROU"},{"tournamentId":"wc-1934","year":1934,"slug":"spain","country":"España","confederation":"UEFA","countryCode":"ESP"},{"tournamentId":"wc-1934","year":1934,"slug":"sweden","country":"Suecia","confederation":"UEFA","countryCode":"SWE"},{"tournamentId":"wc-1934","year":1934,"slug":"switzerland","country":"Suiza","confederation":"UEFA","countryCode":"CHE"},{"tournamentId":"wc-1934","year":1934,"slug":"united-states","country":"Estados Unidos","confederation":"CONCACAF","countryCode":"USA"},{"tournamentId":"wc-1938","year":1938,"slug":"belgium","country":"Bélgica","confederation":"UEFA","countryCode":"BEL"},{"tournamentId":"wc-1938","year":1938,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-1938","year":1938,"slug":"cuba","country":"Cuba","confederation":"CONCACAF","countryCode":"CUB"},{"tournamentId":"wc-1938","year":1938,"slug":"czechoslovakia","country":"Checoslovaquia","confederation":"UEFA","countryCode":"CSK"},{"tournamentId":"wc-1938","year":1938,"slug":"dutch-east-indies","country":"Indonesia","confederation":"AFC","countryCode":"IDN"},{"tournamentId":"wc-1938","year":1938,"slug":"france","country":"Francia","confederation":"UEFA","countryCode":"FRA"},{"tournamentId":"wc-1938","year":1938,"slug":"germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-1938","year":1938,"slug":"hungary","country":"Hungría","confederation":"UEFA","countryCode":"HUN"},{"tournamentId":"wc-1938","year":1938,"slug":"italy","country":"Italia","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-1938","year":1938,"slug":"netherlands","country":"Países Bajos","confederation":"UEFA","countryCode":"NLD"},{"tournamentId":"wc-1938","year":1938,"slug":"norway","country":"Noruega","confederation":"UEFA","countryCode":"NOR"},{"tournamentId":"wc-1938","year":1938,"slug":"poland","country":"Polonia","confederation":"UEFA","countryCode":"POL"},{"tournamentId":"wc-1938","year":1938,"slug":"romania","country":"Rumanía","confederation":"UEFA","countryCode":"ROU"},{"tournamentId":"wc-1938","year":1938,"slug":"sweden","country":"Suecia","confederation":"UEFA","countryCode":"SWE"},{"tournamentId":"wc-1938","year":1938,"slug":"switzerland","country":"Suiza","confederation":"UEFA","countryCode":"CHE"},{"tournamentId":"wc-1950","year":1950,"slug":"bolivia","country":"Bolivia","confederation":"CONMEBOL","countryCode":"BOL"},{"tournamentId":"wc-1950","year":1950,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-1950","year":1950,"slug":"chile","country":"Chile","confederation":"CONMEBOL","countryCode":"CHL"},{"tournamentId":"wc-1950","year":1950,"slug":"england","country":"Inglaterra","confederation":"UEFA","countryCode":"ENG"},{"tournamentId":"wc-1950","year":1950,"slug":"italy","country":"Italia","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-1950","year":1950,"slug":"mexico","country":"México","confederation":"CONCACAF","countryCode":"MEX"},{"tournamentId":"wc-1950","year":1950,"slug":"paraguay","country":"Paraguay","confederation":"CONMEBOL","countryCode":"PRY"},{"tournamentId":"wc-1950","year":1950,"slug":"spain","country":"España","confederation":"UEFA","countryCode":"ESP"},{"tournamentId":"wc-1950","year":1950,"slug":"sweden","country":"Suecia","confederation":"UEFA","countryCode":"SWE"},{"tournamentId":"wc-1950","year":1950,"slug":"switzerland","country":"Suiza","confederation":"UEFA","countryCode":"CHE"},{"tournamentId":"wc-1950","year":1950,"slug":"united-states","country":"Estados Unidos","confederation":"CONCACAF","countryCode":"USA"},{"tournamentId":"wc-1950","year":1950,"slug":"uruguay","country":"Uruguay","confederation":"CONMEBOL","countryCode":"URY"},{"tournamentId":"wc-1950","year":1950,"slug":"yugoslavia","country":"Yugoslavia","confederation":"UEFA","countryCode":"YUG"},{"tournamentId":"wc-1954","year":1954,"slug":"austria","country":"Austria","confederation":"UEFA","countryCode":"AUT"},{"tournamentId":"wc-1954","year":1954,"slug":"belgium","country":"Bélgica","confederation":"UEFA","countryCode":"BEL"},{"tournamentId":"wc-1954","year":1954,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-1954","year":1954,"slug":"czechoslovakia","country":"Checoslovaquia","confederation":"UEFA","countryCode":"CSK"},{"tournamentId":"wc-1954","year":1954,"slug":"england","country":"Inglaterra","confederation":"UEFA","countryCode":"ENG"},{"tournamentId":"wc-1954","year":1954,"slug":"france","country":"Francia","confederation":"UEFA","countryCode":"FRA"},{"tournamentId":"wc-1954","year":1954,"slug":"hungary","country":"Hungría","confederation":"UEFA","countryCode":"HUN"},{"tournamentId":"wc-1954","year":1954,"slug":"italy","country":"Italia","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-1954","year":1954,"slug":"mexico","country":"México","confederation":"CONCACAF","countryCode":"MEX"},{"tournamentId":"wc-1954","year":1954,"slug":"scotland","country":"Escocia","confederation":"UEFA","countryCode":"SCO"},{"tournamentId":"wc-1954","year":1954,"slug":"south-korea","country":"Corea del Sur","confederation":"AFC","countryCode":"KOR"},{"tournamentId":"wc-1954","year":1954,"slug":"switzerland","country":"Suiza","confederation":"UEFA","countryCode":"CHE"},{"tournamentId":"wc-1954","year":1954,"slug":"turkey","country":"Turquía","confederation":"UEFA","countryCode":"TUR"},{"tournamentId":"wc-1954","year":1954,"slug":"uruguay","country":"Uruguay","confederation":"CONMEBOL","countryCode":"URY"},{"tournamentId":"wc-1954","year":1954,"slug":"west-germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-1954","year":1954,"slug":"yugoslavia","country":"Yugoslavia","confederation":"UEFA","countryCode":"YUG"},{"tournamentId":"wc-1958","year":1958,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-1958","year":1958,"slug":"austria","country":"Austria","confederation":"UEFA","countryCode":"AUT"},{"tournamentId":"wc-1958","year":1958,"slug":"brazil","country":"Brazil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-1958","year":1958,"slug":"czechoslovakia","country":"Checoslovaquia","confederation":"UEFA","countryCode":"CSK"},{"tournamentId":"wc-1958","year":1958,"slug":"england","country":"Inglaterra","confederation":"UEFA","countryCode":"ENG"},{"tournamentId":"wc-1958","year":1958,"slug":"france","country":"Francia","confederation":"UEFA","countryCode":"FRA"},{"tournamentId":"wc-1958","year":1958,"slug":"hungary","country":"Hungría","confederation":"UEFA","countryCode":"HUN"},{"tournamentId":"wc-1958","year":1958,"slug":"mexico","country":"México","confederation":"CONCACAF","countryCode":"MEX"},{"tournamentId":"wc-1958","year":1958,"slug":"northern-ireland","country":"Irlanda del Norte","confederation":"UEFA","countryCode":"NIR"},{"tournamentId":"wc-1958","year":1958,"slug":"paraguay","country":"Paraguay","confederation":"CONMEBOL","countryCode":"PRY"},{"tournamentId":"wc-1958","year":1958,"slug":"scotland","country":"Escocia","confederation":"UEFA","countryCode":"SCO"},{"tournamentId":"wc-1958","year":1958,"slug":"soviet-union","country":"Unión Soviética","confederation":"UEFA","countryCode":"SUN"},{"tournamentId":"wc-1958","year":1958,"slug":"sweden","country":"Suecia","confederation":"UEFA","countryCode":"SWE"},{"tournamentId":"wc-1958","year":1958,"slug":"wales","country":"Gales","confederation":"UEFA","countryCode":"WAL"},{"tournamentId":"wc-1958","year":1958,"slug":"west-germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-1958","year":1958,"slug":"yugoslavia","country":"Yugoslavia","confederation":"UEFA","countryCode":"YUG"},{"tournamentId":"wc-1962","year":1962,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-1962","year":1962,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-1962","year":1962,"slug":"bulgaria","country":"Bulgaria","confederation":"UEFA","countryCode":"BGR"},{"tournamentId":"wc-1962","year":1962,"slug":"chile","country":"Chile","confederation":"CONMEBOL","countryCode":"CHL"},{"tournamentId":"wc-1962","year":1962,"slug":"colombia","country":"Colombia","confederation":"CONMEBOL","countryCode":"COL"},{"tournamentId":"wc-1962","year":1962,"slug":"czechoslovakia","country":"Checoslovaquia","confederation":"UEFA","countryCode":"CSK"},{"tournamentId":"wc-1962","year":1962,"slug":"england","country":"Inglaterra","confederation":"UEFA","countryCode":"ENG"},{"tournamentId":"wc-1962","year":1962,"slug":"hungary","country":"Hungría","confederation":"UEFA","countryCode":"HUN"},{"tournamentId":"wc-1962","year":1962,"slug":"italy","country":"Italia","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-1962","year":1962,"slug":"mexico","country":"México","confederation":"CONCACAF","countryCode":"MEX"},{"tournamentId":"wc-1962","year":1962,"slug":"soviet-union","country":"Unión Soviética","confederation":"UEFA","countryCode":"SUN"},{"tournamentId":"wc-1962","year":1962,"slug":"spain","country":"España","confederation":"UEFA","countryCode":"ESP"},{"tournamentId":"wc-1962","year":1962,"slug":"switzerland","country":"Suiza","confederation":"UEFA","countryCode":"CHE"},{"tournamentId":"wc-1962","year":1962,"slug":"uruguay","country":"Uruguay","confederation":"CONMEBOL","countryCode":"URY"},{"tournamentId":"wc-1962","year":1962,"slug":"west-germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-1962","year":1962,"slug":"yugoslavia","country":"Yugoslavia","confederation":"UEFA","countryCode":"YUG"},{"tournamentId":"wc-1966","year":1966,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-1966","year":1966,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-1966","year":1966,"slug":"bulgaria","country":"Bulgaria","confederation":"UEFA","countryCode":"BGR"},{"tournamentId":"wc-1966","year":1966,"slug":"chile","country":"Chile","confederation":"CONMEBOL","countryCode":"CHL"},{"tournamentId":"wc-1966","year":1966,"slug":"england","country":"England","confederation":"UEFA","countryCode":"ENG"},{"tournamentId":"wc-1966","year":1966,"slug":"france","country":"Francia","confederation":"UEFA","countryCode":"FRA"},{"tournamentId":"wc-1966","year":1966,"slug":"hungary","country":"Hungría","confederation":"UEFA","countryCode":"HUN"},{"tournamentId":"wc-1966","year":1966,"slug":"italy","country":"Italia","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-1966","year":1966,"slug":"mexico","country":"México","confederation":"CONCACAF","countryCode":"MEX"},{"tournamentId":"wc-1966","year":1966,"slug":"north-korea","country":"Corea del Norte","confederation":"AFC","countryCode":"PRK"},{"tournamentId":"wc-1966","year":1966,"slug":"portugal","country":"Portugal","confederation":"UEFA","countryCode":"PRT"},{"tournamentId":"wc-1966","year":1966,"slug":"soviet-union","country":"Unión Soviética","confederation":"UEFA","countryCode":"SUN"},{"tournamentId":"wc-1966","year":1966,"slug":"spain","country":"España","confederation":"UEFA","countryCode":"ESP"},{"tournamentId":"wc-1966","year":1966,"slug":"switzerland","country":"Suiza","confederation":"UEFA","countryCode":"CHE"},{"tournamentId":"wc-1966","year":1966,"slug":"uruguay","country":"Uruguay","confederation":"CONMEBOL","countryCode":"URY"},{"tournamentId":"wc-1966","year":1966,"slug":"west-germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-1970","year":1970,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-1970","year":1970,"slug":"italy","country":"Italia","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-1970","year":1970,"slug":"uruguay","country":"Uruguay","confederation":"CONMEBOL","countryCode":"URY"},{"tournamentId":"wc-1970","year":1970,"slug":"belgium","country":"Bélgica","confederation":"UEFA","countryCode":"BEL"},{"tournamentId":"wc-1970","year":1970,"slug":"bulgaria","country":"Bulgaria","confederation":"UEFA","countryCode":"BGR"},{"tournamentId":"wc-1970","year":1970,"slug":"czechoslovakia","country":"Checoslovaquia","confederation":"UEFA","countryCode":"CSK"},{"tournamentId":"wc-1970","year":1970,"slug":"el-salvador","country":"El Salvador","confederation":"CONCACAF","countryCode":"SLV"},{"tournamentId":"wc-1970","year":1970,"slug":"england","country":"Inglaterra","confederation":"UEFA","countryCode":"ENG"},{"tournamentId":"wc-1970","year":1970,"slug":"israel","country":"Israel","confederation":"AFC","countryCode":"ISR"},{"tournamentId":"wc-1970","year":1970,"slug":"mexico","country":"México","confederation":"CONCACAF","countryCode":"MEX"},{"tournamentId":"wc-1970","year":1970,"slug":"morocco","country":"Marruecos","confederation":"CAF","countryCode":"MAR"},{"tournamentId":"wc-1970","year":1970,"slug":"peru","country":"Perú","confederation":"CONMEBOL","countryCode":"PER"},{"tournamentId":"wc-1970","year":1970,"slug":"romania","country":"Rumanía","confederation":"UEFA","countryCode":"ROU"},{"tournamentId":"wc-1970","year":1970,"slug":"soviet-union","country":"Unión Soviética","confederation":"UEFA","countryCode":"SUN"},{"tournamentId":"wc-1970","year":1970,"slug":"sweden","country":"Suecia","confederation":"UEFA","countryCode":"SWE"},{"tournamentId":"wc-1970","year":1970,"slug":"west-germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-1974","year":1974,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-1974","year":1974,"slug":"australia","country":"Australia","confederation":"AFC","countryCode":"AUS"},{"tournamentId":"wc-1974","year":1974,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-1974","year":1974,"slug":"bulgaria","country":"Bulgaria","confederation":"UEFA","countryCode":"BGR"},{"tournamentId":"wc-1974","year":1974,"slug":"chile","country":"Chile","confederation":"CONMEBOL","countryCode":"CHL"},{"tournamentId":"wc-1974","year":1974,"slug":"east-germany","country":"Alemania Oriental","confederation":"UEFA","countryCode":"DDR"},{"tournamentId":"wc-1974","year":1974,"slug":"germany","country":"Germany","confederation":"UEFA","countryCode":"GER"},{"tournamentId":"wc-1974","year":1974,"slug":"haiti","country":"Haití","confederation":"CONCACAF","countryCode":"HTI"},{"tournamentId":"wc-1974","year":1974,"slug":"italy","country":"Italia","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-1974","year":1974,"slug":"netherlands","country":"Netherlands","confederation":"UEFA","countryCode":"NED"},{"tournamentId":"wc-1974","year":1974,"slug":"poland","country":"Polonia","confederation":"UEFA","countryCode":"POL"},{"tournamentId":"wc-1974","year":1974,"slug":"scotland","country":"Escocia","confederation":"UEFA","countryCode":"SCO"},{"tournamentId":"wc-1974","year":1974,"slug":"sweden","country":"Suecia","confederation":"UEFA","countryCode":"SWE"},{"tournamentId":"wc-1974","year":1974,"slug":"uruguay","country":"Uruguay","confederation":"CONMEBOL","countryCode":"URY"},{"tournamentId":"wc-1974","year":1974,"slug":"west-germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-1974","year":1974,"slug":"yugoslavia","country":"Yugoslavia","confederation":"UEFA","countryCode":"YUG"},{"tournamentId":"wc-1974","year":1974,"slug":"zaire","country":"Zaire","confederation":"CAF","countryCode":"COD"},{"tournamentId":"wc-1978","year":1978,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-1978","year":1978,"slug":"austria","country":"Austria","confederation":"UEFA","countryCode":"AUT"},{"tournamentId":"wc-1978","year":1978,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-1978","year":1978,"slug":"france","country":"Francia","confederation":"UEFA","countryCode":"FRA"},{"tournamentId":"wc-1978","year":1978,"slug":"hungary","country":"Hungría","confederation":"UEFA","countryCode":"HUN"},{"tournamentId":"wc-1978","year":1978,"slug":"iran","country":"Irán","confederation":"AFC","countryCode":"IRN"},{"tournamentId":"wc-1978","year":1978,"slug":"italy","country":"Italia","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-1978","year":1978,"slug":"mexico","country":"México","confederation":"CONCACAF","countryCode":"MEX"},{"tournamentId":"wc-1978","year":1978,"slug":"netherlands","country":"Países Bajos","confederation":"UEFA","countryCode":"NLD"},{"tournamentId":"wc-1978","year":1978,"slug":"peru","country":"Perú","confederation":"CONMEBOL","countryCode":"PER"},{"tournamentId":"wc-1978","year":1978,"slug":"poland","country":"Polonia","confederation":"UEFA","countryCode":"POL"},{"tournamentId":"wc-1978","year":1978,"slug":"scotland","country":"Escocia","confederation":"UEFA","countryCode":"SCO"},{"tournamentId":"wc-1978","year":1978,"slug":"spain","country":"España","confederation":"UEFA","countryCode":"ESP"},{"tournamentId":"wc-1978","year":1978,"slug":"sweden","country":"Suecia","confederation":"UEFA","countryCode":"SWE"},{"tournamentId":"wc-1978","year":1978,"slug":"tunisia","country":"Túnez","confederation":"CAF","countryCode":"TUN"},{"tournamentId":"wc-1978","year":1978,"slug":"west-germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-1982","year":1982,"slug":"algeria","country":"Argelia","confederation":"CAF","countryCode":"DZA"},{"tournamentId":"wc-1982","year":1982,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-1982","year":1982,"slug":"austria","country":"Austria","confederation":"UEFA","countryCode":"AUT"},{"tournamentId":"wc-1982","year":1982,"slug":"belgium","country":"Bélgica","confederation":"UEFA","countryCode":"BEL"},{"tournamentId":"wc-1982","year":1982,"slug":"brazil","country":"Brazil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-1982","year":1982,"slug":"cameroon","country":"Camerún","confederation":"CAF","countryCode":"CMR"},{"tournamentId":"wc-1982","year":1982,"slug":"chile","country":"Chile","confederation":"CONMEBOL","countryCode":"CHL"},{"tournamentId":"wc-1982","year":1982,"slug":"czechoslovakia","country":"Checoslovaquia","confederation":"UEFA","countryCode":"CSK"},{"tournamentId":"wc-1982","year":1982,"slug":"el-salvador","country":"El Salvador","confederation":"CONCACAF","countryCode":"SLV"},{"tournamentId":"wc-1982","year":1982,"slug":"england","country":"Inglaterra","confederation":"UEFA","countryCode":"ENG"},{"tournamentId":"wc-1982","year":1982,"slug":"france","country":"Francia","confederation":"UEFA","countryCode":"FRA"},{"tournamentId":"wc-1982","year":1982,"slug":"honduras","country":"Honduras","confederation":"CONCACAF","countryCode":"HND"},{"tournamentId":"wc-1982","year":1982,"slug":"hungary","country":"Hungría","confederation":"UEFA","countryCode":"HUN"},{"tournamentId":"wc-1982","year":1982,"slug":"italy","country":"Italy","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-1982","year":1982,"slug":"kuwait","country":"Kuwait","confederation":"AFC","countryCode":"KWT"},{"tournamentId":"wc-1982","year":1982,"slug":"new-zealand","country":"Nueva Zelanda","confederation":"OFC","countryCode":"NZL"},{"tournamentId":"wc-1982","year":1982,"slug":"northern-ireland","country":"Irlanda del Norte","confederation":"UEFA","countryCode":"NIR"},{"tournamentId":"wc-1982","year":1982,"slug":"peru","country":"Perú","confederation":"CONMEBOL","countryCode":"PER"},{"tournamentId":"wc-1982","year":1982,"slug":"poland","country":"Polonia","confederation":"UEFA","countryCode":"POL"},{"tournamentId":"wc-1982","year":1982,"slug":"scotland","country":"Escocia","confederation":"UEFA","countryCode":"SCO"},{"tournamentId":"wc-1982","year":1982,"slug":"soviet-union","country":"Unión Soviética","confederation":"UEFA","countryCode":"SUN"},{"tournamentId":"wc-1982","year":1982,"slug":"spain","country":"España","confederation":"UEFA","countryCode":"ESP"},{"tournamentId":"wc-1982","year":1982,"slug":"west-germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-1982","year":1982,"slug":"yugoslavia","country":"Yugoslavia","confederation":"UEFA","countryCode":"YUG"},{"tournamentId":"wc-1986","year":1986,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-1986","year":1986,"slug":"france","country":"Francia","confederation":"UEFA","countryCode":"FRA"},{"tournamentId":"wc-1986","year":1986,"slug":"belgium","country":"Bélgica","confederation":"UEFA","countryCode":"BEL"},{"tournamentId":"wc-1986","year":1986,"slug":"algeria","country":"Argelia","confederation":"CAF","countryCode":"DZA"},{"tournamentId":"wc-1986","year":1986,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-1986","year":1986,"slug":"bulgaria","country":"Bulgaria","confederation":"UEFA","countryCode":"BGR"},{"tournamentId":"wc-1986","year":1986,"slug":"canada","country":"Canadá","confederation":"CONCACAF","countryCode":"CAN"},{"tournamentId":"wc-1986","year":1986,"slug":"denmark","country":"Dinamarca","confederation":"UEFA","countryCode":"DNK"},{"tournamentId":"wc-1986","year":1986,"slug":"england","country":"Inglaterra","confederation":"UEFA","countryCode":"ENG"},{"tournamentId":"wc-1986","year":1986,"slug":"hungary","country":"Hungría","confederation":"UEFA","countryCode":"HUN"},{"tournamentId":"wc-1986","year":1986,"slug":"iraq","country":"Irak","confederation":"AFC","countryCode":"IRQ"},{"tournamentId":"wc-1986","year":1986,"slug":"italy","country":"Italia","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-1986","year":1986,"slug":"mexico","country":"México","confederation":"CONCACAF","countryCode":"MEX"},{"tournamentId":"wc-1986","year":1986,"slug":"morocco","country":"Marruecos","confederation":"CAF","countryCode":"MAR"},{"tournamentId":"wc-1986","year":1986,"slug":"northern-ireland","country":"Irlanda del Norte","confederation":"UEFA","countryCode":"NIR"},{"tournamentId":"wc-1986","year":1986,"slug":"paraguay","country":"Paraguay","confederation":"CONMEBOL","countryCode":"PRY"},{"tournamentId":"wc-1986","year":1986,"slug":"poland","country":"Polonia","confederation":"UEFA","countryCode":"POL"},{"tournamentId":"wc-1986","year":1986,"slug":"portugal","country":"Portugal","confederation":"UEFA","countryCode":"PRT"},{"tournamentId":"wc-1986","year":1986,"slug":"scotland","country":"Escocia","confederation":"UEFA","countryCode":"SCO"},{"tournamentId":"wc-1986","year":1986,"slug":"south-korea","country":"Corea del Sur","confederation":"AFC","countryCode":"KOR"},{"tournamentId":"wc-1986","year":1986,"slug":"soviet-union","country":"Unión Soviética","confederation":"UEFA","countryCode":"SUN"},{"tournamentId":"wc-1986","year":1986,"slug":"spain","country":"España","confederation":"UEFA","countryCode":"ESP"},{"tournamentId":"wc-1986","year":1986,"slug":"uruguay","country":"Uruguay","confederation":"CONMEBOL","countryCode":"URY"},{"tournamentId":"wc-1986","year":1986,"slug":"west-germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-1990","year":1990,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-1990","year":1990,"slug":"austria","country":"Austria","confederation":"UEFA","countryCode":"AUT"},{"tournamentId":"wc-1990","year":1990,"slug":"belgium","country":"Bélgica","confederation":"UEFA","countryCode":"BEL"},{"tournamentId":"wc-1990","year":1990,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-1990","year":1990,"slug":"cameroon","country":"Camerún","confederation":"CAF","countryCode":"CMR"},{"tournamentId":"wc-1990","year":1990,"slug":"colombia","country":"Colombia","confederation":"CONMEBOL","countryCode":"COL"},{"tournamentId":"wc-1990","year":1990,"slug":"costa-rica","country":"Costa Rica","confederation":"CONCACAF","countryCode":"CRI"},{"tournamentId":"wc-1990","year":1990,"slug":"czechoslovakia","country":"Checoslovaquia","confederation":"UEFA","countryCode":"CSK"},{"tournamentId":"wc-1990","year":1990,"slug":"egypt","country":"Egipto","confederation":"CAF","countryCode":"EGY"},{"tournamentId":"wc-1990","year":1990,"slug":"england","country":"Inglaterra","confederation":"UEFA","countryCode":"ENG"},{"tournamentId":"wc-1990","year":1990,"slug":"germany","country":"Germany","confederation":"UEFA","countryCode":"GER"},{"tournamentId":"wc-1990","year":1990,"slug":"italy","country":"Italia","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-1990","year":1990,"slug":"netherlands","country":"Países Bajos","confederation":"UEFA","countryCode":"NLD"},{"tournamentId":"wc-1990","year":1990,"slug":"republic-of-ireland","country":"Irlanda","confederation":"UEFA","countryCode":"IRL"},{"tournamentId":"wc-1990","year":1990,"slug":"romania","country":"Rumanía","confederation":"UEFA","countryCode":"ROU"},{"tournamentId":"wc-1990","year":1990,"slug":"scotland","country":"Escocia","confederation":"UEFA","countryCode":"SCO"},{"tournamentId":"wc-1990","year":1990,"slug":"south-korea","country":"Corea del Sur","confederation":"AFC","countryCode":"KOR"},{"tournamentId":"wc-1990","year":1990,"slug":"soviet-union","country":"Unión Soviética","confederation":"UEFA","countryCode":"SUN"},{"tournamentId":"wc-1990","year":1990,"slug":"spain","country":"España","confederation":"UEFA","countryCode":"ESP"},{"tournamentId":"wc-1990","year":1990,"slug":"sweden","country":"Suecia","confederation":"UEFA","countryCode":"SWE"},{"tournamentId":"wc-1990","year":1990,"slug":"united-arab-emirates","country":"Emiratos Árabes","confederation":"AFC","countryCode":"ARE"},{"tournamentId":"wc-1990","year":1990,"slug":"united-states","country":"Estados Unidos","confederation":"CONCACAF","countryCode":"USA"},{"tournamentId":"wc-1990","year":1990,"slug":"uruguay","country":"Uruguay","confederation":"CONMEBOL","countryCode":"URY"},{"tournamentId":"wc-1990","year":1990,"slug":"west-germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-1990","year":1990,"slug":"yugoslavia","country":"Yugoslavia","confederation":"UEFA","countryCode":"YUG"},{"tournamentId":"wc-1994","year":1994,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-1994","year":1994,"slug":"belgium","country":"Bélgica","confederation":"UEFA","countryCode":"BEL"},{"tournamentId":"wc-1994","year":1994,"slug":"bolivia","country":"Bolivia","confederation":"CONMEBOL","countryCode":"BOL"},{"tournamentId":"wc-1994","year":1994,"slug":"brazil","country":"Brazil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-1994","year":1994,"slug":"bulgaria","country":"Bulgaria","confederation":"UEFA","countryCode":"BGR"},{"tournamentId":"wc-1994","year":1994,"slug":"cameroon","country":"Camerún","confederation":"CAF","countryCode":"CMR"},{"tournamentId":"wc-1994","year":1994,"slug":"colombia","country":"Colombia","confederation":"CONMEBOL","countryCode":"COL"},{"tournamentId":"wc-1994","year":1994,"slug":"germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-1994","year":1994,"slug":"greece","country":"Grecia","confederation":"UEFA","countryCode":"GRC"},{"tournamentId":"wc-1994","year":1994,"slug":"italy","country":"Italia","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-1994","year":1994,"slug":"mexico","country":"México","confederation":"CONCACAF","countryCode":"MEX"},{"tournamentId":"wc-1994","year":1994,"slug":"morocco","country":"Marruecos","confederation":"CAF","countryCode":"MAR"},{"tournamentId":"wc-1994","year":1994,"slug":"netherlands","country":"Países Bajos","confederation":"UEFA","countryCode":"NLD"},{"tournamentId":"wc-1994","year":1994,"slug":"nigeria","country":"Nigeria","confederation":"CAF","countryCode":"NGA"},{"tournamentId":"wc-1994","year":1994,"slug":"norway","country":"Noruega","confederation":"UEFA","countryCode":"NOR"},{"tournamentId":"wc-1994","year":1994,"slug":"republic-of-ireland","country":"Irlanda","confederation":"UEFA","countryCode":"IRL"},{"tournamentId":"wc-1994","year":1994,"slug":"romania","country":"Rumanía","confederation":"UEFA","countryCode":"ROU"},{"tournamentId":"wc-1994","year":1994,"slug":"russia","country":"Rusia","confederation":"UEFA","countryCode":"RUS"},{"tournamentId":"wc-1994","year":1994,"slug":"saudi-arabia","country":"Arabia Saudita","confederation":"AFC","countryCode":"SAU"},{"tournamentId":"wc-1994","year":1994,"slug":"south-korea","country":"Corea del Sur","confederation":"AFC","countryCode":"KOR"},{"tournamentId":"wc-1994","year":1994,"slug":"spain","country":"España","confederation":"UEFA","countryCode":"ESP"},{"tournamentId":"wc-1994","year":1994,"slug":"sweden","country":"Suecia","confederation":"UEFA","countryCode":"SWE"},{"tournamentId":"wc-1994","year":1994,"slug":"switzerland","country":"Suiza","confederation":"UEFA","countryCode":"CHE"},{"tournamentId":"wc-1994","year":1994,"slug":"united-states","country":"Estados Unidos","confederation":"CONCACAF","countryCode":"USA"},{"tournamentId":"wc-1998","year":1998,"slug":"france","country":"Francia","confederation":"UEFA","countryCode":"FRA"},{"tournamentId":"wc-1998","year":1998,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-1998","year":1998,"slug":"croatia","country":"Croacia","confederation":"UEFA","countryCode":"HRV"},{"tournamentId":"wc-1998","year":1998,"slug":"netherlands","country":"Países Bajos","confederation":"UEFA","countryCode":"NLD"},{"tournamentId":"wc-1998","year":1998,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-1998","year":1998,"slug":"austria","country":"Austria","confederation":"UEFA","countryCode":"AUT"},{"tournamentId":"wc-1998","year":1998,"slug":"belgium","country":"Bélgica","confederation":"UEFA","countryCode":"BEL"},{"tournamentId":"wc-1998","year":1998,"slug":"bulgaria","country":"Bulgaria","confederation":"UEFA","countryCode":"BGR"},{"tournamentId":"wc-1998","year":1998,"slug":"cameroon","country":"Camerún","confederation":"CAF","countryCode":"CMR"},{"tournamentId":"wc-1998","year":1998,"slug":"chile","country":"Chile","confederation":"CONMEBOL","countryCode":"CHL"},{"tournamentId":"wc-1998","year":1998,"slug":"colombia","country":"Colombia","confederation":"CONMEBOL","countryCode":"COL"},{"tournamentId":"wc-1998","year":1998,"slug":"denmark","country":"Dinamarca","confederation":"UEFA","countryCode":"DNK"},{"tournamentId":"wc-1998","year":1998,"slug":"england","country":"Inglaterra","confederation":"UEFA","countryCode":"ENG"},{"tournamentId":"wc-1998","year":1998,"slug":"germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-1998","year":1998,"slug":"iran","country":"Irán","confederation":"AFC","countryCode":"IRN"},{"tournamentId":"wc-1998","year":1998,"slug":"italy","country":"Italia","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-1998","year":1998,"slug":"jamaica","country":"Jamaica","confederation":"CONCACAF","countryCode":"JAM"},{"tournamentId":"wc-1998","year":1998,"slug":"japan","country":"Japón","confederation":"AFC","countryCode":"JPN"},{"tournamentId":"wc-1998","year":1998,"slug":"mexico","country":"México","confederation":"CONCACAF","countryCode":"MEX"},{"tournamentId":"wc-1998","year":1998,"slug":"morocco","country":"Marruecos","confederation":"CAF","countryCode":"MAR"},{"tournamentId":"wc-1998","year":1998,"slug":"nigeria","country":"Nigeria","confederation":"CAF","countryCode":"NGA"},{"tournamentId":"wc-1998","year":1998,"slug":"norway","country":"Noruega","confederation":"UEFA","countryCode":"NOR"},{"tournamentId":"wc-1998","year":1998,"slug":"paraguay","country":"Paraguay","confederation":"CONMEBOL","countryCode":"PRY"},{"tournamentId":"wc-1998","year":1998,"slug":"romania","country":"Rumanía","confederation":"UEFA","countryCode":"ROU"},{"tournamentId":"wc-1998","year":1998,"slug":"saudi-arabia","country":"Arabia Saudita","confederation":"AFC","countryCode":"SAU"},{"tournamentId":"wc-1998","year":1998,"slug":"scotland","country":"Escocia","confederation":"UEFA","countryCode":"SCO"},{"tournamentId":"wc-1998","year":1998,"slug":"south-africa","country":"Sudáfrica","confederation":"CAF","countryCode":"ZAF"},{"tournamentId":"wc-1998","year":1998,"slug":"south-korea","country":"Corea del Sur","confederation":"AFC","countryCode":"KOR"},{"tournamentId":"wc-1998","year":1998,"slug":"spain","country":"España","confederation":"UEFA","countryCode":"ESP"},{"tournamentId":"wc-1998","year":1998,"slug":"tunisia","country":"Túnez","confederation":"CAF","countryCode":"TUN"},{"tournamentId":"wc-1998","year":1998,"slug":"united-states","country":"Estados Unidos","confederation":"CONCACAF","countryCode":"USA"},{"tournamentId":"wc-1998","year":1998,"slug":"yugoslavia","country":"Yugoslavia","confederation":"UEFA","countryCode":"YUG"},{"tournamentId":"wc-2002","year":2002,"slug":"brazil","country":"Brazil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-2002","year":2002,"slug":"germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-2002","year":2002,"slug":"turkey","country":"Turquía","confederation":"UEFA","countryCode":"TUR"},{"tournamentId":"wc-2002","year":2002,"slug":"south-korea","country":"Corea del Sur","confederation":"AFC","countryCode":"KOR"},{"tournamentId":"wc-2002","year":2002,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-2002","year":2002,"slug":"belgium","country":"Bélgica","confederation":"UEFA","countryCode":"BEL"},{"tournamentId":"wc-2002","year":2002,"slug":"cameroon","country":"Camerún","confederation":"CAF","countryCode":"CMR"},{"tournamentId":"wc-2002","year":2002,"slug":"china","country":"China","confederation":"AFC","countryCode":"CHN"},{"tournamentId":"wc-2002","year":2002,"slug":"costa-rica","country":"Costa Rica","confederation":"CONCACAF","countryCode":"CRI"},{"tournamentId":"wc-2002","year":2002,"slug":"croatia","country":"Croacia","confederation":"UEFA","countryCode":"HRV"},{"tournamentId":"wc-2002","year":2002,"slug":"denmark","country":"Dinamarca","confederation":"UEFA","countryCode":"DNK"},{"tournamentId":"wc-2002","year":2002,"slug":"ecuador","country":"Ecuador","confederation":"CONMEBOL","countryCode":"ECU"},{"tournamentId":"wc-2002","year":2002,"slug":"england","country":"Inglaterra","confederation":"UEFA","countryCode":"ENG"},{"tournamentId":"wc-2002","year":2002,"slug":"france","country":"Francia","confederation":"UEFA","countryCode":"FRA"},{"tournamentId":"wc-2002","year":2002,"slug":"italy","country":"Italia","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-2002","year":2002,"slug":"japan","country":"Japón","confederation":"AFC","countryCode":"JPN"},{"tournamentId":"wc-2002","year":2002,"slug":"mexico","country":"México","confederation":"CONCACAF","countryCode":"MEX"},{"tournamentId":"wc-2002","year":2002,"slug":"nigeria","country":"Nigeria","confederation":"CAF","countryCode":"NGA"},{"tournamentId":"wc-2002","year":2002,"slug":"paraguay","country":"Paraguay","confederation":"CONMEBOL","countryCode":"PRY"},{"tournamentId":"wc-2002","year":2002,"slug":"poland","country":"Polonia","confederation":"UEFA","countryCode":"POL"},{"tournamentId":"wc-2002","year":2002,"slug":"portugal","country":"Portugal","confederation":"UEFA","countryCode":"PRT"},{"tournamentId":"wc-2002","year":2002,"slug":"republic-of-ireland","country":"Irlanda","confederation":"UEFA","countryCode":"IRL"},{"tournamentId":"wc-2002","year":2002,"slug":"russia","country":"Rusia","confederation":"UEFA","countryCode":"RUS"},{"tournamentId":"wc-2002","year":2002,"slug":"saudi-arabia","country":"Arabia Saudita","confederation":"AFC","countryCode":"SAU"},{"tournamentId":"wc-2002","year":2002,"slug":"senegal","country":"Senegal","confederation":"CAF","countryCode":"SEN"},{"tournamentId":"wc-2002","year":2002,"slug":"slovenia","country":"Eslovenia","confederation":"UEFA","countryCode":"SVN"},{"tournamentId":"wc-2002","year":2002,"slug":"south-africa","country":"Sudáfrica","confederation":"CAF","countryCode":"ZAF"},{"tournamentId":"wc-2002","year":2002,"slug":"spain","country":"España","confederation":"UEFA","countryCode":"ESP"},{"tournamentId":"wc-2002","year":2002,"slug":"sweden","country":"Suecia","confederation":"UEFA","countryCode":"SWE"},{"tournamentId":"wc-2002","year":2002,"slug":"tunisia","country":"Túnez","confederation":"CAF","countryCode":"TUN"},{"tournamentId":"wc-2002","year":2002,"slug":"united-states","country":"Estados Unidos","confederation":"CONCACAF","countryCode":"USA"},{"tournamentId":"wc-2002","year":2002,"slug":"uruguay","country":"Uruguay","confederation":"CONMEBOL","countryCode":"URY"},{"tournamentId":"wc-2006","year":2006,"slug":"angola","country":"Angola","confederation":"CAF","countryCode":"AGO"},{"tournamentId":"wc-2006","year":2006,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-2006","year":2006,"slug":"australia","country":"Australia","confederation":"AFC","countryCode":"AUS"},{"tournamentId":"wc-2006","year":2006,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-2006","year":2006,"slug":"costa-rica","country":"Costa Rica","confederation":"CONCACAF","countryCode":"CRI"},{"tournamentId":"wc-2006","year":2006,"slug":"croatia","country":"Croacia","confederation":"UEFA","countryCode":"HRV"},{"tournamentId":"wc-2006","year":2006,"slug":"czech-republic","country":"Rep. Checa","confederation":"UEFA","countryCode":"CZE"},{"tournamentId":"wc-2006","year":2006,"slug":"ecuador","country":"Ecuador","confederation":"CONMEBOL","countryCode":"ECU"},{"tournamentId":"wc-2006","year":2006,"slug":"england","country":"Inglaterra","confederation":"UEFA","countryCode":"ENG"},{"tournamentId":"wc-2006","year":2006,"slug":"france","country":"Francia","confederation":"UEFA","countryCode":"FRA"},{"tournamentId":"wc-2006","year":2006,"slug":"germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-2006","year":2006,"slug":"ghana","country":"Ghana","confederation":"CAF","countryCode":"GHA"},{"tournamentId":"wc-2006","year":2006,"slug":"iran","country":"Irán","confederation":"AFC","countryCode":"IRN"},{"tournamentId":"wc-2006","year":2006,"slug":"italy","country":"Italy","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-2006","year":2006,"slug":"ivory-coast","country":"Costa de Marfil","confederation":"CAF","countryCode":"CIV"},{"tournamentId":"wc-2006","year":2006,"slug":"japan","country":"Japón","confederation":"AFC","countryCode":"JPN"},{"tournamentId":"wc-2006","year":2006,"slug":"mexico","country":"México","confederation":"CONCACAF","countryCode":"MEX"},{"tournamentId":"wc-2006","year":2006,"slug":"netherlands","country":"Países Bajos","confederation":"UEFA","countryCode":"NLD"},{"tournamentId":"wc-2006","year":2006,"slug":"paraguay","country":"Paraguay","confederation":"CONMEBOL","countryCode":"PRY"},{"tournamentId":"wc-2006","year":2006,"slug":"poland","country":"Polonia","confederation":"UEFA","countryCode":"POL"},{"tournamentId":"wc-2006","year":2006,"slug":"portugal","country":"Portugal","confederation":"UEFA","countryCode":"POR"},{"tournamentId":"wc-2006","year":2006,"slug":"saudi-arabia","country":"Arabia Saudita","confederation":"AFC","countryCode":"SAU"},{"tournamentId":"wc-2006","year":2006,"slug":"serbia-and-montenegro","country":"Serbia y Montenegro","confederation":"UEFA","countryCode":"SCG"},{"tournamentId":"wc-2006","year":2006,"slug":"south-korea","country":"Corea del Sur","confederation":"AFC","countryCode":"KOR"},{"tournamentId":"wc-2006","year":2006,"slug":"spain","country":"España","confederation":"UEFA","countryCode":"ESP"},{"tournamentId":"wc-2006","year":2006,"slug":"sweden","country":"Suecia","confederation":"UEFA","countryCode":"SWE"},{"tournamentId":"wc-2006","year":2006,"slug":"switzerland","country":"Suiza","confederation":"UEFA","countryCode":"CHE"},{"tournamentId":"wc-2006","year":2006,"slug":"togo","country":"Togo","confederation":"CAF","countryCode":"TGO"},{"tournamentId":"wc-2006","year":2006,"slug":"trinidad-and-tobago","country":"Trinidad y Tobago","confederation":"CONCACAF","countryCode":"TTO"},{"tournamentId":"wc-2006","year":2006,"slug":"tunisia","country":"Túnez","confederation":"CAF","countryCode":"TUN"},{"tournamentId":"wc-2006","year":2006,"slug":"ukraine","country":"Ucrania","confederation":"UEFA","countryCode":"UKR"},{"tournamentId":"wc-2006","year":2006,"slug":"united-states","country":"Estados Unidos","confederation":"CONCACAF","countryCode":"USA"},{"tournamentId":"wc-2010","year":2010,"slug":"spain","country":"España","confederation":"UEFA","countryCode":"ESP"},{"tournamentId":"wc-2010","year":2010,"slug":"netherlands","country":"Netherlands","confederation":"UEFA","countryCode":"NED"},{"tournamentId":"wc-2010","year":2010,"slug":"germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-2010","year":2010,"slug":"uruguay","country":"Uruguay","confederation":"CONMEBOL","countryCode":"URY"},{"tournamentId":"wc-2010","year":2010,"slug":"algeria","country":"Argelia","confederation":"CAF","countryCode":"DZA"},{"tournamentId":"wc-2010","year":2010,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-2010","year":2010,"slug":"australia","country":"Australia","confederation":"AFC","countryCode":"AUS"},{"tournamentId":"wc-2010","year":2010,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-2010","year":2010,"slug":"cameroon","country":"Camerún","confederation":"CAF","countryCode":"CMR"},{"tournamentId":"wc-2010","year":2010,"slug":"chile","country":"Chile","confederation":"CONMEBOL","countryCode":"CHL"},{"tournamentId":"wc-2010","year":2010,"slug":"denmark","country":"Dinamarca","confederation":"UEFA","countryCode":"DNK"},{"tournamentId":"wc-2010","year":2010,"slug":"england","country":"Inglaterra","confederation":"UEFA","countryCode":"ENG"},{"tournamentId":"wc-2010","year":2010,"slug":"france","country":"Francia","confederation":"UEFA","countryCode":"FRA"},{"tournamentId":"wc-2010","year":2010,"slug":"ghana","country":"Ghana","confederation":"CAF","countryCode":"GHA"},{"tournamentId":"wc-2010","year":2010,"slug":"greece","country":"Grecia","confederation":"UEFA","countryCode":"GRC"},{"tournamentId":"wc-2010","year":2010,"slug":"honduras","country":"Honduras","confederation":"CONCACAF","countryCode":"HND"},{"tournamentId":"wc-2010","year":2010,"slug":"italy","country":"Italia","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-2010","year":2010,"slug":"ivory-coast","country":"Costa de Marfil","confederation":"CAF","countryCode":"CIV"},{"tournamentId":"wc-2010","year":2010,"slug":"japan","country":"Japón","confederation":"AFC","countryCode":"JPN"},{"tournamentId":"wc-2010","year":2010,"slug":"mexico","country":"México","confederation":"CONCACAF","countryCode":"MEX"},{"tournamentId":"wc-2010","year":2010,"slug":"new-zealand","country":"Nueva Zelanda","confederation":"OFC","countryCode":"NZL"},{"tournamentId":"wc-2010","year":2010,"slug":"nigeria","country":"Nigeria","confederation":"CAF","countryCode":"NGA"},{"tournamentId":"wc-2010","year":2010,"slug":"north-korea","country":"Corea del Norte","confederation":"AFC","countryCode":"PRK"},{"tournamentId":"wc-2010","year":2010,"slug":"paraguay","country":"Paraguay","confederation":"CONMEBOL","countryCode":"PRY"},{"tournamentId":"wc-2010","year":2010,"slug":"portugal","country":"Portugal","confederation":"UEFA","countryCode":"PRT"},{"tournamentId":"wc-2010","year":2010,"slug":"serbia","country":"Serbia","confederation":"UEFA","countryCode":"SRB"},{"tournamentId":"wc-2010","year":2010,"slug":"slovakia","country":"Eslovaquia","confederation":"UEFA","countryCode":"SVK"},{"tournamentId":"wc-2010","year":2010,"slug":"slovenia","country":"Eslovenia","confederation":"UEFA","countryCode":"SVN"},{"tournamentId":"wc-2010","year":2010,"slug":"south-africa","country":"Sudáfrica","confederation":"CAF","countryCode":"ZAF"},{"tournamentId":"wc-2010","year":2010,"slug":"south-korea","country":"Corea del Sur","confederation":"AFC","countryCode":"KOR"},{"tournamentId":"wc-2010","year":2010,"slug":"switzerland","country":"Suiza","confederation":"UEFA","countryCode":"CHE"},{"tournamentId":"wc-2010","year":2010,"slug":"united-states","country":"Estados Unidos","confederation":"CONCACAF","countryCode":"USA"},{"tournamentId":"wc-2014","year":2014,"slug":"germany","country":"Alemania","confederation":"UEFA","countryCode":"GER"},{"tournamentId":"wc-2014","year":2014,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-2014","year":2014,"slug":"netherlands","country":"Países Bajos","confederation":"UEFA","countryCode":"NLD"},{"tournamentId":"wc-2014","year":2014,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-2014","year":2014,"slug":"algeria","country":"Argelia","confederation":"CAF","countryCode":"DZA"},{"tournamentId":"wc-2014","year":2014,"slug":"australia","country":"Australia","confederation":"AFC","countryCode":"AUS"},{"tournamentId":"wc-2014","year":2014,"slug":"belgium","country":"Bélgica","confederation":"UEFA","countryCode":"BEL"},{"tournamentId":"wc-2014","year":2014,"slug":"bosnia-and-herzegovina","country":"Bosnia y Herzegovina","confederation":"UEFA","countryCode":"BIH"},{"tournamentId":"wc-2014","year":2014,"slug":"cameroon","country":"Camerún","confederation":"CAF","countryCode":"CMR"},{"tournamentId":"wc-2014","year":2014,"slug":"chile","country":"Chile","confederation":"CONMEBOL","countryCode":"CHL"},{"tournamentId":"wc-2014","year":2014,"slug":"colombia","country":"Colombia","confederation":"CONMEBOL","countryCode":"COL"},{"tournamentId":"wc-2014","year":2014,"slug":"costa-rica","country":"Costa Rica","confederation":"CONCACAF","countryCode":"CRI"},{"tournamentId":"wc-2014","year":2014,"slug":"croatia","country":"Croacia","confederation":"UEFA","countryCode":"HRV"},{"tournamentId":"wc-2014","year":2014,"slug":"ecuador","country":"Ecuador","confederation":"CONMEBOL","countryCode":"ECU"},{"tournamentId":"wc-2014","year":2014,"slug":"england","country":"Inglaterra","confederation":"UEFA","countryCode":"ENG"},{"tournamentId":"wc-2014","year":2014,"slug":"france","country":"Francia","confederation":"UEFA","countryCode":"FRA"},{"tournamentId":"wc-2014","year":2014,"slug":"ghana","country":"Ghana","confederation":"CAF","countryCode":"GHA"},{"tournamentId":"wc-2014","year":2014,"slug":"greece","country":"Grecia","confederation":"UEFA","countryCode":"GRC"},{"tournamentId":"wc-2014","year":2014,"slug":"honduras","country":"Honduras","confederation":"CONCACAF","countryCode":"HND"},{"tournamentId":"wc-2014","year":2014,"slug":"iran","country":"Irán","confederation":"AFC","countryCode":"IRN"},{"tournamentId":"wc-2014","year":2014,"slug":"italy","country":"Italia","confederation":"UEFA","countryCode":"ITA"},{"tournamentId":"wc-2014","year":2014,"slug":"ivory-coast","country":"Costa de Marfil","confederation":"CAF","countryCode":"CIV"},{"tournamentId":"wc-2014","year":2014,"slug":"japan","country":"Japón","confederation":"AFC","countryCode":"JPN"},{"tournamentId":"wc-2014","year":2014,"slug":"mexico","country":"México","confederation":"CONCACAF","countryCode":"MEX"},{"tournamentId":"wc-2014","year":2014,"slug":"nigeria","country":"Nigeria","confederation":"CAF","countryCode":"NGA"},{"tournamentId":"wc-2014","year":2014,"slug":"portugal","country":"Portugal","confederation":"UEFA","countryCode":"PRT"},{"tournamentId":"wc-2014","year":2014,"slug":"russia","country":"Rusia","confederation":"UEFA","countryCode":"RUS"},{"tournamentId":"wc-2014","year":2014,"slug":"south-korea","country":"Corea del Sur","confederation":"AFC","countryCode":"KOR"},{"tournamentId":"wc-2014","year":2014,"slug":"spain","country":"España","confederation":"UEFA","countryCode":"ESP"},{"tournamentId":"wc-2014","year":2014,"slug":"switzerland","country":"Suiza","confederation":"UEFA","countryCode":"CHE"},{"tournamentId":"wc-2014","year":2014,"slug":"united-states","country":"Estados Unidos","confederation":"CONCACAF","countryCode":"USA"},{"tournamentId":"wc-2014","year":2014,"slug":"uruguay","country":"Uruguay","confederation":"CONMEBOL","countryCode":"URY"},{"tournamentId":"wc-2018","year":2018,"slug":"france","country":"France","confederation":"UEFA","countryCode":"FRA"},{"tournamentId":"wc-2018","year":2018,"slug":"croatia","country":"Croatia","confederation":"UEFA","countryCode":"CRO"},{"tournamentId":"wc-2018","year":2018,"slug":"belgium","country":"Belgium","confederation":"UEFA","countryCode":"BEL"},{"tournamentId":"wc-2018","year":2018,"slug":"england","country":"Inglaterra","confederation":"UEFA","countryCode":"ENG"},{"tournamentId":"wc-2018","year":2018,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-2018","year":2018,"slug":"australia","country":"Australia","confederation":"AFC","countryCode":"AUS"},{"tournamentId":"wc-2018","year":2018,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-2018","year":2018,"slug":"colombia","country":"Colombia","confederation":"CONMEBOL","countryCode":"COL"},{"tournamentId":"wc-2018","year":2018,"slug":"costa-rica","country":"Costa Rica","confederation":"CONCACAF","countryCode":"CRI"},{"tournamentId":"wc-2018","year":2018,"slug":"denmark","country":"Dinamarca","confederation":"UEFA","countryCode":"DNK"},{"tournamentId":"wc-2018","year":2018,"slug":"egypt","country":"Egipto","confederation":"CAF","countryCode":"EGY"},{"tournamentId":"wc-2018","year":2018,"slug":"germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-2018","year":2018,"slug":"iceland","country":"Islandia","confederation":"UEFA","countryCode":"ISL"},{"tournamentId":"wc-2018","year":2018,"slug":"iran","country":"Irán","confederation":"AFC","countryCode":"IRN"},{"tournamentId":"wc-2018","year":2018,"slug":"japan","country":"Japón","confederation":"AFC","countryCode":"JPN"},{"tournamentId":"wc-2018","year":2018,"slug":"mexico","country":"México","confederation":"CONCACAF","countryCode":"MEX"},{"tournamentId":"wc-2018","year":2018,"slug":"morocco","country":"Marruecos","confederation":"CAF","countryCode":"MAR"},{"tournamentId":"wc-2018","year":2018,"slug":"nigeria","country":"Nigeria","confederation":"CAF","countryCode":"NGA"},{"tournamentId":"wc-2018","year":2018,"slug":"panama","country":"Panamá","confederation":"CONCACAF","countryCode":"PAN"},{"tournamentId":"wc-2018","year":2018,"slug":"peru","country":"Perú","confederation":"CONMEBOL","countryCode":"PER"},{"tournamentId":"wc-2018","year":2018,"slug":"poland","country":"Polonia","confederation":"UEFA","countryCode":"POL"},{"tournamentId":"wc-2018","year":2018,"slug":"portugal","country":"Portugal","confederation":"UEFA","countryCode":"PRT"},{"tournamentId":"wc-2018","year":2018,"slug":"russia","country":"Rusia","confederation":"UEFA","countryCode":"RUS"},{"tournamentId":"wc-2018","year":2018,"slug":"saudi-arabia","country":"Arabia Saudita","confederation":"AFC","countryCode":"SAU"},{"tournamentId":"wc-2018","year":2018,"slug":"senegal","country":"Senegal","confederation":"CAF","countryCode":"SEN"},{"tournamentId":"wc-2018","year":2018,"slug":"serbia","country":"Serbia","confederation":"UEFA","countryCode":"SRB"},{"tournamentId":"wc-2018","year":2018,"slug":"south-korea","country":"Corea del Sur","confederation":"AFC","countryCode":"KOR"},{"tournamentId":"wc-2018","year":2018,"slug":"spain","country":"España","confederation":"UEFA","countryCode":"ESP"},{"tournamentId":"wc-2018","year":2018,"slug":"sweden","country":"Suecia","confederation":"UEFA","countryCode":"SWE"},{"tournamentId":"wc-2018","year":2018,"slug":"switzerland","country":"Suiza","confederation":"UEFA","countryCode":"CHE"},{"tournamentId":"wc-2018","year":2018,"slug":"tunisia","country":"Túnez","confederation":"CAF","countryCode":"TUN"},{"tournamentId":"wc-2018","year":2018,"slug":"uruguay","country":"Uruguay","confederation":"CONMEBOL","countryCode":"URY"},{"tournamentId":"wc-2022","year":2022,"slug":"argentina","country":"Argentina","confederation":"CONMEBOL","countryCode":"ARG"},{"tournamentId":"wc-2022","year":2022,"slug":"france","country":"Francia","confederation":"UEFA","countryCode":"FRA"},{"tournamentId":"wc-2022","year":2022,"slug":"croatia","country":"Croacia","confederation":"UEFA","countryCode":"HRV"},{"tournamentId":"wc-2022","year":2022,"slug":"morocco","country":"Marruecos","confederation":"CAF","countryCode":"MAR"},{"tournamentId":"wc-2022","year":2022,"slug":"australia","country":"Australia","confederation":"AFC","countryCode":"AUS"},{"tournamentId":"wc-2022","year":2022,"slug":"belgium","country":"Bélgica","confederation":"UEFA","countryCode":"BEL"},{"tournamentId":"wc-2022","year":2022,"slug":"brazil","country":"Brasil","confederation":"CONMEBOL","countryCode":"BRA"},{"tournamentId":"wc-2022","year":2022,"slug":"cameroon","country":"Camerún","confederation":"CAF","countryCode":"CMR"},{"tournamentId":"wc-2022","year":2022,"slug":"canada","country":"Canadá","confederation":"CONCACAF","countryCode":"CAN"},{"tournamentId":"wc-2022","year":2022,"slug":"costa-rica","country":"Costa Rica","confederation":"CONCACAF","countryCode":"CRI"},{"tournamentId":"wc-2022","year":2022,"slug":"denmark","country":"Dinamarca","confederation":"UEFA","countryCode":"DNK"},{"tournamentId":"wc-2022","year":2022,"slug":"ecuador","country":"Ecuador","confederation":"CONMEBOL","countryCode":"ECU"},{"tournamentId":"wc-2022","year":2022,"slug":"england","country":"Inglaterra","confederation":"UEFA","countryCode":"ENG"},{"tournamentId":"wc-2022","year":2022,"slug":"germany","country":"Alemania","confederation":"UEFA","countryCode":"DEU"},{"tournamentId":"wc-2022","year":2022,"slug":"ghana","country":"Ghana","confederation":"CAF","countryCode":"GHA"},{"tournamentId":"wc-2022","year":2022,"slug":"iran","country":"Irán","confederation":"AFC","countryCode":"IRN"},{"tournamentId":"wc-2022","year":2022,"slug":"japan","country":"Japón","confederation":"AFC","countryCode":"JPN"},{"tournamentId":"wc-2022","year":2022,"slug":"mexico","country":"México","confederation":"CONCACAF","countryCode":"MEX"},{"tournamentId":"wc-2022","year":2022,"slug":"netherlands","country":"Países Bajos","confederation":"UEFA","countryCode":"NLD"},{"tournamentId":"wc-2022","year":2022,"slug":"poland","country":"Polonia","confederation":"UEFA","countryCode":"POL"},{"tournamentId":"wc-2022","year":2022,"slug":"portugal","country":"Portugal","confederation":"UEFA","countryCode":"PRT"},{"tournamentId":"wc-2022","year":2022,"slug":"qatar","country":"Qatar","confederation":"AFC","countryCode":"QAT"},{"tournamentId":"wc-2022","year":2022,"slug":"saudi-arabia","country":"Arabia Saudita","confederation":"AFC","countryCode":"SAU"},{"tournamentId":"wc-2022","year":2022,"slug":"senegal","country":"Senegal","confederation":"CAF","countryCode":"SEN"},{"tournamentId":"wc-2022","year":2022,"slug":"serbia","country":"Serbia","confederation":"UEFA","countryCode":"SRB"},{"tournamentId":"wc-2022","year":2022,"slug":"south-korea","country":"Corea del Sur","confederation":"AFC","countryCode":"KOR"},{"tournamentId":"wc-2022","year":2022,"slug":"spain","country":"España","confederation":"UEFA","countryCode":"ESP"},{"tournamentId":"wc-2022","year":2022,"slug":"switzerland","country":"Suiza","confederation":"UEFA","countryCode":"CHE"},{"tournamentId":"wc-2022","year":2022,"slug":"tunisia","country":"Túnez","confederation":"CAF","countryCode":"TUN"},{"tournamentId":"wc-2022","year":2022,"slug":"united-states","country":"Estados Unidos","confederation":"CONCACAF","countryCode":"USA"},{"tournamentId":"wc-2022","year":2022,"slug":"uruguay","country":"Uruguay","confederation":"CONMEBOL","countryCode":"URY"},{"tournamentId":"wc-2022","year":2022,"slug":"wales","country":"Gales","confederation":"UEFA","countryCode":"WAL"}]}
+{
+  "squads": [
+    {
+      "tournamentId": "wc-1930",
+      "year": 1930,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-1930",
+      "year": 1930,
+      "slug": "belgium",
+      "country": "Bélgica",
+      "confederation": "UEFA",
+      "countryCode": "BEL"
+    },
+    {
+      "tournamentId": "wc-1930",
+      "year": 1930,
+      "slug": "bolivia",
+      "country": "Bolivia",
+      "confederation": "CONMEBOL",
+      "countryCode": "BOL"
+    },
+    {
+      "tournamentId": "wc-1930",
+      "year": 1930,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-1930",
+      "year": 1930,
+      "slug": "chile",
+      "country": "Chile",
+      "confederation": "CONMEBOL",
+      "countryCode": "CHL"
+    },
+    {
+      "tournamentId": "wc-1930",
+      "year": 1930,
+      "slug": "united-states",
+      "country": "Estados Unidos",
+      "confederation": "CONCACAF",
+      "countryCode": "USA"
+    },
+    {
+      "tournamentId": "wc-1930",
+      "year": 1930,
+      "slug": "france",
+      "country": "Francia",
+      "confederation": "UEFA",
+      "countryCode": "FRA"
+    },
+    {
+      "tournamentId": "wc-1930",
+      "year": 1930,
+      "slug": "mexico",
+      "country": "México",
+      "confederation": "CONCACAF",
+      "countryCode": "MEX"
+    },
+    {
+      "tournamentId": "wc-1930",
+      "year": 1930,
+      "slug": "paraguay",
+      "country": "Paraguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "PRY"
+    },
+    {
+      "tournamentId": "wc-1930",
+      "year": 1930,
+      "slug": "peru",
+      "country": "Perú",
+      "confederation": "CONMEBOL",
+      "countryCode": "PER"
+    },
+    {
+      "tournamentId": "wc-1930",
+      "year": 1930,
+      "slug": "romania",
+      "country": "Rumanía",
+      "confederation": "UEFA",
+      "countryCode": "ROU"
+    },
+    {
+      "tournamentId": "wc-1930",
+      "year": 1930,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URY"
+    },
+    {
+      "tournamentId": "wc-1930",
+      "year": 1930,
+      "slug": "yugoslavia",
+      "country": "Yugoslavia",
+      "confederation": "UEFA",
+      "countryCode": "YUG"
+    },
+    {
+      "tournamentId": "wc-1934",
+      "year": 1934,
+      "slug": "germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-1934",
+      "year": 1934,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-1934",
+      "year": 1934,
+      "slug": "austria",
+      "country": "Austria",
+      "confederation": "UEFA",
+      "countryCode": "AUT"
+    },
+    {
+      "tournamentId": "wc-1934",
+      "year": 1934,
+      "slug": "belgium",
+      "country": "Bélgica",
+      "confederation": "UEFA",
+      "countryCode": "BEL"
+    },
+    {
+      "tournamentId": "wc-1934",
+      "year": 1934,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-1934",
+      "year": 1934,
+      "slug": "czechoslovakia",
+      "country": "Checoslovaquia",
+      "confederation": "UEFA",
+      "countryCode": "CSK"
+    },
+    {
+      "tournamentId": "wc-1934",
+      "year": 1934,
+      "slug": "egypt",
+      "country": "Egipto",
+      "confederation": "CAF",
+      "countryCode": "EGY"
+    },
+    {
+      "tournamentId": "wc-1934",
+      "year": 1934,
+      "slug": "spain",
+      "country": "España",
+      "confederation": "UEFA",
+      "countryCode": "ESP"
+    },
+    {
+      "tournamentId": "wc-1934",
+      "year": 1934,
+      "slug": "united-states",
+      "country": "Estados Unidos",
+      "confederation": "CONCACAF",
+      "countryCode": "USA"
+    },
+    {
+      "tournamentId": "wc-1934",
+      "year": 1934,
+      "slug": "france",
+      "country": "Francia",
+      "confederation": "UEFA",
+      "countryCode": "FRA"
+    },
+    {
+      "tournamentId": "wc-1934",
+      "year": 1934,
+      "slug": "hungary",
+      "country": "Hungría",
+      "confederation": "UEFA",
+      "countryCode": "HUN"
+    },
+    {
+      "tournamentId": "wc-1934",
+      "year": 1934,
+      "slug": "italy",
+      "country": "Italia",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-1934",
+      "year": 1934,
+      "slug": "netherlands",
+      "country": "Países Bajos",
+      "confederation": "UEFA",
+      "countryCode": "NLD"
+    },
+    {
+      "tournamentId": "wc-1934",
+      "year": 1934,
+      "slug": "romania",
+      "country": "Rumanía",
+      "confederation": "UEFA",
+      "countryCode": "ROU"
+    },
+    {
+      "tournamentId": "wc-1934",
+      "year": 1934,
+      "slug": "sweden",
+      "country": "Suecia",
+      "confederation": "UEFA",
+      "countryCode": "SWE"
+    },
+    {
+      "tournamentId": "wc-1934",
+      "year": 1934,
+      "slug": "switzerland",
+      "country": "Suiza",
+      "confederation": "UEFA",
+      "countryCode": "CHE"
+    },
+    {
+      "tournamentId": "wc-1938",
+      "year": 1938,
+      "slug": "germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-1938",
+      "year": 1938,
+      "slug": "belgium",
+      "country": "Bélgica",
+      "confederation": "UEFA",
+      "countryCode": "BEL"
+    },
+    {
+      "tournamentId": "wc-1938",
+      "year": 1938,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-1938",
+      "year": 1938,
+      "slug": "czechoslovakia",
+      "country": "Checoslovaquia",
+      "confederation": "UEFA",
+      "countryCode": "CSK"
+    },
+    {
+      "tournamentId": "wc-1938",
+      "year": 1938,
+      "slug": "cuba",
+      "country": "Cuba",
+      "confederation": "CONCACAF",
+      "countryCode": "CUB"
+    },
+    {
+      "tournamentId": "wc-1938",
+      "year": 1938,
+      "slug": "france",
+      "country": "Francia",
+      "confederation": "UEFA",
+      "countryCode": "FRA"
+    },
+    {
+      "tournamentId": "wc-1938",
+      "year": 1938,
+      "slug": "hungary",
+      "country": "Hungría",
+      "confederation": "UEFA",
+      "countryCode": "HUN"
+    },
+    {
+      "tournamentId": "wc-1938",
+      "year": 1938,
+      "slug": "dutch-east-indies",
+      "country": "Indonesia",
+      "confederation": "AFC",
+      "countryCode": "IDN"
+    },
+    {
+      "tournamentId": "wc-1938",
+      "year": 1938,
+      "slug": "italy",
+      "country": "Italia",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-1938",
+      "year": 1938,
+      "slug": "norway",
+      "country": "Noruega",
+      "confederation": "UEFA",
+      "countryCode": "NOR"
+    },
+    {
+      "tournamentId": "wc-1938",
+      "year": 1938,
+      "slug": "netherlands",
+      "country": "Países Bajos",
+      "confederation": "UEFA",
+      "countryCode": "NLD"
+    },
+    {
+      "tournamentId": "wc-1938",
+      "year": 1938,
+      "slug": "poland",
+      "country": "Polonia",
+      "confederation": "UEFA",
+      "countryCode": "POL"
+    },
+    {
+      "tournamentId": "wc-1938",
+      "year": 1938,
+      "slug": "romania",
+      "country": "Rumanía",
+      "confederation": "UEFA",
+      "countryCode": "ROU"
+    },
+    {
+      "tournamentId": "wc-1938",
+      "year": 1938,
+      "slug": "sweden",
+      "country": "Suecia",
+      "confederation": "UEFA",
+      "countryCode": "SWE"
+    },
+    {
+      "tournamentId": "wc-1938",
+      "year": 1938,
+      "slug": "switzerland",
+      "country": "Suiza",
+      "confederation": "UEFA",
+      "countryCode": "CHE"
+    },
+    {
+      "tournamentId": "wc-1950",
+      "year": 1950,
+      "slug": "bolivia",
+      "country": "Bolivia",
+      "confederation": "CONMEBOL",
+      "countryCode": "BOL"
+    },
+    {
+      "tournamentId": "wc-1950",
+      "year": 1950,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-1950",
+      "year": 1950,
+      "slug": "chile",
+      "country": "Chile",
+      "confederation": "CONMEBOL",
+      "countryCode": "CHL"
+    },
+    {
+      "tournamentId": "wc-1950",
+      "year": 1950,
+      "slug": "spain",
+      "country": "España",
+      "confederation": "UEFA",
+      "countryCode": "ESP"
+    },
+    {
+      "tournamentId": "wc-1950",
+      "year": 1950,
+      "slug": "united-states",
+      "country": "Estados Unidos",
+      "confederation": "CONCACAF",
+      "countryCode": "USA"
+    },
+    {
+      "tournamentId": "wc-1950",
+      "year": 1950,
+      "slug": "england",
+      "country": "Inglaterra",
+      "confederation": "UEFA",
+      "countryCode": "ENG"
+    },
+    {
+      "tournamentId": "wc-1950",
+      "year": 1950,
+      "slug": "italy",
+      "country": "Italia",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-1950",
+      "year": 1950,
+      "slug": "mexico",
+      "country": "México",
+      "confederation": "CONCACAF",
+      "countryCode": "MEX"
+    },
+    {
+      "tournamentId": "wc-1950",
+      "year": 1950,
+      "slug": "paraguay",
+      "country": "Paraguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "PRY"
+    },
+    {
+      "tournamentId": "wc-1950",
+      "year": 1950,
+      "slug": "sweden",
+      "country": "Suecia",
+      "confederation": "UEFA",
+      "countryCode": "SWE"
+    },
+    {
+      "tournamentId": "wc-1950",
+      "year": 1950,
+      "slug": "switzerland",
+      "country": "Suiza",
+      "confederation": "UEFA",
+      "countryCode": "CHE"
+    },
+    {
+      "tournamentId": "wc-1950",
+      "year": 1950,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URY"
+    },
+    {
+      "tournamentId": "wc-1950",
+      "year": 1950,
+      "slug": "yugoslavia",
+      "country": "Yugoslavia",
+      "confederation": "UEFA",
+      "countryCode": "YUG"
+    },
+    {
+      "tournamentId": "wc-1954",
+      "year": 1954,
+      "slug": "west-germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-1954",
+      "year": 1954,
+      "slug": "austria",
+      "country": "Austria",
+      "confederation": "UEFA",
+      "countryCode": "AUT"
+    },
+    {
+      "tournamentId": "wc-1954",
+      "year": 1954,
+      "slug": "belgium",
+      "country": "Bélgica",
+      "confederation": "UEFA",
+      "countryCode": "BEL"
+    },
+    {
+      "tournamentId": "wc-1954",
+      "year": 1954,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-1954",
+      "year": 1954,
+      "slug": "czechoslovakia",
+      "country": "Checoslovaquia",
+      "confederation": "UEFA",
+      "countryCode": "CSK"
+    },
+    {
+      "tournamentId": "wc-1954",
+      "year": 1954,
+      "slug": "south-korea",
+      "country": "Corea del Sur",
+      "confederation": "AFC",
+      "countryCode": "KOR"
+    },
+    {
+      "tournamentId": "wc-1954",
+      "year": 1954,
+      "slug": "scotland",
+      "country": "Escocia",
+      "confederation": "UEFA",
+      "countryCode": "SCO"
+    },
+    {
+      "tournamentId": "wc-1954",
+      "year": 1954,
+      "slug": "france",
+      "country": "Francia",
+      "confederation": "UEFA",
+      "countryCode": "FRA"
+    },
+    {
+      "tournamentId": "wc-1954",
+      "year": 1954,
+      "slug": "hungary",
+      "country": "Hungría",
+      "confederation": "UEFA",
+      "countryCode": "HUN"
+    },
+    {
+      "tournamentId": "wc-1954",
+      "year": 1954,
+      "slug": "england",
+      "country": "Inglaterra",
+      "confederation": "UEFA",
+      "countryCode": "ENG"
+    },
+    {
+      "tournamentId": "wc-1954",
+      "year": 1954,
+      "slug": "italy",
+      "country": "Italia",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-1954",
+      "year": 1954,
+      "slug": "mexico",
+      "country": "México",
+      "confederation": "CONCACAF",
+      "countryCode": "MEX"
+    },
+    {
+      "tournamentId": "wc-1954",
+      "year": 1954,
+      "slug": "switzerland",
+      "country": "Suiza",
+      "confederation": "UEFA",
+      "countryCode": "CHE"
+    },
+    {
+      "tournamentId": "wc-1954",
+      "year": 1954,
+      "slug": "turkey",
+      "country": "Turquía",
+      "confederation": "UEFA",
+      "countryCode": "TUR"
+    },
+    {
+      "tournamentId": "wc-1954",
+      "year": 1954,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URY"
+    },
+    {
+      "tournamentId": "wc-1954",
+      "year": 1954,
+      "slug": "yugoslavia",
+      "country": "Yugoslavia",
+      "confederation": "UEFA",
+      "countryCode": "YUG"
+    },
+    {
+      "tournamentId": "wc-1958",
+      "year": 1958,
+      "slug": "west-germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-1958",
+      "year": 1958,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-1958",
+      "year": 1958,
+      "slug": "austria",
+      "country": "Austria",
+      "confederation": "UEFA",
+      "countryCode": "AUT"
+    },
+    {
+      "tournamentId": "wc-1958",
+      "year": 1958,
+      "slug": "brazil",
+      "country": "Brazil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-1958",
+      "year": 1958,
+      "slug": "czechoslovakia",
+      "country": "Checoslovaquia",
+      "confederation": "UEFA",
+      "countryCode": "CSK"
+    },
+    {
+      "tournamentId": "wc-1958",
+      "year": 1958,
+      "slug": "scotland",
+      "country": "Escocia",
+      "confederation": "UEFA",
+      "countryCode": "SCO"
+    },
+    {
+      "tournamentId": "wc-1958",
+      "year": 1958,
+      "slug": "france",
+      "country": "Francia",
+      "confederation": "UEFA",
+      "countryCode": "FRA"
+    },
+    {
+      "tournamentId": "wc-1958",
+      "year": 1958,
+      "slug": "wales",
+      "country": "Gales",
+      "confederation": "UEFA",
+      "countryCode": "WAL"
+    },
+    {
+      "tournamentId": "wc-1958",
+      "year": 1958,
+      "slug": "hungary",
+      "country": "Hungría",
+      "confederation": "UEFA",
+      "countryCode": "HUN"
+    },
+    {
+      "tournamentId": "wc-1958",
+      "year": 1958,
+      "slug": "england",
+      "country": "Inglaterra",
+      "confederation": "UEFA",
+      "countryCode": "ENG"
+    },
+    {
+      "tournamentId": "wc-1958",
+      "year": 1958,
+      "slug": "northern-ireland",
+      "country": "Irlanda del Norte",
+      "confederation": "UEFA",
+      "countryCode": "NIR"
+    },
+    {
+      "tournamentId": "wc-1958",
+      "year": 1958,
+      "slug": "mexico",
+      "country": "México",
+      "confederation": "CONCACAF",
+      "countryCode": "MEX"
+    },
+    {
+      "tournamentId": "wc-1958",
+      "year": 1958,
+      "slug": "paraguay",
+      "country": "Paraguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "PRY"
+    },
+    {
+      "tournamentId": "wc-1958",
+      "year": 1958,
+      "slug": "sweden",
+      "country": "Suecia",
+      "confederation": "UEFA",
+      "countryCode": "SWE"
+    },
+    {
+      "tournamentId": "wc-1958",
+      "year": 1958,
+      "slug": "soviet-union",
+      "country": "Unión Soviética",
+      "confederation": "UEFA",
+      "countryCode": "SUN"
+    },
+    {
+      "tournamentId": "wc-1958",
+      "year": 1958,
+      "slug": "yugoslavia",
+      "country": "Yugoslavia",
+      "confederation": "UEFA",
+      "countryCode": "YUG"
+    },
+    {
+      "tournamentId": "wc-1962",
+      "year": 1962,
+      "slug": "west-germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-1962",
+      "year": 1962,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-1962",
+      "year": 1962,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-1962",
+      "year": 1962,
+      "slug": "bulgaria",
+      "country": "Bulgaria",
+      "confederation": "UEFA",
+      "countryCode": "BGR"
+    },
+    {
+      "tournamentId": "wc-1962",
+      "year": 1962,
+      "slug": "czechoslovakia",
+      "country": "Checoslovaquia",
+      "confederation": "UEFA",
+      "countryCode": "CSK"
+    },
+    {
+      "tournamentId": "wc-1962",
+      "year": 1962,
+      "slug": "chile",
+      "country": "Chile",
+      "confederation": "CONMEBOL",
+      "countryCode": "CHL"
+    },
+    {
+      "tournamentId": "wc-1962",
+      "year": 1962,
+      "slug": "colombia",
+      "country": "Colombia",
+      "confederation": "CONMEBOL",
+      "countryCode": "COL"
+    },
+    {
+      "tournamentId": "wc-1962",
+      "year": 1962,
+      "slug": "spain",
+      "country": "España",
+      "confederation": "UEFA",
+      "countryCode": "ESP"
+    },
+    {
+      "tournamentId": "wc-1962",
+      "year": 1962,
+      "slug": "hungary",
+      "country": "Hungría",
+      "confederation": "UEFA",
+      "countryCode": "HUN"
+    },
+    {
+      "tournamentId": "wc-1962",
+      "year": 1962,
+      "slug": "england",
+      "country": "Inglaterra",
+      "confederation": "UEFA",
+      "countryCode": "ENG"
+    },
+    {
+      "tournamentId": "wc-1962",
+      "year": 1962,
+      "slug": "italy",
+      "country": "Italia",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-1962",
+      "year": 1962,
+      "slug": "mexico",
+      "country": "México",
+      "confederation": "CONCACAF",
+      "countryCode": "MEX"
+    },
+    {
+      "tournamentId": "wc-1962",
+      "year": 1962,
+      "slug": "switzerland",
+      "country": "Suiza",
+      "confederation": "UEFA",
+      "countryCode": "CHE"
+    },
+    {
+      "tournamentId": "wc-1962",
+      "year": 1962,
+      "slug": "soviet-union",
+      "country": "Unión Soviética",
+      "confederation": "UEFA",
+      "countryCode": "SUN"
+    },
+    {
+      "tournamentId": "wc-1962",
+      "year": 1962,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URY"
+    },
+    {
+      "tournamentId": "wc-1962",
+      "year": 1962,
+      "slug": "yugoslavia",
+      "country": "Yugoslavia",
+      "confederation": "UEFA",
+      "countryCode": "YUG"
+    },
+    {
+      "tournamentId": "wc-1966",
+      "year": 1966,
+      "slug": "west-germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-1966",
+      "year": 1966,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-1966",
+      "year": 1966,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-1966",
+      "year": 1966,
+      "slug": "bulgaria",
+      "country": "Bulgaria",
+      "confederation": "UEFA",
+      "countryCode": "BGR"
+    },
+    {
+      "tournamentId": "wc-1966",
+      "year": 1966,
+      "slug": "chile",
+      "country": "Chile",
+      "confederation": "CONMEBOL",
+      "countryCode": "CHL"
+    },
+    {
+      "tournamentId": "wc-1966",
+      "year": 1966,
+      "slug": "north-korea",
+      "country": "Corea del Norte",
+      "confederation": "AFC",
+      "countryCode": "PRK"
+    },
+    {
+      "tournamentId": "wc-1966",
+      "year": 1966,
+      "slug": "england",
+      "country": "England",
+      "confederation": "UEFA",
+      "countryCode": "ENG"
+    },
+    {
+      "tournamentId": "wc-1966",
+      "year": 1966,
+      "slug": "spain",
+      "country": "España",
+      "confederation": "UEFA",
+      "countryCode": "ESP"
+    },
+    {
+      "tournamentId": "wc-1966",
+      "year": 1966,
+      "slug": "france",
+      "country": "Francia",
+      "confederation": "UEFA",
+      "countryCode": "FRA"
+    },
+    {
+      "tournamentId": "wc-1966",
+      "year": 1966,
+      "slug": "hungary",
+      "country": "Hungría",
+      "confederation": "UEFA",
+      "countryCode": "HUN"
+    },
+    {
+      "tournamentId": "wc-1966",
+      "year": 1966,
+      "slug": "italy",
+      "country": "Italia",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-1966",
+      "year": 1966,
+      "slug": "mexico",
+      "country": "México",
+      "confederation": "CONCACAF",
+      "countryCode": "MEX"
+    },
+    {
+      "tournamentId": "wc-1966",
+      "year": 1966,
+      "slug": "portugal",
+      "country": "Portugal",
+      "confederation": "UEFA",
+      "countryCode": "PRT"
+    },
+    {
+      "tournamentId": "wc-1966",
+      "year": 1966,
+      "slug": "switzerland",
+      "country": "Suiza",
+      "confederation": "UEFA",
+      "countryCode": "CHE"
+    },
+    {
+      "tournamentId": "wc-1966",
+      "year": 1966,
+      "slug": "soviet-union",
+      "country": "Unión Soviética",
+      "confederation": "UEFA",
+      "countryCode": "SUN"
+    },
+    {
+      "tournamentId": "wc-1966",
+      "year": 1966,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URY"
+    },
+    {
+      "tournamentId": "wc-1970",
+      "year": 1970,
+      "slug": "west-germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-1970",
+      "year": 1970,
+      "slug": "belgium",
+      "country": "Bélgica",
+      "confederation": "UEFA",
+      "countryCode": "BEL"
+    },
+    {
+      "tournamentId": "wc-1970",
+      "year": 1970,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-1970",
+      "year": 1970,
+      "slug": "bulgaria",
+      "country": "Bulgaria",
+      "confederation": "UEFA",
+      "countryCode": "BGR"
+    },
+    {
+      "tournamentId": "wc-1970",
+      "year": 1970,
+      "slug": "czechoslovakia",
+      "country": "Checoslovaquia",
+      "confederation": "UEFA",
+      "countryCode": "CSK"
+    },
+    {
+      "tournamentId": "wc-1970",
+      "year": 1970,
+      "slug": "el-salvador",
+      "country": "El Salvador",
+      "confederation": "CONCACAF",
+      "countryCode": "SLV"
+    },
+    {
+      "tournamentId": "wc-1970",
+      "year": 1970,
+      "slug": "england",
+      "country": "Inglaterra",
+      "confederation": "UEFA",
+      "countryCode": "ENG"
+    },
+    {
+      "tournamentId": "wc-1970",
+      "year": 1970,
+      "slug": "israel",
+      "country": "Israel",
+      "confederation": "AFC",
+      "countryCode": "ISR"
+    },
+    {
+      "tournamentId": "wc-1970",
+      "year": 1970,
+      "slug": "italy",
+      "country": "Italia",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-1970",
+      "year": 1970,
+      "slug": "morocco",
+      "country": "Marruecos",
+      "confederation": "CAF",
+      "countryCode": "MAR"
+    },
+    {
+      "tournamentId": "wc-1970",
+      "year": 1970,
+      "slug": "mexico",
+      "country": "México",
+      "confederation": "CONCACAF",
+      "countryCode": "MEX"
+    },
+    {
+      "tournamentId": "wc-1970",
+      "year": 1970,
+      "slug": "peru",
+      "country": "Perú",
+      "confederation": "CONMEBOL",
+      "countryCode": "PER"
+    },
+    {
+      "tournamentId": "wc-1970",
+      "year": 1970,
+      "slug": "romania",
+      "country": "Rumanía",
+      "confederation": "UEFA",
+      "countryCode": "ROU"
+    },
+    {
+      "tournamentId": "wc-1970",
+      "year": 1970,
+      "slug": "sweden",
+      "country": "Suecia",
+      "confederation": "UEFA",
+      "countryCode": "SWE"
+    },
+    {
+      "tournamentId": "wc-1970",
+      "year": 1970,
+      "slug": "soviet-union",
+      "country": "Unión Soviética",
+      "confederation": "UEFA",
+      "countryCode": "SUN"
+    },
+    {
+      "tournamentId": "wc-1970",
+      "year": 1970,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URY"
+    },
+    {
+      "tournamentId": "wc-1974",
+      "year": 1974,
+      "slug": "west-germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-1974",
+      "year": 1974,
+      "slug": "east-germany",
+      "country": "Alemania Oriental",
+      "confederation": "UEFA",
+      "countryCode": "DDR"
+    },
+    {
+      "tournamentId": "wc-1974",
+      "year": 1974,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-1974",
+      "year": 1974,
+      "slug": "australia",
+      "country": "Australia",
+      "confederation": "AFC",
+      "countryCode": "AUS"
+    },
+    {
+      "tournamentId": "wc-1974",
+      "year": 1974,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-1974",
+      "year": 1974,
+      "slug": "bulgaria",
+      "country": "Bulgaria",
+      "confederation": "UEFA",
+      "countryCode": "BGR"
+    },
+    {
+      "tournamentId": "wc-1974",
+      "year": 1974,
+      "slug": "chile",
+      "country": "Chile",
+      "confederation": "CONMEBOL",
+      "countryCode": "CHL"
+    },
+    {
+      "tournamentId": "wc-1974",
+      "year": 1974,
+      "slug": "scotland",
+      "country": "Escocia",
+      "confederation": "UEFA",
+      "countryCode": "SCO"
+    },
+    {
+      "tournamentId": "wc-1974",
+      "year": 1974,
+      "slug": "germany",
+      "country": "Germany",
+      "confederation": "UEFA",
+      "countryCode": "GER"
+    },
+    {
+      "tournamentId": "wc-1974",
+      "year": 1974,
+      "slug": "haiti",
+      "country": "Haití",
+      "confederation": "CONCACAF",
+      "countryCode": "HTI"
+    },
+    {
+      "tournamentId": "wc-1974",
+      "year": 1974,
+      "slug": "italy",
+      "country": "Italia",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-1974",
+      "year": 1974,
+      "slug": "netherlands",
+      "country": "Netherlands",
+      "confederation": "UEFA",
+      "countryCode": "NED"
+    },
+    {
+      "tournamentId": "wc-1974",
+      "year": 1974,
+      "slug": "poland",
+      "country": "Polonia",
+      "confederation": "UEFA",
+      "countryCode": "POL"
+    },
+    {
+      "tournamentId": "wc-1974",
+      "year": 1974,
+      "slug": "sweden",
+      "country": "Suecia",
+      "confederation": "UEFA",
+      "countryCode": "SWE"
+    },
+    {
+      "tournamentId": "wc-1974",
+      "year": 1974,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URY"
+    },
+    {
+      "tournamentId": "wc-1974",
+      "year": 1974,
+      "slug": "yugoslavia",
+      "country": "Yugoslavia",
+      "confederation": "UEFA",
+      "countryCode": "YUG"
+    },
+    {
+      "tournamentId": "wc-1974",
+      "year": 1974,
+      "slug": "zaire",
+      "country": "Zaire",
+      "confederation": "CAF",
+      "countryCode": "COD"
+    },
+    {
+      "tournamentId": "wc-1978",
+      "year": 1978,
+      "slug": "west-germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-1978",
+      "year": 1978,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-1978",
+      "year": 1978,
+      "slug": "austria",
+      "country": "Austria",
+      "confederation": "UEFA",
+      "countryCode": "AUT"
+    },
+    {
+      "tournamentId": "wc-1978",
+      "year": 1978,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-1978",
+      "year": 1978,
+      "slug": "scotland",
+      "country": "Escocia",
+      "confederation": "UEFA",
+      "countryCode": "SCO"
+    },
+    {
+      "tournamentId": "wc-1978",
+      "year": 1978,
+      "slug": "spain",
+      "country": "España",
+      "confederation": "UEFA",
+      "countryCode": "ESP"
+    },
+    {
+      "tournamentId": "wc-1978",
+      "year": 1978,
+      "slug": "france",
+      "country": "Francia",
+      "confederation": "UEFA",
+      "countryCode": "FRA"
+    },
+    {
+      "tournamentId": "wc-1978",
+      "year": 1978,
+      "slug": "hungary",
+      "country": "Hungría",
+      "confederation": "UEFA",
+      "countryCode": "HUN"
+    },
+    {
+      "tournamentId": "wc-1978",
+      "year": 1978,
+      "slug": "iran",
+      "country": "Irán",
+      "confederation": "AFC",
+      "countryCode": "IRN"
+    },
+    {
+      "tournamentId": "wc-1978",
+      "year": 1978,
+      "slug": "italy",
+      "country": "Italia",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-1978",
+      "year": 1978,
+      "slug": "mexico",
+      "country": "México",
+      "confederation": "CONCACAF",
+      "countryCode": "MEX"
+    },
+    {
+      "tournamentId": "wc-1978",
+      "year": 1978,
+      "slug": "netherlands",
+      "country": "Países Bajos",
+      "confederation": "UEFA",
+      "countryCode": "NLD"
+    },
+    {
+      "tournamentId": "wc-1978",
+      "year": 1978,
+      "slug": "peru",
+      "country": "Perú",
+      "confederation": "CONMEBOL",
+      "countryCode": "PER"
+    },
+    {
+      "tournamentId": "wc-1978",
+      "year": 1978,
+      "slug": "poland",
+      "country": "Polonia",
+      "confederation": "UEFA",
+      "countryCode": "POL"
+    },
+    {
+      "tournamentId": "wc-1978",
+      "year": 1978,
+      "slug": "sweden",
+      "country": "Suecia",
+      "confederation": "UEFA",
+      "countryCode": "SWE"
+    },
+    {
+      "tournamentId": "wc-1978",
+      "year": 1978,
+      "slug": "tunisia",
+      "country": "Túnez",
+      "confederation": "CAF",
+      "countryCode": "TUN"
+    },
+    {
+      "tournamentId": "wc-1978",
+      "year": 1978,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URY"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "west-germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "algeria",
+      "country": "Argelia",
+      "confederation": "CAF",
+      "countryCode": "DZA"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "austria",
+      "country": "Austria",
+      "confederation": "UEFA",
+      "countryCode": "AUT"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "belgium",
+      "country": "Bélgica",
+      "confederation": "UEFA",
+      "countryCode": "BEL"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "brazil",
+      "country": "Brazil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "cameroon",
+      "country": "Camerún",
+      "confederation": "CAF",
+      "countryCode": "CMR"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "czechoslovakia",
+      "country": "Checoslovaquia",
+      "confederation": "UEFA",
+      "countryCode": "CSK"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "chile",
+      "country": "Chile",
+      "confederation": "CONMEBOL",
+      "countryCode": "CHL"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "el-salvador",
+      "country": "El Salvador",
+      "confederation": "CONCACAF",
+      "countryCode": "SLV"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "scotland",
+      "country": "Escocia",
+      "confederation": "UEFA",
+      "countryCode": "SCO"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "spain",
+      "country": "España",
+      "confederation": "UEFA",
+      "countryCode": "ESP"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "france",
+      "country": "Francia",
+      "confederation": "UEFA",
+      "countryCode": "FRA"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "honduras",
+      "country": "Honduras",
+      "confederation": "CONCACAF",
+      "countryCode": "HND"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "hungary",
+      "country": "Hungría",
+      "confederation": "UEFA",
+      "countryCode": "HUN"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "england",
+      "country": "Inglaterra",
+      "confederation": "UEFA",
+      "countryCode": "ENG"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "northern-ireland",
+      "country": "Irlanda del Norte",
+      "confederation": "UEFA",
+      "countryCode": "NIR"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "italy",
+      "country": "Italy",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "kuwait",
+      "country": "Kuwait",
+      "confederation": "AFC",
+      "countryCode": "KWT"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "new-zealand",
+      "country": "Nueva Zelanda",
+      "confederation": "OFC",
+      "countryCode": "NZL"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "peru",
+      "country": "Perú",
+      "confederation": "CONMEBOL",
+      "countryCode": "PER"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "poland",
+      "country": "Polonia",
+      "confederation": "UEFA",
+      "countryCode": "POL"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "soviet-union",
+      "country": "Unión Soviética",
+      "confederation": "UEFA",
+      "countryCode": "SUN"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URY"
+    },
+    {
+      "tournamentId": "wc-1982",
+      "year": 1982,
+      "slug": "yugoslavia",
+      "country": "Yugoslavia",
+      "confederation": "UEFA",
+      "countryCode": "YUG"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "west-germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "algeria",
+      "country": "Argelia",
+      "confederation": "CAF",
+      "countryCode": "DZA"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "belgium",
+      "country": "Bélgica",
+      "confederation": "UEFA",
+      "countryCode": "BEL"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "bulgaria",
+      "country": "Bulgaria",
+      "confederation": "UEFA",
+      "countryCode": "BGR"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "canada",
+      "country": "Canadá",
+      "confederation": "CONCACAF",
+      "countryCode": "CAN"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "south-korea",
+      "country": "Corea del Sur",
+      "confederation": "AFC",
+      "countryCode": "KOR"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "denmark",
+      "country": "Dinamarca",
+      "confederation": "UEFA",
+      "countryCode": "DNK"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "scotland",
+      "country": "Escocia",
+      "confederation": "UEFA",
+      "countryCode": "SCO"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "spain",
+      "country": "España",
+      "confederation": "UEFA",
+      "countryCode": "ESP"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "france",
+      "country": "Francia",
+      "confederation": "UEFA",
+      "countryCode": "FRA"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "hungary",
+      "country": "Hungría",
+      "confederation": "UEFA",
+      "countryCode": "HUN"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "england",
+      "country": "Inglaterra",
+      "confederation": "UEFA",
+      "countryCode": "ENG"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "iraq",
+      "country": "Irak",
+      "confederation": "AFC",
+      "countryCode": "IRQ"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "northern-ireland",
+      "country": "Irlanda del Norte",
+      "confederation": "UEFA",
+      "countryCode": "NIR"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "italy",
+      "country": "Italia",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "morocco",
+      "country": "Marruecos",
+      "confederation": "CAF",
+      "countryCode": "MAR"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "mexico",
+      "country": "México",
+      "confederation": "CONCACAF",
+      "countryCode": "MEX"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "netherlands",
+      "country": "Países Bajos",
+      "confederation": "UEFA",
+      "countryCode": "NLD"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "paraguay",
+      "country": "Paraguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "PRY"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "poland",
+      "country": "Polonia",
+      "confederation": "UEFA",
+      "countryCode": "POL"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "portugal",
+      "country": "Portugal",
+      "confederation": "UEFA",
+      "countryCode": "PRT"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "soviet-union",
+      "country": "Unión Soviética",
+      "confederation": "UEFA",
+      "countryCode": "SUN"
+    },
+    {
+      "tournamentId": "wc-1986",
+      "year": 1986,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URY"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "west-germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "austria",
+      "country": "Austria",
+      "confederation": "UEFA",
+      "countryCode": "AUT"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "belgium",
+      "country": "Bélgica",
+      "confederation": "UEFA",
+      "countryCode": "BEL"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "cameroon",
+      "country": "Camerún",
+      "confederation": "CAF",
+      "countryCode": "CMR"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "czechoslovakia",
+      "country": "Checoslovaquia",
+      "confederation": "UEFA",
+      "countryCode": "CSK"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "colombia",
+      "country": "Colombia",
+      "confederation": "CONMEBOL",
+      "countryCode": "COL"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "south-korea",
+      "country": "Corea del Sur",
+      "confederation": "AFC",
+      "countryCode": "KOR"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "costa-rica",
+      "country": "Costa Rica",
+      "confederation": "CONCACAF",
+      "countryCode": "CRI"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "egypt",
+      "country": "Egipto",
+      "confederation": "CAF",
+      "countryCode": "EGY"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "united-arab-emirates",
+      "country": "Emiratos Árabes",
+      "confederation": "AFC",
+      "countryCode": "ARE"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "scotland",
+      "country": "Escocia",
+      "confederation": "UEFA",
+      "countryCode": "SCO"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "spain",
+      "country": "España",
+      "confederation": "UEFA",
+      "countryCode": "ESP"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "united-states",
+      "country": "Estados Unidos",
+      "confederation": "CONCACAF",
+      "countryCode": "USA"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "germany",
+      "country": "Germany",
+      "confederation": "UEFA",
+      "countryCode": "GER"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "england",
+      "country": "Inglaterra",
+      "confederation": "UEFA",
+      "countryCode": "ENG"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "republic-of-ireland",
+      "country": "Irlanda",
+      "confederation": "UEFA",
+      "countryCode": "IRL"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "italy",
+      "country": "Italia",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "netherlands",
+      "country": "Países Bajos",
+      "confederation": "UEFA",
+      "countryCode": "NLD"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "romania",
+      "country": "Rumanía",
+      "confederation": "UEFA",
+      "countryCode": "ROU"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "sweden",
+      "country": "Suecia",
+      "confederation": "UEFA",
+      "countryCode": "SWE"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "soviet-union",
+      "country": "Unión Soviética",
+      "confederation": "UEFA",
+      "countryCode": "SUN"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URY"
+    },
+    {
+      "tournamentId": "wc-1990",
+      "year": 1990,
+      "slug": "yugoslavia",
+      "country": "Yugoslavia",
+      "confederation": "UEFA",
+      "countryCode": "YUG"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "saudi-arabia",
+      "country": "Arabia Saudita",
+      "confederation": "AFC",
+      "countryCode": "SAU"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "belgium",
+      "country": "Bélgica",
+      "confederation": "UEFA",
+      "countryCode": "BEL"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "bolivia",
+      "country": "Bolivia",
+      "confederation": "CONMEBOL",
+      "countryCode": "BOL"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "brazil",
+      "country": "Brazil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "bulgaria",
+      "country": "Bulgaria",
+      "confederation": "UEFA",
+      "countryCode": "BGR"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "cameroon",
+      "country": "Camerún",
+      "confederation": "CAF",
+      "countryCode": "CMR"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "colombia",
+      "country": "Colombia",
+      "confederation": "CONMEBOL",
+      "countryCode": "COL"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "south-korea",
+      "country": "Corea del Sur",
+      "confederation": "AFC",
+      "countryCode": "KOR"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "spain",
+      "country": "España",
+      "confederation": "UEFA",
+      "countryCode": "ESP"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "united-states",
+      "country": "Estados Unidos",
+      "confederation": "CONCACAF",
+      "countryCode": "USA"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "greece",
+      "country": "Grecia",
+      "confederation": "UEFA",
+      "countryCode": "GRC"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "republic-of-ireland",
+      "country": "Irlanda",
+      "confederation": "UEFA",
+      "countryCode": "IRL"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "italy",
+      "country": "Italia",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "morocco",
+      "country": "Marruecos",
+      "confederation": "CAF",
+      "countryCode": "MAR"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "mexico",
+      "country": "México",
+      "confederation": "CONCACAF",
+      "countryCode": "MEX"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "nigeria",
+      "country": "Nigeria",
+      "confederation": "CAF",
+      "countryCode": "NGA"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "norway",
+      "country": "Noruega",
+      "confederation": "UEFA",
+      "countryCode": "NOR"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "netherlands",
+      "country": "Países Bajos",
+      "confederation": "UEFA",
+      "countryCode": "NLD"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "romania",
+      "country": "Rumanía",
+      "confederation": "UEFA",
+      "countryCode": "ROU"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "russia",
+      "country": "Rusia",
+      "confederation": "UEFA",
+      "countryCode": "RUS"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "sweden",
+      "country": "Suecia",
+      "confederation": "UEFA",
+      "countryCode": "SWE"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "switzerland",
+      "country": "Suiza",
+      "confederation": "UEFA",
+      "countryCode": "CHE"
+    },
+    {
+      "tournamentId": "wc-1994",
+      "year": 1994,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URY"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "saudi-arabia",
+      "country": "Arabia Saudita",
+      "confederation": "AFC",
+      "countryCode": "SAU"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "austria",
+      "country": "Austria",
+      "confederation": "UEFA",
+      "countryCode": "AUT"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "belgium",
+      "country": "Bélgica",
+      "confederation": "UEFA",
+      "countryCode": "BEL"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "bulgaria",
+      "country": "Bulgaria",
+      "confederation": "UEFA",
+      "countryCode": "BGR"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "cameroon",
+      "country": "Camerún",
+      "confederation": "CAF",
+      "countryCode": "CMR"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "chile",
+      "country": "Chile",
+      "confederation": "CONMEBOL",
+      "countryCode": "CHL"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "colombia",
+      "country": "Colombia",
+      "confederation": "CONMEBOL",
+      "countryCode": "COL"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "south-korea",
+      "country": "Corea del Sur",
+      "confederation": "AFC",
+      "countryCode": "KOR"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "croatia",
+      "country": "Croacia",
+      "confederation": "UEFA",
+      "countryCode": "HRV"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "denmark",
+      "country": "Dinamarca",
+      "confederation": "UEFA",
+      "countryCode": "DNK"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "scotland",
+      "country": "Escocia",
+      "confederation": "UEFA",
+      "countryCode": "SCO"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "spain",
+      "country": "España",
+      "confederation": "UEFA",
+      "countryCode": "ESP"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "united-states",
+      "country": "Estados Unidos",
+      "confederation": "CONCACAF",
+      "countryCode": "USA"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "france",
+      "country": "Francia",
+      "confederation": "UEFA",
+      "countryCode": "FRA"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "england",
+      "country": "Inglaterra",
+      "confederation": "UEFA",
+      "countryCode": "ENG"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "iran",
+      "country": "Irán",
+      "confederation": "AFC",
+      "countryCode": "IRN"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "italy",
+      "country": "Italia",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "jamaica",
+      "country": "Jamaica",
+      "confederation": "CONCACAF",
+      "countryCode": "JAM"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "japan",
+      "country": "Japón",
+      "confederation": "AFC",
+      "countryCode": "JPN"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "morocco",
+      "country": "Marruecos",
+      "confederation": "CAF",
+      "countryCode": "MAR"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "mexico",
+      "country": "México",
+      "confederation": "CONCACAF",
+      "countryCode": "MEX"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "nigeria",
+      "country": "Nigeria",
+      "confederation": "CAF",
+      "countryCode": "NGA"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "norway",
+      "country": "Noruega",
+      "confederation": "UEFA",
+      "countryCode": "NOR"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "netherlands",
+      "country": "Países Bajos",
+      "confederation": "UEFA",
+      "countryCode": "NLD"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "paraguay",
+      "country": "Paraguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "PRY"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "portugal",
+      "country": "Portugal",
+      "confederation": "UEFA",
+      "countryCode": "POR"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "romania",
+      "country": "Rumanía",
+      "confederation": "UEFA",
+      "countryCode": "ROU"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "south-africa",
+      "country": "Sudáfrica",
+      "confederation": "CAF",
+      "countryCode": "ZAF"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "tunisia",
+      "country": "Túnez",
+      "confederation": "CAF",
+      "countryCode": "TUN"
+    },
+    {
+      "tournamentId": "wc-1998",
+      "year": 1998,
+      "slug": "yugoslavia",
+      "country": "Yugoslavia",
+      "confederation": "UEFA",
+      "countryCode": "YUG"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "saudi-arabia",
+      "country": "Arabia Saudita",
+      "confederation": "AFC",
+      "countryCode": "SAU"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "belgium",
+      "country": "Bélgica",
+      "confederation": "UEFA",
+      "countryCode": "BEL"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "brazil",
+      "country": "Brazil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "cameroon",
+      "country": "Camerún",
+      "confederation": "CAF",
+      "countryCode": "CMR"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "china",
+      "country": "China",
+      "confederation": "AFC",
+      "countryCode": "CHN"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "south-korea",
+      "country": "Corea del Sur",
+      "confederation": "AFC",
+      "countryCode": "KOR"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "costa-rica",
+      "country": "Costa Rica",
+      "confederation": "CONCACAF",
+      "countryCode": "CRI"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "croatia",
+      "country": "Croacia",
+      "confederation": "UEFA",
+      "countryCode": "HRV"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "denmark",
+      "country": "Dinamarca",
+      "confederation": "UEFA",
+      "countryCode": "DNK"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "ecuador",
+      "country": "Ecuador",
+      "confederation": "CONMEBOL",
+      "countryCode": "ECU"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "slovenia",
+      "country": "Eslovenia",
+      "confederation": "UEFA",
+      "countryCode": "SVN"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "spain",
+      "country": "España",
+      "confederation": "UEFA",
+      "countryCode": "ESP"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "united-states",
+      "country": "Estados Unidos",
+      "confederation": "CONCACAF",
+      "countryCode": "USA"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "france",
+      "country": "Francia",
+      "confederation": "UEFA",
+      "countryCode": "FRA"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "england",
+      "country": "Inglaterra",
+      "confederation": "UEFA",
+      "countryCode": "ENG"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "republic-of-ireland",
+      "country": "Irlanda",
+      "confederation": "UEFA",
+      "countryCode": "IRL"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "italy",
+      "country": "Italia",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "japan",
+      "country": "Japón",
+      "confederation": "AFC",
+      "countryCode": "JPN"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "mexico",
+      "country": "México",
+      "confederation": "CONCACAF",
+      "countryCode": "MEX"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "nigeria",
+      "country": "Nigeria",
+      "confederation": "CAF",
+      "countryCode": "NGA"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "paraguay",
+      "country": "Paraguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "PRY"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "poland",
+      "country": "Polonia",
+      "confederation": "UEFA",
+      "countryCode": "POL"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "portugal",
+      "country": "Portugal",
+      "confederation": "UEFA",
+      "countryCode": "PRT"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "russia",
+      "country": "Rusia",
+      "confederation": "UEFA",
+      "countryCode": "RUS"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "senegal",
+      "country": "Senegal",
+      "confederation": "CAF",
+      "countryCode": "SEN"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "south-africa",
+      "country": "Sudáfrica",
+      "confederation": "CAF",
+      "countryCode": "ZAF"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "sweden",
+      "country": "Suecia",
+      "confederation": "UEFA",
+      "countryCode": "SWE"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "tunisia",
+      "country": "Túnez",
+      "confederation": "CAF",
+      "countryCode": "TUN"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "turkey",
+      "country": "Turquía",
+      "confederation": "UEFA",
+      "countryCode": "TUR"
+    },
+    {
+      "tournamentId": "wc-2002",
+      "year": 2002,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URY"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "angola",
+      "country": "Angola",
+      "confederation": "CAF",
+      "countryCode": "AGO"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "saudi-arabia",
+      "country": "Arabia Saudita",
+      "confederation": "AFC",
+      "countryCode": "SAU"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "australia",
+      "country": "Australia",
+      "confederation": "AFC",
+      "countryCode": "AUS"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "south-korea",
+      "country": "Corea del Sur",
+      "confederation": "AFC",
+      "countryCode": "KOR"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "ivory-coast",
+      "country": "Costa de Marfil",
+      "confederation": "CAF",
+      "countryCode": "CIV"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "costa-rica",
+      "country": "Costa Rica",
+      "confederation": "CONCACAF",
+      "countryCode": "CRI"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "croatia",
+      "country": "Croacia",
+      "confederation": "UEFA",
+      "countryCode": "HRV"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "ecuador",
+      "country": "Ecuador",
+      "confederation": "CONMEBOL",
+      "countryCode": "ECU"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "spain",
+      "country": "España",
+      "confederation": "UEFA",
+      "countryCode": "ESP"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "united-states",
+      "country": "Estados Unidos",
+      "confederation": "CONCACAF",
+      "countryCode": "USA"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "france",
+      "country": "Francia",
+      "confederation": "UEFA",
+      "countryCode": "FRA"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "ghana",
+      "country": "Ghana",
+      "confederation": "CAF",
+      "countryCode": "GHA"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "england",
+      "country": "Inglaterra",
+      "confederation": "UEFA",
+      "countryCode": "ENG"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "iran",
+      "country": "Irán",
+      "confederation": "AFC",
+      "countryCode": "IRN"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "italy",
+      "country": "Italy",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "japan",
+      "country": "Japón",
+      "confederation": "AFC",
+      "countryCode": "JPN"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "mexico",
+      "country": "México",
+      "confederation": "CONCACAF",
+      "countryCode": "MEX"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "netherlands",
+      "country": "Países Bajos",
+      "confederation": "UEFA",
+      "countryCode": "NLD"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "paraguay",
+      "country": "Paraguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "PRY"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "poland",
+      "country": "Polonia",
+      "confederation": "UEFA",
+      "countryCode": "POL"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "portugal",
+      "country": "Portugal",
+      "confederation": "UEFA",
+      "countryCode": "POR"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "czech-republic",
+      "country": "Rep. Checa",
+      "confederation": "UEFA",
+      "countryCode": "CZE"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "serbia-and-montenegro",
+      "country": "Serbia y Montenegro",
+      "confederation": "UEFA",
+      "countryCode": "SCG"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "sweden",
+      "country": "Suecia",
+      "confederation": "UEFA",
+      "countryCode": "SWE"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "switzerland",
+      "country": "Suiza",
+      "confederation": "UEFA",
+      "countryCode": "CHE"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "togo",
+      "country": "Togo",
+      "confederation": "CAF",
+      "countryCode": "TGO"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "trinidad-and-tobago",
+      "country": "Trinidad y Tobago",
+      "confederation": "CONCACAF",
+      "countryCode": "TTO"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "tunisia",
+      "country": "Túnez",
+      "confederation": "CAF",
+      "countryCode": "TUN"
+    },
+    {
+      "tournamentId": "wc-2006",
+      "year": 2006,
+      "slug": "ukraine",
+      "country": "Ucrania",
+      "confederation": "UEFA",
+      "countryCode": "UKR"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "algeria",
+      "country": "Argelia",
+      "confederation": "CAF",
+      "countryCode": "DZA"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "australia",
+      "country": "Australia",
+      "confederation": "AFC",
+      "countryCode": "AUS"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "cameroon",
+      "country": "Camerún",
+      "confederation": "CAF",
+      "countryCode": "CMR"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "chile",
+      "country": "Chile",
+      "confederation": "CONMEBOL",
+      "countryCode": "CHL"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "north-korea",
+      "country": "Corea del Norte",
+      "confederation": "AFC",
+      "countryCode": "PRK"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "south-korea",
+      "country": "Corea del Sur",
+      "confederation": "AFC",
+      "countryCode": "KOR"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "ivory-coast",
+      "country": "Costa de Marfil",
+      "confederation": "CAF",
+      "countryCode": "CIV"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "denmark",
+      "country": "Dinamarca",
+      "confederation": "UEFA",
+      "countryCode": "DNK"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "slovakia",
+      "country": "Eslovaquia",
+      "confederation": "UEFA",
+      "countryCode": "SVK"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "slovenia",
+      "country": "Eslovenia",
+      "confederation": "UEFA",
+      "countryCode": "SVN"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "spain",
+      "country": "España",
+      "confederation": "UEFA",
+      "countryCode": "ESP"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "united-states",
+      "country": "Estados Unidos",
+      "confederation": "CONCACAF",
+      "countryCode": "USA"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "france",
+      "country": "Francia",
+      "confederation": "UEFA",
+      "countryCode": "FRA"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "ghana",
+      "country": "Ghana",
+      "confederation": "CAF",
+      "countryCode": "GHA"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "greece",
+      "country": "Grecia",
+      "confederation": "UEFA",
+      "countryCode": "GRC"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "honduras",
+      "country": "Honduras",
+      "confederation": "CONCACAF",
+      "countryCode": "HND"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "england",
+      "country": "Inglaterra",
+      "confederation": "UEFA",
+      "countryCode": "ENG"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "italy",
+      "country": "Italia",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "japan",
+      "country": "Japón",
+      "confederation": "AFC",
+      "countryCode": "JPN"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "mexico",
+      "country": "México",
+      "confederation": "CONCACAF",
+      "countryCode": "MEX"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "netherlands",
+      "country": "Netherlands",
+      "confederation": "UEFA",
+      "countryCode": "NED"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "nigeria",
+      "country": "Nigeria",
+      "confederation": "CAF",
+      "countryCode": "NGA"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "new-zealand",
+      "country": "Nueva Zelanda",
+      "confederation": "OFC",
+      "countryCode": "NZL"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "paraguay",
+      "country": "Paraguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "PRY"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "portugal",
+      "country": "Portugal",
+      "confederation": "UEFA",
+      "countryCode": "PRT"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "serbia",
+      "country": "Serbia",
+      "confederation": "UEFA",
+      "countryCode": "SRB"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "south-africa",
+      "country": "Sudáfrica",
+      "confederation": "CAF",
+      "countryCode": "ZAF"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "switzerland",
+      "country": "Suiza",
+      "confederation": "UEFA",
+      "countryCode": "CHE"
+    },
+    {
+      "tournamentId": "wc-2010",
+      "year": 2010,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URY"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "GER"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "algeria",
+      "country": "Argelia",
+      "confederation": "CAF",
+      "countryCode": "DZA"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "australia",
+      "country": "Australia",
+      "confederation": "AFC",
+      "countryCode": "AUS"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "belgium",
+      "country": "Bélgica",
+      "confederation": "UEFA",
+      "countryCode": "BEL"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "bosnia-and-herzegovina",
+      "country": "Bosnia y Herzegovina",
+      "confederation": "UEFA",
+      "countryCode": "BIH"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "cameroon",
+      "country": "Camerún",
+      "confederation": "CAF",
+      "countryCode": "CMR"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "chile",
+      "country": "Chile",
+      "confederation": "CONMEBOL",
+      "countryCode": "CHL"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "colombia",
+      "country": "Colombia",
+      "confederation": "CONMEBOL",
+      "countryCode": "COL"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "south-korea",
+      "country": "Corea del Sur",
+      "confederation": "AFC",
+      "countryCode": "KOR"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "ivory-coast",
+      "country": "Costa de Marfil",
+      "confederation": "CAF",
+      "countryCode": "CIV"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "costa-rica",
+      "country": "Costa Rica",
+      "confederation": "CONCACAF",
+      "countryCode": "CRI"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "croatia",
+      "country": "Croacia",
+      "confederation": "UEFA",
+      "countryCode": "HRV"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "ecuador",
+      "country": "Ecuador",
+      "confederation": "CONMEBOL",
+      "countryCode": "ECU"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "spain",
+      "country": "España",
+      "confederation": "UEFA",
+      "countryCode": "ESP"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "united-states",
+      "country": "Estados Unidos",
+      "confederation": "CONCACAF",
+      "countryCode": "USA"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "france",
+      "country": "Francia",
+      "confederation": "UEFA",
+      "countryCode": "FRA"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "ghana",
+      "country": "Ghana",
+      "confederation": "CAF",
+      "countryCode": "GHA"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "greece",
+      "country": "Grecia",
+      "confederation": "UEFA",
+      "countryCode": "GRC"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "honduras",
+      "country": "Honduras",
+      "confederation": "CONCACAF",
+      "countryCode": "HND"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "england",
+      "country": "Inglaterra",
+      "confederation": "UEFA",
+      "countryCode": "ENG"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "iran",
+      "country": "Irán",
+      "confederation": "AFC",
+      "countryCode": "IRN"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "italy",
+      "country": "Italia",
+      "confederation": "UEFA",
+      "countryCode": "ITA"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "japan",
+      "country": "Japón",
+      "confederation": "AFC",
+      "countryCode": "JPN"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "mexico",
+      "country": "México",
+      "confederation": "CONCACAF",
+      "countryCode": "MEX"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "nigeria",
+      "country": "Nigeria",
+      "confederation": "CAF",
+      "countryCode": "NGA"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "netherlands",
+      "country": "Países Bajos",
+      "confederation": "UEFA",
+      "countryCode": "NLD"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "portugal",
+      "country": "Portugal",
+      "confederation": "UEFA",
+      "countryCode": "PRT"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "russia",
+      "country": "Rusia",
+      "confederation": "UEFA",
+      "countryCode": "RUS"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "switzerland",
+      "country": "Suiza",
+      "confederation": "UEFA",
+      "countryCode": "CHE"
+    },
+    {
+      "tournamentId": "wc-2014",
+      "year": 2014,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URY"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "saudi-arabia",
+      "country": "Arabia Saudita",
+      "confederation": "AFC",
+      "countryCode": "SAU"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "australia",
+      "country": "Australia",
+      "confederation": "AFC",
+      "countryCode": "AUS"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "belgium",
+      "country": "Belgium",
+      "confederation": "UEFA",
+      "countryCode": "BEL"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "colombia",
+      "country": "Colombia",
+      "confederation": "CONMEBOL",
+      "countryCode": "COL"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "south-korea",
+      "country": "Corea del Sur",
+      "confederation": "AFC",
+      "countryCode": "KOR"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "costa-rica",
+      "country": "Costa Rica",
+      "confederation": "CONCACAF",
+      "countryCode": "CRI"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "croatia",
+      "country": "Croatia",
+      "confederation": "UEFA",
+      "countryCode": "CRO"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "denmark",
+      "country": "Dinamarca",
+      "confederation": "UEFA",
+      "countryCode": "DNK"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "egypt",
+      "country": "Egipto",
+      "confederation": "CAF",
+      "countryCode": "EGY"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "spain",
+      "country": "España",
+      "confederation": "UEFA",
+      "countryCode": "ESP"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "france",
+      "country": "France",
+      "confederation": "UEFA",
+      "countryCode": "FRA"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "england",
+      "country": "Inglaterra",
+      "confederation": "UEFA",
+      "countryCode": "ENG"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "iran",
+      "country": "Irán",
+      "confederation": "AFC",
+      "countryCode": "IRN"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "iceland",
+      "country": "Islandia",
+      "confederation": "UEFA",
+      "countryCode": "ISL"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "japan",
+      "country": "Japón",
+      "confederation": "AFC",
+      "countryCode": "JPN"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "morocco",
+      "country": "Marruecos",
+      "confederation": "CAF",
+      "countryCode": "MAR"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "mexico",
+      "country": "México",
+      "confederation": "CONCACAF",
+      "countryCode": "MEX"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "nigeria",
+      "country": "Nigeria",
+      "confederation": "CAF",
+      "countryCode": "NGA"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "panama",
+      "country": "Panamá",
+      "confederation": "CONCACAF",
+      "countryCode": "PAN"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "peru",
+      "country": "Perú",
+      "confederation": "CONMEBOL",
+      "countryCode": "PER"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "poland",
+      "country": "Polonia",
+      "confederation": "UEFA",
+      "countryCode": "POL"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "portugal",
+      "country": "Portugal",
+      "confederation": "UEFA",
+      "countryCode": "PRT"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "russia",
+      "country": "Rusia",
+      "confederation": "UEFA",
+      "countryCode": "RUS"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "senegal",
+      "country": "Senegal",
+      "confederation": "CAF",
+      "countryCode": "SEN"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "serbia",
+      "country": "Serbia",
+      "confederation": "UEFA",
+      "countryCode": "SRB"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "sweden",
+      "country": "Suecia",
+      "confederation": "UEFA",
+      "countryCode": "SWE"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "switzerland",
+      "country": "Suiza",
+      "confederation": "UEFA",
+      "countryCode": "CHE"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "tunisia",
+      "country": "Túnez",
+      "confederation": "CAF",
+      "countryCode": "TUN"
+    },
+    {
+      "tournamentId": "wc-2018",
+      "year": 2018,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URY"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "DEU"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "saudi-arabia",
+      "country": "Arabia Saudita",
+      "confederation": "AFC",
+      "countryCode": "SAU"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "australia",
+      "country": "Australia",
+      "confederation": "AFC",
+      "countryCode": "AUS"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "belgium",
+      "country": "Bélgica",
+      "confederation": "UEFA",
+      "countryCode": "BEL"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "cameroon",
+      "country": "Camerún",
+      "confederation": "CAF",
+      "countryCode": "CMR"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "canada",
+      "country": "Canadá",
+      "confederation": "CONCACAF",
+      "countryCode": "CAN"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "south-korea",
+      "country": "Corea del Sur",
+      "confederation": "AFC",
+      "countryCode": "KOR"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "costa-rica",
+      "country": "Costa Rica",
+      "confederation": "CONCACAF",
+      "countryCode": "CRI"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "croatia",
+      "country": "Croacia",
+      "confederation": "UEFA",
+      "countryCode": "HRV"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "denmark",
+      "country": "Dinamarca",
+      "confederation": "UEFA",
+      "countryCode": "DNK"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "ecuador",
+      "country": "Ecuador",
+      "confederation": "CONMEBOL",
+      "countryCode": "ECU"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "spain",
+      "country": "España",
+      "confederation": "UEFA",
+      "countryCode": "ESP"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "united-states",
+      "country": "Estados Unidos",
+      "confederation": "CONCACAF",
+      "countryCode": "USA"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "france",
+      "country": "Francia",
+      "confederation": "UEFA",
+      "countryCode": "FRA"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "wales",
+      "country": "Gales",
+      "confederation": "UEFA",
+      "countryCode": "WAL"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "ghana",
+      "country": "Ghana",
+      "confederation": "CAF",
+      "countryCode": "GHA"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "england",
+      "country": "Inglaterra",
+      "confederation": "UEFA",
+      "countryCode": "ENG"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "iran",
+      "country": "Irán",
+      "confederation": "AFC",
+      "countryCode": "IRN"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "japan",
+      "country": "Japón",
+      "confederation": "AFC",
+      "countryCode": "JPN"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "morocco",
+      "country": "Marruecos",
+      "confederation": "CAF",
+      "countryCode": "MAR"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "mexico",
+      "country": "México",
+      "confederation": "CONCACAF",
+      "countryCode": "MEX"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "netherlands",
+      "country": "Países Bajos",
+      "confederation": "UEFA",
+      "countryCode": "NLD"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "poland",
+      "country": "Polonia",
+      "confederation": "UEFA",
+      "countryCode": "POL"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "portugal",
+      "country": "Portugal",
+      "confederation": "UEFA",
+      "countryCode": "PRT"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "qatar",
+      "country": "Qatar",
+      "confederation": "AFC",
+      "countryCode": "QAT"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "senegal",
+      "country": "Senegal",
+      "confederation": "CAF",
+      "countryCode": "SEN"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "serbia",
+      "country": "Serbia",
+      "confederation": "UEFA",
+      "countryCode": "SRB"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "switzerland",
+      "country": "Suiza",
+      "confederation": "UEFA",
+      "countryCode": "CHE"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "tunisia",
+      "country": "Túnez",
+      "confederation": "CAF",
+      "countryCode": "TUN"
+    },
+    {
+      "tournamentId": "wc-2022",
+      "year": 2022,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URY"
+    },
+    {
+      "tournamentId": "wc-2026",
+      "year": 2026,
+      "slug": "argentina",
+      "country": "Argentina",
+      "confederation": "CONMEBOL",
+      "countryCode": "ARG"
+    },
+    {
+      "tournamentId": "wc-2026",
+      "year": 2026,
+      "slug": "brazil",
+      "country": "Brasil",
+      "confederation": "CONMEBOL",
+      "countryCode": "BRA"
+    },
+    {
+      "tournamentId": "wc-2026",
+      "year": 2026,
+      "slug": "uruguay",
+      "country": "Uruguay",
+      "confederation": "CONMEBOL",
+      "countryCode": "URU"
+    },
+    {
+      "tournamentId": "wc-2026",
+      "year": 2026,
+      "slug": "spain",
+      "country": "España",
+      "confederation": "UEFA",
+      "countryCode": "ESP"
+    },
+    {
+      "tournamentId": "wc-2026",
+      "year": 2026,
+      "slug": "france",
+      "country": "Francia",
+      "confederation": "UEFA",
+      "countryCode": "FRA"
+    },
+    {
+      "tournamentId": "wc-2026",
+      "year": 2026,
+      "slug": "germany",
+      "country": "Alemania",
+      "confederation": "UEFA",
+      "countryCode": "GER"
+    },
+    {
+      "tournamentId": "wc-2026",
+      "year": 2026,
+      "slug": "netherlands",
+      "country": "Holanda",
+      "confederation": "UEFA",
+      "countryCode": "NED"
+    },
+    {
+      "tournamentId": "wc-2026",
+      "year": 2026,
+      "slug": "england",
+      "country": "Inglaterra",
+      "confederation": "UEFA",
+      "countryCode": "ENG"
+    },
+    {
+      "tournamentId": "wc-2026",
+      "year": 2026,
+      "slug": "portugal",
+      "country": "Portugal",
+      "confederation": "UEFA",
+      "countryCode": "POR"
+    }
+  ]
+}

@@ -1,0 +1,511 @@
+{
+  "country": "Países Bajos",
+  "countryCode": "NLD",
+  "confederation": "UEFA",
+  "year": 1986,
+  "tournamentId": "wc-1986",
+  "players": [
+    {
+      "id": "ned86hansvanbre",
+      "name": "Hans van Breukelen",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 86,
+        "manejo": 85,
+        "salidas": 83,
+        "penales": 81,
+        "distribucion": 80
+      },
+      "rating": 83,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86stanleymen",
+      "name": "Stanley Menzo",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 75,
+        "manejo": 74,
+        "salidas": 72,
+        "penales": 70,
+        "distribucion": 69
+      },
+      "rating": 72,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86berryvanae",
+      "name": "Berry van Aerle",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 79,
+        "velocidad": 77,
+        "pases": 75,
+        "duelos": 74
+      },
+      "rating": 77,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86ericgerets",
+      "name": "Eric Gerets",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 80,
+        "velocidad": 78,
+        "pases": 76,
+        "duelos": 75
+      },
+      "rating": 78,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86nicojanhof",
+      "name": "Nico Jan Hofstede",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 76,
+        "intercepciones": 75,
+        "velocidad": 73,
+        "pases": 71,
+        "duelos": 70
+      },
+      "rating": 73,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86ronaldkoem",
+      "name": "Ronald Koeman",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "MCD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 88,
+        "intercepciones": 87,
+        "velocidad": 85,
+        "pases": 83,
+        "duelos": 82
+      },
+      "rating": 85,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86adrivantig",
+      "name": "Adri van Tiggelen",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 80,
+        "velocidad": 78,
+        "pases": 76,
+        "duelos": 75
+      },
+      "rating": 78,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86peterboeve",
+      "name": "Peter Boeve",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 74,
+        "intercepciones": 73,
+        "velocidad": 71,
+        "pases": 69,
+        "duelos": 68
+      },
+      "rating": 71,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86ruudvander",
+      "name": "Ruud van der Veen",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 73,
+        "intercepciones": 72,
+        "velocidad": 70,
+        "pases": 68,
+        "duelos": 67
+      },
+      "rating": 70,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86janwouters",
+      "name": "Jan Wouters",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 83,
+        "pases": 82,
+        "posicionamiento": 80,
+        "duelos": 78,
+        "resistencia": 77
+      },
+      "rating": 80,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86frankrijka",
+      "name": "Frank Rijkaard",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        },
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 89,
+        "pases": 88,
+        "posicionamiento": 86,
+        "duelos": 84,
+        "resistencia": 83
+      },
+      "rating": 86,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86erwinkoema",
+      "name": "Erwin Koeman",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 81,
+        "vision": 80,
+        "llegada": 78,
+        "recuperacion": 76,
+        "tecnica": 75
+      },
+      "rating": 78,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86arnoldmuhr",
+      "name": "Arnold Mühren",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 81,
+        "llegada": 79,
+        "recuperacion": 77,
+        "tecnica": 76
+      },
+      "rating": 79,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86leovandere",
+      "name": "Leo van der Elst",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 75,
+        "vision": 74,
+        "llegada": 72,
+        "recuperacion": 70,
+        "tecnica": 69
+      },
+      "rating": 72,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86robwitschg",
+      "name": "Rob Witschge",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 77,
+        "vision": 76,
+        "llegada": 74,
+        "recuperacion": 72,
+        "tecnica": 71
+      },
+      "rating": 74,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86srenlerby",
+      "name": "Søren Lerby",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 82,
+        "vision": 81,
+        "llegada": 79,
+        "recuperacion": 77,
+        "tecnica": 76
+      },
+      "rating": 79,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86geraldvane",
+      "name": "Gerald Vanenburg",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        },
+        {
+          "position": "MC",
+          "compatibility": "forzado"
+        }
+      ],
+      "stats": {
+        "velocidad": 82,
+        "regate": 81,
+        "centro": 79,
+        "disparo": 77,
+        "desmarque": 76
+      },
+      "rating": 79,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86pieterhuis",
+      "name": "Pieter Huistra",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 76,
+        "regate": 75,
+        "centro": 73,
+        "disparo": 71,
+        "desmarque": 70
+      },
+      "rating": 73,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86johnvantsc",
+      "name": "John van 't Schip",
+      "position": "MI",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        },
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 79,
+        "regate": 78,
+        "centro": 76,
+        "disparo": 74,
+        "pases": 73
+      },
+      "rating": 76,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86hansgillha",
+      "name": "Hans Gillhaus",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "ED",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 78,
+        "regate": 77,
+        "centro": 75,
+        "disparo": 73,
+        "desmarque": 72
+      },
+      "rating": 75,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86ruudgullit",
+      "name": "Ruud Gullit",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        },
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 93,
+        "regate": 92,
+        "centro": 90,
+        "disparo": 88,
+        "desmarque": 87
+      },
+      "rating": 90,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86marcovanba",
+      "name": "Marco van Basten",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 87,
+        "fisico": 86,
+        "velocidad": 85,
+        "cabezazo": 83,
+        "pressing": 82,
+        "desmarque": 81
+      },
+      "rating": 84,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86wimkieft",
+      "name": "Wim Kieft",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 81,
+        "fisico": 80,
+        "velocidad": 79,
+        "cabezazo": 77,
+        "pressing": 76,
+        "desmarque": 75
+      },
+      "rating": 78,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    },
+    {
+      "id": "ned86dicknannin",
+      "name": "Dick Nanninga",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 76,
+        "fisico": 75,
+        "velocidad": 74,
+        "cabezazo": 72,
+        "pressing": 71,
+        "desmarque": 70
+      },
+      "rating": 73,
+      "country": "Países Bajos",
+      "tournamentYear": 1986,
+      "tournamentId": "wc-1986"
+    }
+  ]
+}

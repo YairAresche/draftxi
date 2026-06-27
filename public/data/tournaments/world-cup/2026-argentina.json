@@ -1,0 +1,396 @@
+{
+  "country": "Argentina",
+  "countryCode": "ARG",
+  "confederation": "CONMEBOL",
+  "year": 2026,
+  "tournamentId": "wc-2026",
+  "players": [
+    {
+      "id": "arg26-emartinez",
+      "name": "Emiliano Martínez",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 92,
+        "manejo": 91,
+        "salidas": 89,
+        "penales": 87,
+        "distribucion": 86
+      },
+      "rating": 89,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-grulli",
+      "name": "Gerónimo Rulli",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 75,
+        "salidas": 73,
+        "penales": 71,
+        "distribucion": 70
+      },
+      "rating": 73,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-nmolina",
+      "name": "Nahuel Molina",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 84,
+        "intercepciones": 83,
+        "velocidad": 81,
+        "pases": 79,
+        "duelos": 78
+      },
+      "rating": 81,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-notamendi",
+      "name": "Nicolás Otamendi",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 84,
+        "intercepciones": 83,
+        "velocidad": 81,
+        "pases": 79,
+        "duelos": 78
+      },
+      "rating": 81,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-cromero",
+      "name": "Cristian Romero",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 90,
+        "intercepciones": 89,
+        "velocidad": 87,
+        "pases": 85,
+        "duelos": 84
+      },
+      "rating": 87,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-lmartinez",
+      "name": "Lisandro Martínez",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 87,
+        "intercepciones": 86,
+        "velocidad": 84,
+        "pases": 82,
+        "duelos": 81
+      },
+      "rating": 84,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-ntagliafico",
+      "name": "Nicolás Tagliafico",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 80,
+        "intercepciones": 79,
+        "velocidad": 77,
+        "pases": 75,
+        "duelos": 74
+      },
+      "rating": 77,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-rpaul",
+      "name": "Rodrigo De Paul",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 86,
+        "vision": 85,
+        "llegada": 83,
+        "recuperacion": 81,
+        "tecnica": 80
+      },
+      "rating": 83,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-aallister",
+      "name": "Alexis Mac Allister",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 90,
+        "vision": 89,
+        "llegada": 87,
+        "recuperacion": 85,
+        "tecnica": 84
+      },
+      "rating": 87,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-efernandez",
+      "name": "Enzo Fernández",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 88,
+        "vision": 87,
+        "llegada": 85,
+        "recuperacion": 83,
+        "tecnica": 82
+      },
+      "rating": 85,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-lmessi",
+      "name": "Lionel Messi",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 94,
+        "regate": 93,
+        "centro": 91,
+        "disparo": 89,
+        "desmarque": 88
+      },
+      "rating": 91,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-jalvarez",
+      "name": "Julián Álvarez",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 92,
+        "fisico": 91,
+        "velocidad": 90,
+        "cabezazo": 88,
+        "pressing": 87,
+        "desmarque": 86
+      },
+      "rating": 89,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-lmartinez",
+      "name": "Lautaro Martínez",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 90,
+        "fisico": 89,
+        "velocidad": 88,
+        "cabezazo": 86,
+        "pressing": 85,
+        "desmarque": 84
+      },
+      "rating": 87,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-amaria",
+      "name": "Ángel Di María",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "ED",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 80,
+        "regate": 79,
+        "centro": 77,
+        "disparo": 75,
+        "desmarque": 74
+      },
+      "rating": 77,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-pdybala",
+      "name": "Paulo Dybala",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 81,
+        "paseFiltrado": 80,
+        "llegada": 78,
+        "regate": 76,
+        "disparo": 75
+      },
+      "rating": 78,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-agarnacho",
+      "name": "Alejandro Garnacho",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "ED",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 85,
+        "regate": 84,
+        "centro": 82,
+        "disparo": 80,
+        "desmarque": 79
+      },
+      "rating": 82,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-talmada",
+      "name": "Thiago Almada",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 78,
+        "vision": 77,
+        "llegada": 75,
+        "recuperacion": 73,
+        "tecnica": 72
+      },
+      "rating": 75,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-grodriguez",
+      "name": "Guido Rodríguez",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 77,
+        "pases": 76,
+        "posicionamiento": 74,
+        "duelos": 72,
+        "resistencia": 71
+      },
+      "rating": 74,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-gpezzella",
+      "name": "Germán Pezzella",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 75,
+        "intercepciones": 74,
+        "velocidad": 72,
+        "pases": 70,
+        "duelos": 69
+      },
+      "rating": 72,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "arg26-vcarboni",
+      "name": "Valentín Carboni",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 79,
+        "paseFiltrado": 78,
+        "llegada": 76,
+        "regate": 74,
+        "disparo": 73
+      },
+      "rating": 76,
+      "country": "Argentina",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "country": "Holanda",
+  "countryCode": "NED",
+  "confederation": "UEFA",
+  "year": 2026,
+  "tournamentId": "wc-2026",
+  "players": [
+    {
+      "id": "ned26-bverbruggen",
+      "name": "Bart Verbruggen",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 84,
+        "manejo": 83,
+        "salidas": 81,
+        "penales": 79,
+        "distribucion": 78
+      },
+      "rating": 81,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-mflekken",
+      "name": "Mark Flekken",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 79,
+        "manejo": 78,
+        "salidas": 76,
+        "penales": 74,
+        "distribucion": 73
+      },
+      "rating": 76,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-ddumfries",
+      "name": "Denzel Dumfries",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 86,
+        "intercepciones": 85,
+        "velocidad": 83,
+        "pases": 81,
+        "duelos": 80
+      },
+      "rating": 83,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-hhartman",
+      "name": "Hartman",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 77,
+        "intercepciones": 76,
+        "velocidad": 74,
+        "pases": 72,
+        "duelos": 71
+      },
+      "rating": 74,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-vdijk",
+      "name": "Virgil van Dijk",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 90,
+        "intercepciones": 89,
+        "velocidad": 87,
+        "pases": 85,
+        "duelos": 84
+      },
+      "rating": 87,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-mligt",
+      "name": "Matthijs de Ligt",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 87,
+        "intercepciones": 86,
+        "velocidad": 84,
+        "pases": 82,
+        "duelos": 81
+      },
+      "rating": 84,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-svrij",
+      "name": "Stefan de Vrij",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 81,
+        "intercepciones": 80,
+        "velocidad": 78,
+        "pases": 76,
+        "duelos": 75
+      },
+      "rating": 78,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-fjong",
+      "name": "Frenkie de Jong",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 89,
+        "vision": 88,
+        "llegada": 86,
+        "recuperacion": 84,
+        "tecnica": 83
+      },
+      "rating": 86,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-tkoopmeiners",
+      "name": "Teun Koopmeiners",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 87,
+        "vision": 86,
+        "llegada": 84,
+        "recuperacion": 82,
+        "tecnica": 81
+      },
+      "rating": 84,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-rgravenberch",
+      "name": "Ryan Gravenberch",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 87,
+        "pases": 86,
+        "posicionamiento": 84,
+        "duelos": 82,
+        "resistencia": 81
+      },
+      "rating": 84,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-treijnders",
+      "name": "Tijjani Reijnders",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 87,
+        "vision": 86,
+        "llegada": 84,
+        "recuperacion": 82,
+        "tecnica": 81
+      },
+      "rating": 84,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-cgakpo",
+      "name": "Cody Gakpo",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 89,
+        "regate": 88,
+        "centro": 86,
+        "disparo": 84,
+        "desmarque": 83
+      },
+      "rating": 86,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-mdepay",
+      "name": "Memphis Depay",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 81,
+        "fisico": 80,
+        "velocidad": 79,
+        "cabezazo": 77,
+        "pressing": 76,
+        "desmarque": 75
+      },
+      "rating": 78,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-wweghorst",
+      "name": "Wout Weghorst",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 79,
+        "fisico": 78,
+        "velocidad": 77,
+        "cabezazo": 75,
+        "pressing": 74,
+        "desmarque": 73
+      },
+      "rating": 76,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-dmalen",
+      "name": "Donyell Malen",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 83,
+        "regate": 82,
+        "centro": 80,
+        "disparo": 78,
+        "desmarque": 77
+      },
+      "rating": 80,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-bbrobbey",
+      "name": "Brian Brobbey",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 83,
+        "fisico": 82,
+        "velocidad": 81,
+        "cabezazo": 79,
+        "pressing": 78,
+        "desmarque": 77
+      },
+      "rating": 80,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-xsimons",
+      "name": "Xavi Simons",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 87,
+        "paseFiltrado": 86,
+        "llegada": 84,
+        "regate": 82,
+        "disparo": 81
+      },
+      "rating": 84,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-jtimber",
+      "name": "Jurriën Timber",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 86,
+        "intercepciones": 85,
+        "velocidad": 83,
+        "pases": 81,
+        "duelos": 80
+      },
+      "rating": 83,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "ned26-nake",
+      "name": "Nathan Aké",
+      "position": "DFC",
+      "altPositions": [
+        {
+          "position": "LI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 81,
+        "velocidad": 79,
+        "pases": 77,
+        "duelos": 76
+      },
+      "rating": 79,
+      "country": "Holanda",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    }
+  ]
+}

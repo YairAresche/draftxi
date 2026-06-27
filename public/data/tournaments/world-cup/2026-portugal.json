@@ -1,0 +1,412 @@
+{
+  "country": "Portugal",
+  "countryCode": "POR",
+  "confederation": "UEFA",
+  "year": 2026,
+  "tournamentId": "wc-2026",
+  "players": [
+    {
+      "id": "por26-dcosta",
+      "name": "Diogo Costa",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 89,
+        "manejo": 88,
+        "salidas": 86,
+        "penales": 84,
+        "distribucion": 83
+      },
+      "rating": 86,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-rpatricio",
+      "name": "Rui Patrício",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 76,
+        "manejo": 75,
+        "salidas": 73,
+        "penales": 71,
+        "distribucion": 70
+      },
+      "rating": 73,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-jcancelo",
+      "name": "João Cancelo",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "LI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 86,
+        "intercepciones": 85,
+        "velocidad": 83,
+        "pases": 81,
+        "duelos": 80
+      },
+      "rating": 83,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-rguerreiro",
+      "name": "Raphael Guerreiro",
+      "position": "LI",
+      "altPositions": [
+        {
+          "position": "MI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 82,
+        "intercepciones": 81,
+        "velocidad": 79,
+        "pases": 77,
+        "duelos": 76
+      },
+      "rating": 79,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-rdias",
+      "name": "Rúben Dias",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 92,
+        "intercepciones": 91,
+        "velocidad": 89,
+        "pases": 87,
+        "duelos": 86
+      },
+      "rating": 89,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-asilva",
+      "name": "António Silva",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 85,
+        "intercepciones": 84,
+        "velocidad": 82,
+        "pases": 80,
+        "duelos": 79
+      },
+      "rating": 82,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-ginacio",
+      "name": "Gonçalo Inácio",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 83,
+        "intercepciones": 82,
+        "velocidad": 80,
+        "pases": 78,
+        "duelos": 77
+      },
+      "rating": 80,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-rneves",
+      "name": "Rúben Neves",
+      "position": "MCD",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "recuperacion": 85,
+        "pases": 84,
+        "posicionamiento": 82,
+        "duelos": 80,
+        "resistencia": 79
+      },
+      "rating": 82,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-vvitinha",
+      "name": "Vitinha",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 88,
+        "vision": 87,
+        "llegada": 85,
+        "recuperacion": 83,
+        "tecnica": 82
+      },
+      "rating": 85,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-bfernandes",
+      "name": "Bruno Fernandes",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "MC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 89,
+        "paseFiltrado": 88,
+        "llegada": 86,
+        "regate": 84,
+        "disparo": 83
+      },
+      "rating": 86,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-bsilva",
+      "name": "Bernardo Silva",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "MCO",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 92,
+        "regate": 91,
+        "centro": 89,
+        "disparo": 87,
+        "desmarque": 86
+      },
+      "rating": 89,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-cronaldo",
+      "name": "Cristiano Ronaldo",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 82,
+        "fisico": 81,
+        "velocidad": 80,
+        "cabezazo": 78,
+        "pressing": 77,
+        "desmarque": 76
+      },
+      "rating": 79,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-rleao",
+      "name": "Rafael Leão",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "DC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 89,
+        "regate": 88,
+        "centro": 86,
+        "disparo": 84,
+        "desmarque": 83
+      },
+      "rating": 86,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-jfelix",
+      "name": "João Félix",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 86,
+        "paseFiltrado": 85,
+        "llegada": 83,
+        "regate": 81,
+        "disparo": 80
+      },
+      "rating": 83,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-gramos",
+      "name": "Gonçalo Ramos",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {
+        "definicion": 87,
+        "fisico": 86,
+        "velocidad": 85,
+        "cabezazo": 83,
+        "pressing": 82,
+        "desmarque": 81
+      },
+      "rating": 84,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-pneto",
+      "name": "Pedro Neto",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "ED",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 86,
+        "regate": 85,
+        "centro": 83,
+        "disparo": 81,
+        "desmarque": 80
+      },
+      "rating": 83,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-fconceicao",
+      "name": "Francisco Conceição",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 83,
+        "regate": 82,
+        "centro": 80,
+        "disparo": 78,
+        "desmarque": 77
+      },
+      "rating": 80,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-mnunes",
+      "name": "Matheus Nunes",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 81,
+        "vision": 80,
+        "llegada": 78,
+        "recuperacion": 76,
+        "tecnica": 75
+      },
+      "rating": 78,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-nmendes",
+      "name": "Nuno Mendes",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 87,
+        "intercepciones": 86,
+        "velocidad": 84,
+        "pases": 82,
+        "duelos": 81
+      },
+      "rating": 84,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "por26-djota",
+      "name": "Diogo Jota",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 84,
+        "fisico": 83,
+        "velocidad": 82,
+        "cabezazo": 80,
+        "pressing": 79,
+        "desmarque": 78
+      },
+      "rating": 81,
+      "country": "Portugal",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    }
+  ]
+}

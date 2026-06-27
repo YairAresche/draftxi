@@ -1,0 +1,390 @@
+{
+  "country": "Francia",
+  "countryCode": "FRA",
+  "confederation": "UEFA",
+  "year": 2026,
+  "tournamentId": "wc-2026",
+  "players": [
+    {
+      "id": "fra26-mmaignan",
+      "name": "Mike Maignan",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 90,
+        "manejo": 89,
+        "salidas": 87,
+        "penales": 85,
+        "distribucion": 84
+      },
+      "rating": 87,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-bsamba",
+      "name": "Brice Samba",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {
+        "reflejos": 77,
+        "manejo": 76,
+        "salidas": 74,
+        "penales": 72,
+        "distribucion": 71
+      },
+      "rating": 74,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-jkounde",
+      "name": "Jules Koundé",
+      "position": "LD",
+      "altPositions": [
+        {
+          "position": "DFC",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "defAerea": 89,
+        "intercepciones": 88,
+        "velocidad": 86,
+        "pases": 84,
+        "duelos": 83
+      },
+      "rating": 86,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-thernandez",
+      "name": "Théo Hernández",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 90,
+        "intercepciones": 89,
+        "velocidad": 87,
+        "pases": 85,
+        "duelos": 84
+      },
+      "rating": 87,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-dupamecano",
+      "name": "Dayot Upamecano",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 86,
+        "intercepciones": 85,
+        "velocidad": 83,
+        "pases": 81,
+        "duelos": 80
+      },
+      "rating": 83,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-ikonate",
+      "name": "Ibrahima Konaté",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 87,
+        "intercepciones": 86,
+        "velocidad": 84,
+        "pases": 82,
+        "duelos": 81
+      },
+      "rating": 84,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-atchouameni",
+      "name": "Aurélien Tchouaméni",
+      "position": "MCD",
+      "altPositions": [],
+      "stats": {
+        "recuperacion": 90,
+        "pases": 89,
+        "posicionamiento": 87,
+        "duelos": 85,
+        "resistencia": 84
+      },
+      "rating": 87,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-ecamavinga",
+      "name": "Eduardo Camavinga",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "LI",
+          "compatibility": "forzado"
+        }
+      ],
+      "stats": {
+        "pases": 87,
+        "vision": 86,
+        "llegada": 84,
+        "recuperacion": 82,
+        "tecnica": 81
+      },
+      "rating": 84,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-arabiot",
+      "name": "Adrien Rabiot",
+      "position": "MC",
+      "altPositions": [
+        {
+          "position": "MCD",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "pases": 83,
+        "vision": 82,
+        "llegada": 80,
+        "recuperacion": 78,
+        "tecnica": 77
+      },
+      "rating": 80,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-agriezmann",
+      "name": "Antoine Griezmann",
+      "position": "MCO",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "vision": 88,
+        "paseFiltrado": 87,
+        "llegada": 85,
+        "regate": 83,
+        "disparo": 82
+      },
+      "rating": 85,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-kmbappe",
+      "name": "Kylian Mbappé",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 98,
+        "fisico": 97,
+        "velocidad": 96,
+        "cabezazo": 94,
+        "pressing": 93,
+        "desmarque": 92
+      },
+      "rating": 95,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-odembele",
+      "name": "Ousmane Dembélé",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 87,
+        "regate": 86,
+        "centro": 84,
+        "disparo": 82,
+        "desmarque": 81
+      },
+      "rating": 84,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-rmuani",
+      "name": "Randal Kolo Muani",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 84,
+        "fisico": 83,
+        "velocidad": 82,
+        "cabezazo": 80,
+        "pressing": 79,
+        "desmarque": 78
+      },
+      "rating": 81,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-mthuram",
+      "name": "Marcus Thuram",
+      "position": "DC",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "definicion": 87,
+        "fisico": 86,
+        "velocidad": 85,
+        "cabezazo": 83,
+        "pressing": 82,
+        "desmarque": 81
+      },
+      "rating": 84,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-wzaireemery",
+      "name": "Warren Zaïre-Emery",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {
+        "pases": 85,
+        "vision": 84,
+        "llegada": 82,
+        "recuperacion": 80,
+        "tecnica": 79
+      },
+      "rating": 82,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-bbarcola",
+      "name": "Bradley Barcola",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "ED",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 85,
+        "regate": 84,
+        "centro": 82,
+        "disparo": 80,
+        "desmarque": 79
+      },
+      "rating": 82,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-wsaliba",
+      "name": "William Saliba",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {
+        "defAerea": 90,
+        "intercepciones": 89,
+        "velocidad": 87,
+        "pases": 85,
+        "duelos": 84
+      },
+      "rating": 87,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-kcoman",
+      "name": "Kingsley Coman",
+      "position": "EI",
+      "altPositions": [
+        {
+          "position": "ED",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 79,
+        "regate": 78,
+        "centro": 76,
+        "disparo": 74,
+        "desmarque": 73
+      },
+      "rating": 76,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    },
+    {
+      "id": "fra26-molise",
+      "name": "Michael Olise",
+      "position": "ED",
+      "altPositions": [
+        {
+          "position": "EI",
+          "compatibility": "puede"
+        }
+      ],
+      "stats": {
+        "velocidad": 86,
+        "regate": 85,
+        "centro": 83,
+        "disparo": 81,
+        "desmarque": 80
+      },
+      "rating": 83,
+      "country": "Francia",
+      "tournamentYear": 2026,
+      "tournamentId": "wc-2026"
+    }
+  ]
+}

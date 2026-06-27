@@ -1,0 +1,218 @@
+{
+  "country": "Portugal",
+  "countryCode": "POR",
+  "confederation": "UEFA",
+  "year": 1998,
+  "tournamentId": "wc-1998",
+  "players": [
+    {
+      "id": "por98vitorb",
+      "name": "Vítor Baía",
+      "position": "POR",
+      "altPositions": [],
+      "stats": {"reflejos": 87, "manejo": 86, "salidas": 84, "penales": 82, "distribucion": 81},
+      "rating": 84,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98abxav",
+      "name": "Abel Xavier",
+      "position": "LD",
+      "altPositions": [{"position": "DFC", "compatibility": "puede"}],
+      "stats": {"defAerea": 79, "intercepciones": 78, "velocidad": 76, "pases": 74, "duelos": 73},
+      "rating": 76,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98secr",
+      "name": "Secretário",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {"defAerea": 77, "intercepciones": 76, "velocidad": 74, "pases": 72, "duelos": 71},
+      "rating": 74,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98helde",
+      "name": "Hélder",
+      "position": "LD",
+      "altPositions": [],
+      "stats": {"defAerea": 78, "intercepciones": 77, "velocidad": 75, "pases": 73, "duelos": 72},
+      "rating": 75,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98fernc",
+      "name": "Fernando Couto",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {"defAerea": 86, "intercepciones": 85, "velocidad": 83, "pases": 81, "duelos": 80},
+      "rating": 83,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98jorgec",
+      "name": "Jorge Costa",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {"defAerea": 82, "intercepciones": 81, "velocidad": 79, "pases": 77, "duelos": 76},
+      "rating": 79,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98filipea",
+      "name": "Filipe Anunciação",
+      "position": "DFC",
+      "altPositions": [],
+      "stats": {"defAerea": 73, "intercepciones": 72, "velocidad": 70, "pases": 68, "duelos": 67},
+      "rating": 70,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98dimas",
+      "name": "Dimas",
+      "position": "LI",
+      "altPositions": [],
+      "stats": {"defAerea": 79, "intercepciones": 78, "velocidad": 76, "pases": 74, "duelos": 73},
+      "rating": 76,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98paulos",
+      "name": "Paulo Sousa",
+      "position": "MCD",
+      "altPositions": [{"position": "MC", "compatibility": "puede"}],
+      "stats": {"recuperacion": 82, "pases": 81, "posicionamiento": 79, "duelos": 77, "resistencia": 76},
+      "rating": 79,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98paulob",
+      "name": "Paulo Bento",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {"pases": 78, "vision": 77, "llegada": 75, "recuperacion": 73, "tecnica": 72},
+      "rating": 75,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98ocean",
+      "name": "Oceano",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {"pases": 76, "vision": 75, "llegada": 73, "recuperacion": 71, "tecnica": 70},
+      "rating": 73,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98jaimes",
+      "name": "Jaime Simões",
+      "position": "MC",
+      "altPositions": [],
+      "stats": {"pases": 74, "vision": 73, "llegada": 71, "recuperacion": 69, "tecnica": 68},
+      "rating": 71,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98sapinto",
+      "name": "Sá Pinto",
+      "position": "MC",
+      "altPositions": [{"position": "MCO", "compatibility": "puede"}],
+      "stats": {"pases": 80, "vision": 79, "llegada": 77, "recuperacion": 75, "tecnica": 74},
+      "rating": 77,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98luisfig",
+      "name": "Luís Figo",
+      "position": "ED",
+      "altPositions": [{"position": "EI", "compatibility": "puede"}],
+      "stats": {"velocidad": 92, "regate": 91, "centro": 89, "disparo": 87, "desmarque": 86},
+      "rating": 89,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98sergioc",
+      "name": "Sérgio Conceição",
+      "position": "ED",
+      "altPositions": [{"position": "MD", "compatibility": "puede"}],
+      "stats": {"velocidad": 83, "regate": 82, "centro": 80, "disparo": 78, "desmarque": 77},
+      "rating": 80,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98joaop",
+      "name": "João Pinto",
+      "position": "ED",
+      "altPositions": [{"position": "DC", "compatibility": "puede"}],
+      "stats": {"velocidad": 82, "regate": 81, "centro": 79, "disparo": 77, "desmarque": 76},
+      "rating": 79,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98capuch",
+      "name": "Capucho",
+      "position": "EI",
+      "altPositions": [{"position": "MI", "compatibility": "puede"}],
+      "stats": {"velocidad": 80, "regate": 79, "centro": 77, "disparo": 75, "desmarque": 74},
+      "rating": 77,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98ruicos",
+      "name": "Rui Costa",
+      "position": "MCO",
+      "altPositions": [{"position": "EI", "compatibility": "puede"}],
+      "stats": {"vision": 91, "paseFiltrado": 90, "llegada": 88, "regate": 86, "disparo": 85},
+      "rating": 88,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    },
+    {
+      "id": "por98nunogo",
+      "name": "Nuno Gomes",
+      "position": "DC",
+      "altPositions": [],
+      "stats": {"definicion": 85, "fisico": 84, "velocidad": 83, "cabezazo": 81, "pressing": 80, "desmarque": 79},
+      "rating": 82,
+      "country": "Portugal",
+      "tournamentYear": 1998,
+      "tournamentId": "wc-1998"
+    }
+  ]
+}
