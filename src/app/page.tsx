@@ -18,7 +18,7 @@ export default function Home() {
   const [injuriesEnabled, setInjuriesEnabled] = useState(false)
   const [chemistryCap, setChemistryCap] = useState(true)
   const [squadPool, setSquadPool] = useState<SquadPool>('all')
-  const [yearFrom, setYearFrom] = useState(1930)
+  const [yearFrom, setYearFrom] = useState(1958)
   const [yearTo, setYearTo] = useState(2026)
 
   function handleStart() {

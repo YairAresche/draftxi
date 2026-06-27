@@ -124,7 +124,7 @@ export default function GamePage() {
     if (filteredCatalog.length === 0 || rolling) return
     setRolling(true)
     const weights = filteredCatalog.map(r =>
-      r.year >= 2002 ? 2.5 : r.year >= 1978 ? 1.0 : r.year >= 1958 ? 0.6 : 0.3
+      r.year >= 2002 ? 1.6 : r.year >= 1978 ? 1.0 : r.year >= 1958 ? 0.7 : 0.4
     )
     const total = weights.reduce((s, w) => s + w, 0)
     let rnd = Math.random() * total
